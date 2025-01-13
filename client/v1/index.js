@@ -1,4 +1,4 @@
-// Invoking strict mode
+  // Invoking strict mode
 // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Strict_mode#invoking_strict_mode
 'use strict';
 
@@ -29,6 +29,8 @@ console.log(MY_FAVORITE_DEALERS[0]);
 // 0. I have 2 favorite lego sets shopping communities stored in MY_FAVORITE_DEALERS variable
 // 1. Create a new variable and assign it the link of the lego set with the highest reduction I can find on these 2 websites
 // 2. Log the variable
+const Highest_reduction = 'https://www.avenuedelabrique.com/lego-movie/70828-le-bus-discotheque/p5212'
+console.log('Biggest reduction:', Highest_reduction);
 
 /**
  * 🧱
@@ -42,16 +44,47 @@ console.log(MY_FAVORITE_DEALERS[0]);
 // 🎯 TODO 2: Number of deals
 // 1. Create a variable and assign it the number of deals
 // 2. Log the variable
+const numberOfDeals = deals.length;
+
+// 2. Log the variable
+console.log('Number of deals:', numberOfDeals);
+
 
 // 🎯 TODO 3: Website name
 // 1. Create a variable and assign it the list of shopping community name only
 // 2. Log the variable
 // 3. Log how many shopping communities we have
+// Sample array of shopping community objects
+
+// 1. Create a variable and assign it the list of shopping community names only
+const communityNames = deals.map(comm => comm.community);
+const uniqueCommunities = [...new Set(communityNames)]
+
+
+// 2. Log the variable
+console.log('Community Names:', uniqueCommunities);
+
+// 3. Log how many shopping communities we have
+console.log('Number of Shopping Communities:', uniqueCommunities.length);
+
 
 // 🎯 TODO 4: Sort by price
 // 1. Create a function to sort the deals by price
 // 2. Create a variable and assign it the list of sets by price from lowest to highest
 // 3. Log the variable
+
+function sortDealsByPrice(dealsArray) {
+  return dealsArray.sort((a, b) => a.price - b.price); // Ascending order by price
+}
+const sortedDeals = sortDealsByPrice(deals);
+const simplifiedDeals = sortedDeals.map(deal => ({
+  title: deal.title,
+  price: deal.price,
+  link: deal.link
+}));
+
+console.log('Deals sorted by price (low to high):', simplifiedDeals);
+console.table(simplifiedDeals);
 
 // 🎯 TODO 5: Sort by date
 // 1. Create a function to sort the deals by date
