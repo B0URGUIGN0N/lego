@@ -86,14 +86,48 @@ const simplifiedDeals = sortedDeals.map(deal => ({
 console.log('Deals sorted by price (low to high):', simplifiedDeals);
 console.table(simplifiedDeals);
 
+
 // 🎯 TODO 5: Sort by date
 // 1. Create a function to sort the deals by date
 // 2. Create a variable and assign it the list of deals by date from recent to old
 // 3. Log the variable
 
+function displaySortedDealsByDate(deals) {
+  // Parse date strings into Date objects for accurate sorting
+  const parsedDeals = deals.map(deal => ({
+    ...deal,
+    parsedDate: new Date(deal.published) // Add a parsed date field
+  }));
+
+  // Sort the data by parsedDate
+  const sortedDeals = parsedDeals.sort((a, b) => a.parsedDate - b.parsedDate);
+
+  // Extract relevant fields for display
+  const simplifiedData = sortedDeals.map(item => ({
+    Title: item.title,
+    'Published Date': item.parsedDate.toUTCString(), // Format the parsed date for display
+    Link: item.link
+  }));
+  //Display the first item
+
+  // Display the data as a console table
+  console.table(simplifiedData);
+}
+
+// Call the function with the data
+displaySortedDealsByDate(deals);
+
+
+
 // 🎯 TODO 6: Filter a specific percentage discount range
 // 1. Filter the list of deals between 50% and 75%
 // 2. Log the list
+
+const filteredDeals = deals.filter(deal => deal.discount >= 50 && deal.discount <= 75);
+
+// 2. Log the list
+console.log('Deals with discounts between 50% and 75%:');
+console.table(filteredDeals);
 
 // 🎯 TODO 7: Average percentage discount
 // 1. Determine the average percentage discount of the deals
