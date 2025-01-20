@@ -175,6 +175,10 @@ Object.entries(communities).forEach(([community, deals]) => {
   console.log(`Number of deals for ${community}:`, deals.length);
 });
 
+// show the deals list for the communities
+console.log('Deals by community:', communities);
+console.table(communities);
+
 
 // 🎯 TODO 9: Sort by price for each community
 // 1. For each community, sort the deals by discount price, from highest to lowest

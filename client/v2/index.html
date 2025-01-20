@@ -19,11 +19,15 @@
         <label for="page-select">Go to page:</label>
         <select name="page" id="page-select"> </select>
       </div>
-      <div id="filters">
-        <span>By best discount</span>
-        <span>By most commented</span>
-        <span>By hot deals</span>
-      </div>
+      <label for="discount-filter">Filter:</label>
+      <select id="discount-filter">
+        <option value="all">All Deals</option>
+        <option value="best-discount">Best Discount (50%+)</option>
+        <option value="most-commented">Most Commented (15+ Comments)</option>
+        <option value="Hot Deals">Hot deals</option>
+      </select>
+
+      
       <div id="sort">
         <label for="sort-select">Sort:</label>
         <select name="sort" id="sort-select">
