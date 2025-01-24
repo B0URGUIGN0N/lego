@@ -334,7 +334,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 });
 
 /**
- * Sort deals by price
+ * Sort deals by price or date 
  * @param {Array} deals - list of deals
  * @param {String} sortOrder - sorting order ('price-asc' or 'price-desc')
  * @return {Array} - sorted deals
@@ -344,6 +344,10 @@ const sortDealsByPrice = (deals, sortOrder) => {
     return deals.sort((a, b) => a.price - b.price);
   } else if (sortOrder === 'price-desc') {
     return deals.sort((a, b) => b.price - a.price);
+  } else if (sortOrder === 'date-asc') {
+    return deals.sort((a,b) => b.published - a.published);
+  } else if (sortOrder === 'date-desc') {
+    return deals.sort((a, b) => a.published - b.published);
   }
   return deals;
 };
