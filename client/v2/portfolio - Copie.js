@@ -256,26 +256,17 @@ const paginateDeals = (deals, page, size) => {
 };
 
 /**
- * Render all deals with applied filters, sorting, and pagination
+ * Render all deals with applied filters and pagination
  */
 const renderDealsWithFilters = () => {
   const selectedFilter = selectDiscountFilter.value;
-  const selectedSortOrder = selectSortPrice.value;
-
-  // Apply filters
   const filteredDeals = filterDealsByDiscount(allDeals, selectedFilter);
-
-  // Apply sorting
-  const sortedDeals = sortDealsByPrice(filteredDeals, selectedSortOrder);
-
-  // Apply pagination
   const paginatedDeals = paginateDeals(
-    sortedDeals,
+    filteredDeals,
     currentPagination.currentPage,
     parseInt(selectShow.value)
   );
 
-  // Render the filtered, sorted, and paginated deals
   render(paginatedDeals, {
     ...currentPagination,
     count: filteredDeals.length,
@@ -319,12 +310,6 @@ selectDiscountFilter.addEventListener('change', () => {
   renderDealsWithFilters();
 });
 
-// Event listener for sorting dropdown
-const selectSortPrice = document.querySelector('#sort-select');
-selectSortPrice.addEventListener('change', () => {
-  renderDealsWithFilters();
-});
-
 // Initialize everything on page load
 document.addEventListener('DOMContentLoaded', async () => {
   allDeals = await fetchAllDeals();
@@ -333,17 +318,3 @@ document.addEventListener('DOMContentLoaded', async () => {
   renderDealsWithFilters();
 });
 
-/**
- * Sort deals by price
- * @param {Array} deals - list of deals
- * @param {String} sortOrder - sorting order ('price-asc' or 'price-desc')
- * @return {Array} - sorted deals
- */
-const sortDealsByPrice = (deals, sortOrder) => {
-  if (sortOrder === 'price-asc') {
-    return deals.sort((a, b) => a.price - b.price);
-  } else if (sortOrder === 'price-desc') {
-    return deals.sort((a, b) => b.price - a.price);
-  }
-  return deals;
-};
