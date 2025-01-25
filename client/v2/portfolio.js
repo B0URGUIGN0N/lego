@@ -30,7 +30,7 @@ let allDeals = []; // All fetched deals
 // instantiate the selectors
 const selectShow = document.querySelector('#show-select');
 const selectPage = document.querySelector('#page-select');
-const selectLegoSetIds = document.querySelector('#lego-set-id-select');
+//const selectLegoSetIds = document.querySelector('#lego-set-id-select');
 const sectionDeals= document.querySelector('#deals');
 const spanNbDeals = document.querySelector('#nbDeals');
 
@@ -139,6 +139,38 @@ const renderDeals = deals => {
   fragment.appendChild(div);
   sectionDeals.innerHTML = '<h2>Deals</h2>';
   sectionDeals.appendChild(fragment);
+};
+
+/**
+ * Render sales for a given set ID
+ * @param {Array} sales - List of sales
+ */
+const renderSales = (sales) => {
+  const sectionSales = document.querySelector('#sales'); // Ensure there's a section in the HTML for sales
+  if (!sectionSales) {
+    console.error('Sales section not found in the HTML.');
+    return;
+  }
+
+  const fragment = document.createDocumentFragment();
+  const div = document.createElement('div');
+  const template = sales
+    .map(sale => {
+      return `
+      <div class="sale" id=${sale.uuid}>
+        <span><strong>Sale ID:</strong> ${sale.id}</span>
+        <a href="${sale.link}" target="_blank">${sale.title}</a>
+        <span><strong>Price:</strong> $${sale.price}</span>
+        <span><strong>Date:</strong> ${new Date(sale.published * 1000).toLocaleDateString()}</span>
+      </div>
+    `;
+    })
+    .join('');
+
+  div.innerHTML = template;
+  fragment.appendChild(div);
+  sectionSales.innerHTML = '<h2>Sales</h2>';
+  sectionSales.appendChild(fragment);
 };
 
 
@@ -351,3 +383,36 @@ const sortDealsByPrice = (deals, sortOrder) => {
   }
   return deals;
 };
+
+/**
+ * Fetch Vinted sales for a specific set ID
+ * @param {String} setId - The Lego set ID
+ * @return {Array} - List of sales
+ */
+const fetchSalesForSetId = async (setId) => {
+  try {
+    const response = await fetch(
+      `https://lego-api-blue.vercel.app/sales?id=${setId}`
+    );
+    const body = await response.json();
+
+    if (!body.success) {
+      console.error(`Error fetching sales for set ID ${setId}:`, body);
+      return [];
+    }
+
+    return body.data || [];
+  } catch (error) {
+    console.error(`Error fetching sales for set ID ${setId}:`, error);
+    return [];
+  }
+};
+
+// Handle changes in the Lego set ID selector
+const selectLegoSetIds = document.querySelector('#lego-set-id-select');
+selectLegoSetIds.addEventListener('change', async (event) => {
+  const selectedSetId = event.target.value; // Get the selected set ID
+  const sales = await fetchSalesForSetId(selectedSetId); // Fetch sales for the selected set ID
+
+  renderSales(sales); // Render the fetched sales
+});
