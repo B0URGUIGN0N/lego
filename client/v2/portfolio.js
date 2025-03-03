@@ -407,12 +407,3 @@ const fetchSalesForSetId = async (setId) => {
     return [];
   }
 };
-
-// Handle changes in the Lego set ID selector
-const selectLegoSetIds = document.querySelector('#lego-set-id-select');
-selectLegoSetIds.addEventListener('change', async (event) => {
-  const selectedSetId = event.target.value; // Get the selected set ID
-  const sales = await fetchSalesForSetId(selectedSetId); // Fetch sales for the selected set ID
-
-  renderSales(sales); // Render the fetched sales
-});
