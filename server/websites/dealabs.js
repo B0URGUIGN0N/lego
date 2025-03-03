@@ -60,9 +60,17 @@ module.exports.scrape = async url => {
           }
         }
 
-        // 🚨 Add this line to skip deals with missing data:
+        // 🚨 Skip deals with missing data
         if (price === null || previousPrice === null || discount === null) {
           return null;
+        }
+
+        // Use a regular expression to find a string of 5 numbers within the title.
+        let setId = "Error";
+        const regex = /\b\d{5}\b/;
+        const match = title && title.match(regex);
+        if (match && match[0]) {
+          setId = match[0];
         }
 
         return {
@@ -71,6 +79,7 @@ module.exports.scrape = async url => {
           price,
           previousPrice,
           discount,
+          setId,  // add the new property here
         };
       })
       .get() // Convert Cheerio collection to an array
