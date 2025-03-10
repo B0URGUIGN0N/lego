@@ -1,0 +1,3058 @@
+{
+  "items": [
+    {
+      "id": 5747763207,
+      "title": "Lego 75405 Starwars",
+      "price": {
+        "amount": "45.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5747763207-lego-75405-starwars",
+      "user": {
+        "id": 40278324,
+        "login": "kandyto99",
+        "profile_url": "https://www.vinted.fr/member/40278324-kandyto99",
+        "photo": {
+          "id": 110339557,
+          "width": 600,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/03_0103e_RUJgmKuAQAp4qdc4z1nKWrye/f800/1665276572.jpeg?s=565546cbc498428d2acb6a7bda70a83f91bc1dea",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/03_0103e_RUJgmKuAQAp4qdc4z1nKWrye/310x310/1665276572.jpeg?s=8ec0d408efadb4fc2f26261af5b3751060b2aca3",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/03_0103e_RUJgmKuAQAp4qdc4z1nKWrye/150x150/1665276572.jpeg?s=084e10615d5b664d90b1c2f865d40f0e5a4c3aae",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/03_0103e_RUJgmKuAQAp4qdc4z1nKWrye/100x100/1665276572.jpeg?s=41d627a8b1afad4289ecf1bc2522a0fe9eda5681",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/03_0103e_RUJgmKuAQAp4qdc4z1nKWrye/50x50/1665276572.jpeg?s=f5525f2d695a407ddf9b243d7d4bbd14ab2131fe",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/03_0103e_RUJgmKuAQAp4qdc4z1nKWrye/20x20/1665276572.jpeg?s=96ce2ae5621e8306452b1325bf53b9e408c05c61",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "03_0103e_RUJgmKuAQAp4qdc4z1nKWrye",
+            "timestamp": 1665276572,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/03_0103e_RUJgmKuAQAp4qdc4z1nKWrye/1665276572.jpeg?s=a2c7a4cecf4dcd8160c6917b00e9a6138cd92965",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5747763207-lego-75405-starwars",
+      "promoted": false,
+      "photo": {
+        "id": 23286227155,
+        "image_no": 1,
+        "width": 800,
+        "height": 602,
+        "dominant_color": "#35435C",
+        "dominant_color_opaque": "#C2C7CE",
+        "url": "https://images1.vinted.net/t/04_01585_7LiyUQWWw3BMJFJmvaZ4j6Qb/f800/1738434408.jpeg?s=6f65587fd4d56e7fead4687588a378bfd99d9e0b",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_01585_7LiyUQWWw3BMJFJmvaZ4j6Qb/70x100/1738434408.jpeg?s=df91eac923078039c8e69115a0eb35e6ae9a6d86",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_01585_7LiyUQWWw3BMJFJmvaZ4j6Qb/150x210/1738434408.jpeg?s=3ae2aef3690657d1c011f14a77f16c2b8a0fb0d9",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_01585_7LiyUQWWw3BMJFJmvaZ4j6Qb/310x430/1738434408.jpeg?s=13bfaafc8567845615f4a9d2e864a7ec511231a0",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_01585_7LiyUQWWw3BMJFJmvaZ4j6Qb/f800/1738434408.jpeg?s=6f65587fd4d56e7fead4687588a378bfd99d9e0b",
+            "width": 428,
+            "height": 322,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_01585_7LiyUQWWw3BMJFJmvaZ4j6Qb/f800/1738434408.jpeg?s=6f65587fd4d56e7fead4687588a378bfd99d9e0b",
+            "width": 624,
+            "height": 469,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_01585_7LiyUQWWw3BMJFJmvaZ4j6Qb/f800/1738434408.jpeg?s=6f65587fd4d56e7fead4687588a378bfd99d9e0b",
+            "width": 364,
+            "height": 274,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_01585_7LiyUQWWw3BMJFJmvaZ4j6Qb",
+          "timestamp": 1738434408,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_01585_7LiyUQWWw3BMJFJmvaZ4j6Qb/1738434408.jpeg?s=83a966ee8c1c4f759276f67c5fbeb5f45f0ad7ef",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 16,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "2.95",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "47.95",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego 75405 Starwars, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 45,00 €, 47,95 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 5.18720531463623,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5915834067,
+      "title": "Lego 75405",
+      "price": {
+        "amount": "50.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5915834067-lego-75405",
+      "user": {
+        "id": 49802937,
+        "login": "dofus777",
+        "profile_url": "https://www.vinted.fr/member/49802937-dofus777",
+        "photo": {
+          "id": 226954560,
+          "width": 370,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/01_01d81_WUYJTR9SgNhEFTTYvgMK1Ueg/f800/1737324446.jpeg?s=a2bbc2d483538dbc992aa61ef33497e0550901c2",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/01_01d81_WUYJTR9SgNhEFTTYvgMK1Ueg/310x310/1737324446.jpeg?s=191b4af08803e0bdf08cd2781962fc5573a70fc3",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/01_01d81_WUYJTR9SgNhEFTTYvgMK1Ueg/150x150/1737324446.jpeg?s=39f48452ebed1221c0ed8f5a3531ee95d91c4ab6",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/01_01d81_WUYJTR9SgNhEFTTYvgMK1Ueg/100x100/1737324446.jpeg?s=e49253b9bb49043faf9fc2b5c3215dcddb3b7224",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/01_01d81_WUYJTR9SgNhEFTTYvgMK1Ueg/50x50/1737324446.jpeg?s=626c435e9ca950c3b8ea8bc8cf4a806a51f36dd9",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/01_01d81_WUYJTR9SgNhEFTTYvgMK1Ueg/20x20/1737324446.jpeg?s=59745a6be0b05724169adcd3dc3e578d4681662b",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "01_01d81_WUYJTR9SgNhEFTTYvgMK1Ueg",
+            "timestamp": 1737324446,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/01_01d81_WUYJTR9SgNhEFTTYvgMK1Ueg/1737324446.jpeg?s=414e344da998b0e30ab823336836d3b32328d3bd",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5915834067-lego-75405",
+      "promoted": false,
+      "photo": {
+        "id": 23983926082,
+        "image_no": 1,
+        "width": 800,
+        "height": 611,
+        "dominant_color": "#464944",
+        "dominant_color_opaque": "#C8C8C7",
+        "url": "https://images1.vinted.net/t/04_01d56_Za42SPupLsmrApn14YU1JWKh/f800/1741129778.jpeg?s=9c0718a59e6b5f8c945fd6f554d8d2cd96066ba1",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_01d56_Za42SPupLsmrApn14YU1JWKh/70x100/1741129778.jpeg?s=85a826306d90bbc69a44f54901a392620a1c5427",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_01d56_Za42SPupLsmrApn14YU1JWKh/150x210/1741129778.jpeg?s=c1b5e0f1c9df53b24994e4c8c4a402d0b8f83fa0",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_01d56_Za42SPupLsmrApn14YU1JWKh/310x430/1741129778.jpeg?s=81a8aa80682fe01cf1aeb2e1aa52aca041f9ab07",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_01d56_Za42SPupLsmrApn14YU1JWKh/f800/1741129778.jpeg?s=9c0718a59e6b5f8c945fd6f554d8d2cd96066ba1",
+            "width": 428,
+            "height": 327,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_01d56_Za42SPupLsmrApn14YU1JWKh/f800/1741129778.jpeg?s=9c0718a59e6b5f8c945fd6f554d8d2cd96066ba1",
+            "width": 624,
+            "height": 477,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_01d56_Za42SPupLsmrApn14YU1JWKh/f800/1741129778.jpeg?s=9c0718a59e6b5f8c945fd6f554d8d2cd96066ba1",
+            "width": 364,
+            "height": 278,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_01d56_Za42SPupLsmrApn14YU1JWKh",
+          "timestamp": 1741129778,
+          "orientation": 0
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_01d56_Za42SPupLsmrApn14YU1JWKh/1741129778.jpeg?s=340e1d8dfad341abe32f6fa703319311c6fbb920",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 5,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "3.2",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "53.2",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego 75405, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 50,00 €, 53,20 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 4.771947860717773,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5907681437,
+      "title": "lego star wars MEGA bundle",
+      "price": {
+        "amount": "485.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5907681437-lego-star-wars-mega-bundle",
+      "user": {
+        "id": 228434419,
+        "login": "lorenzosapone",
+        "profile_url": "https://www.vinted.fr/member/228434419-lorenzosapone",
+        "photo": {
+          "id": 207833606,
+          "width": 96,
+          "height": 96,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/03_01980_1vCNFVkUxKEzebC8RCTuFcaQ/f800/1725995215.jpeg?s=a28e9818330fb6ff77b8955eb4e177128d50e665",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/03_01980_1vCNFVkUxKEzebC8RCTuFcaQ/310x310/1725995215.jpeg?s=df6f1cb9eb91dc2dbc7e829230fce3a2211d9266",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/03_01980_1vCNFVkUxKEzebC8RCTuFcaQ/150x150/1725995215.jpeg?s=044ffaefaccf890fc5b6533c89a785478c3cce18",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/03_01980_1vCNFVkUxKEzebC8RCTuFcaQ/100x100/1725995215.jpeg?s=bd898c9b0bc5a6467a8ba70a282e0e2146a20be8",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/03_01980_1vCNFVkUxKEzebC8RCTuFcaQ/50x50/1725995215.jpeg?s=867880e2c82de120bb953a5ba47b1a62395a66ba",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/03_01980_1vCNFVkUxKEzebC8RCTuFcaQ/20x20/1725995215.jpeg?s=6f00fc7bfd76c8f3d38825b9784c9abb13281452",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "03_01980_1vCNFVkUxKEzebC8RCTuFcaQ",
+            "timestamp": 1725995215,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/03_01980_1vCNFVkUxKEzebC8RCTuFcaQ/1725995215.jpeg?s=5a26aa74c023c754f1dcaa43839e64bb9f2b482a",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5907681437-lego-star-wars-mega-bundle",
+      "promoted": false,
+      "photo": {
+        "id": 23949963586,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#675C54",
+        "dominant_color_opaque": "#D1CECC",
+        "url": "https://images1.vinted.net/t/03_0104e_zMp4af7wMJx6xmB9LNkvXARJ/f800/1741008323.jpeg?s=d380034596ec10e14bf9ec97675f8513b2dd0a86",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/03_0104e_zMp4af7wMJx6xmB9LNkvXARJ/70x100/1741008323.jpeg?s=07dce0d979f4e3626a4b066a843ce88d0a06577d",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/03_0104e_zMp4af7wMJx6xmB9LNkvXARJ/150x210/1741008323.jpeg?s=c5f952c75d43b1796527e253217a6c686ccd1db6",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/03_0104e_zMp4af7wMJx6xmB9LNkvXARJ/310x430/1741008323.jpeg?s=02fafe7137b8610a296739896aa4c6730069e22a",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/03_0104e_zMp4af7wMJx6xmB9LNkvXARJ/f800/1741008323.jpeg?s=d380034596ec10e14bf9ec97675f8513b2dd0a86",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/03_0104e_zMp4af7wMJx6xmB9LNkvXARJ/f800/1741008323.jpeg?s=d380034596ec10e14bf9ec97675f8513b2dd0a86",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/03_0104e_zMp4af7wMJx6xmB9LNkvXARJ/f800/1741008323.jpeg?s=d380034596ec10e14bf9ec97675f8513b2dd0a86",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "03_0104e_zMp4af7wMJx6xmB9LNkvXARJ",
+          "timestamp": 1741008323,
+          "orientation": 0
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/03_0104e_zMp4af7wMJx6xmB9LNkvXARJ/1741008323.jpeg?s=fde23b085a9ccdd0bdc15a111fe66aa9c0e0dac8",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 13,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "24.95",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "509.95",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf sans étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "lego star wars MEGA bundle, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 485,00 €, 509,95 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 4.650822639465332,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5917922461,
+      "title": "lego star wars sigillati",
+      "price": {
+        "amount": "250.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5917922461-lego-star-wars-sigillati",
+      "user": {
+        "id": 228434419,
+        "login": "lorenzosapone",
+        "profile_url": "https://www.vinted.fr/member/228434419-lorenzosapone",
+        "photo": {
+          "id": 207833606,
+          "width": 96,
+          "height": 96,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/03_01980_1vCNFVkUxKEzebC8RCTuFcaQ/f800/1725995215.jpeg?s=a28e9818330fb6ff77b8955eb4e177128d50e665",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/03_01980_1vCNFVkUxKEzebC8RCTuFcaQ/310x310/1725995215.jpeg?s=df6f1cb9eb91dc2dbc7e829230fce3a2211d9266",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/03_01980_1vCNFVkUxKEzebC8RCTuFcaQ/150x150/1725995215.jpeg?s=044ffaefaccf890fc5b6533c89a785478c3cce18",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/03_01980_1vCNFVkUxKEzebC8RCTuFcaQ/100x100/1725995215.jpeg?s=bd898c9b0bc5a6467a8ba70a282e0e2146a20be8",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/03_01980_1vCNFVkUxKEzebC8RCTuFcaQ/50x50/1725995215.jpeg?s=867880e2c82de120bb953a5ba47b1a62395a66ba",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/03_01980_1vCNFVkUxKEzebC8RCTuFcaQ/20x20/1725995215.jpeg?s=6f00fc7bfd76c8f3d38825b9784c9abb13281452",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "03_01980_1vCNFVkUxKEzebC8RCTuFcaQ",
+            "timestamp": 1725995215,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/03_01980_1vCNFVkUxKEzebC8RCTuFcaQ/1725995215.jpeg?s=5a26aa74c023c754f1dcaa43839e64bb9f2b482a",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5917922461-lego-star-wars-sigillati",
+      "promoted": false,
+      "photo": {
+        "id": 23992612511,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#6F6862",
+        "dominant_color_opaque": "#D4D2D0",
+        "url": "https://images1.vinted.net/t/04_006d6_DR9fw3XZ9WsVSkfWga6N5SSE/f800/1741181017.jpeg?s=90b309414f335884bb02f5c768053f5a29438e6e",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_006d6_DR9fw3XZ9WsVSkfWga6N5SSE/70x100/1741181017.jpeg?s=f495082e25114255247a953317ae130150a2c128",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_006d6_DR9fw3XZ9WsVSkfWga6N5SSE/150x210/1741181017.jpeg?s=1619a98b53552fcfb4791bf375b5f673bf427990",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_006d6_DR9fw3XZ9WsVSkfWga6N5SSE/310x430/1741181017.jpeg?s=371899ab34c1c72d6be76755775b260a7b6e3dc4",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_006d6_DR9fw3XZ9WsVSkfWga6N5SSE/f800/1741181017.jpeg?s=90b309414f335884bb02f5c768053f5a29438e6e",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_006d6_DR9fw3XZ9WsVSkfWga6N5SSE/f800/1741181017.jpeg?s=90b309414f335884bb02f5c768053f5a29438e6e",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_006d6_DR9fw3XZ9WsVSkfWga6N5SSE/f800/1741181017.jpeg?s=90b309414f335884bb02f5c768053f5a29438e6e",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_006d6_DR9fw3XZ9WsVSkfWga6N5SSE",
+          "timestamp": 1741181017,
+          "orientation": 0
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_006d6_DR9fw3XZ9WsVSkfWga6N5SSE/1741181017.jpeg?s=f98540146008ea95c7db39ac8775f72f39fda5c0",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 5,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "13.2",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "263.2",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf sans étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "lego star wars sigillati, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 250,00 €, 263,20 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 3.805208683013916,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5683641014,
+      "title": "Lego Star Wars 75405 neuf",
+      "price": {
+        "amount": "48.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5683641014-lego-star-wars-75405-neuf",
+      "user": {
+        "id": 15912656,
+        "login": "elooo38",
+        "profile_url": "https://www.vinted.fr/member/15912656-elooo38",
+        "photo": {
+          "id": 189813966,
+          "width": 612,
+          "height": 612,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_022db_ikWwJRgw32LEmC2SDuYMtS9x/f800/1713901921.jpeg?s=71ab6030afacc85cfb61691eff0eb3ce499e8431",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_022db_ikWwJRgw32LEmC2SDuYMtS9x/310x310/1713901921.jpeg?s=15e7967dcb38636c57d1878f526f27ba75185eb6",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_022db_ikWwJRgw32LEmC2SDuYMtS9x/150x150/1713901921.jpeg?s=71e199e1f7fb6226baa1968f02197d493ba8b240",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_022db_ikWwJRgw32LEmC2SDuYMtS9x/100x100/1713901921.jpeg?s=dd4a73eff78e5c3475f317ca3dfc20fa35e94cb5",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_022db_ikWwJRgw32LEmC2SDuYMtS9x/50x50/1713901921.jpeg?s=a0035690bf1d1bc2d3b936f1a8765f27cd2aaf2d",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_022db_ikWwJRgw32LEmC2SDuYMtS9x/20x20/1713901921.jpeg?s=8e313db2d2d1241883b1220148ff05615e2346c6",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_022db_ikWwJRgw32LEmC2SDuYMtS9x",
+            "timestamp": 1713901921,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_022db_ikWwJRgw32LEmC2SDuYMtS9x/1713901921.jpeg?s=2b7565302c6a9a925ed6ebe0d716c59b8a5b9deb",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5683641014-lego-star-wars-75405-neuf",
+      "promoted": false,
+      "photo": {
+        "id": 23650071057,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#2B3232",
+        "dominant_color_opaque": "#BFC2C2",
+        "url": "https://images1.vinted.net/t/04_012b3_55VLMaHDhhDm11zmNQAdmjAA/f800/1739867132.jpeg?s=913bd1f8409894dfe9bde88eae7e024c3e621edd",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_012b3_55VLMaHDhhDm11zmNQAdmjAA/70x100/1739867132.jpeg?s=7a21d84740dcaaaff4ad5d85499840997a2f9c68",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_012b3_55VLMaHDhhDm11zmNQAdmjAA/150x210/1739867132.jpeg?s=fc0bb873e0be0c663d6d0591dfda22f53a58eb7f",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_012b3_55VLMaHDhhDm11zmNQAdmjAA/310x430/1739867132.jpeg?s=d1bff1d46d01f7cf0402d64cf7d99b5f02a5de92",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_012b3_55VLMaHDhhDm11zmNQAdmjAA/f800/1739867132.jpeg?s=913bd1f8409894dfe9bde88eae7e024c3e621edd",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_012b3_55VLMaHDhhDm11zmNQAdmjAA/f800/1739867132.jpeg?s=913bd1f8409894dfe9bde88eae7e024c3e621edd",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_012b3_55VLMaHDhhDm11zmNQAdmjAA/f800/1739867132.jpeg?s=913bd1f8409894dfe9bde88eae7e024c3e621edd",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_012b3_55VLMaHDhhDm11zmNQAdmjAA",
+          "timestamp": 1739867132,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_012b3_55VLMaHDhhDm11zmNQAdmjAA/1739867132.jpeg?s=e31f05f005c95aedd96af4920ee9c4ebfde80548",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 35,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "3.1",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "51.1",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego Star Wars 75405 neuf, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 48,00 €, 51,10 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 3.712423324584961,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5862649352,
+      "title": "Lego star wars 75405",
+      "price": {
+        "amount": "55.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5862649352-lego-star-wars-75405",
+      "user": {
+        "id": 30945726,
+        "login": "koreas93",
+        "profile_url": "https://www.vinted.fr/member/30945726-koreas93",
+        "photo": null,
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5862649352-lego-star-wars-75405",
+      "promoted": false,
+      "photo": {
+        "id": 23762700807,
+        "image_no": 1,
+        "width": 800,
+        "height": 600,
+        "dominant_color": "#304A65",
+        "dominant_color_opaque": "#C1C9D1",
+        "url": "https://images1.vinted.net/t/04_021e1_7NLyRkiYENmYBoY2xrt3xiAR/f800/1740306442.jpeg?s=d96cd9d9bc69f8c21f81b90c0c7b9643d9371c55",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_021e1_7NLyRkiYENmYBoY2xrt3xiAR/70x100/1740306442.jpeg?s=4ac1fb2439548972a84414bb5cd72f51074c25f8",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_021e1_7NLyRkiYENmYBoY2xrt3xiAR/150x210/1740306442.jpeg?s=240f2f7fb3b050f599a14311340912a93c259df6",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_021e1_7NLyRkiYENmYBoY2xrt3xiAR/310x430/1740306442.jpeg?s=446375bcc91e6f7cb9361418d7c15848963d4463",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_021e1_7NLyRkiYENmYBoY2xrt3xiAR/f800/1740306442.jpeg?s=d96cd9d9bc69f8c21f81b90c0c7b9643d9371c55",
+            "width": 428,
+            "height": 321,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_021e1_7NLyRkiYENmYBoY2xrt3xiAR/f800/1740306442.jpeg?s=d96cd9d9bc69f8c21f81b90c0c7b9643d9371c55",
+            "width": 624,
+            "height": 468,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_021e1_7NLyRkiYENmYBoY2xrt3xiAR/f800/1740306442.jpeg?s=d96cd9d9bc69f8c21f81b90c0c7b9643d9371c55",
+            "width": 364,
+            "height": 273,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_021e1_7NLyRkiYENmYBoY2xrt3xiAR",
+          "timestamp": 1740306442,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_021e1_7NLyRkiYENmYBoY2xrt3xiAR/1740306442.jpeg?s=e984e24036e7636051e490b18a1f2c8d036e2cdc",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 4,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "3.45",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "58.45",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf sans étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego star wars 75405, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 55,00 €, 58,45 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 3.254871606826782,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5914970656,
+      "title": "Lego Star Wars Home One Starcruiser Referencia:75405",
+      "price": {
+        "amount": "55.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5914970656-lego-star-wars-home-one-starcruiser-referencia75405",
+      "user": {
+        "id": 55261957,
+        "login": "ofa20",
+        "profile_url": "https://www.vinted.fr/member/55261957-ofa20",
+        "photo": {
+          "id": 51706359,
+          "width": 512,
+          "height": 512,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_0051d_5jXJwfvXuDTURnsB5dQgcmxN/f800/1615553088.jpeg?s=45aefa369c8720aba726491e5411e890e459868e",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_0051d_5jXJwfvXuDTURnsB5dQgcmxN/310x310/1615553088.jpeg?s=349967b0bfd256106551b68c8279d852c7b035ac",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_0051d_5jXJwfvXuDTURnsB5dQgcmxN/150x150/1615553088.jpeg?s=6da0d1a15c5a35a29963cea28a23b935dffe6d07",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_0051d_5jXJwfvXuDTURnsB5dQgcmxN/100x100/1615553088.jpeg?s=7dceae307d5b3be7b64998d839672d393cb2ab23",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_0051d_5jXJwfvXuDTURnsB5dQgcmxN/50x50/1615553088.jpeg?s=2a376fe1f5fc94e2dffade245f2c13d13ba5545b",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_0051d_5jXJwfvXuDTURnsB5dQgcmxN/20x20/1615553088.jpeg?s=35866e22fcd0f769ed271f94133492b9d40dd618",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_0051d_5jXJwfvXuDTURnsB5dQgcmxN",
+            "timestamp": 1615553088,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_0051d_5jXJwfvXuDTURnsB5dQgcmxN/1615553088.jpeg?s=ac05268d8afd3a64cb84816338e1fbef66de30b3",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5914970656-lego-star-wars-home-one-starcruiser-referencia75405",
+      "promoted": false,
+      "photo": {
+        "id": 23980358072,
+        "image_no": 1,
+        "width": 800,
+        "height": 600,
+        "dominant_color": "#554233",
+        "dominant_color_opaque": "#CCC6C2",
+        "url": "https://images1.vinted.net/t/04_0148b_K7A4jp28VSTkzMhuQ8jF7Qsh/f800/1741115734.jpeg?s=483454d36cca84a98d06da9cc3b921ff33d1dc99",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_0148b_K7A4jp28VSTkzMhuQ8jF7Qsh/70x100/1741115734.jpeg?s=0a2df91e1fb707e47e6b936b3d1bed8ef4255d0d",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_0148b_K7A4jp28VSTkzMhuQ8jF7Qsh/150x210/1741115734.jpeg?s=169d170e8b09101df5c098fb4035e80301af2b3e",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_0148b_K7A4jp28VSTkzMhuQ8jF7Qsh/310x430/1741115734.jpeg?s=c75ead4f142774dd599cca444a0e5e4dd4f49da8",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_0148b_K7A4jp28VSTkzMhuQ8jF7Qsh/f800/1741115734.jpeg?s=483454d36cca84a98d06da9cc3b921ff33d1dc99",
+            "width": 428,
+            "height": 321,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_0148b_K7A4jp28VSTkzMhuQ8jF7Qsh/f800/1741115734.jpeg?s=483454d36cca84a98d06da9cc3b921ff33d1dc99",
+            "width": 624,
+            "height": 468,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_0148b_K7A4jp28VSTkzMhuQ8jF7Qsh/f800/1741115734.jpeg?s=483454d36cca84a98d06da9cc3b921ff33d1dc99",
+            "width": 364,
+            "height": 273,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_0148b_K7A4jp28VSTkzMhuQ8jF7Qsh",
+          "timestamp": 1741115734,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_0148b_K7A4jp28VSTkzMhuQ8jF7Qsh/1741115734.jpeg?s=a005fdc4301934cbd54e7abfc0c99d462afc46d8",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 6,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "3.45",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "58.45",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego Star Wars Home One Starcruiser Referencia:75405, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 55,00 €, 58,45 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 3.154877662658691,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5802017196,
+      "title": "Set LEGO Star Wars",
+      "price": {
+        "amount": "48.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5802017196-set-lego-star-wars",
+      "user": {
+        "id": 17554782,
+        "login": "mateo5698",
+        "profile_url": "https://www.vinted.fr/member/17554782-mateo5698",
+        "photo": {
+          "id": 216466071,
+          "width": 600,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/03_01456_7P2WBTdzRW5EJWzTiSXu4GWH/f800/1730564693.jpeg?s=cec4331c09a3119e8bd60424fedd529af5c5679a",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/03_01456_7P2WBTdzRW5EJWzTiSXu4GWH/310x310/1730564693.jpeg?s=d5822b8b8b486ad08955f4d0c18ec76126c9c43b",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/03_01456_7P2WBTdzRW5EJWzTiSXu4GWH/150x150/1730564693.jpeg?s=84d7d447ca1344438e06f74ba41fbe6c7b8924bc",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/03_01456_7P2WBTdzRW5EJWzTiSXu4GWH/100x100/1730564693.jpeg?s=909ae7589e153cc84ab9363dd2c8a3d1ddcbea01",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/03_01456_7P2WBTdzRW5EJWzTiSXu4GWH/50x50/1730564693.jpeg?s=6f588625abe71c47606631aa6ffc504d99ac1c5d",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/03_01456_7P2WBTdzRW5EJWzTiSXu4GWH/20x20/1730564693.jpeg?s=e3e1538a40d9e965b91d7a56fce90fab85d5bd81",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "03_01456_7P2WBTdzRW5EJWzTiSXu4GWH",
+            "timestamp": 1730564693,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/03_01456_7P2WBTdzRW5EJWzTiSXu4GWH/1730564693.jpeg?s=474b7fd84b7b7239c0febbe78daace0a22319675",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5802017196-set-lego-star-wars",
+      "promoted": false,
+      "photo": {
+        "id": 23510794758,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#655D4C",
+        "dominant_color_opaque": "#D1CEC9",
+        "url": "https://images1.vinted.net/t/02_00ccb_Ca313KEcjkJ6RpKurAQVxCkH/f800/1739294249.jpeg?s=45a52d38de3d292da4d740fa328f93cd4cdb31df",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/02_00ccb_Ca313KEcjkJ6RpKurAQVxCkH/70x100/1739294249.jpeg?s=2c63ccdb8f347f4579d295473aed933435b4be09",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/02_00ccb_Ca313KEcjkJ6RpKurAQVxCkH/150x210/1739294249.jpeg?s=c7d8d20f167f475e79c7bf30f530366c3e156eed",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/02_00ccb_Ca313KEcjkJ6RpKurAQVxCkH/310x430/1739294249.jpeg?s=bcfdd81d73811b55133ec51f671c2e16fd714e17",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/02_00ccb_Ca313KEcjkJ6RpKurAQVxCkH/f800/1739294249.jpeg?s=45a52d38de3d292da4d740fa328f93cd4cdb31df",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/02_00ccb_Ca313KEcjkJ6RpKurAQVxCkH/f800/1739294249.jpeg?s=45a52d38de3d292da4d740fa328f93cd4cdb31df",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/02_00ccb_Ca313KEcjkJ6RpKurAQVxCkH/f800/1739294249.jpeg?s=45a52d38de3d292da4d740fa328f93cd4cdb31df",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "02_00ccb_Ca313KEcjkJ6RpKurAQVxCkH",
+          "timestamp": 1739294249,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/02_00ccb_Ca313KEcjkJ6RpKurAQVxCkH/1739294249.jpeg?s=f79f43a184104d21cf31ee1eafba4b9cecabe6fe",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 27,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "3.1",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "51.1",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "M",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "M",
+        "accessibility_label": "Set LEGO Star Wars, marque: LEGO, état: Neuf avec étiquette, taille: M, 48,00 €, 51,10 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 3.148937463760376,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5925482519,
+      "title": "Lego 75405",
+      "price": {
+        "amount": "49.95",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5925482519-lego-75405",
+      "user": {
+        "id": 238760275,
+        "login": "the.dark.1",
+        "profile_url": "https://www.vinted.fr/member/238760275-thedark1",
+        "photo": {
+          "id": 233780951,
+          "width": 600,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/01_010b9_8winKDc2d8ahJodfDiwFfmMA/f800/1741476679.jpeg?s=b8f980a0eb3df98d3c22f5f3e63b8c91f8f37659",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/01_010b9_8winKDc2d8ahJodfDiwFfmMA/310x310/1741476679.jpeg?s=645e3e69762b2a0f2f02bbb59060af9e3ffce316",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/01_010b9_8winKDc2d8ahJodfDiwFfmMA/150x150/1741476679.jpeg?s=44e27f17006e9c234a51492c1226da1b879a1369",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/01_010b9_8winKDc2d8ahJodfDiwFfmMA/100x100/1741476679.jpeg?s=4d42a524b1d77b36ef2629e265f5079af924ea10",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/01_010b9_8winKDc2d8ahJodfDiwFfmMA/50x50/1741476679.jpeg?s=2fd4e028280371f3e19a554c91daef66268cbafb",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/01_010b9_8winKDc2d8ahJodfDiwFfmMA/20x20/1741476679.jpeg?s=72dc1c5b9a15f933cd2762ed4db05e722281cbf5",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "01_010b9_8winKDc2d8ahJodfDiwFfmMA",
+            "timestamp": 1741476679,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/01_010b9_8winKDc2d8ahJodfDiwFfmMA/1741476679.jpeg?s=15e39cd762c7ca80fefbfab5bfe9ba2145f2d6a3",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5925482519-lego-75405",
+      "promoted": false,
+      "photo": {
+        "id": 24024282813,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#3D4441",
+        "dominant_color_opaque": "#C5C7C6",
+        "url": "https://images1.vinted.net/t/03_026f7_DC5ZKKtrQ2uwzsBRhxBvAV8y/f800/1741295047.jpeg?s=4397a1629d8242ccb666c10254e3e23f874af0d3",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/03_026f7_DC5ZKKtrQ2uwzsBRhxBvAV8y/70x100/1741295047.jpeg?s=1deaa441fbc14e1282bda9dd75f34b5144672f70",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/03_026f7_DC5ZKKtrQ2uwzsBRhxBvAV8y/150x210/1741295047.jpeg?s=5ff02cc56b670fa9fe5147b7205249755ff9d85a",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/03_026f7_DC5ZKKtrQ2uwzsBRhxBvAV8y/310x430/1741295047.jpeg?s=0d504388085b027019b1f3120070fa7860dc4e8e",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/03_026f7_DC5ZKKtrQ2uwzsBRhxBvAV8y/f800/1741295047.jpeg?s=4397a1629d8242ccb666c10254e3e23f874af0d3",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/03_026f7_DC5ZKKtrQ2uwzsBRhxBvAV8y/f800/1741295047.jpeg?s=4397a1629d8242ccb666c10254e3e23f874af0d3",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/03_026f7_DC5ZKKtrQ2uwzsBRhxBvAV8y/f800/1741295047.jpeg?s=4397a1629d8242ccb666c10254e3e23f874af0d3",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "03_026f7_DC5ZKKtrQ2uwzsBRhxBvAV8y",
+          "timestamp": 1741295047,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/03_026f7_DC5ZKKtrQ2uwzsBRhxBvAV8y/1741295047.jpeg?s=4afabc0ec36fd26c209d93cf0bf78d7da74e2209",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 13,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "3.2",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "53.15",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "8 ans / 128 cm",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "8 ans / 128 cm",
+        "accessibility_label": "Lego 75405, marque: LEGO, état: Neuf avec étiquette, taille: 8 ans / 128 cm, 49,95 €, 53,15 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 3.05770206451416,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5781671109,
+      "title": "Lego star wars 75405 new!",
+      "price": {
+        "amount": "60.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5781671109-lego-star-wars-75405-new",
+      "user": {
+        "id": 74276308,
+        "login": "dalmo7582",
+        "profile_url": "https://www.vinted.fr/member/74276308-dalmo7582",
+        "photo": {
+          "id": 74918172,
+          "width": 450,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/03_01c54_VTCLMzAUi7sxbbn8ixTfXKtz/f800/1638740139.jpeg?s=53d310900c41b026e95abd8f805d951edb596280",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/03_01c54_VTCLMzAUi7sxbbn8ixTfXKtz/310x310/1638740139.jpeg?s=d79fb30008cab694015d1781776ecdf3d76a02a9",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/03_01c54_VTCLMzAUi7sxbbn8ixTfXKtz/150x150/1638740139.jpeg?s=28bdae28cf63ed460ad8d65222f16619e61b1ba7",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/03_01c54_VTCLMzAUi7sxbbn8ixTfXKtz/100x100/1638740139.jpeg?s=6ee5663ca68464fb99f8503f1d35965ab2d22c06",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/03_01c54_VTCLMzAUi7sxbbn8ixTfXKtz/50x50/1638740139.jpeg?s=067590b62d8443e57b47c1f32c63bd5308bcf4b8",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/03_01c54_VTCLMzAUi7sxbbn8ixTfXKtz/20x20/1638740139.jpeg?s=adc3fc69ff33afb85013a93969bb652abdddb3f0",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "03_01c54_VTCLMzAUi7sxbbn8ixTfXKtz",
+            "timestamp": 1638740139,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/03_01c54_VTCLMzAUi7sxbbn8ixTfXKtz/1638740139.jpeg?s=02355024a8dbd72cca4c91552cd3598bea6963f1",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5781671109-lego-star-wars-75405-new",
+      "promoted": false,
+      "photo": {
+        "id": 23427093808,
+        "image_no": 1,
+        "width": 800,
+        "height": 600,
+        "dominant_color": "#484841",
+        "dominant_color_opaque": "#C8C8C6",
+        "url": "https://images1.vinted.net/t/02_0001e_Wvr2fCNS3DMq8qmLQwMGkPkX/f800/1739014575.jpeg?s=981d92c273514b34a0f217a96183937afdfedbf1",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/02_0001e_Wvr2fCNS3DMq8qmLQwMGkPkX/70x100/1739014575.jpeg?s=8e191395b0c5fc4a379c25a71bc9708b805bf02c",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/02_0001e_Wvr2fCNS3DMq8qmLQwMGkPkX/150x210/1739014575.jpeg?s=1956e5ae4910d72669574f7fc243d5dd082f3955",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/02_0001e_Wvr2fCNS3DMq8qmLQwMGkPkX/310x430/1739014575.jpeg?s=82adf90f639e7cd878b0bafe329ad77e0086b88a",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/02_0001e_Wvr2fCNS3DMq8qmLQwMGkPkX/f800/1739014575.jpeg?s=981d92c273514b34a0f217a96183937afdfedbf1",
+            "width": 428,
+            "height": 321,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/02_0001e_Wvr2fCNS3DMq8qmLQwMGkPkX/f800/1739014575.jpeg?s=981d92c273514b34a0f217a96183937afdfedbf1",
+            "width": 624,
+            "height": 468,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/02_0001e_Wvr2fCNS3DMq8qmLQwMGkPkX/f800/1739014575.jpeg?s=981d92c273514b34a0f217a96183937afdfedbf1",
+            "width": 364,
+            "height": 273,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "02_0001e_Wvr2fCNS3DMq8qmLQwMGkPkX",
+          "timestamp": 1739014575,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/02_0001e_Wvr2fCNS3DMq8qmLQwMGkPkX/1739014575.jpeg?s=7ee8fbd345988757a4f8281f1047465dcd5b844c",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 1,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "3.7",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "63.7",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Très bon état",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego star wars 75405 new!, marque: LEGO, état: Très bon état, taille: Taille unique, 60,00 €, 63,70 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 2.801695823669434,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5712014848,
+      "title": "75405 Lego - Home One Starcruiser",
+      "price": {
+        "amount": "52.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5712014848-75405-lego-home-one-starcruiser",
+      "user": {
+        "id": 164569706,
+        "login": "nolde80",
+        "profile_url": "https://www.vinted.fr/member/164569706-nolde80",
+        "photo": {
+          "id": 202087759,
+          "width": 800,
+          "height": 600,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/03_00c1a_QUgZ7C1zKSsu1mE7fvijbKAE/f800/1722408887.jpeg?s=a833bc13afd18d3025575cb466ca5963a50e017b",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/03_00c1a_QUgZ7C1zKSsu1mE7fvijbKAE/310x310/1722408887.jpeg?s=3be442d3a4fdab41c6626f4988cf7327cd7e914c",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/03_00c1a_QUgZ7C1zKSsu1mE7fvijbKAE/150x150/1722408887.jpeg?s=063b302473efca726faab64e733b25ada82f132a",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/03_00c1a_QUgZ7C1zKSsu1mE7fvijbKAE/100x100/1722408887.jpeg?s=b13d42921048bead2a74aa0bce017987d1d3951d",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/03_00c1a_QUgZ7C1zKSsu1mE7fvijbKAE/50x50/1722408887.jpeg?s=c33e7306df7476c1928e520eb80901cd4d629570",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/03_00c1a_QUgZ7C1zKSsu1mE7fvijbKAE/20x20/1722408887.jpeg?s=d88c52d6bc4c3fd3519f6c4b32dd782b9b08a43b",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "03_00c1a_QUgZ7C1zKSsu1mE7fvijbKAE",
+            "timestamp": 1722408887,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/03_00c1a_QUgZ7C1zKSsu1mE7fvijbKAE/1722408887.jpeg?s=fd2daac7f56d667518cd6c8ba2124e6e51aa9319",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5712014848-75405-lego-home-one-starcruiser",
+      "promoted": false,
+      "photo": {
+        "id": 23138218585,
+        "image_no": 1,
+        "width": 800,
+        "height": 800,
+        "dominant_color": "#292724",
+        "dominant_color_opaque": "#BFBEBD",
+        "url": "https://images1.vinted.net/t/01_01978_eGwzdWZ5WBxFZXvveSCQ78QF/f800/1737881055.jpeg?s=b200526f8ae0d3f57bc41a3e6ebfbc3fe85bc132",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/01_01978_eGwzdWZ5WBxFZXvveSCQ78QF/70x100/1737881055.jpeg?s=567ff45238805f7e3beeac47bce934fca18b2bd9",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/01_01978_eGwzdWZ5WBxFZXvveSCQ78QF/150x210/1737881055.jpeg?s=57db800f938647ea2f28557579ac97fe94270a6a",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/01_01978_eGwzdWZ5WBxFZXvveSCQ78QF/310x430/1737881055.jpeg?s=fee017468bf4658251112f0eea8cd648a05c222f",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/01_01978_eGwzdWZ5WBxFZXvveSCQ78QF/f800/1737881055.jpeg?s=b200526f8ae0d3f57bc41a3e6ebfbc3fe85bc132",
+            "width": 428,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/01_01978_eGwzdWZ5WBxFZXvveSCQ78QF/f800/1737881055.jpeg?s=b200526f8ae0d3f57bc41a3e6ebfbc3fe85bc132",
+            "width": 624,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/01_01978_eGwzdWZ5WBxFZXvveSCQ78QF/f800/1737881055.jpeg?s=b200526f8ae0d3f57bc41a3e6ebfbc3fe85bc132",
+            "width": 364,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "01_01978_eGwzdWZ5WBxFZXvveSCQ78QF",
+          "timestamp": 1737881055,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/01_01978_eGwzdWZ5WBxFZXvveSCQ78QF/1737881055.jpeg?s=15e123e0c09e68b3af7d843977e54f58e5cf8c46",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 2,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "3.3",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "55.3",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "75405 Lego - Home One Starcruiser, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 52,00 €, 55,30 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 2.697809934616089,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5795506608,
+      "title": "Lego 75405 starcruiser",
+      "price": {
+        "amount": "60.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5795506608-lego-75405-starcruiser",
+      "user": {
+        "id": 74577679,
+        "login": "mariobert84",
+        "profile_url": "https://www.vinted.fr/member/74577679-mariobert84",
+        "photo": {
+          "id": 81024964,
+          "width": 96,
+          "height": 96,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/03_013bf_15KC68iBCHgDrabST9RVa3KG/f800/1644708900.jpeg?s=6344e508db676b16d036e45206958ad4fa385959",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/03_013bf_15KC68iBCHgDrabST9RVa3KG/310x310/1644708900.jpeg?s=175218e51c1645fada813b5aeaf7527d1137510f",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/03_013bf_15KC68iBCHgDrabST9RVa3KG/150x150/1644708900.jpeg?s=ca18f5b6aea05958330da969a78d565199bfa506",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/03_013bf_15KC68iBCHgDrabST9RVa3KG/100x100/1644708900.jpeg?s=12575d9b995fe46e3d2431986c7dcce9e78f6399",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/03_013bf_15KC68iBCHgDrabST9RVa3KG/50x50/1644708900.jpeg?s=2b735de84c27a74c52e58f3826ac4f1e67e7bff3",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/03_013bf_15KC68iBCHgDrabST9RVa3KG/20x20/1644708900.jpeg?s=675a82ce89b39d80ed7ca883e7bf8b5687890e10",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "03_013bf_15KC68iBCHgDrabST9RVa3KG",
+            "timestamp": 1644708900,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/03_013bf_15KC68iBCHgDrabST9RVa3KG/1644708900.jpeg?s=5844fb983e9b62811ba4001ea86060cd374fc6de",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5795506608-lego-75405-starcruiser",
+      "promoted": false,
+      "photo": {
+        "id": 23484012331,
+        "image_no": 1,
+        "width": 450,
+        "height": 800,
+        "dominant_color": "#5A584D",
+        "dominant_color_opaque": "#CECDCA",
+        "url": "https://images1.vinted.net/t/01_0035e_9NeCDfPQpUuV9iQ2aHKQPVY4/f800/1739195860.jpeg?s=15fa5b5738040ae6a801f6dade7958908557d1dc",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/01_0035e_9NeCDfPQpUuV9iQ2aHKQPVY4/70x100/1739195860.jpeg?s=c8cce53775227c3a5449ebea0d36c0329e76e46e",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/01_0035e_9NeCDfPQpUuV9iQ2aHKQPVY4/150x210/1739195860.jpeg?s=b5a9581c17c1fb737757b0fdfdaebea66daea339",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/01_0035e_9NeCDfPQpUuV9iQ2aHKQPVY4/310x430/1739195860.jpeg?s=7a4ac2fb36604051d602a3cf1eea3bb3dadcf0a5",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/01_0035e_9NeCDfPQpUuV9iQ2aHKQPVY4/f800/1739195860.jpeg?s=15fa5b5738040ae6a801f6dade7958908557d1dc",
+            "width": 240,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/01_0035e_9NeCDfPQpUuV9iQ2aHKQPVY4/f800/1739195860.jpeg?s=15fa5b5738040ae6a801f6dade7958908557d1dc",
+            "width": 351,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/01_0035e_9NeCDfPQpUuV9iQ2aHKQPVY4/f800/1739195860.jpeg?s=15fa5b5738040ae6a801f6dade7958908557d1dc",
+            "width": 204,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "01_0035e_9NeCDfPQpUuV9iQ2aHKQPVY4",
+          "timestamp": 1739195860,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/01_0035e_9NeCDfPQpUuV9iQ2aHKQPVY4/1739195860.jpeg?s=1ed078e687938c0ca114b533c56a51c7528880ca",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 8,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "3.7",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "63.7",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego 75405 starcruiser, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 60,00 €, 63,70 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 2.567198514938354,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5814997905,
+      "title": "Lego star wars",
+      "price": {
+        "amount": "55.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5814997905-lego-star-wars",
+      "user": {
+        "id": 15500524,
+        "login": "lolo13132",
+        "profile_url": "https://www.vinted.fr/member/15500524-lolo13132",
+        "photo": {
+          "id": 26487507,
+          "width": 720,
+          "height": 720,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_01547_xPgRzKUiEmiBZ2tpXGxE1EqU/f800/1605250285.jpeg?s=f18cdf2782c2125649dfb57bb05a7b04a09d71b8",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_01547_xPgRzKUiEmiBZ2tpXGxE1EqU/310x310/1605250285.jpeg?s=44fa1fd93f58630f1ff5b2f519c34352e768a17f",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_01547_xPgRzKUiEmiBZ2tpXGxE1EqU/150x150/1605250285.jpeg?s=1eb765ddfbcc956946d7c99a14efb4220a03d162",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_01547_xPgRzKUiEmiBZ2tpXGxE1EqU/100x100/1605250285.jpeg?s=77e60649f0242feaf107a2fd61d5657d20bce35f",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_01547_xPgRzKUiEmiBZ2tpXGxE1EqU/50x50/1605250285.jpeg?s=7baa0cf41c1868338ff2df64890e839f1cc6c3e7",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_01547_xPgRzKUiEmiBZ2tpXGxE1EqU/20x20/1605250285.jpeg?s=610f959cbb743153c2f27d6ac7dc2079c3f13ce6",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_01547_xPgRzKUiEmiBZ2tpXGxE1EqU",
+            "timestamp": 1605250285,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_01547_xPgRzKUiEmiBZ2tpXGxE1EqU/1605250285.jpeg?s=bbd3230bea0420adc8b79817e2c4ce6c586bec54",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5814997905-lego-star-wars",
+      "promoted": false,
+      "photo": {
+        "id": 23564721987,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#65574D",
+        "dominant_color_opaque": "#D1CDCA",
+        "url": "https://images1.vinted.net/t/04_01ec6_4mbZJxF6CHMQM4o6LUWndSqf/f800/1739540709.jpeg?s=bb25f1342fbc1ea4694f53111d97d7d7db302751",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_01ec6_4mbZJxF6CHMQM4o6LUWndSqf/70x100/1739540709.jpeg?s=afa40bb212a72914d40d31171eebbc8b4f4ff3df",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_01ec6_4mbZJxF6CHMQM4o6LUWndSqf/150x210/1739540709.jpeg?s=ca7ac9c9784276db18214fe3c90ac5f4d2788dd0",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_01ec6_4mbZJxF6CHMQM4o6LUWndSqf/310x430/1739540709.jpeg?s=509232d603a8a48705e44c4af0d8d5632d7c8365",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_01ec6_4mbZJxF6CHMQM4o6LUWndSqf/f800/1739540709.jpeg?s=bb25f1342fbc1ea4694f53111d97d7d7db302751",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_01ec6_4mbZJxF6CHMQM4o6LUWndSqf/f800/1739540709.jpeg?s=bb25f1342fbc1ea4694f53111d97d7d7db302751",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_01ec6_4mbZJxF6CHMQM4o6LUWndSqf/f800/1739540709.jpeg?s=bb25f1342fbc1ea4694f53111d97d7d7db302751",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_01ec6_4mbZJxF6CHMQM4o6LUWndSqf",
+          "timestamp": 1739540709,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_01ec6_4mbZJxF6CHMQM4o6LUWndSqf/1739540709.jpeg?s=f977522b91ace30aa93b6046b081168f2d456373",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 7,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "3.45",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "58.45",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf sans étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego star wars, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 55,00 €, 58,45 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 2.509812355041504,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5710197607,
+      "title": "Lego 75405 Star Wars home one star cruiser",
+      "price": {
+        "amount": "53.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5710197607-lego-75405-star-wars-home-one-star-cruiser",
+      "user": {
+        "id": 55817497,
+        "login": "superchouchou",
+        "profile_url": "https://www.vinted.fr/member/55817497-superchouchou",
+        "photo": null,
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5710197607-lego-75405-star-wars-home-one-star-cruiser",
+      "promoted": false,
+      "photo": {
+        "id": 23130758542,
+        "image_no": 1,
+        "width": 800,
+        "height": 600,
+        "dominant_color": "#100C07",
+        "dominant_color_opaque": "#B7B6B5",
+        "url": "https://images1.vinted.net/t/04_01c5b_WYP5rXBXv3tzMd8jJJMB8cbj/f800/1737826309.jpeg?s=673db0b38a0372c3a637cca6b3b476aa4353d17c",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_01c5b_WYP5rXBXv3tzMd8jJJMB8cbj/70x100/1737826309.jpeg?s=09c373f066fa8bba958d780d59ce19553be2e0eb",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_01c5b_WYP5rXBXv3tzMd8jJJMB8cbj/150x210/1737826309.jpeg?s=e4fde3f2171b0426ac2ee0e03653787863de5c5d",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_01c5b_WYP5rXBXv3tzMd8jJJMB8cbj/310x430/1737826309.jpeg?s=b98159c03a653c20e28290e569fdd047a1d4e348",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_01c5b_WYP5rXBXv3tzMd8jJJMB8cbj/f800/1737826309.jpeg?s=673db0b38a0372c3a637cca6b3b476aa4353d17c",
+            "width": 428,
+            "height": 321,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_01c5b_WYP5rXBXv3tzMd8jJJMB8cbj/f800/1737826309.jpeg?s=673db0b38a0372c3a637cca6b3b476aa4353d17c",
+            "width": 624,
+            "height": 468,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_01c5b_WYP5rXBXv3tzMd8jJJMB8cbj/f800/1737826309.jpeg?s=673db0b38a0372c3a637cca6b3b476aa4353d17c",
+            "width": 364,
+            "height": 273,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_01c5b_WYP5rXBXv3tzMd8jJJMB8cbj",
+          "timestamp": 1737826309,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_01c5b_WYP5rXBXv3tzMd8jJJMB8cbj/1737826309.jpeg?s=e6f90b325674a59d1d1acdb936a26227ef31d222",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 5,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "3.35",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "56.35",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf sans étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego 75405 Star Wars home one star cruiser, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 53,00 €, 56,35 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 2.465257167816162,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5856742674,
+      "title": "Lego 75405",
+      "price": {
+        "amount": "58.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5856742674-lego-75405",
+      "user": {
+        "id": 80223231,
+        "login": "remy20021995",
+        "profile_url": "https://www.vinted.fr/member/80223231-remy20021995",
+        "photo": {
+          "id": 79684108,
+          "width": 96,
+          "height": 96,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_0207d_72BgWcrV7uGTjatLQk9jMMq1/f800/1643466875.jpeg?s=e46fd20d9dff5c333882dad01520e87abf1776d7",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_0207d_72BgWcrV7uGTjatLQk9jMMq1/310x310/1643466875.jpeg?s=ceb9dc35293eb5d062c7e001ac043e7f366c856a",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_0207d_72BgWcrV7uGTjatLQk9jMMq1/150x150/1643466875.jpeg?s=64f34031ab7090637519e559370ccd84e71fcd9b",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_0207d_72BgWcrV7uGTjatLQk9jMMq1/100x100/1643466875.jpeg?s=4aa14b5dfb5ee9d30731f195458abd2b2a78f16a",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_0207d_72BgWcrV7uGTjatLQk9jMMq1/50x50/1643466875.jpeg?s=9b58aa14c7f310eaed93b43751a0dc851151d57b",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_0207d_72BgWcrV7uGTjatLQk9jMMq1/20x20/1643466875.jpeg?s=3ae01100d179de602b1845602a66280cafb705ad",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_0207d_72BgWcrV7uGTjatLQk9jMMq1",
+            "timestamp": 1643466875,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_0207d_72BgWcrV7uGTjatLQk9jMMq1/1643466875.jpeg?s=1604bd1f04f53da7cb1565161aef1c76b39dff28",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5856742674-lego-75405",
+      "promoted": false,
+      "photo": {
+        "id": 23738049812,
+        "image_no": 1,
+        "width": 800,
+        "height": 434,
+        "dominant_color": "#211F23",
+        "dominant_color_opaque": "#BCBCBD",
+        "url": "https://images1.vinted.net/t/02_019bb_bayTBQKExDv5st2Jv8C7WJb2/f800/1740219973.jpeg?s=913039a66585f6c1920804085a2c1d6c4c8b25bc",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/02_019bb_bayTBQKExDv5st2Jv8C7WJb2/70x100/1740219973.jpeg?s=a9cd59e20898bcc2e4608ee5298519bbf95daeab",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/02_019bb_bayTBQKExDv5st2Jv8C7WJb2/150x210/1740219973.jpeg?s=df3d1f078f4197910e6c8ab23334a5a284847c5d",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/02_019bb_bayTBQKExDv5st2Jv8C7WJb2/310x430/1740219973.jpeg?s=735ed98512028f455456f1a5ff24e841d1bec6f1",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/02_019bb_bayTBQKExDv5st2Jv8C7WJb2/f800/1740219973.jpeg?s=913039a66585f6c1920804085a2c1d6c4c8b25bc",
+            "width": 428,
+            "height": 232,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/02_019bb_bayTBQKExDv5st2Jv8C7WJb2/f800/1740219973.jpeg?s=913039a66585f6c1920804085a2c1d6c4c8b25bc",
+            "width": 624,
+            "height": 339,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/02_019bb_bayTBQKExDv5st2Jv8C7WJb2/f800/1740219973.jpeg?s=913039a66585f6c1920804085a2c1d6c4c8b25bc",
+            "width": 364,
+            "height": 197,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "02_019bb_bayTBQKExDv5st2Jv8C7WJb2",
+          "timestamp": 1740219973,
+          "orientation": 0
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/02_019bb_bayTBQKExDv5st2Jv8C7WJb2/1740219973.jpeg?s=a1f65a93e7a790ecff4bdcdc43af163228ad66cf",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 3,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "3.6",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "61.6",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf sans étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego 75405, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 58,00 €, 61,60 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 2.005952119827271,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5850804722,
+      "title": "LEGO 75405 Star Wars  Crucero Estelar Hogar",
+      "price": {
+        "amount": "50.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5850804722-lego-75405-star-wars-crucero-estelar-hogar",
+      "user": {
+        "id": 46821842,
+        "login": "ropademarca2021",
+        "profile_url": "https://www.vinted.fr/member/46821842-ropademarca2021",
+        "photo": {
+          "id": 129954727,
+          "width": 800,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/03_026f9_TCm5y6VP5rRhcVbKSD1ynkFA/f800/1677018316.jpeg?s=2ce833c4b4690efd73f90f314fed2d40233f23a5",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/03_026f9_TCm5y6VP5rRhcVbKSD1ynkFA/310x310/1677018316.jpeg?s=001f4af40edef875dc7483aece7a127f4278fa99",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/03_026f9_TCm5y6VP5rRhcVbKSD1ynkFA/150x150/1677018316.jpeg?s=4e79a1d716d029f4060e86c0d4bcc937ec19c9de",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/03_026f9_TCm5y6VP5rRhcVbKSD1ynkFA/100x100/1677018316.jpeg?s=973458422faebc06081e5ad99c283c3abffa86e3",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/03_026f9_TCm5y6VP5rRhcVbKSD1ynkFA/50x50/1677018316.jpeg?s=53d90a1b7221aedc98c15a1e8fce0b5c16cf4aeb",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/03_026f9_TCm5y6VP5rRhcVbKSD1ynkFA/20x20/1677018316.jpeg?s=cb950e393da9521f9bdbff2b5f68e521419ab680",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "03_026f9_TCm5y6VP5rRhcVbKSD1ynkFA",
+            "timestamp": 1677018316,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/03_026f9_TCm5y6VP5rRhcVbKSD1ynkFA/1677018316.jpeg?s=28e486334e7ba58ffa97f11ba7f43b17c21613e1",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5850804722-lego-75405-star-wars-crucero-estelar-hogar",
+      "promoted": false,
+      "photo": {
+        "id": 23713129825,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#71746F",
+        "dominant_color_opaque": "#D4D5D4",
+        "url": "https://images1.vinted.net/t/04_02310_okFmBJQNv7z6CGV4UBbaC28B/f800/1740091643.jpeg?s=e8f8bc21aa34f52cddf093b54ba59e89a138b69c",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_02310_okFmBJQNv7z6CGV4UBbaC28B/70x100/1740091643.jpeg?s=a147c1da46bcab7addb8e96ec1f84d1a62f89bba",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_02310_okFmBJQNv7z6CGV4UBbaC28B/150x210/1740091643.jpeg?s=34ecc1d4382b03c1fb7d1051244ee23f34614c3b",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_02310_okFmBJQNv7z6CGV4UBbaC28B/310x430/1740091643.jpeg?s=c241dd9f2b87b6f6072a588d7c09c330f24f1271",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_02310_okFmBJQNv7z6CGV4UBbaC28B/f800/1740091643.jpeg?s=e8f8bc21aa34f52cddf093b54ba59e89a138b69c",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_02310_okFmBJQNv7z6CGV4UBbaC28B/f800/1740091643.jpeg?s=e8f8bc21aa34f52cddf093b54ba59e89a138b69c",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_02310_okFmBJQNv7z6CGV4UBbaC28B/f800/1740091643.jpeg?s=e8f8bc21aa34f52cddf093b54ba59e89a138b69c",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_02310_okFmBJQNv7z6CGV4UBbaC28B",
+          "timestamp": 1740091643,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_02310_okFmBJQNv7z6CGV4UBbaC28B/1740091643.jpeg?s=6e92f76f00236bf7940916695e68169b08b4cc56",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 3,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "3.2",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "53.2",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "LEGO 75405 Star Wars  Crucero Estelar Hogar, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 50,00 €, 53,20 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 1.860235214233398,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5780632758,
+      "title": "Lego 75405",
+      "price": {
+        "amount": "58.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5780632758-lego-75405",
+      "user": {
+        "id": 1452514,
+        "login": "debo93",
+        "profile_url": "https://www.vinted.fr/member/1452514-debo93",
+        "photo": {
+          "id": 38370352,
+          "width": 512,
+          "height": 512,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_0181a_yNYna4EvCuvyAncLVZbh6Z8c/f800/1604858822.jpeg?s=23204d2f2c8b5131944b38fd528c718480e91b3d",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_0181a_yNYna4EvCuvyAncLVZbh6Z8c/310x310/1604858822.jpeg?s=a233825fbb9ed73ff3c3409d892b36c31b25332c",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_0181a_yNYna4EvCuvyAncLVZbh6Z8c/150x150/1604858822.jpeg?s=edafaed47aca70f8b77be1c79c715ee4be11f247",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_0181a_yNYna4EvCuvyAncLVZbh6Z8c/100x100/1604858822.jpeg?s=44d9f2d6840a0c6fc998afab732a6eade3efb255",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_0181a_yNYna4EvCuvyAncLVZbh6Z8c/50x50/1604858822.jpeg?s=b33f6650cd965b4bf56dafc03d4d61135f6cd553",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_0181a_yNYna4EvCuvyAncLVZbh6Z8c/20x20/1604858822.jpeg?s=3e265909e3bf5fccbc74bd444786d21bd2857b01",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_0181a_yNYna4EvCuvyAncLVZbh6Z8c",
+            "timestamp": 1604858822,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_0181a_yNYna4EvCuvyAncLVZbh6Z8c/1604858822.jpeg?s=5198e0e1ed30aa577275574797e8753454e4aef9",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5780632758-lego-75405",
+      "promoted": false,
+      "photo": {
+        "id": 23422694913,
+        "image_no": 1,
+        "width": 800,
+        "height": 600,
+        "dominant_color": "#3D372A",
+        "dominant_color_opaque": "#C5C3BF",
+        "url": "https://images1.vinted.net/t/03_006f9_A3WKTojddWodLdw2YVoSWift/f800/1739004649.jpeg?s=44d0bb381b85df134d6b1c3578bb722156807ed2",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/03_006f9_A3WKTojddWodLdw2YVoSWift/70x100/1739004649.jpeg?s=865144902532586e611cb2b776743366ea92463a",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/03_006f9_A3WKTojddWodLdw2YVoSWift/150x210/1739004649.jpeg?s=3a5909917ac271cf0b43ad40dc84a747cd8f6cbc",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/03_006f9_A3WKTojddWodLdw2YVoSWift/310x430/1739004649.jpeg?s=38f17153f3b33806ed6532901bf44f02587a13ce",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/03_006f9_A3WKTojddWodLdw2YVoSWift/f800/1739004649.jpeg?s=44d0bb381b85df134d6b1c3578bb722156807ed2",
+            "width": 428,
+            "height": 321,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/03_006f9_A3WKTojddWodLdw2YVoSWift/f800/1739004649.jpeg?s=44d0bb381b85df134d6b1c3578bb722156807ed2",
+            "width": 624,
+            "height": 468,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/03_006f9_A3WKTojddWodLdw2YVoSWift/f800/1739004649.jpeg?s=44d0bb381b85df134d6b1c3578bb722156807ed2",
+            "width": 364,
+            "height": 273,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "03_006f9_A3WKTojddWodLdw2YVoSWift",
+          "timestamp": 1739004649,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/03_006f9_A3WKTojddWodLdw2YVoSWift/1739004649.jpeg?s=bcd9be4d645ce232f9d703c0f61c07dcc5048c38",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 4,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "3.6",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "61.6",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf sans étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego 75405, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 58,00 €, 61,60 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 1.834732532501221,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5785044600,
+      "title": "Starcruiser Home One",
+      "price": {
+        "amount": "60.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5785044600-starcruiser-home-one",
+      "user": {
+        "id": 84232452,
+        "login": "danilo5555",
+        "profile_url": "https://www.vinted.fr/member/84232452-danilo5555",
+        "photo": {
+          "id": 166146218,
+          "width": 620,
+          "height": 475,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/01_0202d_5Cycejx2pwnPEmaGJxihYWWr/f800/1699443857.jpeg?s=97b540a70ca512fff8e70b3af2127e260d018cc0",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/01_0202d_5Cycejx2pwnPEmaGJxihYWWr/310x310/1699443857.jpeg?s=284a4c15a850450e1ff89df74992167e1d17a8cb",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/01_0202d_5Cycejx2pwnPEmaGJxihYWWr/150x150/1699443857.jpeg?s=47961d24ae2733a9e2f71cf6b0d1daf60eb9b009",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/01_0202d_5Cycejx2pwnPEmaGJxihYWWr/100x100/1699443857.jpeg?s=9c17602052c533224e8492a08ac5f60db5eb071d",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/01_0202d_5Cycejx2pwnPEmaGJxihYWWr/50x50/1699443857.jpeg?s=f0e30dcb8dfac80a9eb7ac5bb6c9a0eb39079459",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/01_0202d_5Cycejx2pwnPEmaGJxihYWWr/20x20/1699443857.jpeg?s=954ce5634dfb0d7a36424dc93d55063971f30783",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "01_0202d_5Cycejx2pwnPEmaGJxihYWWr",
+            "timestamp": 1699443857,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/01_0202d_5Cycejx2pwnPEmaGJxihYWWr/1699443857.jpeg?s=5673ca1bb960b6896f042857a04b00b2f062ea6c",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5785044600-starcruiser-home-one",
+      "promoted": false,
+      "photo": {
+        "id": 23441139025,
+        "image_no": 1,
+        "width": 800,
+        "height": 600,
+        "dominant_color": "#51535A",
+        "dominant_color_opaque": "#CBCBCE",
+        "url": "https://images1.vinted.net/t/04_022d1_sx1DowXXiPu1UfZCecq2tpXv/f800/1739041000.jpeg?s=8c386b5907671b6c74a3cc6e205f8aa93c842374",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_022d1_sx1DowXXiPu1UfZCecq2tpXv/70x100/1739041000.jpeg?s=57dd5bc063af632369ae842e6f36fec32c5a0453",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_022d1_sx1DowXXiPu1UfZCecq2tpXv/150x210/1739041000.jpeg?s=656f749d9f8d6511a4835acc66ba40efc6abc495",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_022d1_sx1DowXXiPu1UfZCecq2tpXv/310x430/1739041000.jpeg?s=ec11365c238a0b433dd91453799c814cb0d2265f",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_022d1_sx1DowXXiPu1UfZCecq2tpXv/f800/1739041000.jpeg?s=8c386b5907671b6c74a3cc6e205f8aa93c842374",
+            "width": 428,
+            "height": 321,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_022d1_sx1DowXXiPu1UfZCecq2tpXv/f800/1739041000.jpeg?s=8c386b5907671b6c74a3cc6e205f8aa93c842374",
+            "width": 624,
+            "height": 468,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_022d1_sx1DowXXiPu1UfZCecq2tpXv/f800/1739041000.jpeg?s=8c386b5907671b6c74a3cc6e205f8aa93c842374",
+            "width": 364,
+            "height": 273,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_022d1_sx1DowXXiPu1UfZCecq2tpXv",
+          "timestamp": 1739041000,
+          "orientation": 0
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_022d1_sx1DowXXiPu1UfZCecq2tpXv/1739041000.jpeg?s=80cc7c5fc4384d4a121ed511bf24415e343c849d",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 5,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "3.7",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "63.7",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Starcruiser Home One, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 60,00 €, 63,70 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 1.122206687927246,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5585344197,
+      "title": "Lego Star Wars Starship Collection 75405: Home One Starcruiser",
+      "price": {
+        "amount": "70.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5585344197-lego-star-wars-starship-collection-75405-home-one-starcruiser",
+      "user": {
+        "id": 42556868,
+        "login": "frandelajungla_56",
+        "profile_url": "https://www.vinted.fr/member/42556868-frandelajungla56",
+        "photo": {
+          "id": 37445896,
+          "width": 800,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/01_0085f_hLc6aAmmnZuxeLngwoPk85Nh/f800/1603641539.jpeg?s=e8999164dbde338665eb7c0d6fadd1d78df6e2b1",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/01_0085f_hLc6aAmmnZuxeLngwoPk85Nh/310x310/1603641539.jpeg?s=65772fce09c226cca56a02191b1e56fdd75f6c8b",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/01_0085f_hLc6aAmmnZuxeLngwoPk85Nh/150x150/1603641539.jpeg?s=1cc47697864469114e5d25ae85e2e30854f37843",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/01_0085f_hLc6aAmmnZuxeLngwoPk85Nh/100x100/1603641539.jpeg?s=252be388f509dc90ccccd3738080ad32ea37b37c",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/01_0085f_hLc6aAmmnZuxeLngwoPk85Nh/50x50/1603641539.jpeg?s=6c747b3fad6785b1220edbd195fbade4db549180",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/01_0085f_hLc6aAmmnZuxeLngwoPk85Nh/20x20/1603641539.jpeg?s=2e9bb90296ed4d50527f9ab8060b35df260f122b",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "01_0085f_hLc6aAmmnZuxeLngwoPk85Nh",
+            "timestamp": 1603641539,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/01_0085f_hLc6aAmmnZuxeLngwoPk85Nh/1603641539.jpeg?s=ab8182817b1be86dff54656b6658644be69863a0",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5585344197-lego-star-wars-starship-collection-75405-home-one-starcruiser",
+      "promoted": false,
+      "photo": {
+        "id": 22622498636,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#353D3A",
+        "dominant_color_opaque": "#C2C5C4",
+        "url": "https://images1.vinted.net/t/04_017e1_gcrhjrRuT9Ff5ZQsDa6fDmfC/f800/1735751475.jpeg?s=3fab93a1b829c6455b8facc2a4c364ba09f74e2b",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_017e1_gcrhjrRuT9Ff5ZQsDa6fDmfC/70x100/1735751475.jpeg?s=9da622c9006d8c5a3d76cea7a5a11061ca251f5f",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_017e1_gcrhjrRuT9Ff5ZQsDa6fDmfC/150x210/1735751475.jpeg?s=263b97d951090e398aa9b4b19afb173b5d5a95ff",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_017e1_gcrhjrRuT9Ff5ZQsDa6fDmfC/310x430/1735751475.jpeg?s=61d54dcdac29fc801802233dba84f1edb31b00c9",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_017e1_gcrhjrRuT9Ff5ZQsDa6fDmfC/f800/1735751475.jpeg?s=3fab93a1b829c6455b8facc2a4c364ba09f74e2b",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_017e1_gcrhjrRuT9Ff5ZQsDa6fDmfC/f800/1735751475.jpeg?s=3fab93a1b829c6455b8facc2a4c364ba09f74e2b",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_017e1_gcrhjrRuT9Ff5ZQsDa6fDmfC/f800/1735751475.jpeg?s=3fab93a1b829c6455b8facc2a4c364ba09f74e2b",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_017e1_gcrhjrRuT9Ff5ZQsDa6fDmfC",
+          "timestamp": 1735751475,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_017e1_gcrhjrRuT9Ff5ZQsDa6fDmfC/1735751475.jpeg?s=ebfbaced7527132a39428a6a0a27d3bacdab1844",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 27,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "4.2",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "74.2",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego Star Wars Starship Collection 75405: Home One Starcruiser, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 70,00 €, 74,20 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": -0.00747025478631258,
+        "matched_queries": []
+      }
+    }
+  ],
+  "dominant_brand": {
+    "id": 89162,
+    "title": "LEGO",
+    "slug": "lego",
+    "favourite_count": 185159,
+    "pretty_favourite_count": "185.2K",
+    "item_count": 2321353,
+    "pretty_item_count": "2.3M",
+    "is_visible_in_listings": true,
+    "requires_authenticity_check": false,
+    "is_luxury": false,
+    "is_hvf": false,
+    "path": "/brand/89162-lego",
+    "url": "https://www.vinted.fr/brand/89162-lego",
+    "is_favourite": false
+  },
+  "search_tracking_params": {
+    "search_correlation_id": "3d52e538-92ba-48f9-a9e2-cef1bb90fadd",
+    "search_session_id": "5ead97de-79fd-480e-beb3-ec0a13798de6",
+    "global_search_session_id": "7539ac85-4306-4699-a07f-fd2e8e38437a"
+  },
+  "pagination": {
+    "current_page": 1,
+    "total_pages": 1,
+    "total_entries": 19,
+    "per_page": 96,
+    "time": 1741612908
+  },
+  "code": 0
+}

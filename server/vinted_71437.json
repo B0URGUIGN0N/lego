@@ -1,0 +1,363 @@
+{
+  "items": [
+    {
+      "id": 5138826658,
+      "title": "Lego super Mario plat 2x2 avec scanner code goomba",
+      "price": {
+        "amount": "1.2",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5138826658-lego-super-mario-plat-2x2-avec-scanner-code-goomba",
+      "user": {
+        "id": 76396077,
+        "login": "sprinter59000",
+        "profile_url": "https://www.vinted.fr/member/76396077-sprinter59000",
+        "photo": {
+          "id": 195814928,
+          "width": 647,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_00a5b_urV38WbRe7d6H7Bdii7stSMp/f800/1717859713.jpeg?s=c52244d5a88bfe668b5a683a040dad13c7eed3a6",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_00a5b_urV38WbRe7d6H7Bdii7stSMp/310x310/1717859713.jpeg?s=88f1a0c8fb26c567ea10ffd352f61763dcbf0ac2",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_00a5b_urV38WbRe7d6H7Bdii7stSMp/150x150/1717859713.jpeg?s=e39fdbda66b222ac6b6fec6da2ca124e50be4114",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_00a5b_urV38WbRe7d6H7Bdii7stSMp/100x100/1717859713.jpeg?s=67c710216a57b9276475268eb8b81d16f7cc98f1",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_00a5b_urV38WbRe7d6H7Bdii7stSMp/50x50/1717859713.jpeg?s=24de13c1e6441a0a59131bcc7b35b416e4105293",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_00a5b_urV38WbRe7d6H7Bdii7stSMp/20x20/1717859713.jpeg?s=35d123020fae96cad19c2d12c57009faaecacf33",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_00a5b_urV38WbRe7d6H7Bdii7stSMp",
+            "timestamp": 1717859713,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_00a5b_urV38WbRe7d6H7Bdii7stSMp/1717859713.jpeg?s=312fee10cb7fc4aca7a4b9b7cd0fd70d7e07bc26",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5138826658-lego-super-mario-plat-2x2-avec-scanner-code-goomba",
+      "promoted": false,
+      "photo": {
+        "id": 20805399214,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#99958A",
+        "dominant_color_opaque": "#E0DFDC",
+        "url": "https://images1.vinted.net/t/03_0076a_9dNqoFcDBKUhH3gaGioo6dja/f800/1727768188.jpeg?s=8bf99d7bb3424a488a4e597a21ddb9dc028c1aaa",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/03_0076a_9dNqoFcDBKUhH3gaGioo6dja/70x100/1727768188.jpeg?s=faa686cc396c425f96a5ac9bc92e380c561730ee",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/03_0076a_9dNqoFcDBKUhH3gaGioo6dja/150x210/1727768188.jpeg?s=a52524a302ddd89675b6c8e4744d15e9d46da140",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/03_0076a_9dNqoFcDBKUhH3gaGioo6dja/310x430/1727768188.jpeg?s=c43263cdf8daae1cfad10b9376267a7311a1a2dc",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/03_0076a_9dNqoFcDBKUhH3gaGioo6dja/f800/1727768188.jpeg?s=8bf99d7bb3424a488a4e597a21ddb9dc028c1aaa",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/03_0076a_9dNqoFcDBKUhH3gaGioo6dja/f800/1727768188.jpeg?s=8bf99d7bb3424a488a4e597a21ddb9dc028c1aaa",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/03_0076a_9dNqoFcDBKUhH3gaGioo6dja/f800/1727768188.jpeg?s=8bf99d7bb3424a488a4e597a21ddb9dc028c1aaa",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "03_0076a_9dNqoFcDBKUhH3gaGioo6dja",
+          "timestamp": 1727768188,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/03_0076a_9dNqoFcDBKUhH3gaGioo6dja/1727768188.jpeg?s=04a4304d28018a1b33da3820caeb625732d82e59",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 2,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "0.76",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "1.96",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Prématuré, jusqu'à 44cm",
+      "content_source": "search",
+      "status": "Très bon état",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Prématuré, jusqu'à 44cm",
+        "accessibility_label": "Lego super Mario plat 2x2 avec scanner code goomba, marque: LEGO, état: Très bon état, taille: Prématuré, jusqu'à 44cm, 1,20 €, 1,96 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 37.346455,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5633736367,
+      "title": "Lego supermario the bowser express train",
+      "price": {
+        "amount": "89.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5633736367-lego-supermario-the-bowser-express-train",
+      "user": {
+        "id": 194787886,
+        "login": "tennisaddicts",
+        "profile_url": "https://www.vinted.fr/member/194787886-tennisaddicts",
+        "photo": {
+          "id": 185776051,
+          "width": 800,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_0164a_c9vsLhFpa6rS9NNkw6e4c4iZ/f800/1711450679.jpeg?s=2a34c472ab1baaffae491ede09e801f650d6353a",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_0164a_c9vsLhFpa6rS9NNkw6e4c4iZ/310x310/1711450679.jpeg?s=3510854e565b89f14932d224748507fc0d24e5fc",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_0164a_c9vsLhFpa6rS9NNkw6e4c4iZ/150x150/1711450679.jpeg?s=ea57f315eea7ef52c3c7b406c906bacfa376c7bd",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_0164a_c9vsLhFpa6rS9NNkw6e4c4iZ/100x100/1711450679.jpeg?s=504a7f9e4d7c6d3517017b1de65008495727ff10",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_0164a_c9vsLhFpa6rS9NNkw6e4c4iZ/50x50/1711450679.jpeg?s=5ddaa67a771198a5be3adf892507713e362d7ad5",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_0164a_c9vsLhFpa6rS9NNkw6e4c4iZ/20x20/1711450679.jpeg?s=9c10628ddac00a1c498ae59b0d28590e32d87a02",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_0164a_c9vsLhFpa6rS9NNkw6e4c4iZ",
+            "timestamp": 1711450679,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_0164a_c9vsLhFpa6rS9NNkw6e4c4iZ/1711450679.jpeg?s=2884c87181036a49009ca6cc3672b8785e58e435",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5633736367-lego-supermario-the-bowser-express-train",
+      "promoted": false,
+      "photo": {
+        "id": 22817542570,
+        "image_no": 1,
+        "width": 756,
+        "height": 800,
+        "dominant_color": "#7B5B43",
+        "dominant_color_opaque": "#D7CEC7",
+        "url": "https://images1.vinted.net/t/04_0254d_cXrfZH9M8pG9DyReY3KPQdUq/f800/1736593520.jpeg?s=f1b1eeddcce8a6393c01cf68af68fc9ff1a6966d",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_0254d_cXrfZH9M8pG9DyReY3KPQdUq/70x100/1736593520.jpeg?s=ef299e173d756ddbf021ca769ebc70f953f845de",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_0254d_cXrfZH9M8pG9DyReY3KPQdUq/150x210/1736593520.jpeg?s=4dadc7c22cb217da0593b6bd187c04d6dd956f29",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_0254d_cXrfZH9M8pG9DyReY3KPQdUq/310x430/1736593520.jpeg?s=313ac83c63b899aaa2c388cecd5942fdd2d22ce8",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_0254d_cXrfZH9M8pG9DyReY3KPQdUq/f800/1736593520.jpeg?s=f1b1eeddcce8a6393c01cf68af68fc9ff1a6966d",
+            "width": 404,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_0254d_cXrfZH9M8pG9DyReY3KPQdUq/f800/1736593520.jpeg?s=f1b1eeddcce8a6393c01cf68af68fc9ff1a6966d",
+            "width": 589,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_0254d_cXrfZH9M8pG9DyReY3KPQdUq/f800/1736593520.jpeg?s=f1b1eeddcce8a6393c01cf68af68fc9ff1a6966d",
+            "width": 343,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_0254d_cXrfZH9M8pG9DyReY3KPQdUq",
+          "timestamp": 1736593520,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_0254d_cXrfZH9M8pG9DyReY3KPQdUq/1736593520.jpeg?s=4fbe6103d1f7dfb52559118bd168867383ae1534",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 28,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "5.15",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "94.15",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego supermario the bowser express train, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 89,00 €, 94,15 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 37.127808,
+        "matched_queries": []
+      }
+    }
+  ],
+  "dominant_brand": {
+    "id": 89162,
+    "title": "LEGO",
+    "slug": "lego",
+    "favourite_count": 185159,
+    "pretty_favourite_count": "185.2K",
+    "item_count": 2321353,
+    "pretty_item_count": "2.3M",
+    "is_visible_in_listings": true,
+    "requires_authenticity_check": false,
+    "is_luxury": false,
+    "is_hvf": false,
+    "path": "/brand/89162-lego",
+    "url": "https://www.vinted.fr/brand/89162-lego",
+    "is_favourite": false
+  },
+  "search_tracking_params": {
+    "search_correlation_id": "3eb58099-a10e-4bec-b020-bedc18666c34",
+    "search_session_id": "9be47e88-5d14-4f17-a466-b31ec50370ba",
+    "global_search_session_id": "b2eb8a79-d649-4c4f-9da7-8241a8cf33a4"
+  },
+  "pagination": {
+    "current_page": 1,
+    "total_pages": 1,
+    "total_entries": 2,
+    "per_page": 96,
+    "time": 1741612903
+  },
+  "code": 0
+}

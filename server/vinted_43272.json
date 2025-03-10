@@ -1,0 +1,17 @@
+{
+  "items": [],
+  "dominant_brand": null,
+  "search_tracking_params": {
+    "search_correlation_id": "b3e99675-ad8e-4640-a52a-78024e992406",
+    "search_session_id": "2a2e6814-dc7e-4285-8dfc-d6d6f84632dd",
+    "global_search_session_id": "dfbf8117-8823-4529-a79a-f7d998aa4fd7"
+  },
+  "pagination": {
+    "current_page": 1,
+    "total_pages": 1,
+    "total_entries": 0,
+    "per_page": 960,
+    "time": 1741612908
+  },
+  "code": 0
+}

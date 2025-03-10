@@ -1,0 +1,2948 @@
+{
+  "items": [
+    {
+      "id": 5772707070,
+      "title": "Lego Harry Potter 76442 : Le cours de Sortilèges",
+      "price": {
+        "amount": "17.9",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5772707070-lego-harry-potter-76442-le-cours-de-sortileges",
+      "user": {
+        "id": 170732852,
+        "login": "wakatoune",
+        "profile_url": "https://www.vinted.fr/member/170732852-wakatoune",
+        "photo": {
+          "id": 166022649,
+          "width": 308,
+          "height": 169,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_00cf8_eDposJr4WtK5sLaxxGgKi31Y/f800/1699370859.jpeg?s=529f1b94e278bbf4e35fa40b1a5a4cdbac2805b3",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_00cf8_eDposJr4WtK5sLaxxGgKi31Y/310x310/1699370859.jpeg?s=790e66dcd67c1fb77266456b89a84df09ad341d7",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_00cf8_eDposJr4WtK5sLaxxGgKi31Y/150x150/1699370859.jpeg?s=3d863b5a4cff5ebba2e4bb0e2a45e3be7778ebc8",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_00cf8_eDposJr4WtK5sLaxxGgKi31Y/100x100/1699370859.jpeg?s=08b7f979b1e8f823eb91be996e3cc9f7dd810fd3",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_00cf8_eDposJr4WtK5sLaxxGgKi31Y/50x50/1699370859.jpeg?s=74ec0199413263caffaa7221387646416017ea49",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_00cf8_eDposJr4WtK5sLaxxGgKi31Y/20x20/1699370859.jpeg?s=bfbcf6bbac99d35953e485a8303040d7f50faf5d",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_00cf8_eDposJr4WtK5sLaxxGgKi31Y",
+            "timestamp": 1699370859,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_00cf8_eDposJr4WtK5sLaxxGgKi31Y/1699370859.jpeg?s=59de1db2de7640dec9941b1bec36f6b1ecd5bef2",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5772707070-lego-harry-potter-76442-le-cours-de-sortileges",
+      "promoted": false,
+      "photo": {
+        "id": 23389509415,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#7D655A",
+        "dominant_color_opaque": "#D8D1CE",
+        "url": "https://images1.vinted.net/t/04_01553_6hLZn6X55NogWKp7AJziWM3D/f800/1738846878.jpeg?s=a2bef4191f7ba5f665c57730a43addcafe9acfd7",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_01553_6hLZn6X55NogWKp7AJziWM3D/70x100/1738846878.jpeg?s=2aefbc0d69b2cbd5215165bf98525584cd463d81",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_01553_6hLZn6X55NogWKp7AJziWM3D/150x210/1738846878.jpeg?s=758405e2d6b15fc1adb7ef5c4e054bfe347d519f",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_01553_6hLZn6X55NogWKp7AJziWM3D/310x430/1738846878.jpeg?s=6fe16b0b5c7551f3f01b7e0471801230206a335d",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_01553_6hLZn6X55NogWKp7AJziWM3D/f800/1738846878.jpeg?s=a2bef4191f7ba5f665c57730a43addcafe9acfd7",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_01553_6hLZn6X55NogWKp7AJziWM3D/f800/1738846878.jpeg?s=a2bef4191f7ba5f665c57730a43addcafe9acfd7",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_01553_6hLZn6X55NogWKp7AJziWM3D/f800/1738846878.jpeg?s=a2bef4191f7ba5f665c57730a43addcafe9acfd7",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_01553_6hLZn6X55NogWKp7AJziWM3D",
+          "timestamp": 1738846878,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_01553_6hLZn6X55NogWKp7AJziWM3D/1738846878.jpeg?s=fc62f11fab5e61c8841a92c8e835c7b068003a0e",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 28,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "1.6",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "19.5",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "6 ans / 116 cm",
+      "content_source": "search",
+      "status": "Neuf sans étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "6 ans / 116 cm",
+        "accessibility_label": "Lego Harry Potter 76442 : Le cours de Sortilèges, marque: LEGO, état: Neuf sans étiquette, taille: 6 ans / 116 cm, 17,90 €, 19,50 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 4.265677928924561,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5929465301,
+      "title": "LEGO 76435 - Harry Potter the great Hall -",
+      "price": {
+        "amount": "155.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5929465301-lego-76435-harry-potter-the-great-hall",
+      "user": {
+        "id": 87257255,
+        "login": "luca0880",
+        "profile_url": "https://www.vinted.fr/member/87257255-luca0880",
+        "photo": {
+          "id": 164180809,
+          "width": 600,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_0216b_rqFRtbiYbNjuxxHAdhUgRftz/f800/1698406869.jpeg?s=949ef53f37e28558e8dab668871a23a5dece9846",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_0216b_rqFRtbiYbNjuxxHAdhUgRftz/310x310/1698406869.jpeg?s=8818156f2e1ee888bcbf110605cfeacde2ed8567",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_0216b_rqFRtbiYbNjuxxHAdhUgRftz/150x150/1698406869.jpeg?s=6d78f2765d238d70b19f7921902def98502fe056",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_0216b_rqFRtbiYbNjuxxHAdhUgRftz/100x100/1698406869.jpeg?s=06f69c24f455268e8ce600d63cae98ae7d834113",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_0216b_rqFRtbiYbNjuxxHAdhUgRftz/50x50/1698406869.jpeg?s=be91e1ae8223b209834b702df7248b4a5ca46d42",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_0216b_rqFRtbiYbNjuxxHAdhUgRftz/20x20/1698406869.jpeg?s=5fc5d67fd0f654dd3d9298915252c7af4ad69656",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_0216b_rqFRtbiYbNjuxxHAdhUgRftz",
+            "timestamp": 1698406869,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_0216b_rqFRtbiYbNjuxxHAdhUgRftz/1698406869.jpeg?s=e7a19aae3ca1dbc6e38a3b3ebe38508e022d36b1",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5929465301-lego-76435-harry-potter-the-great-hall",
+      "promoted": false,
+      "photo": {
+        "id": 24041014427,
+        "image_no": 1,
+        "width": 369,
+        "height": 800,
+        "dominant_color": "#51473D",
+        "dominant_color_opaque": "#CBC8C5",
+        "url": "https://images1.vinted.net/t/03_01cb9_C7mE1PhBNitwfE9wMYKqckzr/f800/1741372576.jpeg?s=0fc88c8a4cac076344ac03863fc11b9d1bf3b6e7",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/03_01cb9_C7mE1PhBNitwfE9wMYKqckzr/70x100/1741372576.jpeg?s=73e62c276c1da27383033d19b37e4d32e0144e7a",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/03_01cb9_C7mE1PhBNitwfE9wMYKqckzr/150x210/1741372576.jpeg?s=222d71aba7eab4a6c69609783e7e61dfcc383a9b",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/03_01cb9_C7mE1PhBNitwfE9wMYKqckzr/310x430/1741372576.jpeg?s=c662fa05367d8f226163fb932ae3e1d402cc8192",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/03_01cb9_C7mE1PhBNitwfE9wMYKqckzr/f800/1741372576.jpeg?s=0fc88c8a4cac076344ac03863fc11b9d1bf3b6e7",
+            "width": 197,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/03_01cb9_C7mE1PhBNitwfE9wMYKqckzr/f800/1741372576.jpeg?s=0fc88c8a4cac076344ac03863fc11b9d1bf3b6e7",
+            "width": 287,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/03_01cb9_C7mE1PhBNitwfE9wMYKqckzr/f800/1741372576.jpeg?s=0fc88c8a4cac076344ac03863fc11b9d1bf3b6e7",
+            "width": 167,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "03_01cb9_C7mE1PhBNitwfE9wMYKqckzr",
+          "timestamp": 1741372576,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/03_01cb9_C7mE1PhBNitwfE9wMYKqckzr/1741372576.jpeg?s=346a9813201287b83e31c20642bbbc210797c0db",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 13,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "8.45",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "163.45",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Très bon état",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "LEGO 76435 - Harry Potter the great Hall -, marque: LEGO, état: Très bon état, taille: Taille unique, 155,00 €, 163,45 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 4.252752780914307,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5944346674,
+      "title": "Lego Harry Potter 76435 neuf scelle",
+      "price": {
+        "amount": "130.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5944346674-lego-harry-potter-76435-neuf-scelle",
+      "user": {
+        "id": 39790275,
+        "login": "toad27",
+        "profile_url": "https://www.vinted.fr/member/39790275-toad27",
+        "photo": {
+          "id": 108189714,
+          "width": 96,
+          "height": 96,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/03_00061_2asEGKd7KGYWZepqyL36Xgz9/f800/1664127039.jpeg?s=45a11458ae100eb7d0dd708d4a5211d91cde2ec4",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/03_00061_2asEGKd7KGYWZepqyL36Xgz9/310x310/1664127039.jpeg?s=59c55830640fa9d4660f9e9120d27b7a4f71daba",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/03_00061_2asEGKd7KGYWZepqyL36Xgz9/150x150/1664127039.jpeg?s=996ebf423e52b06e2dfd5c9285dc164224e7a278",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/03_00061_2asEGKd7KGYWZepqyL36Xgz9/100x100/1664127039.jpeg?s=26793e76517e2f0026e33c26bed253cfb34ac824",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/03_00061_2asEGKd7KGYWZepqyL36Xgz9/50x50/1664127039.jpeg?s=a3dba11accae228dae0c71be34af639e5643ec4f",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/03_00061_2asEGKd7KGYWZepqyL36Xgz9/20x20/1664127039.jpeg?s=3e00e6539b70106916773fffe18e3efaf17b91ae",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "03_00061_2asEGKd7KGYWZepqyL36Xgz9",
+            "timestamp": 1664127039,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/03_00061_2asEGKd7KGYWZepqyL36Xgz9/1664127039.jpeg?s=29c64d2277f1dd39aecfad5d72f20d17e7dc5713",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5944346674-lego-harry-potter-76435-neuf-scelle",
+      "promoted": false,
+      "photo": {
+        "id": 24102886066,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#705A56",
+        "dominant_color_opaque": "#D4CECC",
+        "url": "https://images1.vinted.net/t/04_01625_fAXo5m1ZKy6AhZxuqhs8Y9PV/f800/1741605213.jpeg?s=0e27d8be39aaf05f067ab2f84af1820c2e59223b",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_01625_fAXo5m1ZKy6AhZxuqhs8Y9PV/70x100/1741605213.jpeg?s=c18d3ba6867c94861c6dc6bf941931ff34c672ab",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_01625_fAXo5m1ZKy6AhZxuqhs8Y9PV/150x210/1741605213.jpeg?s=5c3955ad43ea0ab616ddcc503d735f0798d583f9",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_01625_fAXo5m1ZKy6AhZxuqhs8Y9PV/310x430/1741605213.jpeg?s=deb0b03ea072d7afaa25a0c570f7b0dd47e8cbf8",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_01625_fAXo5m1ZKy6AhZxuqhs8Y9PV/f800/1741605213.jpeg?s=0e27d8be39aaf05f067ab2f84af1820c2e59223b",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_01625_fAXo5m1ZKy6AhZxuqhs8Y9PV/f800/1741605213.jpeg?s=0e27d8be39aaf05f067ab2f84af1820c2e59223b",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_01625_fAXo5m1ZKy6AhZxuqhs8Y9PV/f800/1741605213.jpeg?s=0e27d8be39aaf05f067ab2f84af1820c2e59223b",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_01625_fAXo5m1ZKy6AhZxuqhs8Y9PV",
+          "timestamp": 1741605213,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_01625_fAXo5m1ZKy6AhZxuqhs8Y9PV/1741605213.jpeg?s=9349689835a5e0a8327d356dfaf8da1f61bed0f3",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 8,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "7.2",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "137.2",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego Harry Potter 76435 neuf scelle, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 130,00 €, 137,20 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 3.89872407913208,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5438551073,
+      "title": "Lego 76435 , fat friar , Harry Potter , nieuw met beker",
+      "price": {
+        "amount": "11.55",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5438551073-lego-76435-fat-friar-harry-potter-nieuw-met-beker",
+      "user": {
+        "id": 29794132,
+        "login": "ericsson007",
+        "profile_url": "https://www.vinted.fr/member/29794132-ericsson007",
+        "photo": {
+          "id": 212901749,
+          "width": 450,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/01_0046e_2dq16WM49pax4aiwDpWhF3kc/f800/1728571753.jpeg?s=ac0333e3a30bbf108564c669ac64d5e1a5667b2e",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/01_0046e_2dq16WM49pax4aiwDpWhF3kc/310x310/1728571753.jpeg?s=cf5d352c40c421b21a72aa84ff986c3fd951a942",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/01_0046e_2dq16WM49pax4aiwDpWhF3kc/150x150/1728571753.jpeg?s=71782a5ba4a1af6b02e87ad986ff15841792f537",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/01_0046e_2dq16WM49pax4aiwDpWhF3kc/100x100/1728571753.jpeg?s=dc806200560cd892ad8bf9c97163f2cfc34681f1",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/01_0046e_2dq16WM49pax4aiwDpWhF3kc/50x50/1728571753.jpeg?s=7b4e45f427a65cecfe5c6b43d03d0a117b40ffda",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/01_0046e_2dq16WM49pax4aiwDpWhF3kc/20x20/1728571753.jpeg?s=3de89dcb268099756de68977076808d159619045",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "01_0046e_2dq16WM49pax4aiwDpWhF3kc",
+            "timestamp": 1728571753,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/01_0046e_2dq16WM49pax4aiwDpWhF3kc/1728571753.jpeg?s=72d8e63fb86bb5d84bd532f0309f7e12a5b3e67d",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5438551073-lego-76435-fat-friar-harry-potter-nieuw-met-beker",
+      "promoted": false,
+      "photo": {
+        "id": 22016443232,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#528996",
+        "dominant_color_opaque": "#CBDCE0",
+        "url": "https://images1.vinted.net/t/04_01340_XNmoW4ZHMFZH4hhWzfMV7kcU/f800/1732485487.jpeg?s=69cc85cd2f4768d33bd837d7b098745bd419bd44",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_01340_XNmoW4ZHMFZH4hhWzfMV7kcU/70x100/1732485487.jpeg?s=1bf11769e5b4eda6d70b34393dd9815c301ad002",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_01340_XNmoW4ZHMFZH4hhWzfMV7kcU/150x210/1732485487.jpeg?s=4d63f045829aee42a5a6342e4ffad1d6511f955b",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_01340_XNmoW4ZHMFZH4hhWzfMV7kcU/310x430/1732485487.jpeg?s=70f90e3c88858a2976d59e3fd3c91937f83dc0ac",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_01340_XNmoW4ZHMFZH4hhWzfMV7kcU/f800/1732485487.jpeg?s=69cc85cd2f4768d33bd837d7b098745bd419bd44",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_01340_XNmoW4ZHMFZH4hhWzfMV7kcU/f800/1732485487.jpeg?s=69cc85cd2f4768d33bd837d7b098745bd419bd44",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_01340_XNmoW4ZHMFZH4hhWzfMV7kcU/f800/1732485487.jpeg?s=69cc85cd2f4768d33bd837d7b098745bd419bd44",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_01340_XNmoW4ZHMFZH4hhWzfMV7kcU",
+          "timestamp": 1732485487,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_01340_XNmoW4ZHMFZH4hhWzfMV7kcU/1732485487.jpeg?s=51780aa3270542e1db6ae75b9e4a9448c7fd1cb6",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 2,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "1.28",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "12.83",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf sans étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego 76435 , fat friar , Harry Potter , nieuw met beker, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 11,55 €, 12,83 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 3.779293537139893,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5942729751,
+      "title": "Lego 76435 Harry potter - le château de Poudlard - Neuf",
+      "price": {
+        "amount": "165.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5942729751-lego-76435-harry-potter-le-chateau-de-poudlard-neuf",
+      "user": {
+        "id": 98902254,
+        "login": "bmwnico.07",
+        "profile_url": "https://www.vinted.fr/member/98902254-bmwnico07",
+        "photo": {
+          "id": 97620563,
+          "width": 96,
+          "height": 96,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/01_024e9_xKuJn3gBgMxGrF4CXCUEWYz1/f800/1656532996.jpeg?s=ab220dcb6b13018633e6429f85642b138977b2eb",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/01_024e9_xKuJn3gBgMxGrF4CXCUEWYz1/310x310/1656532996.jpeg?s=84894ee58261e755d1d1e083dd5340935fd78aea",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/01_024e9_xKuJn3gBgMxGrF4CXCUEWYz1/150x150/1656532996.jpeg?s=e24d0d2b827447dbe773cf29c1a8e686aefc3801",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/01_024e9_xKuJn3gBgMxGrF4CXCUEWYz1/100x100/1656532996.jpeg?s=ea5e09caa949355d427ff5c79d63ac993d1dc32b",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/01_024e9_xKuJn3gBgMxGrF4CXCUEWYz1/50x50/1656532996.jpeg?s=3f6f61a67bb416ee7c2d16ec6b7cdc61f122aff9",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/01_024e9_xKuJn3gBgMxGrF4CXCUEWYz1/20x20/1656532996.jpeg?s=914537c3fd31ce053d538dac603b3ff7af83bab9",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "01_024e9_xKuJn3gBgMxGrF4CXCUEWYz1",
+            "timestamp": 1656532996,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/01_024e9_xKuJn3gBgMxGrF4CXCUEWYz1/1656532996.jpeg?s=ddf0430c0e916f4a6c765903e7d8fcc732aa812b",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5942729751-lego-76435-harry-potter-le-chateau-de-poudlard-neuf",
+      "promoted": false,
+      "photo": {
+        "id": 24096242402,
+        "image_no": 1,
+        "width": 800,
+        "height": 600,
+        "dominant_color": "#9D8E7A",
+        "dominant_color_opaque": "#E2DDD7",
+        "url": "https://images1.vinted.net/t/04_01142_bVxvnHtAEyoeVoUz5PaCkV15/f800/1741555275.jpeg?s=d8f1045a75cc857a2a1881d155e8264ed37d25f6",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_01142_bVxvnHtAEyoeVoUz5PaCkV15/70x100/1741555275.jpeg?s=db83801ada2cd3602ce63669a2c0179093a60c25",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_01142_bVxvnHtAEyoeVoUz5PaCkV15/150x210/1741555275.jpeg?s=b8595551dc74acec0bafeaa603be45c4088f6508",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_01142_bVxvnHtAEyoeVoUz5PaCkV15/310x430/1741555275.jpeg?s=85d035d163ccef0167f39a8a7949eb134fc66e73",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_01142_bVxvnHtAEyoeVoUz5PaCkV15/f800/1741555275.jpeg?s=d8f1045a75cc857a2a1881d155e8264ed37d25f6",
+            "width": 428,
+            "height": 321,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_01142_bVxvnHtAEyoeVoUz5PaCkV15/f800/1741555275.jpeg?s=d8f1045a75cc857a2a1881d155e8264ed37d25f6",
+            "width": 624,
+            "height": 468,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_01142_bVxvnHtAEyoeVoUz5PaCkV15/f800/1741555275.jpeg?s=d8f1045a75cc857a2a1881d155e8264ed37d25f6",
+            "width": 364,
+            "height": 273,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_01142_bVxvnHtAEyoeVoUz5PaCkV15",
+          "timestamp": 1741555275,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_01142_bVxvnHtAEyoeVoUz5PaCkV15/1741555275.jpeg?s=5eb5328a12262d39aaaadd6f5312e6f40ef357f1",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 8,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "8.95",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "173.95",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego 76435 Harry potter - le château de Poudlard - Neuf, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 165,00 €, 173,95 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 3.778837203979492,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5592784721,
+      "title": "Lego 76435 Hogwarts Castle: The Great Hall",
+      "price": {
+        "amount": "125.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5592784721-lego-76435-hogwarts-castle-the-great-hall",
+      "user": {
+        "id": 65207696,
+        "login": "barbarasilva8",
+        "profile_url": "https://www.vinted.fr/member/65207696-barbarasilva8",
+        "photo": {
+          "id": 63015941,
+          "width": 599,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/03_014c1_udBRN1xscrBCiSad1T2rGRU1/f800/1626647763.jpeg?s=fbacf3074f971e5d1d098dea6cdd2f478e8c8b29",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/03_014c1_udBRN1xscrBCiSad1T2rGRU1/310x310/1626647763.jpeg?s=3652f526e8add5f7de78f214a5f28d1f37812b44",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/03_014c1_udBRN1xscrBCiSad1T2rGRU1/150x150/1626647763.jpeg?s=9212c73fd8492d5afeaa9dc792189af6857640e0",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/03_014c1_udBRN1xscrBCiSad1T2rGRU1/100x100/1626647763.jpeg?s=c09cb1a8a1dc28223ac0ded70fa4b1f523e23aa7",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/03_014c1_udBRN1xscrBCiSad1T2rGRU1/50x50/1626647763.jpeg?s=10d406196a6327f8e0b0ecae8c41091d31b396ad",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/03_014c1_udBRN1xscrBCiSad1T2rGRU1/20x20/1626647763.jpeg?s=2213654ae5f498670fe9b45c05b1ec1b8b7e265b",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "03_014c1_udBRN1xscrBCiSad1T2rGRU1",
+            "timestamp": 1626647763,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/03_014c1_udBRN1xscrBCiSad1T2rGRU1/1626647763.jpeg?s=da16f51602d9ba8d0ec6d53b0e31e076c53cb142",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5592784721-lego-76435-hogwarts-castle-the-great-hall",
+      "promoted": false,
+      "photo": {
+        "id": 22652026775,
+        "image_no": 1,
+        "width": 800,
+        "height": 764,
+        "dominant_color": "#928F80",
+        "dominant_color_opaque": "#DEDDD9",
+        "url": "https://images1.vinted.net/t/03_01c1e_3oyzSVEm6XHRHxVWsz3n3QAh/f800/1735904005.jpeg?s=aec9c06c6dc7a0a16b42307bbad39aeaafa34c5a",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/03_01c1e_3oyzSVEm6XHRHxVWsz3n3QAh/70x100/1735904005.jpeg?s=06277a18b74066ee56b24fa11211fa0d5acc5ff2",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/03_01c1e_3oyzSVEm6XHRHxVWsz3n3QAh/150x210/1735904005.jpeg?s=32e2ab3c6a039f733309c1f11952ce9dbb4bf6b2",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/03_01c1e_3oyzSVEm6XHRHxVWsz3n3QAh/310x430/1735904005.jpeg?s=b416666fc0f036552c317a6e20c0fcfba2c6079c",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/03_01c1e_3oyzSVEm6XHRHxVWsz3n3QAh/f800/1735904005.jpeg?s=aec9c06c6dc7a0a16b42307bbad39aeaafa34c5a",
+            "width": 428,
+            "height": 409,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/03_01c1e_3oyzSVEm6XHRHxVWsz3n3QAh/f800/1735904005.jpeg?s=aec9c06c6dc7a0a16b42307bbad39aeaafa34c5a",
+            "width": 624,
+            "height": 596,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/03_01c1e_3oyzSVEm6XHRHxVWsz3n3QAh/f800/1735904005.jpeg?s=aec9c06c6dc7a0a16b42307bbad39aeaafa34c5a",
+            "width": 364,
+            "height": 347,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "03_01c1e_3oyzSVEm6XHRHxVWsz3n3QAh",
+          "timestamp": 1735904005,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/03_01c1e_3oyzSVEm6XHRHxVWsz3n3QAh/1735904005.jpeg?s=9f11296d29cf5553f747c218a84895f2241f1cfe",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 34,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "6.95",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "131.95",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf sans étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego 76435 Hogwarts Castle: The Great Hall, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 125,00 €, 131,95 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 3.243012189865112,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5431309396,
+      "title": "LEGO Harry Potter - HP281",
+      "price": {
+        "amount": "3.19",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5431309396-lego-harry-potter-hp281",
+      "user": {
+        "id": 223372947,
+        "login": "corentinfrancoislego",
+        "profile_url": "https://www.vinted.fr/member/223372947-corentinfrancoislego",
+        "photo": {
+          "id": 204655926,
+          "width": 615,
+          "height": 707,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_026b0_j3kMwPcjA6EW9CjN1LMzY81t/f800/1724184199.jpeg?s=1d58d035038bdf5b965b33d543ea66a101e4558e",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_026b0_j3kMwPcjA6EW9CjN1LMzY81t/310x310/1724184199.jpeg?s=97855b58cae1a1ee7c4f950c8b2883297220d794",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_026b0_j3kMwPcjA6EW9CjN1LMzY81t/150x150/1724184199.jpeg?s=406899bd4bb9056f265a25f31758e696c2e49308",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_026b0_j3kMwPcjA6EW9CjN1LMzY81t/100x100/1724184199.jpeg?s=7cdd027d2358f533e8af7a9c299a57b76fb20ec9",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_026b0_j3kMwPcjA6EW9CjN1LMzY81t/50x50/1724184199.jpeg?s=a2bb2501b0bbdac5838abab2f6f74984af85480a",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_026b0_j3kMwPcjA6EW9CjN1LMzY81t/20x20/1724184199.jpeg?s=6057300e18216585958eacd28e9ccceb791e15fe",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_026b0_j3kMwPcjA6EW9CjN1LMzY81t",
+            "timestamp": 1724184199,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_026b0_j3kMwPcjA6EW9CjN1LMzY81t/1724184199.jpeg?s=4e5a8b0b166372bf88349a2f5a55f789b861eeb9",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5431309396-lego-harry-potter-hp281",
+      "promoted": false,
+      "photo": {
+        "id": 21986867372,
+        "image_no": 1,
+        "width": 799,
+        "height": 800,
+        "dominant_color": "#282731",
+        "dominant_color_opaque": "#BFBEC1",
+        "url": "https://images1.vinted.net/t/02_006b8_qDHHjzAMWJUodJNsngQVtM89/f800/1732395117.jpeg?s=876a67f320959bee3c411c17e7968d0d96ec451b",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/02_006b8_qDHHjzAMWJUodJNsngQVtM89/70x100/1732395117.jpeg?s=11d612f221ba108ff73c7aa738ef2a1156bc36e1",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/02_006b8_qDHHjzAMWJUodJNsngQVtM89/150x210/1732395117.jpeg?s=713bc6b28c7fb2af017f048620c6c0b11274cea6",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/02_006b8_qDHHjzAMWJUodJNsngQVtM89/310x430/1732395117.jpeg?s=a8e565997540f65443bfc0861a4c285837f69f76",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/02_006b8_qDHHjzAMWJUodJNsngQVtM89/f800/1732395117.jpeg?s=876a67f320959bee3c411c17e7968d0d96ec451b",
+            "width": 427,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/02_006b8_qDHHjzAMWJUodJNsngQVtM89/f800/1732395117.jpeg?s=876a67f320959bee3c411c17e7968d0d96ec451b",
+            "width": 623,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/02_006b8_qDHHjzAMWJUodJNsngQVtM89/f800/1732395117.jpeg?s=876a67f320959bee3c411c17e7968d0d96ec451b",
+            "width": 363,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "02_006b8_qDHHjzAMWJUodJNsngQVtM89",
+          "timestamp": 1732395117,
+          "orientation": 0
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/02_006b8_qDHHjzAMWJUodJNsngQVtM89/1732395117.jpeg?s=46bcfa18eb1acde84044f5e1c8d79758ce78736a",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 1,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "0.86",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "4.05",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Prématuré, jusqu'à 44cm",
+      "content_source": "search",
+      "status": "Neuf sans étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Prématuré, jusqu'à 44cm",
+        "accessibility_label": "LEGO Harry Potter - HP281, marque: LEGO, état: Neuf sans étiquette, taille: Prématuré, jusqu'à 44cm, 3,19 €, 4,05 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 3.007723331451416,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5588288099,
+      "title": "LEGO Castello di Hogwarts: Sala Grande 76435",
+      "price": {
+        "amount": "125.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5588288099-lego-castello-di-hogwarts-sala-grande-76435",
+      "user": {
+        "id": 164035339,
+        "login": "danone1996",
+        "profile_url": "https://www.vinted.fr/member/164035339-danone1996",
+        "photo": {
+          "id": 167836865,
+          "width": 600,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/01_00209_dNynALzX2YPSD9BtXacoBjY8/f800/1700338864.jpeg?s=25ba8c58439dfc13b853edde80816c2907c99e33",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/01_00209_dNynALzX2YPSD9BtXacoBjY8/310x310/1700338864.jpeg?s=373d58ba8c6fe24591c99ac107eea91016ab400f",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/01_00209_dNynALzX2YPSD9BtXacoBjY8/150x150/1700338864.jpeg?s=046bbb6af75c047b26f5fb20de52d91783c9e72a",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/01_00209_dNynALzX2YPSD9BtXacoBjY8/100x100/1700338864.jpeg?s=3b33fe33e438f6223a6de54b118f1c0d9c54bd0c",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/01_00209_dNynALzX2YPSD9BtXacoBjY8/50x50/1700338864.jpeg?s=c3cbc5a2f95a78542aee08549bea27d4694da195",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/01_00209_dNynALzX2YPSD9BtXacoBjY8/20x20/1700338864.jpeg?s=f0c8be549fb29a3a1c14e9029ce6a7133314112d",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "01_00209_dNynALzX2YPSD9BtXacoBjY8",
+            "timestamp": 1700338864,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/01_00209_dNynALzX2YPSD9BtXacoBjY8/1700338864.jpeg?s=d7720a27ac61cd3903bf269320263d60a794ded7",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5588288099-lego-castello-di-hogwarts-sala-grande-76435",
+      "promoted": false,
+      "photo": {
+        "id": 22634194473,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#747064",
+        "dominant_color_opaque": "#D5D4D1",
+        "url": "https://images1.vinted.net/t/02_02559_XhotxTjpMaFYfBWLfAZgUEWC/f800/1735823366.jpeg?s=77995d9781a65ea21670a6e89de31f75eef1fe26",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/02_02559_XhotxTjpMaFYfBWLfAZgUEWC/70x100/1735823366.jpeg?s=25858619324fe5ad17a5cdeb410928a5c7d6d324",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/02_02559_XhotxTjpMaFYfBWLfAZgUEWC/150x210/1735823366.jpeg?s=4eda1ede5b006c035870446a8dd54273e5c7ac07",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/02_02559_XhotxTjpMaFYfBWLfAZgUEWC/310x430/1735823366.jpeg?s=1a67972c47057b7a85ed23816c6228e8d7efeadc",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/02_02559_XhotxTjpMaFYfBWLfAZgUEWC/f800/1735823366.jpeg?s=77995d9781a65ea21670a6e89de31f75eef1fe26",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/02_02559_XhotxTjpMaFYfBWLfAZgUEWC/f800/1735823366.jpeg?s=77995d9781a65ea21670a6e89de31f75eef1fe26",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/02_02559_XhotxTjpMaFYfBWLfAZgUEWC/f800/1735823366.jpeg?s=77995d9781a65ea21670a6e89de31f75eef1fe26",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "02_02559_XhotxTjpMaFYfBWLfAZgUEWC",
+          "timestamp": 1735823366,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/02_02559_XhotxTjpMaFYfBWLfAZgUEWC/1735823366.jpeg?s=b425c65837019c10d7d379e5365d43f0887cffbc",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 24,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "6.95",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "131.95",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf sans étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "LEGO Castello di Hogwarts: Sala Grande 76435, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 125,00 €, 131,95 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 2.926072597503662,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5530347994,
+      "title": "Terry Boot - Harry Potter Lego",
+      "price": {
+        "amount": "10.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5530347994-terry-boot-harry-potter-lego",
+      "user": {
+        "id": 244714365,
+        "login": "giadamalu",
+        "profile_url": "https://www.vinted.fr/member/244714365-giadamalu",
+        "photo": {
+          "id": 228304229,
+          "width": 450,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/01_01df1_xFEpCw1a25C6Hj64VLxUb3B2/f800/1738177189.jpeg?s=6b12f1463553af32822e7e0c670d7d21d66d884a",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/01_01df1_xFEpCw1a25C6Hj64VLxUb3B2/310x310/1738177189.jpeg?s=31a57aa1f324734b55f7eceaac4c885d704cbfe1",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/01_01df1_xFEpCw1a25C6Hj64VLxUb3B2/150x150/1738177189.jpeg?s=7c9a5399845f1a3794b55e32d78afcbd24ee8c99",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/01_01df1_xFEpCw1a25C6Hj64VLxUb3B2/100x100/1738177189.jpeg?s=4a094f21f0260e2c4d932b7a4527fc53d84c10a4",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/01_01df1_xFEpCw1a25C6Hj64VLxUb3B2/50x50/1738177189.jpeg?s=ea3439215c95caf9cf8f1070200fe276cf2ab8c4",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/01_01df1_xFEpCw1a25C6Hj64VLxUb3B2/20x20/1738177189.jpeg?s=7870309139805428f611613fcd535353250ba880",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "01_01df1_xFEpCw1a25C6Hj64VLxUb3B2",
+            "timestamp": 1738177189,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/01_01df1_xFEpCw1a25C6Hj64VLxUb3B2/1738177189.jpeg?s=42b4af0adb645688b434b2ce5325f35b0419416a",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5530347994-terry-boot-harry-potter-lego",
+      "promoted": false,
+      "photo": {
+        "id": 22397485867,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#7B726C",
+        "dominant_color_opaque": "#D7D5D3",
+        "url": "https://images1.vinted.net/t/03_01275_Ex2bD2z95Yhs86KQTmt6Ngue/f800/1734275142.jpeg?s=8341d03f5213fd13d77fc0238398388e12132914",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/03_01275_Ex2bD2z95Yhs86KQTmt6Ngue/70x100/1734275142.jpeg?s=5e8a690a0d85d8b19e376031deaea1a6a53454b9",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/03_01275_Ex2bD2z95Yhs86KQTmt6Ngue/150x210/1734275142.jpeg?s=620121814af0021615243e137bacfc2e0b297bf9",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/03_01275_Ex2bD2z95Yhs86KQTmt6Ngue/310x430/1734275142.jpeg?s=2684190f5b53b47c7ff336bd77aa81aa920be9ac",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/03_01275_Ex2bD2z95Yhs86KQTmt6Ngue/f800/1734275142.jpeg?s=8341d03f5213fd13d77fc0238398388e12132914",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/03_01275_Ex2bD2z95Yhs86KQTmt6Ngue/f800/1734275142.jpeg?s=8341d03f5213fd13d77fc0238398388e12132914",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/03_01275_Ex2bD2z95Yhs86KQTmt6Ngue/f800/1734275142.jpeg?s=8341d03f5213fd13d77fc0238398388e12132914",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "03_01275_Ex2bD2z95Yhs86KQTmt6Ngue",
+          "timestamp": 1734275142,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/03_01275_Ex2bD2z95Yhs86KQTmt6Ngue/1734275142.jpeg?s=69d00caaf9bcbcaf7147ebb40810c31624367f2e",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 0,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "1.2",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "11.2",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf sans étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Terry Boot - Harry Potter Lego, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 10,00 €, 11,20 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 2.705046653747559,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5550837781,
+      "title": "Lego 76435",
+      "price": {
+        "amount": "155.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5550837781-lego-76435",
+      "user": {
+        "id": 85423053,
+        "login": "logojuffie",
+        "profile_url": "https://www.vinted.fr/member/85423053-logojuffie",
+        "photo": {
+          "id": 85083675,
+          "width": 694,
+          "height": 462,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/03_0130e_NRGk8kAMS6r1VJGSP11kDa6s/f800/1648383440.jpeg?s=3589db8aafe58660adb933d137216ce236661458",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/03_0130e_NRGk8kAMS6r1VJGSP11kDa6s/310x310/1648383440.jpeg?s=f752362731755e245493702de575d6957dd5176a",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/03_0130e_NRGk8kAMS6r1VJGSP11kDa6s/150x150/1648383440.jpeg?s=8d2dfcd953249cd984b9d0c1c67660f9793d919b",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/03_0130e_NRGk8kAMS6r1VJGSP11kDa6s/100x100/1648383440.jpeg?s=a8bb369618b1a52b818fb25136fd9aa5f68b47dc",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/03_0130e_NRGk8kAMS6r1VJGSP11kDa6s/50x50/1648383440.jpeg?s=158b47b30f2a5fcb22762c463bf2df0be17c5b15",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/03_0130e_NRGk8kAMS6r1VJGSP11kDa6s/20x20/1648383440.jpeg?s=84497d7a83f692476b12a676d5d41d28305cc877",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "03_0130e_NRGk8kAMS6r1VJGSP11kDa6s",
+            "timestamp": 1648383440,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/03_0130e_NRGk8kAMS6r1VJGSP11kDa6s/1648383440.jpeg?s=94c74e82fe2f90ec19bc7bc0251a59225268688c",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5550837781-lego-76435",
+      "promoted": false,
+      "photo": {
+        "id": 22482908234,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#372116",
+        "dominant_color_opaque": "#C3BCB9",
+        "url": "https://images1.vinted.net/t/02_02200_wB68My3xeEcdZP6VhDdDmD5P/f800/1734803837.jpeg?s=d020215a41c329e8b1943a97a784c6cccb4ee1e3",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/02_02200_wB68My3xeEcdZP6VhDdDmD5P/70x100/1734803837.jpeg?s=30a6f4bdfe23da2f5ae2eb5311b6c7226478439e",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/02_02200_wB68My3xeEcdZP6VhDdDmD5P/150x210/1734803837.jpeg?s=7b66e09cda3aa6c1094574a2856e6fa40a6f6bea",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/02_02200_wB68My3xeEcdZP6VhDdDmD5P/310x430/1734803837.jpeg?s=2f0d47dd295a21ec4698936b0c249156e34ed6c5",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/02_02200_wB68My3xeEcdZP6VhDdDmD5P/f800/1734803837.jpeg?s=d020215a41c329e8b1943a97a784c6cccb4ee1e3",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/02_02200_wB68My3xeEcdZP6VhDdDmD5P/f800/1734803837.jpeg?s=d020215a41c329e8b1943a97a784c6cccb4ee1e3",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/02_02200_wB68My3xeEcdZP6VhDdDmD5P/f800/1734803837.jpeg?s=d020215a41c329e8b1943a97a784c6cccb4ee1e3",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "02_02200_wB68My3xeEcdZP6VhDdDmD5P",
+          "timestamp": 1734803837,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/02_02200_wB68My3xeEcdZP6VhDdDmD5P/1734803837.jpeg?s=d10d3d88aa040169594236d6a8e6f10de57b9f6b",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 35,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "8.45",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "163.45",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "10 ans / 140 cm",
+      "content_source": "search",
+      "status": "Neuf sans étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "10 ans / 140 cm",
+        "accessibility_label": "Lego 76435, marque: LEGO, état: Neuf sans étiquette, taille: 10 ans / 140 cm, 155,00 €, 163,45 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 2.566211223602295,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5844285978,
+      "title": "Lego harry potter",
+      "price": {
+        "amount": "165.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5844285978-lego-harry-potter",
+      "user": {
+        "id": 194787886,
+        "login": "tennisaddicts",
+        "profile_url": "https://www.vinted.fr/member/194787886-tennisaddicts",
+        "photo": {
+          "id": 185776051,
+          "width": 800,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_0164a_c9vsLhFpa6rS9NNkw6e4c4iZ/f800/1711450679.jpeg?s=2a34c472ab1baaffae491ede09e801f650d6353a",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_0164a_c9vsLhFpa6rS9NNkw6e4c4iZ/310x310/1711450679.jpeg?s=3510854e565b89f14932d224748507fc0d24e5fc",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_0164a_c9vsLhFpa6rS9NNkw6e4c4iZ/150x150/1711450679.jpeg?s=ea57f315eea7ef52c3c7b406c906bacfa376c7bd",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_0164a_c9vsLhFpa6rS9NNkw6e4c4iZ/100x100/1711450679.jpeg?s=504a7f9e4d7c6d3517017b1de65008495727ff10",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_0164a_c9vsLhFpa6rS9NNkw6e4c4iZ/50x50/1711450679.jpeg?s=5ddaa67a771198a5be3adf892507713e362d7ad5",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_0164a_c9vsLhFpa6rS9NNkw6e4c4iZ/20x20/1711450679.jpeg?s=9c10628ddac00a1c498ae59b0d28590e32d87a02",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_0164a_c9vsLhFpa6rS9NNkw6e4c4iZ",
+            "timestamp": 1711450679,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_0164a_c9vsLhFpa6rS9NNkw6e4c4iZ/1711450679.jpeg?s=2884c87181036a49009ca6cc3672b8785e58e435",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5844285978-lego-harry-potter",
+      "promoted": false,
+      "photo": {
+        "id": 23686124721,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#908268",
+        "dominant_color_opaque": "#DEDAD2",
+        "url": "https://images1.vinted.net/t/04_00d4c_wHf3drMaDvivY45dfVuyV1LF/f800/1739986206.jpeg?s=b4ccb4da0535133593f95a00c4d08bc58eaa6f79",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_00d4c_wHf3drMaDvivY45dfVuyV1LF/70x100/1739986206.jpeg?s=ed912a7ef37ffbd2673f3cdee8eeebe413ed1235",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_00d4c_wHf3drMaDvivY45dfVuyV1LF/150x210/1739986206.jpeg?s=a88bd55656c2795c42eb26c48c703cc29f270427",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_00d4c_wHf3drMaDvivY45dfVuyV1LF/310x430/1739986206.jpeg?s=288777ed475f6d4b38b6d25e7f9eb0bc32954292",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_00d4c_wHf3drMaDvivY45dfVuyV1LF/f800/1739986206.jpeg?s=b4ccb4da0535133593f95a00c4d08bc58eaa6f79",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_00d4c_wHf3drMaDvivY45dfVuyV1LF/f800/1739986206.jpeg?s=b4ccb4da0535133593f95a00c4d08bc58eaa6f79",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_00d4c_wHf3drMaDvivY45dfVuyV1LF/f800/1739986206.jpeg?s=b4ccb4da0535133593f95a00c4d08bc58eaa6f79",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_00d4c_wHf3drMaDvivY45dfVuyV1LF",
+          "timestamp": 1739986206,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_00d4c_wHf3drMaDvivY45dfVuyV1LF/1739986206.jpeg?s=4b5b91cbe3ec8d05c275b91434884c3fd204c319",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 20,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "8.95",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "173.95",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego harry potter, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 165,00 €, 173,95 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 2.51961612701416,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5431332435,
+      "title": "LEGO Ron Weasley - HP283",
+      "price": {
+        "amount": "2.99",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5431332435-lego-ron-weasley-hp283",
+      "user": {
+        "id": 223372947,
+        "login": "corentinfrancoislego",
+        "profile_url": "https://www.vinted.fr/member/223372947-corentinfrancoislego",
+        "photo": {
+          "id": 204655926,
+          "width": 615,
+          "height": 707,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_026b0_j3kMwPcjA6EW9CjN1LMzY81t/f800/1724184199.jpeg?s=1d58d035038bdf5b965b33d543ea66a101e4558e",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_026b0_j3kMwPcjA6EW9CjN1LMzY81t/310x310/1724184199.jpeg?s=97855b58cae1a1ee7c4f950c8b2883297220d794",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_026b0_j3kMwPcjA6EW9CjN1LMzY81t/150x150/1724184199.jpeg?s=406899bd4bb9056f265a25f31758e696c2e49308",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_026b0_j3kMwPcjA6EW9CjN1LMzY81t/100x100/1724184199.jpeg?s=7cdd027d2358f533e8af7a9c299a57b76fb20ec9",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_026b0_j3kMwPcjA6EW9CjN1LMzY81t/50x50/1724184199.jpeg?s=a2bb2501b0bbdac5838abab2f6f74984af85480a",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_026b0_j3kMwPcjA6EW9CjN1LMzY81t/20x20/1724184199.jpeg?s=6057300e18216585958eacd28e9ccceb791e15fe",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_026b0_j3kMwPcjA6EW9CjN1LMzY81t",
+            "timestamp": 1724184199,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_026b0_j3kMwPcjA6EW9CjN1LMzY81t/1724184199.jpeg?s=4e5a8b0b166372bf88349a2f5a55f789b861eeb9",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5431332435-lego-ron-weasley-hp283",
+      "promoted": false,
+      "photo": {
+        "id": 21986959557,
+        "image_no": 1,
+        "width": 799,
+        "height": 800,
+        "dominant_color": "#3C3032",
+        "dominant_color_opaque": "#C5C1C2",
+        "url": "https://images1.vinted.net/t/04_024ef_99DS6KPFrY9JmM5BaTKSyLE3/f800/1732395473.jpeg?s=996f65a7dde332786a7aa92a05c584393c290f09",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_024ef_99DS6KPFrY9JmM5BaTKSyLE3/70x100/1732395473.jpeg?s=47853c53a9f38c1c164cdb16a283f2070e507986",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_024ef_99DS6KPFrY9JmM5BaTKSyLE3/150x210/1732395473.jpeg?s=48793f6c3f5fdca2ba8932fd683c922d873d44fc",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_024ef_99DS6KPFrY9JmM5BaTKSyLE3/310x430/1732395473.jpeg?s=f16df773eae6f7cfe97b04e0905132f12e79a655",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_024ef_99DS6KPFrY9JmM5BaTKSyLE3/f800/1732395473.jpeg?s=996f65a7dde332786a7aa92a05c584393c290f09",
+            "width": 427,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_024ef_99DS6KPFrY9JmM5BaTKSyLE3/f800/1732395473.jpeg?s=996f65a7dde332786a7aa92a05c584393c290f09",
+            "width": 623,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_024ef_99DS6KPFrY9JmM5BaTKSyLE3/f800/1732395473.jpeg?s=996f65a7dde332786a7aa92a05c584393c290f09",
+            "width": 363,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_024ef_99DS6KPFrY9JmM5BaTKSyLE3",
+          "timestamp": 1732395473,
+          "orientation": 0
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_024ef_99DS6KPFrY9JmM5BaTKSyLE3/1732395473.jpeg?s=f76f0cc53872e72e17798dce2a5b839df17a7bc7",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 1,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "0.85",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "3.84",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Prématuré, jusqu'à 44cm",
+      "content_source": "search",
+      "status": "Neuf sans étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Prématuré, jusqu'à 44cm",
+        "accessibility_label": "LEGO Ron Weasley - HP283, marque: LEGO, état: Neuf sans étiquette, taille: Prématuré, jusqu'à 44cm, 2,99 €, 3,84 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 2.459815502166748,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5705714330,
+      "title": "Lego 76435 Le château de Poudlard : la grande salle",
+      "price": {
+        "amount": "170.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5705714330-lego-76435-le-chateau-de-poudlard-la-grande-salle",
+      "user": {
+        "id": 181220039,
+        "login": "isalab33",
+        "profile_url": "https://www.vinted.fr/member/181220039-isalab33",
+        "photo": null,
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5705714330-lego-76435-le-chateau-de-poudlard-la-grande-salle",
+      "promoted": false,
+      "photo": {
+        "id": 23112077125,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#9A8E73",
+        "dominant_color_opaque": "#E1DDD5",
+        "url": "https://images1.vinted.net/t/04_00d08_dRoa3cBq4tHJjVSvdDFZZxYT/f800/1737753471.jpeg?s=111b0e322630c535fedfb89f59760004d7b66f05",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_00d08_dRoa3cBq4tHJjVSvdDFZZxYT/70x100/1737753471.jpeg?s=c56abfbba5e8bc0da895b6747db2204447fcbf65",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_00d08_dRoa3cBq4tHJjVSvdDFZZxYT/150x210/1737753471.jpeg?s=84ccd0efc13e2e90520472a2af8afa006b8d4498",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_00d08_dRoa3cBq4tHJjVSvdDFZZxYT/310x430/1737753471.jpeg?s=e8762d4364b8d54897f917cbdf711d44af9e92b1",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_00d08_dRoa3cBq4tHJjVSvdDFZZxYT/f800/1737753471.jpeg?s=111b0e322630c535fedfb89f59760004d7b66f05",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_00d08_dRoa3cBq4tHJjVSvdDFZZxYT/f800/1737753471.jpeg?s=111b0e322630c535fedfb89f59760004d7b66f05",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_00d08_dRoa3cBq4tHJjVSvdDFZZxYT/f800/1737753471.jpeg?s=111b0e322630c535fedfb89f59760004d7b66f05",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_00d08_dRoa3cBq4tHJjVSvdDFZZxYT",
+          "timestamp": 1737753471,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_00d08_dRoa3cBq4tHJjVSvdDFZZxYT/1737753471.jpeg?s=71c1c7b5fab8f40234d33549aad341dadeecd9a6",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 8,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "9.2",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "179.2",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf sans étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego 76435 Le château de Poudlard : la grande salle, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 170,00 €, 179,20 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 2.415525436401367,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5496123902,
+      "title": "LEGO Harry Potter le château de Poudlard : la grande salle",
+      "price": {
+        "amount": "169.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5496123902-lego-harry-potter-le-chateau-de-poudlard-la-grande-salle",
+      "user": {
+        "id": 52578937,
+        "login": "brickhead29200",
+        "profile_url": "https://www.vinted.fr/member/52578937-brickhead29200",
+        "photo": {
+          "id": 60509569,
+          "width": 800,
+          "height": 533,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/03_02293_NfNu757xynsFAYcCKz5FdMuT/f800/1623012494.jpeg?s=17ac455eddf7406c4249d032927822972fb24f22",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/03_02293_NfNu757xynsFAYcCKz5FdMuT/310x310/1623012494.jpeg?s=fce50a9e066d4099c4c0f5e33c611b3cb6a98e59",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/03_02293_NfNu757xynsFAYcCKz5FdMuT/150x150/1623012494.jpeg?s=8836033a0a8d65e15ae7d592613dedc12eaab7fe",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/03_02293_NfNu757xynsFAYcCKz5FdMuT/100x100/1623012494.jpeg?s=5e79f62300280c5a0786bba6decefba39688de63",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/03_02293_NfNu757xynsFAYcCKz5FdMuT/50x50/1623012494.jpeg?s=3f03bd567203ac209e96f3479d70d04c07012ae9",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/03_02293_NfNu757xynsFAYcCKz5FdMuT/20x20/1623012494.jpeg?s=c3a5d9f4242e426eb072d0145cb19ab3b6f18de1",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "03_02293_NfNu757xynsFAYcCKz5FdMuT",
+            "timestamp": 1623012494,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/03_02293_NfNu757xynsFAYcCKz5FdMuT/1623012494.jpeg?s=903be59b3192f02b809fa9deab11f1bf815ccbd3",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5496123902-lego-harry-potter-le-chateau-de-poudlard-la-grande-salle",
+      "promoted": false,
+      "photo": {
+        "id": 22255082798,
+        "image_no": 1,
+        "width": 599,
+        "height": 800,
+        "dominant_color": "#8C7E6F",
+        "dominant_color_opaque": "#DDD8D4",
+        "url": "https://images1.vinted.net/t/04_00005_qDTj3Kpfhwp5bMGw82jUmgLj/f800/1733589085.jpeg?s=96ade931f04f689b34829ab083594d91fbab5f2f",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_00005_qDTj3Kpfhwp5bMGw82jUmgLj/70x100/1733589085.jpeg?s=ac897b9f68f687f3058a561eec92b28f34a060b0",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_00005_qDTj3Kpfhwp5bMGw82jUmgLj/150x210/1733589085.jpeg?s=f6fa7ff0eb0a6375826c7002d8765e82e33014be",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_00005_qDTj3Kpfhwp5bMGw82jUmgLj/310x430/1733589085.jpeg?s=1290d549ee8a79b82e44fa7b7a68703fb35af681",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_00005_qDTj3Kpfhwp5bMGw82jUmgLj/f800/1733589085.jpeg?s=96ade931f04f689b34829ab083594d91fbab5f2f",
+            "width": 320,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_00005_qDTj3Kpfhwp5bMGw82jUmgLj/f800/1733589085.jpeg?s=96ade931f04f689b34829ab083594d91fbab5f2f",
+            "width": 467,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_00005_qDTj3Kpfhwp5bMGw82jUmgLj/f800/1733589085.jpeg?s=96ade931f04f689b34829ab083594d91fbab5f2f",
+            "width": 272,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_00005_qDTj3Kpfhwp5bMGw82jUmgLj",
+          "timestamp": 1733589085,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_00005_qDTj3Kpfhwp5bMGw82jUmgLj/1733589085.jpeg?s=43e4c9df70a28778d6790ef1b864b599ebbc57ab",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 50,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "9.15",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "178.15",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "LEGO Harry Potter le château de Poudlard : la grande salle, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 169,00 €, 178,15 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 2.311620712280273,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5431314663,
+      "title": "LEGO Hermione Granger - HP468",
+      "price": {
+        "amount": "3.99",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5431314663-lego-hermione-granger-hp468",
+      "user": {
+        "id": 223372947,
+        "login": "corentinfrancoislego",
+        "profile_url": "https://www.vinted.fr/member/223372947-corentinfrancoislego",
+        "photo": {
+          "id": 204655926,
+          "width": 615,
+          "height": 707,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_026b0_j3kMwPcjA6EW9CjN1LMzY81t/f800/1724184199.jpeg?s=1d58d035038bdf5b965b33d543ea66a101e4558e",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_026b0_j3kMwPcjA6EW9CjN1LMzY81t/310x310/1724184199.jpeg?s=97855b58cae1a1ee7c4f950c8b2883297220d794",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_026b0_j3kMwPcjA6EW9CjN1LMzY81t/150x150/1724184199.jpeg?s=406899bd4bb9056f265a25f31758e696c2e49308",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_026b0_j3kMwPcjA6EW9CjN1LMzY81t/100x100/1724184199.jpeg?s=7cdd027d2358f533e8af7a9c299a57b76fb20ec9",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_026b0_j3kMwPcjA6EW9CjN1LMzY81t/50x50/1724184199.jpeg?s=a2bb2501b0bbdac5838abab2f6f74984af85480a",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_026b0_j3kMwPcjA6EW9CjN1LMzY81t/20x20/1724184199.jpeg?s=6057300e18216585958eacd28e9ccceb791e15fe",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_026b0_j3kMwPcjA6EW9CjN1LMzY81t",
+            "timestamp": 1724184199,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_026b0_j3kMwPcjA6EW9CjN1LMzY81t/1724184199.jpeg?s=4e5a8b0b166372bf88349a2f5a55f789b861eeb9",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5431314663-lego-hermione-granger-hp468",
+      "promoted": false,
+      "photo": {
+        "id": 21986888492,
+        "image_no": 1,
+        "width": 799,
+        "height": 800,
+        "dominant_color": "#423536",
+        "dominant_color_opaque": "#C6C2C3",
+        "url": "https://images1.vinted.net/t/04_01be4_25SLYWWbYkqTPF1jEfbaMB8n/f800/1732395199.jpeg?s=a33dd1312988540029dcb7d8e9a05dbe626456ac",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_01be4_25SLYWWbYkqTPF1jEfbaMB8n/70x100/1732395199.jpeg?s=4c3ea5e565db39a4eb92ca663c12f9c3ba31be46",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_01be4_25SLYWWbYkqTPF1jEfbaMB8n/150x210/1732395199.jpeg?s=e19f3ba4c721d101ea43c31435afe39639b27fed",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_01be4_25SLYWWbYkqTPF1jEfbaMB8n/310x430/1732395199.jpeg?s=fed2d5f6ee48893b2ecc99eaa52d9cedaeefe774",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_01be4_25SLYWWbYkqTPF1jEfbaMB8n/f800/1732395199.jpeg?s=a33dd1312988540029dcb7d8e9a05dbe626456ac",
+            "width": 427,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_01be4_25SLYWWbYkqTPF1jEfbaMB8n/f800/1732395199.jpeg?s=a33dd1312988540029dcb7d8e9a05dbe626456ac",
+            "width": 623,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_01be4_25SLYWWbYkqTPF1jEfbaMB8n/f800/1732395199.jpeg?s=a33dd1312988540029dcb7d8e9a05dbe626456ac",
+            "width": 363,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_01be4_25SLYWWbYkqTPF1jEfbaMB8n",
+          "timestamp": 1732395199,
+          "orientation": 0
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_01be4_25SLYWWbYkqTPF1jEfbaMB8n/1732395199.jpeg?s=b7728a9f87e12a7bfd29812345db9a9b813c4660",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 2,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "0.9",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "4.89",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Prématuré, jusqu'à 44cm",
+      "content_source": "search",
+      "status": "Neuf sans étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Prématuré, jusqu'à 44cm",
+        "accessibility_label": "LEGO Hermione Granger - HP468, marque: LEGO, état: Neuf sans étiquette, taille: Prématuré, jusqu'à 44cm, 3,99 €, 4,89 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 2.196153402328491,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5683324091,
+      "title": "Calendario de Adviento 76435",
+      "price": {
+        "amount": "31.5",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5683324091-calendario-de-adviento-76435",
+      "user": {
+        "id": 233106702,
+        "login": "juanf.1",
+        "profile_url": "https://www.vinted.fr/member/233106702-juanf1",
+        "photo": {
+          "id": 219278615,
+          "width": 800,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/03_01555_KU7TQx8btwbLq3aVj9UPaQqD/f800/1732225592.jpeg?s=a6cf82f6d7c18241f9247f222d7f4192a2ac7391",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/03_01555_KU7TQx8btwbLq3aVj9UPaQqD/310x310/1732225592.jpeg?s=d257c83d5ee04a3307b16739f4eaa6f03a69c348",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/03_01555_KU7TQx8btwbLq3aVj9UPaQqD/150x150/1732225592.jpeg?s=1e690c62f9f6272fd2f4371fa08113d00be8f3b3",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/03_01555_KU7TQx8btwbLq3aVj9UPaQqD/100x100/1732225592.jpeg?s=ce9fc3984dc83d9bb7f57e4625a186c1af83e062",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/03_01555_KU7TQx8btwbLq3aVj9UPaQqD/50x50/1732225592.jpeg?s=0c255b2e405332c52ff073bd7fe1ea968cb64d9a",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/03_01555_KU7TQx8btwbLq3aVj9UPaQqD/20x20/1732225592.jpeg?s=5819a25770a4c768dcbc379eddf06d7e24319baa",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "03_01555_KU7TQx8btwbLq3aVj9UPaQqD",
+            "timestamp": 1732225592,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/03_01555_KU7TQx8btwbLq3aVj9UPaQqD/1732225592.jpeg?s=68b8e9c416211d2cffd480fcbc4162db3fb2d0d0",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5683324091-calendario-de-adviento-76435",
+      "promoted": false,
+      "photo": {
+        "id": 23020135703,
+        "image_no": 1,
+        "width": 800,
+        "height": 600,
+        "dominant_color": "#C39E7A",
+        "dominant_color_opaque": "#EDE2D7",
+        "url": "https://images1.vinted.net/t/04_0229e_Txq7uxvDwBcLotQD2SRfaJKK/f800/1737376731.jpeg?s=cdb3b2a86ef22f3332c9f9900780b23fc13ea195",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_0229e_Txq7uxvDwBcLotQD2SRfaJKK/70x100/1737376731.jpeg?s=206ddfe5923662b9cadfe14da2cc53047daad78b",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_0229e_Txq7uxvDwBcLotQD2SRfaJKK/150x210/1737376731.jpeg?s=065c23a493e3300c6803a98a1b42c0b783d378ef",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_0229e_Txq7uxvDwBcLotQD2SRfaJKK/310x430/1737376731.jpeg?s=4d78e91c3e8a9149c76415a68dbd7ce9a42e6d63",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_0229e_Txq7uxvDwBcLotQD2SRfaJKK/f800/1737376731.jpeg?s=cdb3b2a86ef22f3332c9f9900780b23fc13ea195",
+            "width": 428,
+            "height": 321,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_0229e_Txq7uxvDwBcLotQD2SRfaJKK/f800/1737376731.jpeg?s=cdb3b2a86ef22f3332c9f9900780b23fc13ea195",
+            "width": 624,
+            "height": 468,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_0229e_Txq7uxvDwBcLotQD2SRfaJKK/f800/1737376731.jpeg?s=cdb3b2a86ef22f3332c9f9900780b23fc13ea195",
+            "width": 364,
+            "height": 273,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_0229e_Txq7uxvDwBcLotQD2SRfaJKK",
+          "timestamp": 1737376731,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_0229e_Txq7uxvDwBcLotQD2SRfaJKK/1737376731.jpeg?s=07f067c9da6850e29da1564b3b330abadf562e65",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 3,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "2.28",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "33.78",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "6-9 mois / 68 cm",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "6-9 mois / 68 cm",
+        "accessibility_label": "Calendario de Adviento 76435, marque: LEGO, état: Neuf avec étiquette, taille: 6-9 mois / 68 cm, 31,50 €, 33,78 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 2.064729690551758,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5681589505,
+      "title": "Lego sellado gran comedor Harry Potter 76435",
+      "price": {
+        "amount": "170.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5681589505-lego-sellado-gran-comedor-harry-potter-76435",
+      "user": {
+        "id": 144378479,
+        "login": "nachoguty9",
+        "profile_url": "https://www.vinted.fr/member/144378479-nachoguty9",
+        "photo": {
+          "id": 140798417,
+          "width": 96,
+          "height": 96,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/01_01b10_KxMd5E4LtHuq4ieFZ5C6FVZA/f800/1683744963.jpeg?s=00fe958f291b9d178568781f189a08dc15dcd596",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/01_01b10_KxMd5E4LtHuq4ieFZ5C6FVZA/310x310/1683744963.jpeg?s=a7b0f64a3bc835c1c5b3b0950fe247edd63f712a",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/01_01b10_KxMd5E4LtHuq4ieFZ5C6FVZA/150x150/1683744963.jpeg?s=baff285a36cb21fe27f57a8f146ed8f002bbcd98",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/01_01b10_KxMd5E4LtHuq4ieFZ5C6FVZA/100x100/1683744963.jpeg?s=8ec7ddc63ace0bd3e98fe02ed46e189b26581abb",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/01_01b10_KxMd5E4LtHuq4ieFZ5C6FVZA/50x50/1683744963.jpeg?s=6662e62aae2481112dee91288bbdab3d4995013f",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/01_01b10_KxMd5E4LtHuq4ieFZ5C6FVZA/20x20/1683744963.jpeg?s=53055fabc95572d817a3b2e3e166f1df0a785c6e",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "01_01b10_KxMd5E4LtHuq4ieFZ5C6FVZA",
+            "timestamp": 1683744963,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/01_01b10_KxMd5E4LtHuq4ieFZ5C6FVZA/1683744963.jpeg?s=df20dac399c5f158aefd5300868c75dd3b19ecbd",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5681589505-lego-sellado-gran-comedor-harry-potter-76435",
+      "promoted": false,
+      "photo": {
+        "id": 23013077264,
+        "image_no": 1,
+        "width": 800,
+        "height": 450,
+        "dominant_color": "#7C7467",
+        "dominant_color_opaque": "#D8D5D1",
+        "url": "https://images1.vinted.net/t/04_0215d_bRH8eBGLnDHZUGgeyWUUWAkY/f800/1737325478.jpeg?s=51976bbbd7efa248c69b47bb229b65fce44fd770",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_0215d_bRH8eBGLnDHZUGgeyWUUWAkY/70x100/1737325478.jpeg?s=d9999664331b4113924426d14ed96331fa53fd6b",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_0215d_bRH8eBGLnDHZUGgeyWUUWAkY/150x210/1737325478.jpeg?s=92aeb7914725f1503ce3d3d3193bb15a26ed2a60",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_0215d_bRH8eBGLnDHZUGgeyWUUWAkY/310x430/1737325478.jpeg?s=445265ac5eba3aa8d94db4b9f62de52b3ae7b1b4",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_0215d_bRH8eBGLnDHZUGgeyWUUWAkY/f800/1737325478.jpeg?s=51976bbbd7efa248c69b47bb229b65fce44fd770",
+            "width": 428,
+            "height": 240,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_0215d_bRH8eBGLnDHZUGgeyWUUWAkY/f800/1737325478.jpeg?s=51976bbbd7efa248c69b47bb229b65fce44fd770",
+            "width": 624,
+            "height": 351,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_0215d_bRH8eBGLnDHZUGgeyWUUWAkY/f800/1737325478.jpeg?s=51976bbbd7efa248c69b47bb229b65fce44fd770",
+            "width": 364,
+            "height": 204,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_0215d_bRH8eBGLnDHZUGgeyWUUWAkY",
+          "timestamp": 1737325478,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_0215d_bRH8eBGLnDHZUGgeyWUUWAkY/1737325478.jpeg?s=4aa6141f0b092fa038b30f1c439a2f151ab14909",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 25,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "9.2",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "179.2",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "10 ans / 140 cm",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "10 ans / 140 cm",
+        "accessibility_label": "Lego sellado gran comedor Harry Potter 76435, marque: LEGO, état: Neuf avec étiquette, taille: 10 ans / 140 cm, 170,00 €, 179,20 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 1.898734569549561,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5309969380,
+      "title": "Lego 76435 Castillo Poudlard Nuevo",
+      "price": {
+        "amount": "170.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5309969380-lego-76435-castillo-poudlard-nuevo",
+      "user": {
+        "id": 65173555,
+        "login": "puzzlescrisalida",
+        "profile_url": "https://www.vinted.fr/member/65173555-puzzlescrisalida",
+        "photo": {
+          "id": 62972926,
+          "width": 96,
+          "height": 96,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/03_02460_e7exM5x9VoahBFRiQz2dBSLv/f800/1626599897.jpeg?s=764545b90ff5795a68e8cf591ea2952b5ceb7b2d",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/03_02460_e7exM5x9VoahBFRiQz2dBSLv/310x310/1626599897.jpeg?s=b43d801b7a63f08870f98aecf291dd5144ff227f",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/03_02460_e7exM5x9VoahBFRiQz2dBSLv/150x150/1626599897.jpeg?s=a6d73b915aee41792974fb9bf02c5705535e0a22",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/03_02460_e7exM5x9VoahBFRiQz2dBSLv/100x100/1626599897.jpeg?s=24faf9d5a130cc3e7cf9cba6d510877cf761397e",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/03_02460_e7exM5x9VoahBFRiQz2dBSLv/50x50/1626599897.jpeg?s=e9ac82713782a2d9eb17cd7cd35842e5fd21a55b",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/03_02460_e7exM5x9VoahBFRiQz2dBSLv/20x20/1626599897.jpeg?s=4cee47c345155e42ca769ad981934586b97b5fb8",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "03_02460_e7exM5x9VoahBFRiQz2dBSLv",
+            "timestamp": 1626599897,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/03_02460_e7exM5x9VoahBFRiQz2dBSLv/1626599897.jpeg?s=ed1d65e669a51842a7bc7dd858aeb065c8811cc0",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5309969380-lego-76435-castillo-poudlard-nuevo",
+      "promoted": false,
+      "photo": {
+        "id": 21492163304,
+        "image_no": 1,
+        "width": 800,
+        "height": 618,
+        "dominant_color": "#736252",
+        "dominant_color_opaque": "#D5D0CB",
+        "url": "https://images1.vinted.net/t/02_01c8b_UZmXH8yYz26cjxtrhDgZy7oD/f800/1730453339.jpeg?s=a362c55383e7ec8db104ad018a8fdeb9a5a46722",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/02_01c8b_UZmXH8yYz26cjxtrhDgZy7oD/70x100/1730453339.jpeg?s=b69c0365d127794cdaa456907a0d1ad670255929",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/02_01c8b_UZmXH8yYz26cjxtrhDgZy7oD/150x210/1730453339.jpeg?s=0e357ef643d054f50c254100016686656240c384",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/02_01c8b_UZmXH8yYz26cjxtrhDgZy7oD/310x430/1730453339.jpeg?s=8764ea85896d7af0fc3a2149466af3498510a3be",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/02_01c8b_UZmXH8yYz26cjxtrhDgZy7oD/f800/1730453339.jpeg?s=a362c55383e7ec8db104ad018a8fdeb9a5a46722",
+            "width": 428,
+            "height": 330,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/02_01c8b_UZmXH8yYz26cjxtrhDgZy7oD/f800/1730453339.jpeg?s=a362c55383e7ec8db104ad018a8fdeb9a5a46722",
+            "width": 624,
+            "height": 482,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/02_01c8b_UZmXH8yYz26cjxtrhDgZy7oD/f800/1730453339.jpeg?s=a362c55383e7ec8db104ad018a8fdeb9a5a46722",
+            "width": 364,
+            "height": 281,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "02_01c8b_UZmXH8yYz26cjxtrhDgZy7oD",
+          "timestamp": 1730453339,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/02_01c8b_UZmXH8yYz26cjxtrhDgZy7oD/1730453339.jpeg?s=194abec3e80a953ab21f06f583e2acd7e80bd488",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 2,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "9.2",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "179.2",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego 76435 Castillo Poudlard Nuevo, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 170,00 €, 179,20 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 1.29296875,
+        "matched_queries": []
+      }
+    }
+  ],
+  "dominant_brand": {
+    "id": 89162,
+    "title": "LEGO",
+    "slug": "lego",
+    "favourite_count": 185159,
+    "pretty_favourite_count": "185.2K",
+    "item_count": 2321353,
+    "pretty_item_count": "2.3M",
+    "is_visible_in_listings": true,
+    "requires_authenticity_check": false,
+    "is_luxury": false,
+    "is_hvf": false,
+    "path": "/brand/89162-lego",
+    "url": "https://www.vinted.fr/brand/89162-lego",
+    "is_favourite": false
+  },
+  "search_tracking_params": {
+    "search_correlation_id": "b86f3ee7-5471-419f-bdd1-b990f091b4c4",
+    "search_session_id": "0cb6e0f7-b27b-47c2-bf9c-873a7334df49",
+    "global_search_session_id": "92703866-586f-4064-9730-ef8967d7f60c"
+  },
+  "pagination": {
+    "current_page": 1,
+    "total_pages": 1,
+    "total_entries": 18,
+    "per_page": 96,
+    "time": 1741612903
+  },
+  "code": 0
+}

@@ -1,0 +1,2563 @@
+{
+  "items": [
+    {
+      "id": 5830981084,
+      "title": "Caixa vazia Lego Mona Lisa 31213",
+      "price": {
+        "amount": "5.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5830981084-caixa-vazia-lego-mona-lisa-31213",
+      "user": {
+        "id": 101564275,
+        "login": "claudiacatarina1997",
+        "profile_url": "https://www.vinted.fr/member/101564275-claudiacatarina1997",
+        "photo": {
+          "id": 100111603,
+          "width": 533,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/03_005ec_7QiZ2365Yxx9ubVwiBHXmUdb/f800/1658661952.jpeg?s=835d67f4909644f9925ec34d51b5c206350eb00d",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/03_005ec_7QiZ2365Yxx9ubVwiBHXmUdb/310x310/1658661952.jpeg?s=abb276b50e046f512ff57d1e2720cb46ecfecf8b",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/03_005ec_7QiZ2365Yxx9ubVwiBHXmUdb/150x150/1658661952.jpeg?s=223eb16bcda66de77b131a4a7bf9cc70fe8be6ce",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/03_005ec_7QiZ2365Yxx9ubVwiBHXmUdb/100x100/1658661952.jpeg?s=398207074d156d06af72072bc7e07dd0a449c2b7",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/03_005ec_7QiZ2365Yxx9ubVwiBHXmUdb/50x50/1658661952.jpeg?s=c6fe4476f66e089bf6f6f864b6736f503d04e74d",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/03_005ec_7QiZ2365Yxx9ubVwiBHXmUdb/20x20/1658661952.jpeg?s=980eafe059071c7b3be6b26195903078b13366d7",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "03_005ec_7QiZ2365Yxx9ubVwiBHXmUdb",
+            "timestamp": 1658661952,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/03_005ec_7QiZ2365Yxx9ubVwiBHXmUdb/1658661952.jpeg?s=85854c82a85944fa19dc7a83684cf05c25239d0d",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5830981084-caixa-vazia-lego-mona-lisa-31213",
+      "promoted": false,
+      "photo": {
+        "id": 23631334508,
+        "image_no": 1,
+        "width": 800,
+        "height": 600,
+        "dominant_color": "#897061",
+        "dominant_color_opaque": "#DCD4D0",
+        "url": "https://images1.vinted.net/t/04_01c70_1BCkeui59KRJMH1dUDngV9E2/f800/1739791497.jpeg?s=2214f895697b06f3472a2857dc55951659ca398d",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_01c70_1BCkeui59KRJMH1dUDngV9E2/70x100/1739791497.jpeg?s=3a715468053e04316c6fc93b6d17c47272fd643e",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_01c70_1BCkeui59KRJMH1dUDngV9E2/150x210/1739791497.jpeg?s=9c9e89ad8aac8491666f18c3dd7463b8a29136ec",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_01c70_1BCkeui59KRJMH1dUDngV9E2/310x430/1739791497.jpeg?s=3c12fd31c277afca90c4cf7f526202764699b382",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_01c70_1BCkeui59KRJMH1dUDngV9E2/f800/1739791497.jpeg?s=2214f895697b06f3472a2857dc55951659ca398d",
+            "width": 428,
+            "height": 321,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_01c70_1BCkeui59KRJMH1dUDngV9E2/f800/1739791497.jpeg?s=2214f895697b06f3472a2857dc55951659ca398d",
+            "width": 624,
+            "height": 468,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_01c70_1BCkeui59KRJMH1dUDngV9E2/f800/1739791497.jpeg?s=2214f895697b06f3472a2857dc55951659ca398d",
+            "width": 364,
+            "height": 273,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_01c70_1BCkeui59KRJMH1dUDngV9E2",
+          "timestamp": 1739791497,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_01c70_1BCkeui59KRJMH1dUDngV9E2/1739791497.jpeg?s=74afc9027918650fca9f3132fd5818b924829f6b",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 1,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "0.95",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "5.95",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "M",
+      "content_source": "search",
+      "status": "Neuf sans étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "M",
+        "accessibility_label": "Caixa vazia Lego Mona Lisa 31213, marque: LEGO, état: Neuf sans étiquette, taille: M, 5,00 €, 5,95 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 6.021039962768555,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5915914387,
+      "title": "Lego 31213",
+      "price": {
+        "amount": "70.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5915914387-lego-31213",
+      "user": {
+        "id": 244022299,
+        "login": "davil5925",
+        "profile_url": "https://www.vinted.fr/member/244022299-davil5925",
+        "photo": null,
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5915914387-lego-31213",
+      "promoted": false,
+      "photo": {
+        "id": 23984265998,
+        "image_no": 1,
+        "width": 800,
+        "height": 600,
+        "dominant_color": "#7C5B59",
+        "dominant_color_opaque": "#D8CECD",
+        "url": "https://images1.vinted.net/t/04_02315_tku4s4MRiUKoBrSVuaHctLc3/f800/1741137067.jpeg?s=4d67d9ada84bd8434d5f73b39a0f46e57587731b",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_02315_tku4s4MRiUKoBrSVuaHctLc3/70x100/1741137067.jpeg?s=f10fa0123c9188194f2e5b5268f46e0dd6f924a9",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_02315_tku4s4MRiUKoBrSVuaHctLc3/150x210/1741137067.jpeg?s=61b49cc7df2380f2c8c71218462d0e4040b49519",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_02315_tku4s4MRiUKoBrSVuaHctLc3/310x430/1741137067.jpeg?s=30b06be263d9a6ec95a2a8f26fc02478dfaf519a",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_02315_tku4s4MRiUKoBrSVuaHctLc3/f800/1741137067.jpeg?s=4d67d9ada84bd8434d5f73b39a0f46e57587731b",
+            "width": 428,
+            "height": 321,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_02315_tku4s4MRiUKoBrSVuaHctLc3/f800/1741137067.jpeg?s=4d67d9ada84bd8434d5f73b39a0f46e57587731b",
+            "width": 624,
+            "height": 468,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_02315_tku4s4MRiUKoBrSVuaHctLc3/f800/1741137067.jpeg?s=4d67d9ada84bd8434d5f73b39a0f46e57587731b",
+            "width": 364,
+            "height": 273,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_02315_tku4s4MRiUKoBrSVuaHctLc3",
+          "timestamp": 1741137067,
+          "orientation": 0
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_02315_tku4s4MRiUKoBrSVuaHctLc3/1741137067.jpeg?s=13174dde4c1bdfeeacf86fef44d4edf48b833a69",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 25,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "4.2",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "74.2",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego 31213, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 70,00 €, 74,20 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 5.022294998168945,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5887949451,
+      "title": "31213 Mona Lisa",
+      "price": {
+        "amount": "75.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5887949451-31213-mona-lisa",
+      "user": {
+        "id": 150028079,
+        "login": "verkoperfriesland",
+        "profile_url": "https://www.vinted.fr/member/150028079-verkoperfriesland",
+        "photo": {
+          "id": 200849215,
+          "width": 96,
+          "height": 96,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_01db9_decNRrgmNNxjZePoqDZzAsbJ/f800/1721480140.jpeg?s=7f52e09111667c061466e5e9e975ea08c7db1cef",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_01db9_decNRrgmNNxjZePoqDZzAsbJ/310x310/1721480140.jpeg?s=8acb3e03cb39c63e2421d677346137fe4f62a6d9",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_01db9_decNRrgmNNxjZePoqDZzAsbJ/150x150/1721480140.jpeg?s=a07bd398da3d70a37da9eec50d5ab90e9d3979a5",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_01db9_decNRrgmNNxjZePoqDZzAsbJ/100x100/1721480140.jpeg?s=e79bde8f3ab652817f02624951978ba507215089",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_01db9_decNRrgmNNxjZePoqDZzAsbJ/50x50/1721480140.jpeg?s=ff5c9738841a7c38cbdd87cc81a9a26d8865c5c4",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_01db9_decNRrgmNNxjZePoqDZzAsbJ/20x20/1721480140.jpeg?s=0f7a99170f4c1acca47cd4d9d4d263b9ac9ae3b1",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_01db9_decNRrgmNNxjZePoqDZzAsbJ",
+            "timestamp": 1721480140,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_01db9_decNRrgmNNxjZePoqDZzAsbJ/1721480140.jpeg?s=812f8426284f60dae3c106db10cfbfa12a00829f",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5887949451-31213-mona-lisa",
+      "promoted": false,
+      "photo": {
+        "id": 23867332899,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#674B30",
+        "dominant_color_opaque": "#D1C9C1",
+        "url": "https://images1.vinted.net/t/03_00a2b_EA9C55PZSC8uLFt8y36dB84E/f800/1740681735.jpeg?s=cc1b6f1290994f57599f393639b8281eedecddab",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/03_00a2b_EA9C55PZSC8uLFt8y36dB84E/70x100/1740681735.jpeg?s=5079969419a93b9b60023d830052712f0361a855",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/03_00a2b_EA9C55PZSC8uLFt8y36dB84E/150x210/1740681735.jpeg?s=279a6d30ecf30d97546338e2947cc9802faab860",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/03_00a2b_EA9C55PZSC8uLFt8y36dB84E/310x430/1740681735.jpeg?s=04e90e6b32c96f9be6a386154060d9a6919580b0",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/03_00a2b_EA9C55PZSC8uLFt8y36dB84E/f800/1740681735.jpeg?s=cc1b6f1290994f57599f393639b8281eedecddab",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/03_00a2b_EA9C55PZSC8uLFt8y36dB84E/f800/1740681735.jpeg?s=cc1b6f1290994f57599f393639b8281eedecddab",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/03_00a2b_EA9C55PZSC8uLFt8y36dB84E/f800/1740681735.jpeg?s=cc1b6f1290994f57599f393639b8281eedecddab",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "03_00a2b_EA9C55PZSC8uLFt8y36dB84E",
+          "timestamp": 1740681735,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/03_00a2b_EA9C55PZSC8uLFt8y36dB84E/1740681735.jpeg?s=d36800a978b61f43372b4976b4fdd3448870c05d",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 21,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "4.45",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "79.45",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "31213 Mona Lisa, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 75,00 €, 79,45 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 4.908365726470947,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5820767924,
+      "title": "LEGO Art : Mona Lisa\n\nLa Joconde",
+      "price": {
+        "amount": "99.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5820767924-lego-art-mona-lisa-la-joconde",
+      "user": {
+        "id": 42242269,
+        "login": "bernie29680",
+        "profile_url": "https://www.vinted.fr/member/42242269-bernie29680",
+        "photo": {
+          "id": 36984752,
+          "width": 450,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/01_00d02_AnYUtCqz4MZ1JzFU7DCEH2Wz/f800/1602970461.jpeg?s=e3bf953bc22686c7099dd251df38a687d633cafe",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/01_00d02_AnYUtCqz4MZ1JzFU7DCEH2Wz/310x310/1602970461.jpeg?s=a6f9ecf8a712c536c56ae2c2689ba28bff41892c",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/01_00d02_AnYUtCqz4MZ1JzFU7DCEH2Wz/150x150/1602970461.jpeg?s=b1c365a0b0a14e90479d7ed88f64eecfb8a58790",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/01_00d02_AnYUtCqz4MZ1JzFU7DCEH2Wz/100x100/1602970461.jpeg?s=c5bfd4da791d9b75e8b1afcc1c83cacc15dcaafa",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/01_00d02_AnYUtCqz4MZ1JzFU7DCEH2Wz/50x50/1602970461.jpeg?s=305586f01954d347b0d096aa7918030ede472cd1",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/01_00d02_AnYUtCqz4MZ1JzFU7DCEH2Wz/20x20/1602970461.jpeg?s=0dbf8c7d7401a24704dfb294c38a2966b19a99c6",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "01_00d02_AnYUtCqz4MZ1JzFU7DCEH2Wz",
+            "timestamp": 1602970461,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/01_00d02_AnYUtCqz4MZ1JzFU7DCEH2Wz/1602970461.jpeg?s=8f3a2e53b8308cd318c29d39963b7ae66c869bac",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5820767924-lego-art-mona-lisa-la-joconde",
+      "promoted": false,
+      "photo": {
+        "id": 23589174626,
+        "image_no": 1,
+        "width": 800,
+        "height": 800,
+        "dominant_color": "#8C6755",
+        "dominant_color_opaque": "#DDD1CC",
+        "url": "https://images1.vinted.net/t/03_01994_egtyvKTGHHww4kTt8q7GLbZ1/f800/1739636251.jpeg?s=b5ecbd3ad954a14013e08401cd758335a1dcf337",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/03_01994_egtyvKTGHHww4kTt8q7GLbZ1/70x100/1739636251.jpeg?s=f9acef86166e1de3db3d0d1f559502b68c1b4b89",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/03_01994_egtyvKTGHHww4kTt8q7GLbZ1/150x210/1739636251.jpeg?s=5978ce5e4936661d8664ac22027653160b630838",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/03_01994_egtyvKTGHHww4kTt8q7GLbZ1/310x430/1739636251.jpeg?s=647cea9d3194481bcc9e53da29fb51bf47a88a2d",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/03_01994_egtyvKTGHHww4kTt8q7GLbZ1/f800/1739636251.jpeg?s=b5ecbd3ad954a14013e08401cd758335a1dcf337",
+            "width": 428,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/03_01994_egtyvKTGHHww4kTt8q7GLbZ1/f800/1739636251.jpeg?s=b5ecbd3ad954a14013e08401cd758335a1dcf337",
+            "width": 624,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/03_01994_egtyvKTGHHww4kTt8q7GLbZ1/f800/1739636251.jpeg?s=b5ecbd3ad954a14013e08401cd758335a1dcf337",
+            "width": 364,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "03_01994_egtyvKTGHHww4kTt8q7GLbZ1",
+          "timestamp": 1739636251,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/03_01994_egtyvKTGHHww4kTt8q7GLbZ1/1739636251.jpeg?s=8e41cd2e0e3eb8b0bc4c33327ce8616f049ce29b",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 7,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "5.65",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "104.65",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "LEGO Art : Mona Lisa\n\nLa Joconde, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 99,00 €, 104,65 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 3.512811183929443,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5697199623,
+      "title": "Lego 31213 Mona Lisa construido y completo",
+      "price": {
+        "amount": "80.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5697199623-lego-31213-mona-lisa-construido-y-completo",
+      "user": {
+        "id": 22237278,
+        "login": "goldenev",
+        "profile_url": "https://www.vinted.fr/member/22237278-goldenev",
+        "photo": {
+          "id": 92805565,
+          "width": 600,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_00d79_YfqEq9mzMyrHbR3Cykxz25H5/f800/1653434495.jpeg?s=0dd9a71c91fec560cac853a9798adec78d644c05",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_00d79_YfqEq9mzMyrHbR3Cykxz25H5/310x310/1653434495.jpeg?s=4a475216864aeb07d987e7a6e91ff6c8d4724d8b",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_00d79_YfqEq9mzMyrHbR3Cykxz25H5/150x150/1653434495.jpeg?s=2b86f8da1058571e7ae8a2505f5ea594beee3e2a",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_00d79_YfqEq9mzMyrHbR3Cykxz25H5/100x100/1653434495.jpeg?s=49e2830381624ffd3c4fb7e7828ede56a7638e58",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_00d79_YfqEq9mzMyrHbR3Cykxz25H5/50x50/1653434495.jpeg?s=1da343bdaf7010c11732d3b8751b8e4fedccd41f",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_00d79_YfqEq9mzMyrHbR3Cykxz25H5/20x20/1653434495.jpeg?s=dc0a4893a610c74dde958da9b4efc2500d896390",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_00d79_YfqEq9mzMyrHbR3Cykxz25H5",
+            "timestamp": 1653434495,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_00d79_YfqEq9mzMyrHbR3Cykxz25H5/1653434495.jpeg?s=e5faa9d7294ccb3c03c35ddc6f8f56f9388bb553",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5697199623-lego-31213-mona-lisa-construido-y-completo",
+      "promoted": false,
+      "photo": {
+        "id": 23076764089,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#7D6D63",
+        "dominant_color_opaque": "#D8D3D0",
+        "url": "https://images1.vinted.net/t/04_0017a_qc4wLda29MyELNjjBcsC2ZDK/f800/1737624699.jpeg?s=9477a03648e27b4194a829f8aae0a3ad978b0aa6",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_0017a_qc4wLda29MyELNjjBcsC2ZDK/70x100/1737624699.jpeg?s=574317ee74aa155417e681e024cc18be03f758ed",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_0017a_qc4wLda29MyELNjjBcsC2ZDK/150x210/1737624699.jpeg?s=10c2bf1ed6fb0b827f3bb603120463256e2ff683",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_0017a_qc4wLda29MyELNjjBcsC2ZDK/310x430/1737624699.jpeg?s=21b1afe42b9a01109516a1dfe138f99f24f01186",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_0017a_qc4wLda29MyELNjjBcsC2ZDK/f800/1737624699.jpeg?s=9477a03648e27b4194a829f8aae0a3ad978b0aa6",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_0017a_qc4wLda29MyELNjjBcsC2ZDK/f800/1737624699.jpeg?s=9477a03648e27b4194a829f8aae0a3ad978b0aa6",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_0017a_qc4wLda29MyELNjjBcsC2ZDK/f800/1737624699.jpeg?s=9477a03648e27b4194a829f8aae0a3ad978b0aa6",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_0017a_qc4wLda29MyELNjjBcsC2ZDK",
+          "timestamp": 1737624699,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_0017a_qc4wLda29MyELNjjBcsC2ZDK/1737624699.jpeg?s=849903b2dea7e0c77663a68e410ccdd01f277eb2",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 11,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "4.7",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "84.7",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Très bon état",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego 31213 Mona Lisa construido y completo, marque: LEGO, état: Très bon état, taille: Taille unique, 80,00 €, 84,70 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 3.319366216659546,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5850303204,
+      "title": "Lego 31213 MonaLisa nuovo",
+      "price": {
+        "amount": "85.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5850303204-lego-31213-monalisa-nuovo",
+      "user": {
+        "id": 80514567,
+        "login": "teo3.3",
+        "profile_url": "https://www.vinted.fr/member/80514567-teo33",
+        "photo": {
+          "id": 231479450,
+          "width": 800,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/03_006a3_EaMRNku7nCRNd97cLNoT7HFX/f800/1740142165.jpeg?s=7b9621a9442ccce4f531d2bcc2f0242d56b17ec2",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/03_006a3_EaMRNku7nCRNd97cLNoT7HFX/310x310/1740142165.jpeg?s=8022ff271fdbd475c7e272b1db045d841f00c42a",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/03_006a3_EaMRNku7nCRNd97cLNoT7HFX/150x150/1740142165.jpeg?s=98f503203b55a5793c0e2e0ae3fee8652896fd88",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/03_006a3_EaMRNku7nCRNd97cLNoT7HFX/100x100/1740142165.jpeg?s=daba2abbc6b51449e10d685e78272ef55b29108f",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/03_006a3_EaMRNku7nCRNd97cLNoT7HFX/50x50/1740142165.jpeg?s=32e4923861289597b4b7bf0717ffa10187cb5a40",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/03_006a3_EaMRNku7nCRNd97cLNoT7HFX/20x20/1740142165.jpeg?s=7c6979bd846f292c466870eed82cde5017d0d7f3",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "03_006a3_EaMRNku7nCRNd97cLNoT7HFX",
+            "timestamp": 1740142165,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/03_006a3_EaMRNku7nCRNd97cLNoT7HFX/1740142165.jpeg?s=6dbbc33fd93ab4b727ae395902b04cb39ad99e87",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5850303204-lego-31213-monalisa-nuovo",
+      "promoted": false,
+      "photo": {
+        "id": 23711064089,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#917F69",
+        "dominant_color_opaque": "#DED9D2",
+        "url": "https://images1.vinted.net/t/04_010ec_bdmLyFW7nFGu7UrZ1nVzB9iV/f800/1740082636.jpeg?s=aa0b505e381c5cb403b30d26f0e8d7ae396ba999",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_010ec_bdmLyFW7nFGu7UrZ1nVzB9iV/70x100/1740082636.jpeg?s=d98f9ad8326e011ef64b9f623b1307c24f536002",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_010ec_bdmLyFW7nFGu7UrZ1nVzB9iV/150x210/1740082636.jpeg?s=f56711279b9fac5240826a3ec94d1ee37cf38f1b",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_010ec_bdmLyFW7nFGu7UrZ1nVzB9iV/310x430/1740082636.jpeg?s=1500f816c52aba5e98c5bb0e4d8f30a28f3fbbb3",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_010ec_bdmLyFW7nFGu7UrZ1nVzB9iV/f800/1740082636.jpeg?s=aa0b505e381c5cb403b30d26f0e8d7ae396ba999",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_010ec_bdmLyFW7nFGu7UrZ1nVzB9iV/f800/1740082636.jpeg?s=aa0b505e381c5cb403b30d26f0e8d7ae396ba999",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_010ec_bdmLyFW7nFGu7UrZ1nVzB9iV/f800/1740082636.jpeg?s=aa0b505e381c5cb403b30d26f0e8d7ae396ba999",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_010ec_bdmLyFW7nFGu7UrZ1nVzB9iV",
+          "timestamp": 1740082636,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_010ec_bdmLyFW7nFGu7UrZ1nVzB9iV/1740082636.jpeg?s=c53dec473116ed11b80519798039a683cf327a4c",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 9,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "4.95",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "89.95",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Neuf avec étiquette",
+        "accessibility_label": "Lego 31213 MonaLisa nuovo, marque: LEGO, état: Neuf avec étiquette, 85,00 €, 89,95 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 2.679620265960693,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5776537157,
+      "title": "LEGO Art Mona Lisa (31213) - L'œuvre légendaire revisitée en briques (Neuf)",
+      "price": {
+        "amount": "86.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5776537157-lego-art-mona-lisa-31213-loeuvre-legendaire-revisitee-en-briques-neuf",
+      "user": {
+        "id": 254104906,
+        "login": "expeedia",
+        "profile_url": "https://www.vinted.fr/member/254104906-expeedia",
+        "photo": {
+          "id": 229295278,
+          "width": 500,
+          "height": 500,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/01_001dc_thtAfczAJvpEhc9QSMafvnFe/f800/1738804224.jpeg?s=297561cb010a01ef9e0597e77f6ab6374e16539e",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/01_001dc_thtAfczAJvpEhc9QSMafvnFe/310x310/1738804224.jpeg?s=57fcfb312f9e3b57a53815fb376e6b7b3d13eb0c",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/01_001dc_thtAfczAJvpEhc9QSMafvnFe/150x150/1738804224.jpeg?s=d787f88685777415faf86c021a2b61ac1d8fd8fe",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/01_001dc_thtAfczAJvpEhc9QSMafvnFe/100x100/1738804224.jpeg?s=b264778bf73c420007ccc957a6168cbe2b3f347b",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/01_001dc_thtAfczAJvpEhc9QSMafvnFe/50x50/1738804224.jpeg?s=9a34a4da107731ad54a48bfb360903b52a678779",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/01_001dc_thtAfczAJvpEhc9QSMafvnFe/20x20/1738804224.jpeg?s=e515d0d8ae8558d64cfa44e7eec0d4946b2a212c",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "01_001dc_thtAfczAJvpEhc9QSMafvnFe",
+            "timestamp": 1738804224,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/01_001dc_thtAfczAJvpEhc9QSMafvnFe/1738804224.jpeg?s=be3aacd93b8c53c4e08ae52ea4355ee16ed00caf",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5776537157-lego-art-mona-lisa-31213-loeuvre-legendaire-revisitee-en-briques-neuf",
+      "promoted": false,
+      "photo": {
+        "id": 23405471930,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#767F8E",
+        "dominant_color_opaque": "#D6D9DD",
+        "url": "https://images1.vinted.net/t/01_0109c_dN1kFzaEro1N9vpVZP1Z9Hyh/f800/1738924198.jpeg?s=8a6dd23bb45d20c2709d3438afa06a103771d5bc",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/01_0109c_dN1kFzaEro1N9vpVZP1Z9Hyh/70x100/1738924198.jpeg?s=8261b86b3c2f95b72635b48d2afbbc4f88b6df58",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/01_0109c_dN1kFzaEro1N9vpVZP1Z9Hyh/150x210/1738924198.jpeg?s=94e71a706bde8ea176f2c59588d03253189dddc2",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/01_0109c_dN1kFzaEro1N9vpVZP1Z9Hyh/310x430/1738924198.jpeg?s=fc8a1b87e8df09ad7c926cc10e2c6e33eb9e0c25",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/01_0109c_dN1kFzaEro1N9vpVZP1Z9Hyh/f800/1738924198.jpeg?s=8a6dd23bb45d20c2709d3438afa06a103771d5bc",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/01_0109c_dN1kFzaEro1N9vpVZP1Z9Hyh/f800/1738924198.jpeg?s=8a6dd23bb45d20c2709d3438afa06a103771d5bc",
+            "width": 467,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/01_0109c_dN1kFzaEro1N9vpVZP1Z9Hyh/f800/1738924198.jpeg?s=8a6dd23bb45d20c2709d3438afa06a103771d5bc",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "01_0109c_dN1kFzaEro1N9vpVZP1Z9Hyh",
+          "timestamp": 1738924198,
+          "orientation": 0
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/01_0109c_dN1kFzaEro1N9vpVZP1Z9Hyh/1738924198.jpeg?s=a8537f2654005e7421186c2daeb001ccd7d116f4",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 63,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "5.0",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "91.0",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "LEGO Art Mona Lisa (31213) - L'œuvre légendaire revisitée en briques (Neuf), marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 86,00 €, 91,00 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 2.501308917999268,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5806306491,
+      "title": "Lego art Mona Lisa 31213",
+      "price": {
+        "amount": "80.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5806306491-lego-art-mona-lisa-31213",
+      "user": {
+        "id": 46218901,
+        "login": "seiya38",
+        "profile_url": "https://www.vinted.fr/member/46218901-seiya38",
+        "photo": {
+          "id": 104440914,
+          "width": 599,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/01_0104f_bUcf7y9VufxWEDivwALHKZ9G/f800/1661946379.jpeg?s=548fc0ab2a92bc2f6483a4e69acb2dc3c3a8abfd",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/01_0104f_bUcf7y9VufxWEDivwALHKZ9G/310x310/1661946379.jpeg?s=59b1e05969c166bdcb49805a22ee9bf9a3914dda",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/01_0104f_bUcf7y9VufxWEDivwALHKZ9G/150x150/1661946379.jpeg?s=73dd70104daad8a37c1e5a01d78ffd4065b64663",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/01_0104f_bUcf7y9VufxWEDivwALHKZ9G/100x100/1661946379.jpeg?s=c8b53ec50b9feaa83b1cf955c8908fe4869eb1a8",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/01_0104f_bUcf7y9VufxWEDivwALHKZ9G/50x50/1661946379.jpeg?s=32364807b1d4ea65ff9b3e3a99b10e373ce00d96",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/01_0104f_bUcf7y9VufxWEDivwALHKZ9G/20x20/1661946379.jpeg?s=5299ea42a3da70049439fc74e571c7ef3134ba23",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "01_0104f_bUcf7y9VufxWEDivwALHKZ9G",
+            "timestamp": 1661946379,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/01_0104f_bUcf7y9VufxWEDivwALHKZ9G/1661946379.jpeg?s=a3377c579f966e4d8ff73bacf0568494b2be3048",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5806306491-lego-art-mona-lisa-31213",
+      "promoted": false,
+      "photo": {
+        "id": 23528455786,
+        "image_no": 1,
+        "width": 450,
+        "height": 800,
+        "dominant_color": "#6B504A",
+        "dominant_color_opaque": "#D3CBC9",
+        "url": "https://images1.vinted.net/t/04_012ec_PiaaRn8UJMMc5KTRhpryz9rb/f800/1739373144.jpeg?s=b10ed7bea5c2f4fd3bf73a9ccb5cdc2fe91de0e0",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_012ec_PiaaRn8UJMMc5KTRhpryz9rb/70x100/1739373144.jpeg?s=126b659faba7ab4b29ffa52201f44a04b45c8c67",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_012ec_PiaaRn8UJMMc5KTRhpryz9rb/150x210/1739373144.jpeg?s=962194bba2a0552d00daea66902899b5728438c4",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_012ec_PiaaRn8UJMMc5KTRhpryz9rb/310x430/1739373144.jpeg?s=eb27f0a736d1f0c6d8ba5a663ff004fb199410d8",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_012ec_PiaaRn8UJMMc5KTRhpryz9rb/f800/1739373144.jpeg?s=b10ed7bea5c2f4fd3bf73a9ccb5cdc2fe91de0e0",
+            "width": 240,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_012ec_PiaaRn8UJMMc5KTRhpryz9rb/f800/1739373144.jpeg?s=b10ed7bea5c2f4fd3bf73a9ccb5cdc2fe91de0e0",
+            "width": 351,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_012ec_PiaaRn8UJMMc5KTRhpryz9rb/f800/1739373144.jpeg?s=b10ed7bea5c2f4fd3bf73a9ccb5cdc2fe91de0e0",
+            "width": 204,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_012ec_PiaaRn8UJMMc5KTRhpryz9rb",
+          "timestamp": 1739373144,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_012ec_PiaaRn8UJMMc5KTRhpryz9rb/1739373144.jpeg?s=baaf3d829a633bc35e78257c24dbdbadda64ccec",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 2,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "4.7",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "84.7",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf sans étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego art Mona Lisa 31213, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 80,00 €, 84,70 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 2.249078273773193,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5900041024,
+      "title": "Lego Mona lisa 31213 New",
+      "price": {
+        "amount": "85.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5900041024-lego-mona-lisa-31213-new",
+      "user": {
+        "id": 71775593,
+        "login": "tiago.neves",
+        "profile_url": "https://www.vinted.fr/member/71775593-tiagoneves",
+        "photo": {
+          "id": 70503834,
+          "width": 480,
+          "height": 480,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_01287_CZMvCWBPKsg9r9UQT9SzYGXv/f800/1634808477.jpeg?s=f25d5bfa8c1197e99b8ca77c637e80eb5ab4d1b9",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_01287_CZMvCWBPKsg9r9UQT9SzYGXv/310x310/1634808477.jpeg?s=95bb126bb5c781f7ffae3560a22a1eddfa029f6b",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_01287_CZMvCWBPKsg9r9UQT9SzYGXv/150x150/1634808477.jpeg?s=60d2f87a6211ee239b6e1f9c1c56cca4a50d4cfb",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_01287_CZMvCWBPKsg9r9UQT9SzYGXv/100x100/1634808477.jpeg?s=a18871526dde307a74dd343ef71769c30b9c8d04",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_01287_CZMvCWBPKsg9r9UQT9SzYGXv/50x50/1634808477.jpeg?s=a7372e722beed6bb7cfa7184d199ec9885c6e2dd",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_01287_CZMvCWBPKsg9r9UQT9SzYGXv/20x20/1634808477.jpeg?s=a748de1bc9a3bb23e4f15bbc2db1a1dc77c3759b",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_01287_CZMvCWBPKsg9r9UQT9SzYGXv",
+            "timestamp": 1634808477,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_01287_CZMvCWBPKsg9r9UQT9SzYGXv/1634808477.jpeg?s=3d1ee2f2840d992477602a56869cb476e2dd15df",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5900041024-lego-mona-lisa-31213-new",
+      "promoted": false,
+      "photo": {
+        "id": 23918328554,
+        "image_no": 1,
+        "width": 560,
+        "height": 800,
+        "dominant_color": "#7A6248",
+        "dominant_color_opaque": "#D7D0C8",
+        "url": "https://images1.vinted.net/t/03_00341_TntAQKkABaivQJxLT9Dvz7j7/f800/1740910546.jpeg?s=8f06b47ff916abecfae16e93efe0b61982b13189",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/03_00341_TntAQKkABaivQJxLT9Dvz7j7/70x100/1740910546.jpeg?s=474a37e80a198f6042975cd99241392a1c48fe04",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/03_00341_TntAQKkABaivQJxLT9Dvz7j7/150x210/1740910546.jpeg?s=1617ea7122b96a2447c3a795a3874353ca40a113",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/03_00341_TntAQKkABaivQJxLT9Dvz7j7/310x430/1740910546.jpeg?s=50c9ffcba692a51ea31139eb3029ce5a203b5fe1",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/03_00341_TntAQKkABaivQJxLT9Dvz7j7/f800/1740910546.jpeg?s=8f06b47ff916abecfae16e93efe0b61982b13189",
+            "width": 299,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/03_00341_TntAQKkABaivQJxLT9Dvz7j7/f800/1740910546.jpeg?s=8f06b47ff916abecfae16e93efe0b61982b13189",
+            "width": 437,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/03_00341_TntAQKkABaivQJxLT9Dvz7j7/f800/1740910546.jpeg?s=8f06b47ff916abecfae16e93efe0b61982b13189",
+            "width": 255,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "03_00341_TntAQKkABaivQJxLT9Dvz7j7",
+          "timestamp": 1740910546,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/03_00341_TntAQKkABaivQJxLT9Dvz7j7/1740910546.jpeg?s=ffa850e80c2e7f719fe03ba60faa172f450032cb",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 0,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "4.95",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "89.95",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Jusqu'à 1 mois / 50 cm",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Jusqu'à 1 mois / 50 cm",
+        "accessibility_label": "Lego Mona lisa 31213 New, marque: LEGO, état: Neuf avec étiquette, taille: Jusqu'à 1 mois / 50 cm, 85,00 €, 89,95 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 2.196830272674561,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5812838808,
+      "title": "Lego 31213",
+      "price": {
+        "amount": "87.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5812838808-lego-31213",
+      "user": {
+        "id": 205712437,
+        "login": "michelesilvestri79",
+        "profile_url": "https://www.vinted.fr/member/205712437-michelesilvestri79",
+        "photo": {
+          "id": 192984608,
+          "width": 96,
+          "height": 96,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/01_010ab_p5d2qk1Ghi8X7okWUDPa11hH/f800/1715949577.jpeg?s=3787bed5014f2efadec9117d1d1055c15df7ef51",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/01_010ab_p5d2qk1Ghi8X7okWUDPa11hH/310x310/1715949577.jpeg?s=bff1c8e58ecc8b959550b3aa14054f06722c9957",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/01_010ab_p5d2qk1Ghi8X7okWUDPa11hH/150x150/1715949577.jpeg?s=522cf1827c24dc0ff9beb17f15d8c876e655af87",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/01_010ab_p5d2qk1Ghi8X7okWUDPa11hH/100x100/1715949577.jpeg?s=975c6a8563ffa044c5e32315c725eaa32fcf4bc5",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/01_010ab_p5d2qk1Ghi8X7okWUDPa11hH/50x50/1715949577.jpeg?s=f6a2d36dd9865d7cd7b856c5b96d79ab0c6ce26b",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/01_010ab_p5d2qk1Ghi8X7okWUDPa11hH/20x20/1715949577.jpeg?s=bcb6e72e4f9074bf15037584bc1f74ab1ea0cac9",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "01_010ab_p5d2qk1Ghi8X7okWUDPa11hH",
+            "timestamp": 1715949577,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/01_010ab_p5d2qk1Ghi8X7okWUDPa11hH/1715949577.jpeg?s=33fb4fb69c1127910069edabbd50f43d91beabd1",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5812838808-lego-31213",
+      "promoted": false,
+      "photo": {
+        "id": 23555646302,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#886A58",
+        "dominant_color_opaque": "#DBD2CD",
+        "url": "https://images1.vinted.net/t/04_003ae_e1VbgR92RL3VCHd9LzVaLuYk/f800/1739479833.jpeg?s=2287c1cecd42401b1182eb5fbdf7472e50b47042",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_003ae_e1VbgR92RL3VCHd9LzVaLuYk/70x100/1739479833.jpeg?s=30df77472d88578442229c33156608578d0819bf",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_003ae_e1VbgR92RL3VCHd9LzVaLuYk/150x210/1739479833.jpeg?s=ceaca5e66235c55b2432c760cb417b7aed79dccf",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_003ae_e1VbgR92RL3VCHd9LzVaLuYk/310x430/1739479833.jpeg?s=3bb98ae534cc46fea4dc53c5cc0dd35a7b3c1eb8",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_003ae_e1VbgR92RL3VCHd9LzVaLuYk/f800/1739479833.jpeg?s=2287c1cecd42401b1182eb5fbdf7472e50b47042",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_003ae_e1VbgR92RL3VCHd9LzVaLuYk/f800/1739479833.jpeg?s=2287c1cecd42401b1182eb5fbdf7472e50b47042",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_003ae_e1VbgR92RL3VCHd9LzVaLuYk/f800/1739479833.jpeg?s=2287c1cecd42401b1182eb5fbdf7472e50b47042",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_003ae_e1VbgR92RL3VCHd9LzVaLuYk",
+          "timestamp": 1739479833,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_003ae_e1VbgR92RL3VCHd9LzVaLuYk/1739479833.jpeg?s=747d42d2f35f7b13766bd093af5bdfa33fbb1ddf",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 3,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "5.05",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "92.05",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego 31213, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 87,00 €, 92,05 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 1.869047164916992,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5515520751,
+      "title": "Lego 31213 Mona lisa",
+      "price": {
+        "amount": "80.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5515520751-lego-31213-mona-lisa",
+      "user": {
+        "id": 31550148,
+        "login": "meesje10",
+        "profile_url": "https://www.vinted.fr/member/31550148-meesje10",
+        "photo": {
+          "id": 24362450,
+          "width": 512,
+          "height": 512,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_024e8_qy5gvPsNs5inxmdH5Uj8eiTb/f800/1605254611.jpeg?s=4e8319cfda9bfeb3a5d94876cf662de64a76ff21",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_024e8_qy5gvPsNs5inxmdH5Uj8eiTb/310x310/1605254611.jpeg?s=be9de150668e4ea52adc99c44daf4ddc5b285f5a",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_024e8_qy5gvPsNs5inxmdH5Uj8eiTb/150x150/1605254611.jpeg?s=b556eb81d98bdf5ecd36958122e7ff4e73679988",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_024e8_qy5gvPsNs5inxmdH5Uj8eiTb/100x100/1605254611.jpeg?s=635be7fef94f2ad626711ec5dab405b03eaac2c7",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_024e8_qy5gvPsNs5inxmdH5Uj8eiTb/50x50/1605254611.jpeg?s=34ebf0ae54f7ef659ff4bbb9cd70f6237c0daee7",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_024e8_qy5gvPsNs5inxmdH5Uj8eiTb/20x20/1605254611.jpeg?s=834e6185c0c704dc79b11605a2ed86f0ec90ea3f",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_024e8_qy5gvPsNs5inxmdH5Uj8eiTb",
+            "timestamp": 1605254611,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_024e8_qy5gvPsNs5inxmdH5Uj8eiTb/1605254611.jpeg?s=1a40fa4d58a37ed902779ea207942a61ec62b0d9",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5515520751-lego-31213-mona-lisa",
+      "promoted": false,
+      "photo": {
+        "id": 22335156281,
+        "image_no": 1,
+        "width": 800,
+        "height": 712,
+        "dominant_color": "#7A5837",
+        "dominant_color_opaque": "#D7CDC3",
+        "url": "https://images1.vinted.net/t/04_02345_9naZm2vT2pZu5CHYXBvVSe6C/f800/1733945037.jpeg?s=8b71e71cf86c4ce4e8158e39d729a491b30c8dc0",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_02345_9naZm2vT2pZu5CHYXBvVSe6C/70x100/1733945037.jpeg?s=45c8dd93a360dc6902421f9908663881f70a7268",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_02345_9naZm2vT2pZu5CHYXBvVSe6C/150x210/1733945037.jpeg?s=7f2c6e543e754fa517e0f3ee91183201abede0f3",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_02345_9naZm2vT2pZu5CHYXBvVSe6C/310x430/1733945037.jpeg?s=2a8913f60307f49323579a17ed352ccfda972c0f",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_02345_9naZm2vT2pZu5CHYXBvVSe6C/f800/1733945037.jpeg?s=8b71e71cf86c4ce4e8158e39d729a491b30c8dc0",
+            "width": 428,
+            "height": 381,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_02345_9naZm2vT2pZu5CHYXBvVSe6C/f800/1733945037.jpeg?s=8b71e71cf86c4ce4e8158e39d729a491b30c8dc0",
+            "width": 624,
+            "height": 555,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_02345_9naZm2vT2pZu5CHYXBvVSe6C/f800/1733945037.jpeg?s=8b71e71cf86c4ce4e8158e39d729a491b30c8dc0",
+            "width": 364,
+            "height": 324,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_02345_9naZm2vT2pZu5CHYXBvVSe6C",
+          "timestamp": 1733945037,
+          "orientation": 0
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_02345_9naZm2vT2pZu5CHYXBvVSe6C/1733945037.jpeg?s=42d6594ac248ae5107b09a9b6c57b74a8ed8a0b2",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 16,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "4.7",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "84.7",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego 31213 Mona lisa, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 80,00 €, 84,70 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 1.810907363891602,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5550021842,
+      "title": "LEGO Art 31213 Mona Lisa",
+      "price": {
+        "amount": "85.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5550021842-lego-art-31213-mona-lisa",
+      "user": {
+        "id": 93209608,
+        "login": "elliot__alderson",
+        "profile_url": "https://www.vinted.fr/member/93209608-elliotalderson",
+        "photo": {
+          "id": 92486609,
+          "width": 511,
+          "height": 571,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_0014a_jKmJ8jgJysvXesmed3FLdzk2/f800/1653311431.jpeg?s=8e5140b6124623548c358262642c8be125df56eb",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_0014a_jKmJ8jgJysvXesmed3FLdzk2/310x310/1653311431.jpeg?s=1dc768579fa7ac3bd5c4018f0206ded1ec775c82",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_0014a_jKmJ8jgJysvXesmed3FLdzk2/150x150/1653311431.jpeg?s=1aff9eac480e43eec0fb7773c9fe63c558bda285",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_0014a_jKmJ8jgJysvXesmed3FLdzk2/100x100/1653311431.jpeg?s=57e5b26f228be1ea2695cdcd0ba32eb3d5519555",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_0014a_jKmJ8jgJysvXesmed3FLdzk2/50x50/1653311431.jpeg?s=f8105ef8cf8187993fc9e4a6fbf45ce118cc7ddc",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_0014a_jKmJ8jgJysvXesmed3FLdzk2/20x20/1653311431.jpeg?s=4d917aa6a86619e6a2bdba6c8c36fe02b0f5d711",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_0014a_jKmJ8jgJysvXesmed3FLdzk2",
+            "timestamp": 1653311431,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_0014a_jKmJ8jgJysvXesmed3FLdzk2/1653311431.jpeg?s=2fe47b8eedf1d1c10ea15a526b68b38b62b13cf3",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5550021842-lego-art-31213-mona-lisa",
+      "promoted": false,
+      "photo": {
+        "id": 22479506910,
+        "image_no": 1,
+        "width": 800,
+        "height": 602,
+        "dominant_color": "#513927",
+        "dominant_color_opaque": "#CBC4BE",
+        "url": "https://images1.vinted.net/t/04_00b9d_jn8bgyiXEn6WGJrYULbX1qi9/f800/1734789713.jpeg?s=52c69481134881c4d73692c7f18b4a97d63f0fdf",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_00b9d_jn8bgyiXEn6WGJrYULbX1qi9/70x100/1734789713.jpeg?s=340dcc776854378958098258d4e5ba32e6cbfce4",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_00b9d_jn8bgyiXEn6WGJrYULbX1qi9/150x210/1734789713.jpeg?s=27e0a6fc3623303ed9dc204cefde16e90ac0e824",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_00b9d_jn8bgyiXEn6WGJrYULbX1qi9/310x430/1734789713.jpeg?s=dae2e9f6c90edf71dd5c940d49be6b961b4edeb1",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_00b9d_jn8bgyiXEn6WGJrYULbX1qi9/f800/1734789713.jpeg?s=52c69481134881c4d73692c7f18b4a97d63f0fdf",
+            "width": 428,
+            "height": 322,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_00b9d_jn8bgyiXEn6WGJrYULbX1qi9/f800/1734789713.jpeg?s=52c69481134881c4d73692c7f18b4a97d63f0fdf",
+            "width": 624,
+            "height": 469,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_00b9d_jn8bgyiXEn6WGJrYULbX1qi9/f800/1734789713.jpeg?s=52c69481134881c4d73692c7f18b4a97d63f0fdf",
+            "width": 364,
+            "height": 274,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_00b9d_jn8bgyiXEn6WGJrYULbX1qi9",
+          "timestamp": 1734789713,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_00b9d_jn8bgyiXEn6WGJrYULbX1qi9/1734789713.jpeg?s=38c92a9feced44cdec79c8a0755c6b0f9e9f79c3",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 13,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "4.95",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "89.95",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Neuf avec étiquette",
+        "accessibility_label": "LEGO Art 31213 Mona Lisa, marque: LEGO, état: Neuf avec étiquette, 85,00 €, 89,95 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 1.118606090545654,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5505178758,
+      "title": "Lego 31214 Mona Lisa",
+      "price": {
+        "amount": "80.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5505178758-lego-31214-mona-lisa",
+      "user": {
+        "id": 145830321,
+        "login": "mappamondo81",
+        "profile_url": "https://www.vinted.fr/member/145830321-mappamondo81",
+        "photo": null,
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5505178758-lego-31214-mona-lisa",
+      "promoted": false,
+      "photo": {
+        "id": 22292430869,
+        "image_no": 1,
+        "width": 602,
+        "height": 800,
+        "dominant_color": "#62594C",
+        "dominant_color_opaque": "#D0CDC9",
+        "url": "https://images1.vinted.net/t/02_01353_fRZKb38QYni3DJngtSLpUgCR/f800/1733749340.jpeg?s=604f965bc1228e179bce05fb8ae2d0dd4b220fb4",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/02_01353_fRZKb38QYni3DJngtSLpUgCR/70x100/1733749340.jpeg?s=0cb5d517dd7360352d94d61cda47bca6df9c3cca",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/02_01353_fRZKb38QYni3DJngtSLpUgCR/150x210/1733749340.jpeg?s=c82a8c6296ed031b8bc04f5249cbc38bd12961de",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/02_01353_fRZKb38QYni3DJngtSLpUgCR/310x430/1733749340.jpeg?s=032bfea294f71a1ccc4f061faec00dd782808be3",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/02_01353_fRZKb38QYni3DJngtSLpUgCR/f800/1733749340.jpeg?s=604f965bc1228e179bce05fb8ae2d0dd4b220fb4",
+            "width": 322,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/02_01353_fRZKb38QYni3DJngtSLpUgCR/f800/1733749340.jpeg?s=604f965bc1228e179bce05fb8ae2d0dd4b220fb4",
+            "width": 469,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/02_01353_fRZKb38QYni3DJngtSLpUgCR/f800/1733749340.jpeg?s=604f965bc1228e179bce05fb8ae2d0dd4b220fb4",
+            "width": 274,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "02_01353_fRZKb38QYni3DJngtSLpUgCR",
+          "timestamp": 1733749340,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/02_01353_fRZKb38QYni3DJngtSLpUgCR/1733749340.jpeg?s=66ace7947a47e98c83d8dccf91b515f2c3083bf1",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 23,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "4.7",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "84.7",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Neuf avec étiquette",
+        "accessibility_label": "Lego 31214 Mona Lisa, marque: LEGO, état: Neuf avec étiquette, 80,00 €, 84,70 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 0.921534538269043,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5577140905,
+      "title": "Lego 31213 -Mona Lisa",
+      "price": {
+        "amount": "85.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5577140905-lego-31213-mona-lisa",
+      "user": {
+        "id": 241708818,
+        "login": "ruigouvei",
+        "profile_url": "https://www.vinted.fr/member/241708818-ruigouvei",
+        "photo": {
+          "id": 220012109,
+          "width": 450,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/04_007fd_buxFJqV2VRhW8DnWu2xzGn1i/f800/1732659647.jpeg?s=669ad012f62c4b5c546479c84f8e0c2e2f4aa755",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/04_007fd_buxFJqV2VRhW8DnWu2xzGn1i/310x310/1732659647.jpeg?s=4134b922ae182b2c5c7d7866cfe3bef46ee8a175",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/04_007fd_buxFJqV2VRhW8DnWu2xzGn1i/150x150/1732659647.jpeg?s=b7d48914baa72494434cf17a4711cce63145ad56",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/04_007fd_buxFJqV2VRhW8DnWu2xzGn1i/100x100/1732659647.jpeg?s=7ead8246ba53ce2c6472e855d3ab2df2ecdb6cf1",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/04_007fd_buxFJqV2VRhW8DnWu2xzGn1i/50x50/1732659647.jpeg?s=8266db2804692488d60df86d7dd62e14444fb213",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/04_007fd_buxFJqV2VRhW8DnWu2xzGn1i/20x20/1732659647.jpeg?s=482012c82db8cc16944cb9538c64460181da126b",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "04_007fd_buxFJqV2VRhW8DnWu2xzGn1i",
+            "timestamp": 1732659647,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/04_007fd_buxFJqV2VRhW8DnWu2xzGn1i/1732659647.jpeg?s=e45a8c4b1b9523b0c5d2026b9c07181f8535dfdd",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5577140905-lego-31213-mona-lisa",
+      "promoted": false,
+      "photo": {
+        "id": 22589527400,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#695953",
+        "dominant_color_opaque": "#D2CDCB",
+        "url": "https://images1.vinted.net/t/02_014aa_vCZ8WFdAQtCKvJYaMJaj7H7R/f800/1735556428.jpeg?s=c4af26119837176056118fa944ed5ccd6b8583eb",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/02_014aa_vCZ8WFdAQtCKvJYaMJaj7H7R/70x100/1735556428.jpeg?s=f49a0cf30411d6daec01f73a40e30111ce0b321b",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/02_014aa_vCZ8WFdAQtCKvJYaMJaj7H7R/150x210/1735556428.jpeg?s=0f9df0eb48fd031f373bc517e28bc5addc27dbd7",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/02_014aa_vCZ8WFdAQtCKvJYaMJaj7H7R/310x430/1735556428.jpeg?s=06f2551dee0992ed147d09ba952ba94183b47a54",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/02_014aa_vCZ8WFdAQtCKvJYaMJaj7H7R/f800/1735556428.jpeg?s=c4af26119837176056118fa944ed5ccd6b8583eb",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/02_014aa_vCZ8WFdAQtCKvJYaMJaj7H7R/f800/1735556428.jpeg?s=c4af26119837176056118fa944ed5ccd6b8583eb",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/02_014aa_vCZ8WFdAQtCKvJYaMJaj7H7R/f800/1735556428.jpeg?s=c4af26119837176056118fa944ed5ccd6b8583eb",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "02_014aa_vCZ8WFdAQtCKvJYaMJaj7H7R",
+          "timestamp": 1735556428,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/02_014aa_vCZ8WFdAQtCKvJYaMJaj7H7R/1735556428.jpeg?s=6832b41082141f662737e3c70099678a2ba47bfb",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 6,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "4.95",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "89.95",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Neuf avec étiquette",
+        "accessibility_label": "Lego 31213 -Mona Lisa, marque: LEGO, état: Neuf avec étiquette, 85,00 €, 89,95 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 0.7730460166931152,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5534522248,
+      "title": "Lego 31213 Mona Lisa",
+      "price": {
+        "amount": "85.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5534522248-lego-31213-mona-lisa",
+      "user": {
+        "id": 71562188,
+        "login": "ccg1980",
+        "profile_url": "https://www.vinted.fr/member/71562188-ccg1980",
+        "photo": {
+          "id": 111068572,
+          "width": 800,
+          "height": 796,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_00361_r9v6fe8VSbP3aJuy6T1N6w1R/f800/1665614857.jpeg?s=ac4592ceacf06bc046e7901b5b22a5be10ecb1aa",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_00361_r9v6fe8VSbP3aJuy6T1N6w1R/310x310/1665614857.jpeg?s=787be8683595b5144d3e279e664c32d91e1913e3",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_00361_r9v6fe8VSbP3aJuy6T1N6w1R/150x150/1665614857.jpeg?s=4d840ada9d6e5ac7832a664829d7b1f07beb388f",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_00361_r9v6fe8VSbP3aJuy6T1N6w1R/100x100/1665614857.jpeg?s=9f794de5f8eb58d2bd61803830d8a3c8ae4f1320",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_00361_r9v6fe8VSbP3aJuy6T1N6w1R/50x50/1665614857.jpeg?s=8a41cdbad191eb645561624ec99737149465c1e9",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_00361_r9v6fe8VSbP3aJuy6T1N6w1R/20x20/1665614857.jpeg?s=517c50c2e3a01191d7fa370ddbfce8986e7ec75b",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_00361_r9v6fe8VSbP3aJuy6T1N6w1R",
+            "timestamp": 1665614857,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_00361_r9v6fe8VSbP3aJuy6T1N6w1R/1665614857.jpeg?s=607a34d6e68726e2077688459b8f2b2b9096d4b6",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5534522248-lego-31213-mona-lisa",
+      "promoted": false,
+      "photo": {
+        "id": 22414666664,
+        "image_no": 1,
+        "width": 450,
+        "height": 800,
+        "dominant_color": "#807871",
+        "dominant_color_opaque": "#D9D7D4",
+        "url": "https://images1.vinted.net/t/04_00825_v3KAQ9pNyNtc6wScEjsuQgGZ/f800/1734363936.jpeg?s=e541f4e75bbe60a9eda8545644ee168198bfbef7",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_00825_v3KAQ9pNyNtc6wScEjsuQgGZ/70x100/1734363936.jpeg?s=d5b87f59cdbde8475080d9766d817c07960563e0",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_00825_v3KAQ9pNyNtc6wScEjsuQgGZ/150x210/1734363936.jpeg?s=446fe1c08e73bf69d74e12c48258aa1ec791163b",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_00825_v3KAQ9pNyNtc6wScEjsuQgGZ/310x430/1734363936.jpeg?s=7ccb38539fd87f26382b136837e9cf24564a0d0b",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_00825_v3KAQ9pNyNtc6wScEjsuQgGZ/f800/1734363936.jpeg?s=e541f4e75bbe60a9eda8545644ee168198bfbef7",
+            "width": 240,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_00825_v3KAQ9pNyNtc6wScEjsuQgGZ/f800/1734363936.jpeg?s=e541f4e75bbe60a9eda8545644ee168198bfbef7",
+            "width": 351,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_00825_v3KAQ9pNyNtc6wScEjsuQgGZ/f800/1734363936.jpeg?s=e541f4e75bbe60a9eda8545644ee168198bfbef7",
+            "width": 204,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_00825_v3KAQ9pNyNtc6wScEjsuQgGZ",
+          "timestamp": 1734363936,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_00825_v3KAQ9pNyNtc6wScEjsuQgGZ/1734363936.jpeg?s=ca80bc904226fa148966f32e286bb717555c68f0",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 8,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "4.95",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "89.95",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Neuf avec étiquette",
+        "accessibility_label": "Lego 31213 Mona Lisa, marque: LEGO, état: Neuf avec étiquette, 85,00 €, 89,95 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 0.6002674102783203,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 3816310773,
+      "title": "Lego Duplo Vintage Cute Animals Snail / Turtle 2297",
+      "price": {
+        "amount": "20.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/3816310773-lego-duplo-vintage-cute-animals-snail-turtle-2297",
+      "user": {
+        "id": 77087298,
+        "login": "nunorapz",
+        "profile_url": "https://www.vinted.fr/member/77087298-nunorapz",
+        "photo": {
+          "id": 202330519,
+          "width": 800,
+          "height": 666,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/03_01770_aineWxL2uyR5HLoNfWnksejL/f800/1722586889.jpeg?s=9386cb7393c270817183603d0f11a601b4cc4f59",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/03_01770_aineWxL2uyR5HLoNfWnksejL/310x310/1722586889.jpeg?s=bbeac1e7588db8a3d5ec9a206690945e113df209",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/03_01770_aineWxL2uyR5HLoNfWnksejL/150x150/1722586889.jpeg?s=ca8cb06ce281f988d7ef5c3a9718b43dab385136",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/03_01770_aineWxL2uyR5HLoNfWnksejL/100x100/1722586889.jpeg?s=85c6e9f54213aae50ed10a53a5924ff3b93e9c5a",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/03_01770_aineWxL2uyR5HLoNfWnksejL/50x50/1722586889.jpeg?s=dcf71310087120903730eaf5e0d253079884d1dd",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/03_01770_aineWxL2uyR5HLoNfWnksejL/20x20/1722586889.jpeg?s=b85f2529d32af3fd9b6ea2c854765e0180353574",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "03_01770_aineWxL2uyR5HLoNfWnksejL",
+            "timestamp": 1722586889,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/03_01770_aineWxL2uyR5HLoNfWnksejL/1722586889.jpeg?s=30c5e6028d50c383d4a3f7954cc1e942851e6414",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/3816310773-lego-duplo-vintage-cute-animals-snail-turtle-2297",
+      "promoted": false,
+      "photo": {
+        "id": 15638975898,
+        "image_no": 1,
+        "width": 800,
+        "height": 600,
+        "dominant_color": "#1E5038",
+        "dominant_color_opaque": "#BCCBC3",
+        "url": "https://images1.vinted.net/t/02_01596_ejWh3ejhLS7kFUUn5k184qXS/f800/1701087415.jpeg?s=0b9171c34ffbd081b554abc3d1acd3678b321a87",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/02_01596_ejWh3ejhLS7kFUUn5k184qXS/70x100/1701087415.jpeg?s=c73f18e3adf7400eb6f5b7551799baff0c8ec64a",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/02_01596_ejWh3ejhLS7kFUUn5k184qXS/150x210/1701087415.jpeg?s=4a16c29b21a602facd6ad5a5febbabba623ae841",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/02_01596_ejWh3ejhLS7kFUUn5k184qXS/310x430/1701087415.jpeg?s=f468125b9064f442fee62d68461c09cc589c66c0",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/02_01596_ejWh3ejhLS7kFUUn5k184qXS/f800/1701087415.jpeg?s=0b9171c34ffbd081b554abc3d1acd3678b321a87",
+            "width": 428,
+            "height": 321,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/02_01596_ejWh3ejhLS7kFUUn5k184qXS/f800/1701087415.jpeg?s=0b9171c34ffbd081b554abc3d1acd3678b321a87",
+            "width": 624,
+            "height": 468,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/02_01596_ejWh3ejhLS7kFUUn5k184qXS/f800/1701087415.jpeg?s=0b9171c34ffbd081b554abc3d1acd3678b321a87",
+            "width": 364,
+            "height": 273,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "02_01596_ejWh3ejhLS7kFUUn5k184qXS",
+          "timestamp": 1701087415,
+          "orientation": 0
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/02_01596_ejWh3ejhLS7kFUUn5k184qXS/1701087415.jpeg?s=00a9d31bef8f2b22e2aedcbc15e28e86c538a196",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 6,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "1.7",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "21.7",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "3 ans / 98 cm",
+      "content_source": "search",
+      "status": "Bon état",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "3 ans / 98 cm",
+        "accessibility_label": "Lego Duplo Vintage Cute Animals Snail / Turtle 2297, marque: LEGO, état: Bon état, taille: 3 ans / 98 cm, 20,00 €, 21,70 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 0.01411056518554688,
+        "matched_queries": []
+      }
+    }
+  ],
+  "dominant_brand": {
+    "id": 89162,
+    "title": "LEGO",
+    "slug": "lego",
+    "favourite_count": 185159,
+    "pretty_favourite_count": "185.2K",
+    "item_count": 2321353,
+    "pretty_item_count": "2.3M",
+    "is_visible_in_listings": true,
+    "requires_authenticity_check": false,
+    "is_luxury": false,
+    "is_hvf": false,
+    "path": "/brand/89162-lego",
+    "url": "https://www.vinted.fr/brand/89162-lego",
+    "is_favourite": false
+  },
+  "search_tracking_params": {
+    "search_correlation_id": "ff8a9490-134c-465a-a353-4fae5745c082",
+    "search_session_id": "baaf2cb9-2925-435d-a9cd-6f18d1ec9f69",
+    "global_search_session_id": "81f2db73-77f1-4a48-9b88-fd18a840206f"
+  },
+  "pagination": {
+    "current_page": 1,
+    "total_pages": 1,
+    "total_entries": 16,
+    "per_page": 96,
+    "time": 1741612902
+  },
+  "code": 0
+}

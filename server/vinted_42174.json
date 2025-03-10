@@ -1,0 +1,1958 @@
+{
+  "items": [
+    {
+      "id": 5931174634,
+      "title": "Lego 42174 Yacht Emirates Team New Zealand AC75",
+      "price": {
+        "amount": "84.99",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5931174634-lego-42174-yacht-emirates-team-new-zealand-ac75",
+      "user": {
+        "id": 107129961,
+        "login": "cholabkkk",
+        "profile_url": "https://www.vinted.fr/member/107129961-cholabkkk",
+        "photo": {
+          "id": 131517557,
+          "width": 800,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_01413_BJiYyMhtv9NSjDG7ZZ7JPJMw/f800/1678012246.jpeg?s=1d1f450f3543c74843dafcc7770a167e88d587de",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_01413_BJiYyMhtv9NSjDG7ZZ7JPJMw/310x310/1678012246.jpeg?s=a50d77091504835b3f97a2427899a99c1aded835",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_01413_BJiYyMhtv9NSjDG7ZZ7JPJMw/150x150/1678012246.jpeg?s=5b98849948639aabc0bad422bfe321b6c01fa0c4",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_01413_BJiYyMhtv9NSjDG7ZZ7JPJMw/100x100/1678012246.jpeg?s=4a191a4cd5ebacf31cc2ac6d211244bc9ae59a32",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_01413_BJiYyMhtv9NSjDG7ZZ7JPJMw/50x50/1678012246.jpeg?s=266af6a526570815904802346ebb88555a6c782c",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_01413_BJiYyMhtv9NSjDG7ZZ7JPJMw/20x20/1678012246.jpeg?s=fd241c336a1d0aaff91c628e5ccae7cd1bdec20a",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_01413_BJiYyMhtv9NSjDG7ZZ7JPJMw",
+            "timestamp": 1678012246,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_01413_BJiYyMhtv9NSjDG7ZZ7JPJMw/1678012246.jpeg?s=42df97f5a23e147115cdb08fedf7469bd64660a7",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5931174634-lego-42174-yacht-emirates-team-new-zealand-ac75",
+      "promoted": false,
+      "photo": {
+        "id": 24048261505,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#5D3D3F",
+        "dominant_color_opaque": "#CEC5C5",
+        "url": "https://images1.vinted.net/t/04_0155c_w73EER3tQKNDyJGg1CWLjxGE/f800/1741426081.jpeg?s=fc407927832ec68e425f9b91992ff4da59d3115b",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_0155c_w73EER3tQKNDyJGg1CWLjxGE/70x100/1741426081.jpeg?s=b3afb31f3cf20c5ac3153803566213d51fee2c39",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_0155c_w73EER3tQKNDyJGg1CWLjxGE/150x210/1741426081.jpeg?s=f97060a6af5e116f4d7ad238576d22fc6de8811a",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_0155c_w73EER3tQKNDyJGg1CWLjxGE/310x430/1741426081.jpeg?s=f6f18c4b1ce72e621ed0a92850034c452ea90a6b",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_0155c_w73EER3tQKNDyJGg1CWLjxGE/f800/1741426081.jpeg?s=fc407927832ec68e425f9b91992ff4da59d3115b",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_0155c_w73EER3tQKNDyJGg1CWLjxGE/f800/1741426081.jpeg?s=fc407927832ec68e425f9b91992ff4da59d3115b",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_0155c_w73EER3tQKNDyJGg1CWLjxGE/f800/1741426081.jpeg?s=fc407927832ec68e425f9b91992ff4da59d3115b",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_0155c_w73EER3tQKNDyJGg1CWLjxGE",
+          "timestamp": 1741426081,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_0155c_w73EER3tQKNDyJGg1CWLjxGE/1741426081.jpeg?s=104f562c933ffa4ed1a3d6b5778ca181e706d54c",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 22,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "4.95",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "89.94",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Prématuré, jusqu'à 44cm",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Prématuré, jusqu'à 44cm",
+        "accessibility_label": "Lego 42174 Yacht Emirates Team New Zealand AC75, marque: LEGO, état: Neuf avec étiquette, taille: Prématuré, jusqu'à 44cm, 84,99 €, 89,94 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 5.140901565551758,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5915907910,
+      "title": "Lego 42174",
+      "price": {
+        "amount": "85.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5915907910-lego-42174",
+      "user": {
+        "id": 244022299,
+        "login": "davil5925",
+        "profile_url": "https://www.vinted.fr/member/244022299-davil5925",
+        "photo": null,
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5915907910-lego-42174",
+      "promoted": false,
+      "photo": {
+        "id": 23984238991,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#49373F",
+        "dominant_color_opaque": "#C8C3C5",
+        "url": "https://images1.vinted.net/t/04_0204f_2fxz7HjVHYvxg8tWKU8tY7Ee/f800/1741136056.jpeg?s=9bc8a26a156f62222129e224ab315d8929d43e27",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_0204f_2fxz7HjVHYvxg8tWKU8tY7Ee/70x100/1741136056.jpeg?s=fa7c2561fdd835d05328f3566da86a761837e67e",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_0204f_2fxz7HjVHYvxg8tWKU8tY7Ee/150x210/1741136056.jpeg?s=069e82d93569b0329f0da77f73aaf3a77908218d",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_0204f_2fxz7HjVHYvxg8tWKU8tY7Ee/310x430/1741136056.jpeg?s=25cf188e0e75f029453b948cc60e96592474fa13",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_0204f_2fxz7HjVHYvxg8tWKU8tY7Ee/f800/1741136056.jpeg?s=9bc8a26a156f62222129e224ab315d8929d43e27",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_0204f_2fxz7HjVHYvxg8tWKU8tY7Ee/f800/1741136056.jpeg?s=9bc8a26a156f62222129e224ab315d8929d43e27",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_0204f_2fxz7HjVHYvxg8tWKU8tY7Ee/f800/1741136056.jpeg?s=9bc8a26a156f62222129e224ab315d8929d43e27",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_0204f_2fxz7HjVHYvxg8tWKU8tY7Ee",
+          "timestamp": 1741136056,
+          "orientation": 0
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_0204f_2fxz7HjVHYvxg8tWKU8tY7Ee/1741136056.jpeg?s=0fad07fec9cba510ba8d91054db62b5b2907d662",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 17,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "4.95",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "89.95",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego 42174, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 85,00 €, 89,95 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 4.734861373901367,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5838806982,
+      "title": "Lego 42174 technic yacht emirates ac75",
+      "price": {
+        "amount": "85.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5838806982-lego-42174-technic-yacht-emirates-ac75",
+      "user": {
+        "id": 17007190,
+        "login": "marniere3275",
+        "profile_url": "https://www.vinted.fr/member/17007190-marniere3275",
+        "photo": {
+          "id": 194650328,
+          "width": 450,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/01_02660_qY3u74FnYBdc6mJmUJ7UXXjL/f800/1717073900.jpeg?s=ce8ee7c7c1c4187ab87c6669fae7d61eb2134eb8",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/01_02660_qY3u74FnYBdc6mJmUJ7UXXjL/310x310/1717073900.jpeg?s=5567ff38e1bc59a66334db7c681dbe9deab5d979",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/01_02660_qY3u74FnYBdc6mJmUJ7UXXjL/150x150/1717073900.jpeg?s=02ca657a52191f9cdccd90d7f52718f4ce03ff20",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/01_02660_qY3u74FnYBdc6mJmUJ7UXXjL/100x100/1717073900.jpeg?s=ce0f177b9c8db8a548b8c032dc18e8c018ed9a35",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/01_02660_qY3u74FnYBdc6mJmUJ7UXXjL/50x50/1717073900.jpeg?s=555f77a2626fd977750e07f5aba04c6cb3f53d2a",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/01_02660_qY3u74FnYBdc6mJmUJ7UXXjL/20x20/1717073900.jpeg?s=8b4506a2d5d86848e115f0a902de10a7e2fd37c1",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "01_02660_qY3u74FnYBdc6mJmUJ7UXXjL",
+            "timestamp": 1717073900,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/01_02660_qY3u74FnYBdc6mJmUJ7UXXjL/1717073900.jpeg?s=f3e2193926d6095494504b7ed1e9207fc92baf90",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5838806982-lego-42174-technic-yacht-emirates-ac75",
+      "promoted": false,
+      "photo": {
+        "id": 23663511353,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#66504A",
+        "dominant_color_opaque": "#D1CBC9",
+        "url": "https://images1.vinted.net/t/04_0236a_ycz9xGCRQSNb7iAyGLs94XMe/f800/1739898658.jpeg?s=3bc16dee6153dcea196a717e760271509946e710",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_0236a_ycz9xGCRQSNb7iAyGLs94XMe/70x100/1739898658.jpeg?s=6e6ea403105a175a5a9253cb30195d59c7515edd",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_0236a_ycz9xGCRQSNb7iAyGLs94XMe/150x210/1739898658.jpeg?s=761f3be8c53ed11576875278253d68afb84efc85",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_0236a_ycz9xGCRQSNb7iAyGLs94XMe/310x430/1739898658.jpeg?s=c42849514b30189ae2c2f49ba25754f1889b8390",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_0236a_ycz9xGCRQSNb7iAyGLs94XMe/f800/1739898658.jpeg?s=3bc16dee6153dcea196a717e760271509946e710",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_0236a_ycz9xGCRQSNb7iAyGLs94XMe/f800/1739898658.jpeg?s=3bc16dee6153dcea196a717e760271509946e710",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_0236a_ycz9xGCRQSNb7iAyGLs94XMe/f800/1739898658.jpeg?s=3bc16dee6153dcea196a717e760271509946e710",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_0236a_ycz9xGCRQSNb7iAyGLs94XMe",
+          "timestamp": 1739898658,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_0236a_ycz9xGCRQSNb7iAyGLs94XMe/1739898658.jpeg?s=338121e6972e044ba9be97a501863373c509f751",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 16,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "4.95",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "89.95",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Très bon état",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego 42174 technic yacht emirates ac75, marque: LEGO, état: Très bon état, taille: Taille unique, 85,00 €, 89,95 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 4.711356639862061,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5878205723,
+      "title": "Lego technic 42174 nuovo",
+      "price": {
+        "amount": "95.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5878205723-lego-technic-42174-nuovo",
+      "user": {
+        "id": 59228295,
+        "login": "michelagiulia80",
+        "profile_url": "https://www.vinted.fr/member/59228295-michelagiulia80",
+        "photo": {
+          "id": 166284795,
+          "width": 600,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_001a1_ibXoty5YiNmMLokqZjzAWkJG/f800/1699519123.jpeg?s=ebe81d2beb7fa2dc5658921c61bceef4741ffce9",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_001a1_ibXoty5YiNmMLokqZjzAWkJG/310x310/1699519123.jpeg?s=3a02b802271c03cff2e664ede91bbdd1986048b9",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_001a1_ibXoty5YiNmMLokqZjzAWkJG/150x150/1699519123.jpeg?s=b7aee25dd751d28b2b865213872f827a502d60cf",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_001a1_ibXoty5YiNmMLokqZjzAWkJG/100x100/1699519123.jpeg?s=7dd3df46d7866dfc02c10afba8c6b5d61aff8209",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_001a1_ibXoty5YiNmMLokqZjzAWkJG/50x50/1699519123.jpeg?s=f478fdb76b6389a02a8508902f3c0d08ceb5e639",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_001a1_ibXoty5YiNmMLokqZjzAWkJG/20x20/1699519123.jpeg?s=8dafe80c26fd183eb6fcf65eb21ef7ac79757bc6",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_001a1_ibXoty5YiNmMLokqZjzAWkJG",
+            "timestamp": 1699519123,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_001a1_ibXoty5YiNmMLokqZjzAWkJG/1699519123.jpeg?s=959391709001e55adc8953feff9a585c0aa2fffe",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5878205723-lego-technic-42174-nuovo",
+      "promoted": false,
+      "photo": {
+        "id": 23826795396,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#75564E",
+        "dominant_color_opaque": "#D6CCCA",
+        "url": "https://images1.vinted.net/t/04_008f1_7P3c84JD39sVK7UyxazsRTht/f800/1740511784.jpeg?s=d4dceb7d31cbc01dd73d1926f56dfe181fe43880",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_008f1_7P3c84JD39sVK7UyxazsRTht/70x100/1740511784.jpeg?s=fc53f450264081639a151b3f66f7118030acd1b3",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_008f1_7P3c84JD39sVK7UyxazsRTht/150x210/1740511784.jpeg?s=946dccef1385829f37714560dd26b5b0536d1403",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_008f1_7P3c84JD39sVK7UyxazsRTht/310x430/1740511784.jpeg?s=c829f1e0dd6dd74ffcd58981895b9cbe4648a636",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_008f1_7P3c84JD39sVK7UyxazsRTht/f800/1740511784.jpeg?s=d4dceb7d31cbc01dd73d1926f56dfe181fe43880",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_008f1_7P3c84JD39sVK7UyxazsRTht/f800/1740511784.jpeg?s=d4dceb7d31cbc01dd73d1926f56dfe181fe43880",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_008f1_7P3c84JD39sVK7UyxazsRTht/f800/1740511784.jpeg?s=d4dceb7d31cbc01dd73d1926f56dfe181fe43880",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_008f1_7P3c84JD39sVK7UyxazsRTht",
+          "timestamp": 1740511784,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_008f1_7P3c84JD39sVK7UyxazsRTht/1740511784.jpeg?s=2dc137d17b392014a644b1e118a7acd55d443ae1",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 8,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "5.45",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "100.45",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf sans étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego technic 42174 nuovo, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 95,00 €, 100,45 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 3.782317638397217,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5935120795,
+      "title": "Lego technic 42174",
+      "price": {
+        "amount": "85.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5935120795-lego-technic-42174",
+      "user": {
+        "id": 19949834,
+        "login": "cin57800",
+        "profile_url": "https://www.vinted.fr/member/19949834-cin57800",
+        "photo": {
+          "id": 198030651,
+          "width": 600,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_0048e_ChVDCmsTfaTGYvvTHzpWnaCq/f800/1719436806.jpeg?s=507e55a5202aab24efd381c7b91d066aaa83afb9",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_0048e_ChVDCmsTfaTGYvvTHzpWnaCq/310x310/1719436806.jpeg?s=35c06bb1b93e0c0e90115ef019c213c1a9f47043",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_0048e_ChVDCmsTfaTGYvvTHzpWnaCq/150x150/1719436806.jpeg?s=e883873935c126e69c40ceffefdacaa096908326",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_0048e_ChVDCmsTfaTGYvvTHzpWnaCq/100x100/1719436806.jpeg?s=4422c570132dc22e82a39bce9e6b958b284aa01f",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_0048e_ChVDCmsTfaTGYvvTHzpWnaCq/50x50/1719436806.jpeg?s=47b0480f57d4e3a1dcf563e0ce5d0ad9c59dc2cd",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_0048e_ChVDCmsTfaTGYvvTHzpWnaCq/20x20/1719436806.jpeg?s=ab7e58cce6c747b7d6bfac4ff640fe4b7933471f",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_0048e_ChVDCmsTfaTGYvvTHzpWnaCq",
+            "timestamp": 1719436806,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_0048e_ChVDCmsTfaTGYvvTHzpWnaCq/1719436806.jpeg?s=29adbdbcf22b6581dd2b9a10f9540b7946521865",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5935120795-lego-technic-42174",
+      "promoted": false,
+      "photo": {
+        "id": 24064874532,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#634C48",
+        "dominant_color_opaque": "#D0C9C8",
+        "url": "https://images1.vinted.net/t/02_01677_btiexQPuYE3FU4wJGtSvV2FR/f800/1741462321.jpeg?s=a41f765576c5dfc9daed00c484d6677189d02457",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/02_01677_btiexQPuYE3FU4wJGtSvV2FR/70x100/1741462321.jpeg?s=aae238236d2e593bd26ac3a2d6b7672d5da1ad28",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/02_01677_btiexQPuYE3FU4wJGtSvV2FR/150x210/1741462321.jpeg?s=4157d61c81e74446d277bbc29224d4468132c69d",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/02_01677_btiexQPuYE3FU4wJGtSvV2FR/310x430/1741462321.jpeg?s=4935e6a02a9d644f1d53c21bdfea95d70673bc3f",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/02_01677_btiexQPuYE3FU4wJGtSvV2FR/f800/1741462321.jpeg?s=a41f765576c5dfc9daed00c484d6677189d02457",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/02_01677_btiexQPuYE3FU4wJGtSvV2FR/f800/1741462321.jpeg?s=a41f765576c5dfc9daed00c484d6677189d02457",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/02_01677_btiexQPuYE3FU4wJGtSvV2FR/f800/1741462321.jpeg?s=a41f765576c5dfc9daed00c484d6677189d02457",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "02_01677_btiexQPuYE3FU4wJGtSvV2FR",
+          "timestamp": 1741462321,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/02_01677_btiexQPuYE3FU4wJGtSvV2FR/1741462321.jpeg?s=e34ef74f2d79a973cac3eb2bb1dd9dec1f7bf7b1",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 3,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "4.95",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "89.95",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "",
+      "content_source": "search",
+      "status": "Neuf sans étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Neuf sans étiquette",
+        "accessibility_label": "Lego technic 42174, marque: LEGO, état: Neuf sans étiquette, 85,00 €, 89,95 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 3.448374032974243,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5806326811,
+      "title": "Lego yacht Emirates team , numéro 42174",
+      "price": {
+        "amount": "90.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5806326811-lego-yacht-emirates-team-numero-42174",
+      "user": {
+        "id": 46218901,
+        "login": "seiya38",
+        "profile_url": "https://www.vinted.fr/member/46218901-seiya38",
+        "photo": {
+          "id": 104440914,
+          "width": 599,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/01_0104f_bUcf7y9VufxWEDivwALHKZ9G/f800/1661946379.jpeg?s=548fc0ab2a92bc2f6483a4e69acb2dc3c3a8abfd",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/01_0104f_bUcf7y9VufxWEDivwALHKZ9G/310x310/1661946379.jpeg?s=59b1e05969c166bdcb49805a22ee9bf9a3914dda",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/01_0104f_bUcf7y9VufxWEDivwALHKZ9G/150x150/1661946379.jpeg?s=73dd70104daad8a37c1e5a01d78ffd4065b64663",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/01_0104f_bUcf7y9VufxWEDivwALHKZ9G/100x100/1661946379.jpeg?s=c8b53ec50b9feaa83b1cf955c8908fe4869eb1a8",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/01_0104f_bUcf7y9VufxWEDivwALHKZ9G/50x50/1661946379.jpeg?s=32364807b1d4ea65ff9b3e3a99b10e373ce00d96",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/01_0104f_bUcf7y9VufxWEDivwALHKZ9G/20x20/1661946379.jpeg?s=5299ea42a3da70049439fc74e571c7ef3134ba23",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "01_0104f_bUcf7y9VufxWEDivwALHKZ9G",
+            "timestamp": 1661946379,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/01_0104f_bUcf7y9VufxWEDivwALHKZ9G/1661946379.jpeg?s=a3377c579f966e4d8ff73bacf0568494b2be3048",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5806326811-lego-yacht-emirates-team-numero-42174",
+      "promoted": false,
+      "photo": {
+        "id": 23528539368,
+        "image_no": 1,
+        "width": 450,
+        "height": 800,
+        "dominant_color": "#633937",
+        "dominant_color_opaque": "#D0C4C3",
+        "url": "https://images1.vinted.net/t/04_013bf_ZR6CiCmWkHzPifuZLeixAL33/f800/1739373332.jpeg?s=fe7f15dc7239ef88ef6fb1080401528200798640",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_013bf_ZR6CiCmWkHzPifuZLeixAL33/70x100/1739373332.jpeg?s=e68d95bff0fe7cde63d538b41cbf4862e1640f29",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_013bf_ZR6CiCmWkHzPifuZLeixAL33/150x210/1739373332.jpeg?s=3e9b6b3d696bd20a9abc3d43a4b964efcb1b6ad8",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_013bf_ZR6CiCmWkHzPifuZLeixAL33/310x430/1739373332.jpeg?s=5fa10000faa96313f67e1e7469790c7b428248b7",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_013bf_ZR6CiCmWkHzPifuZLeixAL33/f800/1739373332.jpeg?s=fe7f15dc7239ef88ef6fb1080401528200798640",
+            "width": 240,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_013bf_ZR6CiCmWkHzPifuZLeixAL33/f800/1739373332.jpeg?s=fe7f15dc7239ef88ef6fb1080401528200798640",
+            "width": 351,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_013bf_ZR6CiCmWkHzPifuZLeixAL33/f800/1739373332.jpeg?s=fe7f15dc7239ef88ef6fb1080401528200798640",
+            "width": 204,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_013bf_ZR6CiCmWkHzPifuZLeixAL33",
+          "timestamp": 1739373332,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_013bf_ZR6CiCmWkHzPifuZLeixAL33/1739373332.jpeg?s=b001e2cb2d35466cc636e99f1baf7a12140ca6c8",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 5,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "5.2",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "95.2",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf sans étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego yacht Emirates team , numéro 42174, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 90,00 €, 95,20 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 3.381380558013916,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5662451812,
+      "title": "Lego 42174 America Cup team New Zeland yatch AC75",
+      "price": {
+        "amount": "100.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5662451812-lego-42174-america-cup-team-new-zeland-yatch-ac75",
+      "user": {
+        "id": 14833421,
+        "login": "rdb11",
+        "profile_url": "https://www.vinted.fr/member/14833421-rdb11",
+        "photo": {
+          "id": 18826195,
+          "width": 250,
+          "height": 227,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_00f8a_EMoufMm1ULfTbmCWaDcwZjur/f800/1605241982.jpeg?s=03d6540b7cb967fb950d0b846326b77c3759e7be",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_00f8a_EMoufMm1ULfTbmCWaDcwZjur/310x310/1605241982.jpeg?s=0ca6cf74efaaca5a12983e08b52098b899c48c1a",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_00f8a_EMoufMm1ULfTbmCWaDcwZjur/150x150/1605241982.jpeg?s=7ec80a6c3e225f8c0fa1b6b307c589d5298db688",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_00f8a_EMoufMm1ULfTbmCWaDcwZjur/100x100/1605241982.jpeg?s=5560c9b452c8180c9ea4093abd8309a217587441",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_00f8a_EMoufMm1ULfTbmCWaDcwZjur/50x50/1605241982.jpeg?s=c64c576ef27f7a14d8a2dfbf0e03fbb9225cb6b8",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_00f8a_EMoufMm1ULfTbmCWaDcwZjur/20x20/1605241982.jpeg?s=bf0baa1e54298e0356c88c17917107506c5618eb",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_00f8a_EMoufMm1ULfTbmCWaDcwZjur",
+            "timestamp": 1605241982,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_00f8a_EMoufMm1ULfTbmCWaDcwZjur/1605241982.jpeg?s=ca45e0ff68c9d2684f3d4f369b07fcc4cc3331a6",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5662451812-lego-42174-america-cup-team-new-zeland-yatch-ac75",
+      "promoted": false,
+      "photo": {
+        "id": 22934651783,
+        "image_no": 1,
+        "width": 561,
+        "height": 800,
+        "dominant_color": "#897975",
+        "dominant_color_opaque": "#DCD7D6",
+        "url": "https://images1.vinted.net/t/02_013b8_wiNHzwVyZpbFRmLBVrw5xzrB/f800/1737041382.jpeg?s=3fcac0a8977cd224fbc8944a0748b866501e10a8",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/02_013b8_wiNHzwVyZpbFRmLBVrw5xzrB/70x100/1737041382.jpeg?s=648c840dc208ef24e387a48e7e10a415987792de",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/02_013b8_wiNHzwVyZpbFRmLBVrw5xzrB/150x210/1737041382.jpeg?s=f7e4a8112a01739b3ff9e852cdfac6bd298654c7",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/02_013b8_wiNHzwVyZpbFRmLBVrw5xzrB/310x430/1737041382.jpeg?s=bc52539a86931b0d5bbcf007141c1d56a606540e",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/02_013b8_wiNHzwVyZpbFRmLBVrw5xzrB/f800/1737041382.jpeg?s=3fcac0a8977cd224fbc8944a0748b866501e10a8",
+            "width": 300,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/02_013b8_wiNHzwVyZpbFRmLBVrw5xzrB/f800/1737041382.jpeg?s=3fcac0a8977cd224fbc8944a0748b866501e10a8",
+            "width": 437,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/02_013b8_wiNHzwVyZpbFRmLBVrw5xzrB/f800/1737041382.jpeg?s=3fcac0a8977cd224fbc8944a0748b866501e10a8",
+            "width": 255,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "02_013b8_wiNHzwVyZpbFRmLBVrw5xzrB",
+          "timestamp": 1737041382,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/02_013b8_wiNHzwVyZpbFRmLBVrw5xzrB/1737041382.jpeg?s=c00a0a06fb7976e4c516d954957f55f87c6881d7",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 8,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "5.7",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "105.7",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf sans étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego 42174 America Cup team New Zeland yatch AC75, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 100,00 €, 105,70 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 3.20653223991394,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5938214546,
+      "title": "Lego 42174 - Emirates Team New Zealand AC75 jacht - NIEUW",
+      "price": {
+        "amount": "85.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5938214546-lego-42174-emirates-team-new-zealand-ac75-jacht-nieuw",
+      "user": {
+        "id": 258399897,
+        "login": "elhy99",
+        "profile_url": "https://www.vinted.fr/member/258399897-elhy99",
+        "photo": {
+          "id": 233352181,
+          "width": 96,
+          "height": 96,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_02561_XSG7eLp1pnm7yzMHWzdrDvKN/f800/1741211702.jpeg?s=7e09b4ebe19542023c6912b229c80e41137a5b43",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_02561_XSG7eLp1pnm7yzMHWzdrDvKN/310x310/1741211702.jpeg?s=1b5a8b61efda530e0945651a1f97416d1f383551",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_02561_XSG7eLp1pnm7yzMHWzdrDvKN/150x150/1741211702.jpeg?s=1a9b4207213b96458e82a52735feba831cd0b6ee",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_02561_XSG7eLp1pnm7yzMHWzdrDvKN/100x100/1741211702.jpeg?s=8ee38d43d7b76f79d8a1b9bdc4443c76942481a5",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_02561_XSG7eLp1pnm7yzMHWzdrDvKN/50x50/1741211702.jpeg?s=b67bc9ac270e87f4d95bb30dfac14227311894b3",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_02561_XSG7eLp1pnm7yzMHWzdrDvKN/20x20/1741211702.jpeg?s=85f98846eecb5180c77d2865e3d868f37ddbd017",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_02561_XSG7eLp1pnm7yzMHWzdrDvKN",
+            "timestamp": 1741211702,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_02561_XSG7eLp1pnm7yzMHWzdrDvKN/1741211702.jpeg?s=b9b1c4353278c38b0393a5a4af9a69342a4f31ff",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5938214546-lego-42174-emirates-team-new-zealand-ac75-jacht-nieuw",
+      "promoted": false,
+      "photo": {
+        "id": 24077750503,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#71534B",
+        "dominant_color_opaque": "#D4CBC9",
+        "url": "https://images1.vinted.net/t/04_0219b_q8AW9ixCDebKcbu7VAW46GV3/f800/1741523048.jpeg?s=5c4fd9b5d6222d110b71045dd7afe9c9ce2f8c86",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_0219b_q8AW9ixCDebKcbu7VAW46GV3/70x100/1741523048.jpeg?s=a60d6c1d7b4e4e81e7ba1e8912df91bc38999716",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_0219b_q8AW9ixCDebKcbu7VAW46GV3/150x210/1741523048.jpeg?s=ec6bee9f71c96292e0bd97b67b299829352d3565",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_0219b_q8AW9ixCDebKcbu7VAW46GV3/310x430/1741523048.jpeg?s=4aae9a2c38bc579d8610e02d7d1723f9606e7324",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_0219b_q8AW9ixCDebKcbu7VAW46GV3/f800/1741523048.jpeg?s=5c4fd9b5d6222d110b71045dd7afe9c9ce2f8c86",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_0219b_q8AW9ixCDebKcbu7VAW46GV3/f800/1741523048.jpeg?s=5c4fd9b5d6222d110b71045dd7afe9c9ce2f8c86",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_0219b_q8AW9ixCDebKcbu7VAW46GV3/f800/1741523048.jpeg?s=5c4fd9b5d6222d110b71045dd7afe9c9ce2f8c86",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_0219b_q8AW9ixCDebKcbu7VAW46GV3",
+          "timestamp": 1741523048,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_0219b_q8AW9ixCDebKcbu7VAW46GV3/1741523048.jpeg?s=b19d4b21400836b68ac5354a57e6c533e30d7e4b",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 8,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "4.95",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "89.95",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego 42174 - Emirates Team New Zealand AC75 jacht - NIEUW, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 85,00 €, 89,95 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 3.144287109375,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5917164997,
+      "title": "LEGO Technic Yacht Emirates Team New Zealand 42174",
+      "price": {
+        "amount": "90.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5917164997-lego-technic-yacht-emirates-team-new-zealand-42174",
+      "user": {
+        "id": 175971636,
+        "login": "alessio202272",
+        "profile_url": "https://www.vinted.fr/member/175971636-alessio202272",
+        "photo": {
+          "id": 209487604,
+          "width": 451,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_018b6_4NPRz2wWUqUNAJuodSaa69WS/f800/1726845631.jpeg?s=4bcb373c5d318d6d781f219405abf8f65a103c85",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_018b6_4NPRz2wWUqUNAJuodSaa69WS/310x310/1726845631.jpeg?s=866eef34693e3df99727009cc51a8cb890dfb893",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_018b6_4NPRz2wWUqUNAJuodSaa69WS/150x150/1726845631.jpeg?s=c612ad9ea94ddd11542ce8862f7794afb26712e8",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_018b6_4NPRz2wWUqUNAJuodSaa69WS/100x100/1726845631.jpeg?s=339a7d8ea33bd5e87ff2ed6aae3da41b766e6b9d",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_018b6_4NPRz2wWUqUNAJuodSaa69WS/50x50/1726845631.jpeg?s=c63e198677108949e37eaef8523d4788edcd5555",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_018b6_4NPRz2wWUqUNAJuodSaa69WS/20x20/1726845631.jpeg?s=86bfaee8b0b34b5f870db48675e9e6415651460d",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_018b6_4NPRz2wWUqUNAJuodSaa69WS",
+            "timestamp": 1726845631,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_018b6_4NPRz2wWUqUNAJuodSaa69WS/1726845631.jpeg?s=7e4e9c7e23be2c475cc57b293c3e59926c7ab47b",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5917164997-lego-technic-yacht-emirates-team-new-zealand-42174",
+      "promoted": false,
+      "photo": {
+        "id": 23989476812,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#5D4242",
+        "dominant_color_opaque": "#CEC6C6",
+        "url": "https://images1.vinted.net/t/01_01002_1wctASdWkM9thTvxVJBCgbBc/f800/1741173436.jpeg?s=d7a76aa18697159d68a309d17bd5db2f530d16c8",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/01_01002_1wctASdWkM9thTvxVJBCgbBc/70x100/1741173436.jpeg?s=c2322737a85dad7fdd25b43cbc34d5d8d952343c",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/01_01002_1wctASdWkM9thTvxVJBCgbBc/150x210/1741173436.jpeg?s=b908924f7500f5c06cad0c9cc52c3fed60610927",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/01_01002_1wctASdWkM9thTvxVJBCgbBc/310x430/1741173436.jpeg?s=89dab44ac08a2052b145ccf5ad922150ac903656",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/01_01002_1wctASdWkM9thTvxVJBCgbBc/f800/1741173436.jpeg?s=d7a76aa18697159d68a309d17bd5db2f530d16c8",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/01_01002_1wctASdWkM9thTvxVJBCgbBc/f800/1741173436.jpeg?s=d7a76aa18697159d68a309d17bd5db2f530d16c8",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/01_01002_1wctASdWkM9thTvxVJBCgbBc/f800/1741173436.jpeg?s=d7a76aa18697159d68a309d17bd5db2f530d16c8",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "01_01002_1wctASdWkM9thTvxVJBCgbBc",
+          "timestamp": 1741173436,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/01_01002_1wctASdWkM9thTvxVJBCgbBc/1741173436.jpeg?s=4b797dc038b5900917a932cbf5067576e921e417",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 6,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "5.2",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "95.2",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "LEGO Technic Yacht Emirates Team New Zealand 42174, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 90,00 €, 95,20 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 2.595357894897461,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5812829736,
+      "title": "Lego 42174",
+      "price": {
+        "amount": "96.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5812829736-lego-42174",
+      "user": {
+        "id": 205712437,
+        "login": "michelesilvestri79",
+        "profile_url": "https://www.vinted.fr/member/205712437-michelesilvestri79",
+        "photo": {
+          "id": 192984608,
+          "width": 96,
+          "height": 96,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/01_010ab_p5d2qk1Ghi8X7okWUDPa11hH/f800/1715949577.jpeg?s=3787bed5014f2efadec9117d1d1055c15df7ef51",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/01_010ab_p5d2qk1Ghi8X7okWUDPa11hH/310x310/1715949577.jpeg?s=bff1c8e58ecc8b959550b3aa14054f06722c9957",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/01_010ab_p5d2qk1Ghi8X7okWUDPa11hH/150x150/1715949577.jpeg?s=522cf1827c24dc0ff9beb17f15d8c876e655af87",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/01_010ab_p5d2qk1Ghi8X7okWUDPa11hH/100x100/1715949577.jpeg?s=975c6a8563ffa044c5e32315c725eaa32fcf4bc5",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/01_010ab_p5d2qk1Ghi8X7okWUDPa11hH/50x50/1715949577.jpeg?s=f6a2d36dd9865d7cd7b856c5b96d79ab0c6ce26b",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/01_010ab_p5d2qk1Ghi8X7okWUDPa11hH/20x20/1715949577.jpeg?s=bcb6e72e4f9074bf15037584bc1f74ab1ea0cac9",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "01_010ab_p5d2qk1Ghi8X7okWUDPa11hH",
+            "timestamp": 1715949577,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/01_010ab_p5d2qk1Ghi8X7okWUDPa11hH/1715949577.jpeg?s=33fb4fb69c1127910069edabbd50f43d91beabd1",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5812829736-lego-42174",
+      "promoted": false,
+      "photo": {
+        "id": 23555609160,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#736364",
+        "dominant_color_opaque": "#D5D0D1",
+        "url": "https://images1.vinted.net/t/04_00660_BEJLttBxHbHDYLQAqjfqxuQA/f800/1739479700.jpeg?s=43b091b0685fae25f3fed5dd78c0e14ef2bfc3f4",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_00660_BEJLttBxHbHDYLQAqjfqxuQA/70x100/1739479700.jpeg?s=38d1ad7ff4be751c09a98b35c5bd3dda3eb55d7e",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_00660_BEJLttBxHbHDYLQAqjfqxuQA/150x210/1739479700.jpeg?s=65e621ebe73c0d8726a26b7927605581cee792e2",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_00660_BEJLttBxHbHDYLQAqjfqxuQA/310x430/1739479700.jpeg?s=fed5189874a254a65b36bc4f3f0e9cff41b77990",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_00660_BEJLttBxHbHDYLQAqjfqxuQA/f800/1739479700.jpeg?s=43b091b0685fae25f3fed5dd78c0e14ef2bfc3f4",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_00660_BEJLttBxHbHDYLQAqjfqxuQA/f800/1739479700.jpeg?s=43b091b0685fae25f3fed5dd78c0e14ef2bfc3f4",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_00660_BEJLttBxHbHDYLQAqjfqxuQA/f800/1739479700.jpeg?s=43b091b0685fae25f3fed5dd78c0e14ef2bfc3f4",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_00660_BEJLttBxHbHDYLQAqjfqxuQA",
+          "timestamp": 1739479700,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_00660_BEJLttBxHbHDYLQAqjfqxuQA/1739479700.jpeg?s=adc44578fe66a93eb2067ba3f3caaa2a80ce7b1f",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 9,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "5.5",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "101.5",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego 42174, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 96,00 €, 101,50 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 2.468017101287842,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5021411004,
+      "title": "Lego technic",
+      "price": {
+        "amount": "100.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5021411004-lego-technic",
+      "user": {
+        "id": 47559995,
+        "login": "danielmilano",
+        "profile_url": "https://www.vinted.fr/member/47559995-danielmilano",
+        "photo": {
+          "id": 184242151,
+          "width": 599,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/01_00bfa_5HWBoVmJuxBaiZv1tyR4Q5HS/f800/1710493971.jpeg?s=303e7d0eb0434f0b0428e76eb938c8a10b240ee0",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/01_00bfa_5HWBoVmJuxBaiZv1tyR4Q5HS/310x310/1710493971.jpeg?s=d7c599f39b2417813f8f6dc3d3f50168b627ddf1",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/01_00bfa_5HWBoVmJuxBaiZv1tyR4Q5HS/150x150/1710493971.jpeg?s=a1910a8b77bf599fa6a0ee8b072cdd6aca1b7e5a",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/01_00bfa_5HWBoVmJuxBaiZv1tyR4Q5HS/100x100/1710493971.jpeg?s=2f4e2630574512808c57c1f220c8282aa7e13989",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/01_00bfa_5HWBoVmJuxBaiZv1tyR4Q5HS/50x50/1710493971.jpeg?s=3428f82c707347461706d368f648e8a035c931d2",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/01_00bfa_5HWBoVmJuxBaiZv1tyR4Q5HS/20x20/1710493971.jpeg?s=31f87e76a5d601fa9ee7b978b715172758c8236f",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "01_00bfa_5HWBoVmJuxBaiZv1tyR4Q5HS",
+            "timestamp": 1710493971,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/01_00bfa_5HWBoVmJuxBaiZv1tyR4Q5HS/1710493971.jpeg?s=488ae14cab0f078c0b1f706732c28b0431601298",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5021411004-lego-technic",
+      "promoted": false,
+      "photo": {
+        "id": 20350136348,
+        "image_no": 1,
+        "width": 511,
+        "height": 800,
+        "dominant_color": "#2E1D14",
+        "dominant_color_opaque": "#C0BBB9",
+        "url": "https://images1.vinted.net/t/02_013b7_q9W2NZtPCqjmh6jVfhdzdzwP/f800/1725996953.jpeg?s=9ce10e5d899ff9cfc868fecb3b159e984373185d",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/02_013b7_q9W2NZtPCqjmh6jVfhdzdzwP/70x100/1725996953.jpeg?s=58fd1e38acae12da355c85258585b47dcd369bb9",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/02_013b7_q9W2NZtPCqjmh6jVfhdzdzwP/150x210/1725996953.jpeg?s=fc8864a5eb59ba2fa1ecfa9c9a7c393e7c93c3ee",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/02_013b7_q9W2NZtPCqjmh6jVfhdzdzwP/310x430/1725996953.jpeg?s=5f1e9940678c7979fd7a5d808566dd722293fb4c",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/02_013b7_q9W2NZtPCqjmh6jVfhdzdzwP/f800/1725996953.jpeg?s=9ce10e5d899ff9cfc868fecb3b159e984373185d",
+            "width": 273,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/02_013b7_q9W2NZtPCqjmh6jVfhdzdzwP/f800/1725996953.jpeg?s=9ce10e5d899ff9cfc868fecb3b159e984373185d",
+            "width": 398,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/02_013b7_q9W2NZtPCqjmh6jVfhdzdzwP/f800/1725996953.jpeg?s=9ce10e5d899ff9cfc868fecb3b159e984373185d",
+            "width": 232,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "02_013b7_q9W2NZtPCqjmh6jVfhdzdzwP",
+          "timestamp": 1725996953,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/02_013b7_q9W2NZtPCqjmh6jVfhdzdzwP/1725996953.jpeg?s=bca05794701e1a93368e4b748108d1e5c3c80c1f",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 30,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "5.7",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "105.7",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Neuf avec étiquette",
+        "accessibility_label": "Lego technic, marque: LEGO, état: Neuf avec étiquette, 100,00 €, 105,70 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 0.796907901763916,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 4986414903,
+      "title": "Lego Technic 42174 Ac75 Team New Zealand Coppa America",
+      "price": {
+        "amount": "110.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/4986414903-lego-technic-42174-ac75-team-new-zealand-coppa-america",
+      "user": {
+        "id": 99726270,
+        "login": "marco1989ge",
+        "profile_url": "https://www.vinted.fr/member/99726270-marco1989ge",
+        "photo": {
+          "id": 222279243,
+          "width": 369,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/04_0054d_mdKoABUTrUDJmuL7DFFJt4Df/f800/1734179273.jpeg?s=5247601e96ad8108f429d71fd3144c73614bbd2c",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/04_0054d_mdKoABUTrUDJmuL7DFFJt4Df/310x310/1734179273.jpeg?s=173ec148d9ed5a40108ef88dafcb3ab1584cdc7c",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/04_0054d_mdKoABUTrUDJmuL7DFFJt4Df/150x150/1734179273.jpeg?s=6a23aef462f32f56fde824f4341149a92f08049d",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/04_0054d_mdKoABUTrUDJmuL7DFFJt4Df/100x100/1734179273.jpeg?s=5ffa881725200bf8f9915d9c22707c9bfd595ea1",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/04_0054d_mdKoABUTrUDJmuL7DFFJt4Df/50x50/1734179273.jpeg?s=a9c5f02adebae405d19aea0558dc610f44ddae3c",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/04_0054d_mdKoABUTrUDJmuL7DFFJt4Df/20x20/1734179273.jpeg?s=5376c37fe06f62e70b8fd3dec0f1fb80d344b5af",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "04_0054d_mdKoABUTrUDJmuL7DFFJt4Df",
+            "timestamp": 1734179273,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/04_0054d_mdKoABUTrUDJmuL7DFFJt4Df/1734179273.jpeg?s=7d039986e180aba398fb6859f46c0dda9757f001",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/4986414903-lego-technic-42174-ac75-team-new-zealand-coppa-america",
+      "promoted": false,
+      "photo": {
+        "id": 20215550545,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#734A3E",
+        "dominant_color_opaque": "#D5C9C5",
+        "url": "https://images1.vinted.net/t/02_00d62_b4pLgdZgUKKXJHwPnkYoawUq/f800/1725456577.jpeg?s=33f547c4979e3274487e3ed508decc52651e15a7",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/02_00d62_b4pLgdZgUKKXJHwPnkYoawUq/70x100/1725456577.jpeg?s=83bd620ccd9ed82b8d4435e50720213f5f4d787a",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/02_00d62_b4pLgdZgUKKXJHwPnkYoawUq/150x210/1725456577.jpeg?s=26bf046eadccc2d10e6a3830a63fd6848ee7cde1",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/02_00d62_b4pLgdZgUKKXJHwPnkYoawUq/310x430/1725456577.jpeg?s=9bca18a09e379938d4416cded54ba31df594c6e0",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/02_00d62_b4pLgdZgUKKXJHwPnkYoawUq/f800/1725456577.jpeg?s=33f547c4979e3274487e3ed508decc52651e15a7",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/02_00d62_b4pLgdZgUKKXJHwPnkYoawUq/f800/1725456577.jpeg?s=33f547c4979e3274487e3ed508decc52651e15a7",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/02_00d62_b4pLgdZgUKKXJHwPnkYoawUq/f800/1725456577.jpeg?s=33f547c4979e3274487e3ed508decc52651e15a7",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "02_00d62_b4pLgdZgUKKXJHwPnkYoawUq",
+          "timestamp": 1725456577,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/02_00d62_b4pLgdZgUKKXJHwPnkYoawUq/1725456577.jpeg?s=7bbef7f42f34e3de93a3793a4f66975b990c8d6d",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 27,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "6.2",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "116.2",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego Technic 42174 Ac75 Team New Zealand Coppa America, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 110,00 €, 116,20 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 0.531548023223877,
+        "matched_queries": []
+      }
+    }
+  ],
+  "dominant_brand": {
+    "id": 89162,
+    "title": "LEGO",
+    "slug": "lego",
+    "favourite_count": 185159,
+    "pretty_favourite_count": "185.2K",
+    "item_count": 2321353,
+    "pretty_item_count": "2.3M",
+    "is_visible_in_listings": true,
+    "requires_authenticity_check": false,
+    "is_luxury": false,
+    "is_hvf": false,
+    "path": "/brand/89162-lego",
+    "url": "https://www.vinted.fr/brand/89162-lego",
+    "is_favourite": false
+  },
+  "search_tracking_params": {
+    "search_correlation_id": "6022862c-8794-4b47-a142-befcf60222c1",
+    "search_session_id": "9f571963-f5f3-41d3-9c2c-c6aeaa266ba0",
+    "global_search_session_id": "5aa63903-6dfa-44b8-9ca4-00b221814c33"
+  },
+  "pagination": {
+    "current_page": 1,
+    "total_pages": 1,
+    "total_entries": 12,
+    "per_page": 96,
+    "time": 1741612909
+  },
+  "code": 0
+}

@@ -1,0 +1,198 @@
+{
+  "items": [
+    {
+      "id": 5881966855,
+      "title": "Lego city 60453 le véhicule de secours de la plage",
+      "price": {
+        "amount": "18.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5881966855-lego-city-60453-le-vehicule-de-secours-de-la-plage",
+      "user": {
+        "id": 14179198,
+        "login": "2453nathan1004",
+        "profile_url": "https://www.vinted.fr/member/14179198-2453nathan1004",
+        "photo": {
+          "id": 82643979,
+          "width": 600,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/03_026cc_m6A5Lzvc6fNEtpM9xe7qms25/f800/1646164402.jpeg?s=2365910936e336b3e47b85ba93dd38f8e2cc41a0",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/03_026cc_m6A5Lzvc6fNEtpM9xe7qms25/310x310/1646164402.jpeg?s=c7ddcc0ced6538c7401b687e048fd3322e9a418f",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/03_026cc_m6A5Lzvc6fNEtpM9xe7qms25/150x150/1646164402.jpeg?s=67a050935628756c20d3d460eb0e145e1b8db7b6",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/03_026cc_m6A5Lzvc6fNEtpM9xe7qms25/100x100/1646164402.jpeg?s=a07d1846dc04f30f57000cb04d993f0ef7b84ce6",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/03_026cc_m6A5Lzvc6fNEtpM9xe7qms25/50x50/1646164402.jpeg?s=595902f198bba459de7ec203637d340ee2eadf59",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/03_026cc_m6A5Lzvc6fNEtpM9xe7qms25/20x20/1646164402.jpeg?s=81ae50afc91c5c978b48776f555cc2afe13ea2da",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "03_026cc_m6A5Lzvc6fNEtpM9xe7qms25",
+            "timestamp": 1646164402,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/03_026cc_m6A5Lzvc6fNEtpM9xe7qms25/1646164402.jpeg?s=a429303006633cb2335343bf843c26a01e5ad69e",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5881966855-lego-city-60453-le-vehicule-de-secours-de-la-plage",
+      "promoted": false,
+      "photo": {
+        "id": 23842361451,
+        "image_no": 1,
+        "width": 800,
+        "height": 600,
+        "dominant_color": "#927054",
+        "dominant_color_opaque": "#DED4CC",
+        "url": "https://images1.vinted.net/t/04_02681_hDTRh1MfxsjUWqPxfTXbMEqq/f800/1740584165.jpeg?s=1c2e718e6a59bcb38f8c63dd6711f06560869612",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_02681_hDTRh1MfxsjUWqPxfTXbMEqq/70x100/1740584165.jpeg?s=aceca9529b947d9cf22bd66f74fde88051ae1d29",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_02681_hDTRh1MfxsjUWqPxfTXbMEqq/150x210/1740584165.jpeg?s=0007cf5748d26e3f40d4b78ab2dffc6210dac4e0",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_02681_hDTRh1MfxsjUWqPxfTXbMEqq/310x430/1740584165.jpeg?s=23a33eaf6bce4758eb1ccd788f9572b20e0f60fa",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_02681_hDTRh1MfxsjUWqPxfTXbMEqq/f800/1740584165.jpeg?s=1c2e718e6a59bcb38f8c63dd6711f06560869612",
+            "width": 428,
+            "height": 321,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_02681_hDTRh1MfxsjUWqPxfTXbMEqq/f800/1740584165.jpeg?s=1c2e718e6a59bcb38f8c63dd6711f06560869612",
+            "width": 624,
+            "height": 468,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_02681_hDTRh1MfxsjUWqPxfTXbMEqq/f800/1740584165.jpeg?s=1c2e718e6a59bcb38f8c63dd6711f06560869612",
+            "width": 364,
+            "height": 273,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_02681_hDTRh1MfxsjUWqPxfTXbMEqq",
+          "timestamp": 1740584165,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_02681_hDTRh1MfxsjUWqPxfTXbMEqq/1740584165.jpeg?s=6eb7e276b8a79732e3f84725196b6a2fca95b379",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 5,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "1.6",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "19.6",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Très bon état",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego city 60453 le véhicule de secours de la plage, marque: LEGO, état: Très bon état, taille: Taille unique, 18,00 €, 19,60 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 37.53772,
+        "matched_queries": []
+      }
+    }
+  ],
+  "dominant_brand": {
+    "id": 89162,
+    "title": "LEGO",
+    "slug": "lego",
+    "favourite_count": 185159,
+    "pretty_favourite_count": "185.2K",
+    "item_count": 2321353,
+    "pretty_item_count": "2.3M",
+    "is_visible_in_listings": true,
+    "requires_authenticity_check": false,
+    "is_luxury": false,
+    "is_hvf": false,
+    "path": "/brand/89162-lego",
+    "url": "https://www.vinted.fr/brand/89162-lego",
+    "is_favourite": false
+  },
+  "search_tracking_params": {
+    "search_correlation_id": "876bafc6-a945-497e-acd7-617c3cfd02da",
+    "search_session_id": "508c2078-8fa2-4a46-bf42-b2ddb198a5d5",
+    "global_search_session_id": "df598393-929f-4847-b890-37922bf0b117"
+  },
+  "pagination": {
+    "current_page": 1,
+    "total_pages": 1,
+    "total_entries": 1,
+    "per_page": 96,
+    "time": 1741612903
+  },
+  "code": 0
+}
