@@ -63,6 +63,36 @@ async function sandbox(website = 'https://www.dealabs.com/groupe/lego') {
         fs.writeFileSync(jsonFileName, JSON.stringify(jsonResponse, null, 2), 'utf-8');
         console.log(`Saved the JSON for set id ${deal.setId} to ${jsonFileName}`);
 
+        let items = [];
+
+        // If Vinted returns deals inside an "items" property, use that.
+        if (jsonResponse.items && Array.isArray(jsonResponse.items)) {
+          items = jsonResponse.items;
+        } else if (Array.isArray(jsonResponse)) {
+          // Otherwise, if the response itself is an array, use it directly.
+          items = jsonResponse;
+        }
+
+        if (items.length > 0) {
+          console.log("Extracted Vinted deals:");
+          items.forEach(item => {
+            // Assuming that each item has "title" and "price" properties.
+            // Depending on the API response, the price might be a simple number, or an object.
+            const title = item.title || "No title available";
+            let priceStr = '';
+            if (item.price && typeof item.price === 'object') {
+              // In case price is an object (for example, { amount: "12.50", currency_code: "EUR" })
+              priceStr = `${item.price.amount} ${item.price.currency_code}`;
+            } else {
+              // Otherwise assume price is a simple value.
+              priceStr = item.price;
+            }
+            console.log(`${title}, Price: ${priceStr}`);
+          });
+        } else {
+          console.log("No deals were found in the JSON response.");
+        }
+
         // Extract item links from the API response.
         // (Adapt the extraction logic based on the actual JSON structure.)
         let itemLinks = [];

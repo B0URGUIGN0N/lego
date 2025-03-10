@@ -1,171 +1,6 @@
 {
   "items": [
     {
-      "id": 5772707070,
-      "title": "Lego Harry Potter 76442 : Le cours de Sortilèges",
-      "price": {
-        "amount": "17.9",
-        "currency_code": "EUR"
-      },
-      "is_visible": true,
-      "discount": null,
-      "brand_title": "LEGO",
-      "path": "/items/5772707070-lego-harry-potter-76442-le-cours-de-sortileges",
-      "user": {
-        "id": 170732852,
-        "login": "wakatoune",
-        "profile_url": "https://www.vinted.fr/member/170732852-wakatoune",
-        "photo": {
-          "id": 166022649,
-          "width": 308,
-          "height": 169,
-          "temp_uuid": null,
-          "url": "https://images1.vinted.net/t/02_00cf8_eDposJr4WtK5sLaxxGgKi31Y/f800/1699370859.jpeg?s=529f1b94e278bbf4e35fa40b1a5a4cdbac2805b3",
-          "dominant_color": "#31abc2",
-          "dominant_color_opaque": "#C1E6ED",
-          "thumbnails": [
-            {
-              "type": "thumb310",
-              "url": "https://images1.vinted.net/t/02_00cf8_eDposJr4WtK5sLaxxGgKi31Y/310x310/1699370859.jpeg?s=790e66dcd67c1fb77266456b89a84df09ad341d7",
-              "width": 310,
-              "height": 310,
-              "original_size": null
-            },
-            {
-              "type": "thumb150",
-              "url": "https://images1.vinted.net/t/02_00cf8_eDposJr4WtK5sLaxxGgKi31Y/150x150/1699370859.jpeg?s=3d863b5a4cff5ebba2e4bb0e2a45e3be7778ebc8",
-              "width": 150,
-              "height": 150,
-              "original_size": null
-            },
-            {
-              "type": "thumb100",
-              "url": "https://images1.vinted.net/t/02_00cf8_eDposJr4WtK5sLaxxGgKi31Y/100x100/1699370859.jpeg?s=08b7f979b1e8f823eb91be996e3cc9f7dd810fd3",
-              "width": 100,
-              "height": 100,
-              "original_size": null
-            },
-            {
-              "type": "thumb50",
-              "url": "https://images1.vinted.net/t/02_00cf8_eDposJr4WtK5sLaxxGgKi31Y/50x50/1699370859.jpeg?s=74ec0199413263caffaa7221387646416017ea49",
-              "width": 50,
-              "height": 50,
-              "original_size": null
-            },
-            {
-              "type": "thumb20",
-              "url": "https://images1.vinted.net/t/02_00cf8_eDposJr4WtK5sLaxxGgKi31Y/20x20/1699370859.jpeg?s=bfbcf6bbac99d35953e485a8303040d7f50faf5d",
-              "width": 20,
-              "height": 20,
-              "original_size": null
-            }
-          ],
-          "is_suspicious": false,
-          "orientation": null,
-          "high_resolution": {
-            "id": "02_00cf8_eDposJr4WtK5sLaxxGgKi31Y",
-            "timestamp": 1699370859,
-            "orientation": null
-          },
-          "full_size_url": "https://images1.vinted.net/tc/02_00cf8_eDposJr4WtK5sLaxxGgKi31Y/1699370859.jpeg?s=59de1db2de7640dec9941b1bec36f6b1ecd5bef2",
-          "is_hidden": false,
-          "extra": {}
-        },
-        "business": false
-      },
-      "conversion": null,
-      "url": "https://www.vinted.fr/items/5772707070-lego-harry-potter-76442-le-cours-de-sortileges",
-      "promoted": false,
-      "photo": {
-        "id": 23389509415,
-        "image_no": 1,
-        "width": 600,
-        "height": 800,
-        "dominant_color": "#7D655A",
-        "dominant_color_opaque": "#D8D1CE",
-        "url": "https://images1.vinted.net/t/04_01553_6hLZn6X55NogWKp7AJziWM3D/f800/1738846878.jpeg?s=a2bef4191f7ba5f665c57730a43addcafe9acfd7",
-        "is_main": true,
-        "thumbnails": [
-          {
-            "type": "thumb70x100",
-            "url": "https://images1.vinted.net/t/04_01553_6hLZn6X55NogWKp7AJziWM3D/70x100/1738846878.jpeg?s=2aefbc0d69b2cbd5215165bf98525584cd463d81",
-            "width": 70,
-            "height": 100,
-            "original_size": null
-          },
-          {
-            "type": "thumb150x210",
-            "url": "https://images1.vinted.net/t/04_01553_6hLZn6X55NogWKp7AJziWM3D/150x210/1738846878.jpeg?s=758405e2d6b15fc1adb7ef5c4e054bfe347d519f",
-            "width": 150,
-            "height": 210,
-            "original_size": null
-          },
-          {
-            "type": "thumb310x430",
-            "url": "https://images1.vinted.net/t/04_01553_6hLZn6X55NogWKp7AJziWM3D/310x430/1738846878.jpeg?s=6fe16b0b5c7551f3f01b7e0471801230206a335d",
-            "width": 310,
-            "height": 430,
-            "original_size": null
-          },
-          {
-            "type": "thumb428x624",
-            "url": "https://images1.vinted.net/t/04_01553_6hLZn6X55NogWKp7AJziWM3D/f800/1738846878.jpeg?s=a2bef4191f7ba5f665c57730a43addcafe9acfd7",
-            "width": 321,
-            "height": 428,
-            "original_size": true
-          },
-          {
-            "type": "thumb624x428",
-            "url": "https://images1.vinted.net/t/04_01553_6hLZn6X55NogWKp7AJziWM3D/f800/1738846878.jpeg?s=a2bef4191f7ba5f665c57730a43addcafe9acfd7",
-            "width": 468,
-            "height": 624,
-            "original_size": true
-          },
-          {
-            "type": "thumb364x428",
-            "url": "https://images1.vinted.net/t/04_01553_6hLZn6X55NogWKp7AJziWM3D/f800/1738846878.jpeg?s=a2bef4191f7ba5f665c57730a43addcafe9acfd7",
-            "width": 273,
-            "height": 364,
-            "original_size": true
-          }
-        ],
-        "high_resolution": {
-          "id": "04_01553_6hLZn6X55NogWKp7AJziWM3D",
-          "timestamp": 1738846878,
-          "orientation": null
-        },
-        "is_suspicious": false,
-        "full_size_url": "https://images1.vinted.net/tc/04_01553_6hLZn6X55NogWKp7AJziWM3D/1738846878.jpeg?s=fc62f11fab5e61c8841a92c8e835c7b068003a0e",
-        "is_hidden": false,
-        "extra": {}
-      },
-      "favourite_count": 28,
-      "is_favourite": false,
-      "badge": null,
-      "service_fee": {
-        "amount": "1.6",
-        "currency_code": "EUR"
-      },
-      "total_item_price": {
-        "amount": "19.5",
-        "currency_code": "EUR"
-      },
-      "view_count": 0,
-      "size_title": "6 ans / 116 cm",
-      "content_source": "search",
-      "status": "Neuf sans étiquette",
-      "icon_badges": [],
-      "item_box": {
-        "first_line": "LEGO",
-        "second_line": "6 ans / 116 cm",
-        "accessibility_label": "Lego Harry Potter 76442 : Le cours de Sortilèges, marque: LEGO, état: Neuf sans étiquette, taille: 6 ans / 116 cm, 17,90 €, 19,50 € Protection acheteurs incluse"
-      },
-      "search_tracking_params": {
-        "score": 4.265677928924561,
-        "matched_queries": []
-      }
-    },
-    {
       "id": 5929465301,
       "title": "LEGO 76435 - Harry Potter the great Hall -",
       "price": {
@@ -326,7 +161,172 @@
         "accessibility_label": "LEGO 76435 - Harry Potter the great Hall -, marque: LEGO, état: Très bon état, taille: Taille unique, 155,00 €, 163,45 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 4.252752780914307,
+        "score": 4.24392032623291,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5772707070,
+      "title": "Lego Harry Potter 76442 : Le cours de Sortilèges",
+      "price": {
+        "amount": "17.9",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5772707070-lego-harry-potter-76442-le-cours-de-sortileges",
+      "user": {
+        "id": 170732852,
+        "login": "wakatoune",
+        "profile_url": "https://www.vinted.fr/member/170732852-wakatoune",
+        "photo": {
+          "id": 166022649,
+          "width": 308,
+          "height": 169,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_00cf8_eDposJr4WtK5sLaxxGgKi31Y/f800/1699370859.jpeg?s=529f1b94e278bbf4e35fa40b1a5a4cdbac2805b3",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_00cf8_eDposJr4WtK5sLaxxGgKi31Y/310x310/1699370859.jpeg?s=790e66dcd67c1fb77266456b89a84df09ad341d7",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_00cf8_eDposJr4WtK5sLaxxGgKi31Y/150x150/1699370859.jpeg?s=3d863b5a4cff5ebba2e4bb0e2a45e3be7778ebc8",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_00cf8_eDposJr4WtK5sLaxxGgKi31Y/100x100/1699370859.jpeg?s=08b7f979b1e8f823eb91be996e3cc9f7dd810fd3",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_00cf8_eDposJr4WtK5sLaxxGgKi31Y/50x50/1699370859.jpeg?s=74ec0199413263caffaa7221387646416017ea49",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_00cf8_eDposJr4WtK5sLaxxGgKi31Y/20x20/1699370859.jpeg?s=bfbcf6bbac99d35953e485a8303040d7f50faf5d",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_00cf8_eDposJr4WtK5sLaxxGgKi31Y",
+            "timestamp": 1699370859,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_00cf8_eDposJr4WtK5sLaxxGgKi31Y/1699370859.jpeg?s=59de1db2de7640dec9941b1bec36f6b1ecd5bef2",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5772707070-lego-harry-potter-76442-le-cours-de-sortileges",
+      "promoted": false,
+      "photo": {
+        "id": 23389509415,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#7D655A",
+        "dominant_color_opaque": "#D8D1CE",
+        "url": "https://images1.vinted.net/t/04_01553_6hLZn6X55NogWKp7AJziWM3D/f800/1738846878.jpeg?s=a2bef4191f7ba5f665c57730a43addcafe9acfd7",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_01553_6hLZn6X55NogWKp7AJziWM3D/70x100/1738846878.jpeg?s=2aefbc0d69b2cbd5215165bf98525584cd463d81",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_01553_6hLZn6X55NogWKp7AJziWM3D/150x210/1738846878.jpeg?s=758405e2d6b15fc1adb7ef5c4e054bfe347d519f",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_01553_6hLZn6X55NogWKp7AJziWM3D/310x430/1738846878.jpeg?s=6fe16b0b5c7551f3f01b7e0471801230206a335d",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_01553_6hLZn6X55NogWKp7AJziWM3D/f800/1738846878.jpeg?s=a2bef4191f7ba5f665c57730a43addcafe9acfd7",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_01553_6hLZn6X55NogWKp7AJziWM3D/f800/1738846878.jpeg?s=a2bef4191f7ba5f665c57730a43addcafe9acfd7",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_01553_6hLZn6X55NogWKp7AJziWM3D/f800/1738846878.jpeg?s=a2bef4191f7ba5f665c57730a43addcafe9acfd7",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_01553_6hLZn6X55NogWKp7AJziWM3D",
+          "timestamp": 1738846878,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_01553_6hLZn6X55NogWKp7AJziWM3D/1738846878.jpeg?s=fc62f11fab5e61c8841a92c8e835c7b068003a0e",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 28,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "1.6",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "19.5",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "6 ans / 116 cm",
+      "content_source": "search",
+      "status": "Neuf sans étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "6 ans / 116 cm",
+        "accessibility_label": "Lego Harry Potter 76442 : Le cours de Sortilèges, marque: LEGO, état: Neuf sans étiquette, taille: 6 ans / 116 cm, 17,90 €, 19,50 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 4.241744518280029,
         "matched_queries": []
       }
     },
@@ -491,7 +491,7 @@
         "accessibility_label": "Lego Harry Potter 76435 neuf scelle, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 130,00 €, 137,20 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 3.89872407913208,
+        "score": 4.074769496917725,
         "matched_queries": []
       }
     },
@@ -821,7 +821,7 @@
         "accessibility_label": "Lego 76435 Harry potter - le château de Poudlard - Neuf, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 165,00 €, 173,95 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 3.778837203979492,
+        "score": 3.747981548309326,
         "matched_queries": []
       }
     },
@@ -986,7 +986,7 @@
         "accessibility_label": "Lego 76435 Hogwarts Castle: The Great Hall, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 125,00 €, 131,95 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 3.243012189865112,
+        "score": 3.242946624755859,
         "matched_queries": []
       }
     },
@@ -1151,7 +1151,7 @@
         "accessibility_label": "LEGO Harry Potter - HP281, marque: LEGO, état: Neuf sans étiquette, taille: Prématuré, jusqu'à 44cm, 3,19 €, 4,05 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 3.007723331451416,
+        "score": 3.007650852203369,
         "matched_queries": []
       }
     },
@@ -1316,7 +1316,7 @@
         "accessibility_label": "LEGO Castello di Hogwarts: Sala Grande 76435, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 125,00 €, 131,95 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 2.926072597503662,
+        "score": 2.92600679397583,
         "matched_queries": []
       }
     },
@@ -1481,7 +1481,7 @@
         "accessibility_label": "Terry Boot - Harry Potter Lego, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 10,00 €, 11,20 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 2.705046653747559,
+        "score": 2.705059289932251,
         "matched_queries": []
       }
     },
@@ -1646,7 +1646,7 @@
         "accessibility_label": "Lego 76435, marque: LEGO, état: Neuf sans étiquette, taille: 10 ans / 140 cm, 155,00 €, 163,45 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 2.566211223602295,
+        "score": 2.566088199615479,
         "matched_queries": []
       }
     },
@@ -1811,7 +1811,7 @@
         "accessibility_label": "Lego harry potter, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 165,00 €, 173,95 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 2.51961612701416,
+        "score": 2.490381240844727,
         "matched_queries": []
       }
     },
@@ -1976,7 +1976,7 @@
         "accessibility_label": "LEGO Ron Weasley - HP283, marque: LEGO, état: Neuf sans étiquette, taille: Prématuré, jusqu'à 44cm, 2,99 €, 3,84 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 2.459815502166748,
+        "score": 2.459759473800659,
         "matched_queries": []
       }
     },
@@ -2086,7 +2086,7 @@
         "accessibility_label": "Lego 76435 Le château de Poudlard : la grande salle, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 170,00 €, 179,20 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 2.415525436401367,
+        "score": 2.415523529052734,
         "matched_queries": []
       }
     },
@@ -2251,7 +2251,7 @@
         "accessibility_label": "LEGO Harry Potter le château de Poudlard : la grande salle, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 169,00 €, 178,15 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 2.311620712280273,
+        "score": 2.311487197875977,
         "matched_queries": []
       }
     },
@@ -2416,7 +2416,7 @@
         "accessibility_label": "LEGO Hermione Granger - HP468, marque: LEGO, état: Neuf sans étiquette, taille: Prématuré, jusqu'à 44cm, 3,99 €, 4,89 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 2.196153402328491,
+        "score": 2.196083307266235,
         "matched_queries": []
       }
     },
@@ -2581,7 +2581,7 @@
         "accessibility_label": "Calendario de Adviento 76435, marque: LEGO, état: Neuf avec étiquette, taille: 6-9 mois / 68 cm, 31,50 €, 33,78 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 2.064729690551758,
+        "score": 2.057518005371094,
         "matched_queries": []
       }
     },
@@ -2746,7 +2746,7 @@
         "accessibility_label": "Lego sellado gran comedor Harry Potter 76435, marque: LEGO, état: Neuf avec étiquette, taille: 10 ans / 140 cm, 170,00 €, 179,20 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 1.898734569549561,
+        "score": 1.898536205291748,
         "matched_queries": []
       }
     },
@@ -2911,7 +2911,7 @@
         "accessibility_label": "Lego 76435 Castillo Poudlard Nuevo, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 170,00 €, 179,20 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 1.29296875,
+        "score": 1.29295825958252,
         "matched_queries": []
       }
     }
@@ -2920,7 +2920,7 @@
     "id": 89162,
     "title": "LEGO",
     "slug": "lego",
-    "favourite_count": 185159,
+    "favourite_count": 185164,
     "pretty_favourite_count": "185.2K",
     "item_count": 2321353,
     "pretty_item_count": "2.3M",
@@ -2933,16 +2933,16 @@
     "is_favourite": false
   },
   "search_tracking_params": {
-    "search_correlation_id": "b86f3ee7-5471-419f-bdd1-b990f091b4c4",
-    "search_session_id": "0cb6e0f7-b27b-47c2-bf9c-873a7334df49",
-    "global_search_session_id": "92703866-586f-4064-9730-ef8967d7f60c"
+    "search_correlation_id": "e3b1da93-b0f9-44d6-a55a-07b952b3753e",
+    "search_session_id": "bd66188b-71b3-4a2a-b983-ceb544e3998f",
+    "global_search_session_id": "637f5adb-45c8-4ff6-8bb7-9c3736dc5940"
   },
   "pagination": {
     "current_page": 1,
     "total_pages": 1,
     "total_entries": 18,
     "per_page": 96,
-    "time": 1741612903
+    "time": 1741614501
   },
   "code": 0
 }

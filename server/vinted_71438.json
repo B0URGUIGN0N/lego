@@ -161,7 +161,7 @@
         "accessibility_label": "Lego 71438, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 10,00 €, 11,20 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 4.875146389007568,
+        "score": 4.874998092651367,
         "matched_queries": []
       }
     },
@@ -326,7 +326,7 @@
         "accessibility_label": "Lego Maria et yoshi neuf  Super Mario world, marque: LEGO, état: Neuf avec étiquette, taille: 16 ans / 176 cm, 105,00 €, 110,95 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 4.596549987792969,
+        "score": 4.585778713226318,
         "matched_queries": []
       }
     },
@@ -491,7 +491,7 @@
         "accessibility_label": "lego 71438 Mario yoshi neuf, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 95,00 €, 100,45 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 4.5920729637146,
+        "score": 4.570357799530029,
         "matched_queries": []
       }
     },
@@ -656,117 +656,7 @@
         "accessibility_label": "Lego 71438, marque: LEGO, état: Très bon état, taille: Taille unique, 95,00 €, 100,45 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 4.326944351196289,
-        "matched_queries": []
-      }
-    },
-    {
-      "id": 5944090199,
-      "title": "Set lego 71438  \"Super mario world\"",
-      "price": {
-        "amount": "99.99",
-        "currency_code": "EUR"
-      },
-      "is_visible": true,
-      "discount": null,
-      "brand_title": "LEGO",
-      "path": "/items/5944090199-set-lego-71438-super-mario-world",
-      "user": {
-        "id": 255342392,
-        "login": "brendarinaldi97",
-        "profile_url": "https://www.vinted.fr/member/255342392-brendarinaldi97",
-        "photo": null,
-        "business": false
-      },
-      "conversion": null,
-      "url": "https://www.vinted.fr/items/5944090199-set-lego-71438-super-mario-world",
-      "promoted": false,
-      "photo": {
-        "id": 24101836895,
-        "image_no": 1,
-        "width": 450,
-        "height": 800,
-        "dominant_color": "#7F8673",
-        "dominant_color_opaque": "#D9DBD5",
-        "url": "https://images1.vinted.net/t/04_002b8_KVEm592c9LR3yRxK7fobQiPq/f800/1741602792.jpeg?s=d474d5c54b64ad1108cc50454f9e57a2130e46f1",
-        "is_main": true,
-        "thumbnails": [
-          {
-            "type": "thumb70x100",
-            "url": "https://images1.vinted.net/t/04_002b8_KVEm592c9LR3yRxK7fobQiPq/70x100/1741602792.jpeg?s=239389691f8b33a269068244a5f7f9a2c6f5ee60",
-            "width": 70,
-            "height": 100,
-            "original_size": null
-          },
-          {
-            "type": "thumb150x210",
-            "url": "https://images1.vinted.net/t/04_002b8_KVEm592c9LR3yRxK7fobQiPq/150x210/1741602792.jpeg?s=32c73c16f65442dfb7b39afae76a785de96baff0",
-            "width": 150,
-            "height": 210,
-            "original_size": null
-          },
-          {
-            "type": "thumb310x430",
-            "url": "https://images1.vinted.net/t/04_002b8_KVEm592c9LR3yRxK7fobQiPq/310x430/1741602792.jpeg?s=213ceadfb9621ecdcb34922ce88314df300f5ee5",
-            "width": 310,
-            "height": 430,
-            "original_size": null
-          },
-          {
-            "type": "thumb428x624",
-            "url": "https://images1.vinted.net/t/04_002b8_KVEm592c9LR3yRxK7fobQiPq/f800/1741602792.jpeg?s=d474d5c54b64ad1108cc50454f9e57a2130e46f1",
-            "width": 240,
-            "height": 428,
-            "original_size": true
-          },
-          {
-            "type": "thumb624x428",
-            "url": "https://images1.vinted.net/t/04_002b8_KVEm592c9LR3yRxK7fobQiPq/f800/1741602792.jpeg?s=d474d5c54b64ad1108cc50454f9e57a2130e46f1",
-            "width": 351,
-            "height": 624,
-            "original_size": true
-          },
-          {
-            "type": "thumb364x428",
-            "url": "https://images1.vinted.net/t/04_002b8_KVEm592c9LR3yRxK7fobQiPq/f800/1741602792.jpeg?s=d474d5c54b64ad1108cc50454f9e57a2130e46f1",
-            "width": 204,
-            "height": 364,
-            "original_size": true
-          }
-        ],
-        "high_resolution": {
-          "id": "04_002b8_KVEm592c9LR3yRxK7fobQiPq",
-          "timestamp": 1741602792,
-          "orientation": null
-        },
-        "is_suspicious": false,
-        "full_size_url": "https://images1.vinted.net/tc/04_002b8_KVEm592c9LR3yRxK7fobQiPq/1741602792.jpeg?s=1fabf31318de5f86f331a91f214fd252b1575d17",
-        "is_hidden": false,
-        "extra": {}
-      },
-      "favourite_count": 4,
-      "is_favourite": false,
-      "badge": null,
-      "service_fee": {
-        "amount": "5.7",
-        "currency_code": "EUR"
-      },
-      "total_item_price": {
-        "amount": "105.69",
-        "currency_code": "EUR"
-      },
-      "view_count": 0,
-      "size_title": "Taille unique",
-      "content_source": "search",
-      "status": "Neuf sans étiquette",
-      "icon_badges": [],
-      "item_box": {
-        "first_line": "LEGO",
-        "second_line": "Taille unique",
-        "accessibility_label": "Set lego 71438  \"Super mario world\", marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 99,99 €, 105,69 € Protection acheteurs incluse"
-      },
-      "search_tracking_params": {
-        "score": 4.32209587097168,
+        "score": 4.137938499450684,
         "matched_queries": []
       }
     },
@@ -931,7 +821,117 @@
         "accessibility_label": "Neuf - 71426, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 54,90 €, 58,35 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 4.124968528747559,
+        "score": 4.107993125915527,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5944090199,
+      "title": "Set lego 71438  \"Super mario world\"",
+      "price": {
+        "amount": "99.99",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5944090199-set-lego-71438-super-mario-world",
+      "user": {
+        "id": 255342392,
+        "login": "brendarinaldi97",
+        "profile_url": "https://www.vinted.fr/member/255342392-brendarinaldi97",
+        "photo": null,
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5944090199-set-lego-71438-super-mario-world",
+      "promoted": false,
+      "photo": {
+        "id": 24101836895,
+        "image_no": 1,
+        "width": 450,
+        "height": 800,
+        "dominant_color": "#7F8673",
+        "dominant_color_opaque": "#D9DBD5",
+        "url": "https://images1.vinted.net/t/04_002b8_KVEm592c9LR3yRxK7fobQiPq/f800/1741602792.jpeg?s=d474d5c54b64ad1108cc50454f9e57a2130e46f1",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_002b8_KVEm592c9LR3yRxK7fobQiPq/70x100/1741602792.jpeg?s=239389691f8b33a269068244a5f7f9a2c6f5ee60",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_002b8_KVEm592c9LR3yRxK7fobQiPq/150x210/1741602792.jpeg?s=32c73c16f65442dfb7b39afae76a785de96baff0",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_002b8_KVEm592c9LR3yRxK7fobQiPq/310x430/1741602792.jpeg?s=213ceadfb9621ecdcb34922ce88314df300f5ee5",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_002b8_KVEm592c9LR3yRxK7fobQiPq/f800/1741602792.jpeg?s=d474d5c54b64ad1108cc50454f9e57a2130e46f1",
+            "width": 240,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_002b8_KVEm592c9LR3yRxK7fobQiPq/f800/1741602792.jpeg?s=d474d5c54b64ad1108cc50454f9e57a2130e46f1",
+            "width": 351,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_002b8_KVEm592c9LR3yRxK7fobQiPq/f800/1741602792.jpeg?s=d474d5c54b64ad1108cc50454f9e57a2130e46f1",
+            "width": 204,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_002b8_KVEm592c9LR3yRxK7fobQiPq",
+          "timestamp": 1741602792,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_002b8_KVEm592c9LR3yRxK7fobQiPq/1741602792.jpeg?s=1fabf31318de5f86f331a91f214fd252b1575d17",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 4,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "5.7",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "105.69",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf sans étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Set lego 71438  \"Super mario world\", marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 99,99 €, 105,69 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 4.07180643081665,
         "matched_queries": []
       }
     },
@@ -1096,447 +1096,7 @@
         "accessibility_label": "Neuf - Lego 71411, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 179,90 €, 189,60 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 3.719582080841064,
-        "matched_queries": []
-      }
-    },
-    {
-      "id": 1168975927,
-      "title": "Lego Dimensions Fun Pack 71438 Hermione Granger",
-      "price": {
-        "amount": "15.0",
-        "currency_code": "EUR"
-      },
-      "is_visible": true,
-      "discount": null,
-      "brand_title": "LEGO",
-      "path": "/items/1168975927-lego-dimensions-fun-pack-71438-hermione-granger",
-      "user": {
-        "id": 16504564,
-        "login": "warda2301",
-        "profile_url": "https://www.vinted.fr/member/16504564-warda2301",
-        "photo": {
-          "id": 50500710,
-          "width": 512,
-          "height": 512,
-          "temp_uuid": null,
-          "url": "https://images1.vinted.net/t/02_023ae_wC5UyazRGsL71iXsTzGZmD75/f800/1614530177.jpeg?s=fb8d70d6250dc4240968d06e156b3794a8d995a1",
-          "dominant_color": "#31abc2",
-          "dominant_color_opaque": "#C1E6ED",
-          "thumbnails": [
-            {
-              "type": "thumb310",
-              "url": "https://images1.vinted.net/t/02_023ae_wC5UyazRGsL71iXsTzGZmD75/310x310/1614530177.jpeg?s=3dd12a4d7cd6fca6516f5a96a241595c1833f4e9",
-              "width": 310,
-              "height": 310,
-              "original_size": null
-            },
-            {
-              "type": "thumb150",
-              "url": "https://images1.vinted.net/t/02_023ae_wC5UyazRGsL71iXsTzGZmD75/150x150/1614530177.jpeg?s=f1bcd69dbfeb04336f75ba759c7c7578774e7f8c",
-              "width": 150,
-              "height": 150,
-              "original_size": null
-            },
-            {
-              "type": "thumb100",
-              "url": "https://images1.vinted.net/t/02_023ae_wC5UyazRGsL71iXsTzGZmD75/100x100/1614530177.jpeg?s=a8411179c4931e01ddfcd4540cbb958a1b94f734",
-              "width": 100,
-              "height": 100,
-              "original_size": null
-            },
-            {
-              "type": "thumb50",
-              "url": "https://images1.vinted.net/t/02_023ae_wC5UyazRGsL71iXsTzGZmD75/50x50/1614530177.jpeg?s=4ef0d732fc3502bf7a0a705d778b8100d77900f0",
-              "width": 50,
-              "height": 50,
-              "original_size": null
-            },
-            {
-              "type": "thumb20",
-              "url": "https://images1.vinted.net/t/02_023ae_wC5UyazRGsL71iXsTzGZmD75/20x20/1614530177.jpeg?s=5d42daa822f37022442f6a2c543127a5163866dd",
-              "width": 20,
-              "height": 20,
-              "original_size": null
-            }
-          ],
-          "is_suspicious": false,
-          "orientation": null,
-          "high_resolution": {
-            "id": "02_023ae_wC5UyazRGsL71iXsTzGZmD75",
-            "timestamp": 1614530177,
-            "orientation": null
-          },
-          "full_size_url": "https://images1.vinted.net/tc/02_023ae_wC5UyazRGsL71iXsTzGZmD75/1614530177.jpeg?s=8a42980af6a28632d0e49c53766787186c2eb0c0",
-          "is_hidden": false,
-          "extra": {}
-        },
-        "business": false
-      },
-      "conversion": null,
-      "url": "https://www.vinted.fr/items/1168975927-lego-dimensions-fun-pack-71438-hermione-granger",
-      "promoted": false,
-      "photo": {
-        "id": 4279620052,
-        "image_no": 1,
-        "width": 799,
-        "height": 799,
-        "dominant_color": "#758575",
-        "dominant_color_opaque": "#D6DAD6",
-        "url": "https://images1.vinted.net/t/03_008f4_ijg1VvtzvWvuZpw55dNTEocT/f800/1623666792.jpeg?s=10adfe0384ec65889c0b905dab1c08b674d9461d",
-        "is_main": true,
-        "thumbnails": [
-          {
-            "type": "thumb70x100",
-            "url": "https://images1.vinted.net/t/03_008f4_ijg1VvtzvWvuZpw55dNTEocT/70x100/1623666792.jpeg?s=59ed408bc59ca92fa8dfb74aec2e11ff1453fe88",
-            "width": 70,
-            "height": 100,
-            "original_size": null
-          },
-          {
-            "type": "thumb150x210",
-            "url": "https://images1.vinted.net/t/03_008f4_ijg1VvtzvWvuZpw55dNTEocT/150x210/1623666792.jpeg?s=e9c58d108bcf77818cf0cbcce4415bb84fd01dce",
-            "width": 150,
-            "height": 210,
-            "original_size": null
-          },
-          {
-            "type": "thumb310x430",
-            "url": "https://images1.vinted.net/t/03_008f4_ijg1VvtzvWvuZpw55dNTEocT/310x430/1623666792.jpeg?s=da324b452e6932d8a3edac6bc7c6734940738935",
-            "width": 310,
-            "height": 430,
-            "original_size": null
-          },
-          {
-            "type": "thumb428x624",
-            "url": "https://images1.vinted.net/t/03_008f4_ijg1VvtzvWvuZpw55dNTEocT/f800/1623666792.jpeg?s=10adfe0384ec65889c0b905dab1c08b674d9461d",
-            "width": 428,
-            "height": 428,
-            "original_size": true
-          },
-          {
-            "type": "thumb624x428",
-            "url": "https://images1.vinted.net/t/03_008f4_ijg1VvtzvWvuZpw55dNTEocT/f800/1623666792.jpeg?s=10adfe0384ec65889c0b905dab1c08b674d9461d",
-            "width": 624,
-            "height": 624,
-            "original_size": true
-          },
-          {
-            "type": "thumb364x428",
-            "url": "https://images1.vinted.net/t/03_008f4_ijg1VvtzvWvuZpw55dNTEocT/f800/1623666792.jpeg?s=10adfe0384ec65889c0b905dab1c08b674d9461d",
-            "width": 364,
-            "height": 364,
-            "original_size": true
-          }
-        ],
-        "high_resolution": {
-          "id": "03_008f4_ijg1VvtzvWvuZpw55dNTEocT",
-          "timestamp": 1623666792,
-          "orientation": 0
-        },
-        "is_suspicious": false,
-        "full_size_url": "https://images1.vinted.net/tc/03_008f4_ijg1VvtzvWvuZpw55dNTEocT/1623666792.jpeg?s=4688392a3307faa63c51fae34ad67248c374a238",
-        "is_hidden": false,
-        "extra": {}
-      },
-      "favourite_count": 23,
-      "is_favourite": false,
-      "badge": null,
-      "service_fee": {
-        "amount": "1.45",
-        "currency_code": "EUR"
-      },
-      "total_item_price": {
-        "amount": "16.45",
-        "currency_code": "EUR"
-      },
-      "view_count": 0,
-      "size_title": "Taille unique",
-      "content_source": "search",
-      "status": "Neuf avec étiquette",
-      "icon_badges": [],
-      "item_box": {
-        "first_line": "LEGO",
-        "second_line": "Taille unique",
-        "accessibility_label": "Lego Dimensions Fun Pack 71438 Hermione Granger, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 15,00 €, 16,45 € Protection acheteurs incluse"
-      },
-      "search_tracking_params": {
-        "score": 3.287349462509155,
-        "matched_queries": []
-      }
-    },
-    {
-      "id": 5897383457,
-      "title": "Lego 71438 - Mario & Yoshi",
-      "price": {
-        "amount": "107.0",
-        "currency_code": "EUR"
-      },
-      "is_visible": true,
-      "discount": null,
-      "brand_title": "LEGO",
-      "path": "/items/5897383457-lego-71438-mario-yoshi",
-      "user": {
-        "id": 200190242,
-        "login": "cmcp9610",
-        "profile_url": "https://www.vinted.fr/member/200190242-cmcp9610",
-        "photo": {
-          "id": 229084838,
-          "width": 800,
-          "height": 363,
-          "temp_uuid": null,
-          "url": "https://images1.vinted.net/t/03_012fb_JtSmUy3AWNLaJk3nn5SqxvmD/f800/1738681812.jpeg?s=099cc20ab4befb8c7716956ef2099281d2a459b5",
-          "dominant_color": "#31abc2",
-          "dominant_color_opaque": "#C1E6ED",
-          "thumbnails": [
-            {
-              "type": "thumb310",
-              "url": "https://images1.vinted.net/t/03_012fb_JtSmUy3AWNLaJk3nn5SqxvmD/310x310/1738681812.jpeg?s=8cc83bffc1f69f421c00a6a4a7dc601bfa17a3c2",
-              "width": 310,
-              "height": 310,
-              "original_size": null
-            },
-            {
-              "type": "thumb150",
-              "url": "https://images1.vinted.net/t/03_012fb_JtSmUy3AWNLaJk3nn5SqxvmD/150x150/1738681812.jpeg?s=7ff7ea89ea252a15006137cc2008599140bae0d5",
-              "width": 150,
-              "height": 150,
-              "original_size": null
-            },
-            {
-              "type": "thumb100",
-              "url": "https://images1.vinted.net/t/03_012fb_JtSmUy3AWNLaJk3nn5SqxvmD/100x100/1738681812.jpeg?s=dc3ff02519d89bb95f65161de1f2b587dcbd399f",
-              "width": 100,
-              "height": 100,
-              "original_size": null
-            },
-            {
-              "type": "thumb50",
-              "url": "https://images1.vinted.net/t/03_012fb_JtSmUy3AWNLaJk3nn5SqxvmD/50x50/1738681812.jpeg?s=4219d6fe84d22d45ecab08dedef913c845687d1a",
-              "width": 50,
-              "height": 50,
-              "original_size": null
-            },
-            {
-              "type": "thumb20",
-              "url": "https://images1.vinted.net/t/03_012fb_JtSmUy3AWNLaJk3nn5SqxvmD/20x20/1738681812.jpeg?s=9136bb61b3973dbef392960253e4217e6d1640af",
-              "width": 20,
-              "height": 20,
-              "original_size": null
-            }
-          ],
-          "is_suspicious": false,
-          "orientation": null,
-          "high_resolution": {
-            "id": "03_012fb_JtSmUy3AWNLaJk3nn5SqxvmD",
-            "timestamp": 1738681812,
-            "orientation": null
-          },
-          "full_size_url": "https://images1.vinted.net/tc/03_012fb_JtSmUy3AWNLaJk3nn5SqxvmD/1738681812.jpeg?s=664a423bbbc44514337e1ec4d1724906dccbd3d4",
-          "is_hidden": false,
-          "extra": {}
-        },
-        "business": false
-      },
-      "conversion": null,
-      "url": "https://www.vinted.fr/items/5897383457-lego-71438-mario-yoshi",
-      "promoted": false,
-      "photo": {
-        "id": 23907173687,
-        "image_no": 1,
-        "width": 600,
-        "height": 800,
-        "dominant_color": "#4F5A5B",
-        "dominant_color_opaque": "#CACECE",
-        "url": "https://images1.vinted.net/t/04_00c4e_8qf5pvTn7du7WfergXHQJ3E1/f800/1740847930.jpeg?s=49fe0d66ebc7270570431b262196d93125f05491",
-        "is_main": true,
-        "thumbnails": [
-          {
-            "type": "thumb70x100",
-            "url": "https://images1.vinted.net/t/04_00c4e_8qf5pvTn7du7WfergXHQJ3E1/70x100/1740847930.jpeg?s=9504147bc27709e41fa27041823d09138e83e62a",
-            "width": 70,
-            "height": 100,
-            "original_size": null
-          },
-          {
-            "type": "thumb150x210",
-            "url": "https://images1.vinted.net/t/04_00c4e_8qf5pvTn7du7WfergXHQJ3E1/150x210/1740847930.jpeg?s=5610262091c32ae0dc35cbb2f7381cb40d632089",
-            "width": 150,
-            "height": 210,
-            "original_size": null
-          },
-          {
-            "type": "thumb310x430",
-            "url": "https://images1.vinted.net/t/04_00c4e_8qf5pvTn7du7WfergXHQJ3E1/310x430/1740847930.jpeg?s=3fb71941ff304f590c813ed107a608413fd701a6",
-            "width": 310,
-            "height": 430,
-            "original_size": null
-          },
-          {
-            "type": "thumb428x624",
-            "url": "https://images1.vinted.net/t/04_00c4e_8qf5pvTn7du7WfergXHQJ3E1/f800/1740847930.jpeg?s=49fe0d66ebc7270570431b262196d93125f05491",
-            "width": 321,
-            "height": 428,
-            "original_size": true
-          },
-          {
-            "type": "thumb624x428",
-            "url": "https://images1.vinted.net/t/04_00c4e_8qf5pvTn7du7WfergXHQJ3E1/f800/1740847930.jpeg?s=49fe0d66ebc7270570431b262196d93125f05491",
-            "width": 468,
-            "height": 624,
-            "original_size": true
-          },
-          {
-            "type": "thumb364x428",
-            "url": "https://images1.vinted.net/t/04_00c4e_8qf5pvTn7du7WfergXHQJ3E1/f800/1740847930.jpeg?s=49fe0d66ebc7270570431b262196d93125f05491",
-            "width": 273,
-            "height": 364,
-            "original_size": true
-          }
-        ],
-        "high_resolution": {
-          "id": "04_00c4e_8qf5pvTn7du7WfergXHQJ3E1",
-          "timestamp": 1740847930,
-          "orientation": null
-        },
-        "is_suspicious": false,
-        "full_size_url": "https://images1.vinted.net/tc/04_00c4e_8qf5pvTn7du7WfergXHQJ3E1/1740847930.jpeg?s=8cf6018378bde09d1cdbb5b7bfddcaa9f2f0afbb",
-        "is_hidden": false,
-        "extra": {}
-      },
-      "favourite_count": 12,
-      "is_favourite": false,
-      "badge": null,
-      "service_fee": {
-        "amount": "6.05",
-        "currency_code": "EUR"
-      },
-      "total_item_price": {
-        "amount": "113.05",
-        "currency_code": "EUR"
-      },
-      "view_count": 0,
-      "size_title": "Taille unique",
-      "content_source": "search",
-      "status": "Neuf avec étiquette",
-      "icon_badges": [],
-      "item_box": {
-        "first_line": "LEGO",
-        "second_line": "Taille unique",
-        "accessibility_label": "Lego 71438 - Mario & Yoshi, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 107,00 €, 113,05 € Protection acheteurs incluse"
-      },
-      "search_tracking_params": {
-        "score": 2.906351566314697,
-        "matched_queries": []
-      }
-    },
-    {
-      "id": 5446346413,
-      "title": "Lego 71438",
-      "price": {
-        "amount": "115.0",
-        "currency_code": "EUR"
-      },
-      "is_visible": true,
-      "discount": null,
-      "brand_title": "LEGO",
-      "path": "/items/5446346413-lego-71438",
-      "user": {
-        "id": 75658273,
-        "login": "raquellima1982",
-        "profile_url": "https://www.vinted.fr/member/75658273-raquellima1982",
-        "photo": null,
-        "business": false
-      },
-      "conversion": null,
-      "url": "https://www.vinted.fr/items/5446346413-lego-71438",
-      "promoted": false,
-      "photo": {
-        "id": 22048411827,
-        "image_no": 1,
-        "width": 600,
-        "height": 800,
-        "dominant_color": "#61635B",
-        "dominant_color_opaque": "#D0D0CE",
-        "url": "https://images1.vinted.net/t/02_008cf_hLXsaJBgPwDtCd48V8iR1Nza/f800/1732636647.jpeg?s=19fd16fd22c741700dda026a2e0263485212b8c4",
-        "is_main": true,
-        "thumbnails": [
-          {
-            "type": "thumb70x100",
-            "url": "https://images1.vinted.net/t/02_008cf_hLXsaJBgPwDtCd48V8iR1Nza/70x100/1732636647.jpeg?s=64007b79099a27b5bc78b4d93424fbddb2f35dd1",
-            "width": 70,
-            "height": 100,
-            "original_size": null
-          },
-          {
-            "type": "thumb150x210",
-            "url": "https://images1.vinted.net/t/02_008cf_hLXsaJBgPwDtCd48V8iR1Nza/150x210/1732636647.jpeg?s=5ecd482afc2033b03fb5121f9e6b5724a2ec482b",
-            "width": 150,
-            "height": 210,
-            "original_size": null
-          },
-          {
-            "type": "thumb310x430",
-            "url": "https://images1.vinted.net/t/02_008cf_hLXsaJBgPwDtCd48V8iR1Nza/310x430/1732636647.jpeg?s=d8fb19ba64f2b979f546c8ea41ef4796914c4e85",
-            "width": 310,
-            "height": 430,
-            "original_size": null
-          },
-          {
-            "type": "thumb428x624",
-            "url": "https://images1.vinted.net/t/02_008cf_hLXsaJBgPwDtCd48V8iR1Nza/f800/1732636647.jpeg?s=19fd16fd22c741700dda026a2e0263485212b8c4",
-            "width": 321,
-            "height": 428,
-            "original_size": true
-          },
-          {
-            "type": "thumb624x428",
-            "url": "https://images1.vinted.net/t/02_008cf_hLXsaJBgPwDtCd48V8iR1Nza/f800/1732636647.jpeg?s=19fd16fd22c741700dda026a2e0263485212b8c4",
-            "width": 468,
-            "height": 624,
-            "original_size": true
-          },
-          {
-            "type": "thumb364x428",
-            "url": "https://images1.vinted.net/t/02_008cf_hLXsaJBgPwDtCd48V8iR1Nza/f800/1732636647.jpeg?s=19fd16fd22c741700dda026a2e0263485212b8c4",
-            "width": 273,
-            "height": 364,
-            "original_size": true
-          }
-        ],
-        "high_resolution": {
-          "id": "02_008cf_hLXsaJBgPwDtCd48V8iR1Nza",
-          "timestamp": 1732636647,
-          "orientation": null
-        },
-        "is_suspicious": false,
-        "full_size_url": "https://images1.vinted.net/tc/02_008cf_hLXsaJBgPwDtCd48V8iR1Nza/1732636647.jpeg?s=e0420fef1f43e27bb06cdf776fe1edd95fdbcbc0",
-        "is_hidden": false,
-        "extra": {}
-      },
-      "favourite_count": 23,
-      "is_favourite": false,
-      "badge": null,
-      "service_fee": {
-        "amount": "6.45",
-        "currency_code": "EUR"
-      },
-      "total_item_price": {
-        "amount": "121.45",
-        "currency_code": "EUR"
-      },
-      "view_count": 0,
-      "size_title": "Taille unique",
-      "content_source": "search",
-      "status": "Neuf avec étiquette",
-      "icon_badges": [],
-      "item_box": {
-        "first_line": "LEGO",
-        "second_line": "Taille unique",
-        "accessibility_label": "Lego 71438, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 115,00 €, 121,45 € Protection acheteurs incluse"
-      },
-      "search_tracking_params": {
-        "score": 2.875929832458496,
+        "score": 3.710703372955322,
         "matched_queries": []
       }
     },
@@ -1701,7 +1261,447 @@
         "accessibility_label": "Lego 71438 - Mario y Yoshi (Super Mario World), marque: LEGO, état: Neuf avec étiquette, taille: 16 ans / 176 cm, 150,00 €, 158,20 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 2.530324459075928,
+        "score": 2.506340980529785,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 1168975927,
+      "title": "Lego Dimensions Fun Pack 71438 Hermione Granger",
+      "price": {
+        "amount": "15.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/1168975927-lego-dimensions-fun-pack-71438-hermione-granger",
+      "user": {
+        "id": 16504564,
+        "login": "warda2301",
+        "profile_url": "https://www.vinted.fr/member/16504564-warda2301",
+        "photo": {
+          "id": 50500710,
+          "width": 512,
+          "height": 512,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_023ae_wC5UyazRGsL71iXsTzGZmD75/f800/1614530177.jpeg?s=fb8d70d6250dc4240968d06e156b3794a8d995a1",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_023ae_wC5UyazRGsL71iXsTzGZmD75/310x310/1614530177.jpeg?s=3dd12a4d7cd6fca6516f5a96a241595c1833f4e9",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_023ae_wC5UyazRGsL71iXsTzGZmD75/150x150/1614530177.jpeg?s=f1bcd69dbfeb04336f75ba759c7c7578774e7f8c",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_023ae_wC5UyazRGsL71iXsTzGZmD75/100x100/1614530177.jpeg?s=a8411179c4931e01ddfcd4540cbb958a1b94f734",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_023ae_wC5UyazRGsL71iXsTzGZmD75/50x50/1614530177.jpeg?s=4ef0d732fc3502bf7a0a705d778b8100d77900f0",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_023ae_wC5UyazRGsL71iXsTzGZmD75/20x20/1614530177.jpeg?s=5d42daa822f37022442f6a2c543127a5163866dd",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_023ae_wC5UyazRGsL71iXsTzGZmD75",
+            "timestamp": 1614530177,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_023ae_wC5UyazRGsL71iXsTzGZmD75/1614530177.jpeg?s=8a42980af6a28632d0e49c53766787186c2eb0c0",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/1168975927-lego-dimensions-fun-pack-71438-hermione-granger",
+      "promoted": false,
+      "photo": {
+        "id": 4279620052,
+        "image_no": 1,
+        "width": 799,
+        "height": 799,
+        "dominant_color": "#758575",
+        "dominant_color_opaque": "#D6DAD6",
+        "url": "https://images1.vinted.net/t/03_008f4_ijg1VvtzvWvuZpw55dNTEocT/f800/1623666792.jpeg?s=10adfe0384ec65889c0b905dab1c08b674d9461d",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/03_008f4_ijg1VvtzvWvuZpw55dNTEocT/70x100/1623666792.jpeg?s=59ed408bc59ca92fa8dfb74aec2e11ff1453fe88",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/03_008f4_ijg1VvtzvWvuZpw55dNTEocT/150x210/1623666792.jpeg?s=e9c58d108bcf77818cf0cbcce4415bb84fd01dce",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/03_008f4_ijg1VvtzvWvuZpw55dNTEocT/310x430/1623666792.jpeg?s=da324b452e6932d8a3edac6bc7c6734940738935",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/03_008f4_ijg1VvtzvWvuZpw55dNTEocT/f800/1623666792.jpeg?s=10adfe0384ec65889c0b905dab1c08b674d9461d",
+            "width": 428,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/03_008f4_ijg1VvtzvWvuZpw55dNTEocT/f800/1623666792.jpeg?s=10adfe0384ec65889c0b905dab1c08b674d9461d",
+            "width": 624,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/03_008f4_ijg1VvtzvWvuZpw55dNTEocT/f800/1623666792.jpeg?s=10adfe0384ec65889c0b905dab1c08b674d9461d",
+            "width": 364,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "03_008f4_ijg1VvtzvWvuZpw55dNTEocT",
+          "timestamp": 1623666792,
+          "orientation": 0
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/03_008f4_ijg1VvtzvWvuZpw55dNTEocT/1623666792.jpeg?s=4688392a3307faa63c51fae34ad67248c374a238",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 23,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "1.45",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "16.45",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego Dimensions Fun Pack 71438 Hermione Granger, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 15,00 €, 16,45 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 3.271436214447021,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5897383457,
+      "title": "Lego 71438 - Mario & Yoshi",
+      "price": {
+        "amount": "107.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5897383457-lego-71438-mario-yoshi",
+      "user": {
+        "id": 200190242,
+        "login": "cmcp9610",
+        "profile_url": "https://www.vinted.fr/member/200190242-cmcp9610",
+        "photo": {
+          "id": 229084838,
+          "width": 800,
+          "height": 363,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/03_012fb_JtSmUy3AWNLaJk3nn5SqxvmD/f800/1738681812.jpeg?s=099cc20ab4befb8c7716956ef2099281d2a459b5",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/03_012fb_JtSmUy3AWNLaJk3nn5SqxvmD/310x310/1738681812.jpeg?s=8cc83bffc1f69f421c00a6a4a7dc601bfa17a3c2",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/03_012fb_JtSmUy3AWNLaJk3nn5SqxvmD/150x150/1738681812.jpeg?s=7ff7ea89ea252a15006137cc2008599140bae0d5",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/03_012fb_JtSmUy3AWNLaJk3nn5SqxvmD/100x100/1738681812.jpeg?s=dc3ff02519d89bb95f65161de1f2b587dcbd399f",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/03_012fb_JtSmUy3AWNLaJk3nn5SqxvmD/50x50/1738681812.jpeg?s=4219d6fe84d22d45ecab08dedef913c845687d1a",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/03_012fb_JtSmUy3AWNLaJk3nn5SqxvmD/20x20/1738681812.jpeg?s=9136bb61b3973dbef392960253e4217e6d1640af",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "03_012fb_JtSmUy3AWNLaJk3nn5SqxvmD",
+            "timestamp": 1738681812,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/03_012fb_JtSmUy3AWNLaJk3nn5SqxvmD/1738681812.jpeg?s=664a423bbbc44514337e1ec4d1724906dccbd3d4",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5897383457-lego-71438-mario-yoshi",
+      "promoted": false,
+      "photo": {
+        "id": 23907173687,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#4F5A5B",
+        "dominant_color_opaque": "#CACECE",
+        "url": "https://images1.vinted.net/t/04_00c4e_8qf5pvTn7du7WfergXHQJ3E1/f800/1740847930.jpeg?s=49fe0d66ebc7270570431b262196d93125f05491",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_00c4e_8qf5pvTn7du7WfergXHQJ3E1/70x100/1740847930.jpeg?s=9504147bc27709e41fa27041823d09138e83e62a",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_00c4e_8qf5pvTn7du7WfergXHQJ3E1/150x210/1740847930.jpeg?s=5610262091c32ae0dc35cbb2f7381cb40d632089",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_00c4e_8qf5pvTn7du7WfergXHQJ3E1/310x430/1740847930.jpeg?s=3fb71941ff304f590c813ed107a608413fd701a6",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_00c4e_8qf5pvTn7du7WfergXHQJ3E1/f800/1740847930.jpeg?s=49fe0d66ebc7270570431b262196d93125f05491",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_00c4e_8qf5pvTn7du7WfergXHQJ3E1/f800/1740847930.jpeg?s=49fe0d66ebc7270570431b262196d93125f05491",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_00c4e_8qf5pvTn7du7WfergXHQJ3E1/f800/1740847930.jpeg?s=49fe0d66ebc7270570431b262196d93125f05491",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_00c4e_8qf5pvTn7du7WfergXHQJ3E1",
+          "timestamp": 1740847930,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_00c4e_8qf5pvTn7du7WfergXHQJ3E1/1740847930.jpeg?s=8cf6018378bde09d1cdbb5b7bfddcaa9f2f0afbb",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 12,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "6.05",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "113.05",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego 71438 - Mario & Yoshi, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 107,00 €, 113,05 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 2.891420364379883,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5446346413,
+      "title": "Lego 71438",
+      "price": {
+        "amount": "115.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5446346413-lego-71438",
+      "user": {
+        "id": 75658273,
+        "login": "raquellima1982",
+        "profile_url": "https://www.vinted.fr/member/75658273-raquellima1982",
+        "photo": null,
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5446346413-lego-71438",
+      "promoted": false,
+      "photo": {
+        "id": 22048411827,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#61635B",
+        "dominant_color_opaque": "#D0D0CE",
+        "url": "https://images1.vinted.net/t/02_008cf_hLXsaJBgPwDtCd48V8iR1Nza/f800/1732636647.jpeg?s=19fd16fd22c741700dda026a2e0263485212b8c4",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/02_008cf_hLXsaJBgPwDtCd48V8iR1Nza/70x100/1732636647.jpeg?s=64007b79099a27b5bc78b4d93424fbddb2f35dd1",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/02_008cf_hLXsaJBgPwDtCd48V8iR1Nza/150x210/1732636647.jpeg?s=5ecd482afc2033b03fb5121f9e6b5724a2ec482b",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/02_008cf_hLXsaJBgPwDtCd48V8iR1Nza/310x430/1732636647.jpeg?s=d8fb19ba64f2b979f546c8ea41ef4796914c4e85",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/02_008cf_hLXsaJBgPwDtCd48V8iR1Nza/f800/1732636647.jpeg?s=19fd16fd22c741700dda026a2e0263485212b8c4",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/02_008cf_hLXsaJBgPwDtCd48V8iR1Nza/f800/1732636647.jpeg?s=19fd16fd22c741700dda026a2e0263485212b8c4",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/02_008cf_hLXsaJBgPwDtCd48V8iR1Nza/f800/1732636647.jpeg?s=19fd16fd22c741700dda026a2e0263485212b8c4",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "02_008cf_hLXsaJBgPwDtCd48V8iR1Nza",
+          "timestamp": 1732636647,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/02_008cf_hLXsaJBgPwDtCd48V8iR1Nza/1732636647.jpeg?s=e0420fef1f43e27bb06cdf776fe1edd95fdbcbc0",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 23,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "6.45",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "121.45",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego 71438, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 115,00 €, 121,45 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 2.852606296539307,
         "matched_queries": []
       }
     },
@@ -1866,7 +1866,7 @@
         "accessibility_label": "Lego Super Mario world nintendo : Mario & Yoshi set 71438, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 125,00 €, 131,95 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 1.712176322937012,
+        "score": 1.712154865264893,
         "matched_queries": []
       }
     },
@@ -2031,7 +2031,7 @@
         "accessibility_label": "Super Mario & Yoshi, marque: LEGO, état: Neuf avec étiquette, 110,00 €, 116,20 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 1.54581880569458,
+        "score": 1.545779228210449,
         "matched_queries": []
       }
     },
@@ -2196,7 +2196,7 @@
         "accessibility_label": "Lego Super Mario mod 71406 da espandere NUOVO, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 42,00 €, 44,80 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 1.373552799224854,
+        "score": 1.373512268066406,
         "matched_queries": []
       }
     }
@@ -2205,7 +2205,7 @@
     "id": 89162,
     "title": "LEGO",
     "slug": "lego",
-    "favourite_count": 185159,
+    "favourite_count": 185164,
     "pretty_favourite_count": "185.2K",
     "item_count": 2321353,
     "pretty_item_count": "2.3M",
@@ -2218,16 +2218,16 @@
     "is_favourite": false
   },
   "search_tracking_params": {
-    "search_correlation_id": "49aa7182-f276-4205-a0c3-6ef227fa6254",
-    "search_session_id": "948181be-063e-40b9-b24e-11d22091ef16",
-    "global_search_session_id": "b2fdb95e-95c0-4035-a233-323363ba88d8"
+    "search_correlation_id": "9d19c7ea-65ba-4fcb-b76a-0ad56f8b37e4",
+    "search_session_id": "eaadad58-fbe9-42a8-b9d2-27e9e603abd1",
+    "global_search_session_id": "fe319a91-9ddd-4025-991b-656051805e43"
   },
   "pagination": {
     "current_page": 1,
     "total_pages": 1,
     "total_entries": 14,
     "per_page": 96,
-    "time": 1741612904
+    "time": 1741614503
   },
   "code": 0
 }

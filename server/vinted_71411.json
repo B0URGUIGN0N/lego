@@ -161,7 +161,7 @@
         "accessibility_label": "Mode d’emploi lego Bowser 71411, marque: LEGO, état: Très bon état, taille: Taille unique, 10,00 €, 11,20 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 5.723117828369141,
+        "score": 5.715787887573242,
         "matched_queries": []
       }
     },
@@ -304,7 +304,7 @@
         "is_hidden": false,
         "extra": {}
       },
-      "favourite_count": 19,
+      "favourite_count": 20,
       "is_favourite": false,
       "badge": null,
       "service_fee": {
@@ -326,7 +326,7 @@
         "accessibility_label": "LEGO Super Mario 71411 Le puissant Bowser, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 176,50 €, 186,03 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 4.82793664932251,
+        "score": 4.983860492706299,
         "matched_queries": []
       }
     },
@@ -491,7 +491,7 @@
         "accessibility_label": "Neuf - 71426, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 54,90 €, 58,35 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 4.124968528747559,
+        "score": 4.107993125915527,
         "matched_queries": []
       }
     },
@@ -656,172 +656,7 @@
         "accessibility_label": "LEGO bowser 71411, marque: LEGO, état: Très bon état, taille: Taille unique, 140,00 €, 147,70 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 4.064836502075195,
-        "matched_queries": []
-      }
-    },
-    {
-      "id": 5944663475,
-      "title": "Lego bowser 71411",
-      "price": {
-        "amount": "175.0",
-        "currency_code": "EUR"
-      },
-      "is_visible": true,
-      "discount": null,
-      "brand_title": "LEGO",
-      "path": "/items/5944663475-lego-bowser-71411",
-      "user": {
-        "id": 37659937,
-        "login": "paulo281005",
-        "profile_url": "https://www.vinted.fr/member/37659937-paulo281005",
-        "photo": {
-          "id": 220392744,
-          "width": 600,
-          "height": 800,
-          "temp_uuid": null,
-          "url": "https://images1.vinted.net/t/02_01476_F1L7U6RxfQeGDzF7rULqK68T/f800/1732914149.jpeg?s=560c15a826f7b13262e55930222194c32a7e45c6",
-          "dominant_color": "#31abc2",
-          "dominant_color_opaque": "#C1E6ED",
-          "thumbnails": [
-            {
-              "type": "thumb310",
-              "url": "https://images1.vinted.net/t/02_01476_F1L7U6RxfQeGDzF7rULqK68T/310x310/1732914149.jpeg?s=84c615ea241a97c909b95cf9a3d3cb362b20dbbe",
-              "width": 310,
-              "height": 310,
-              "original_size": null
-            },
-            {
-              "type": "thumb150",
-              "url": "https://images1.vinted.net/t/02_01476_F1L7U6RxfQeGDzF7rULqK68T/150x150/1732914149.jpeg?s=f27c519cf7a26c48a64bdf541cec157ba991acc0",
-              "width": 150,
-              "height": 150,
-              "original_size": null
-            },
-            {
-              "type": "thumb100",
-              "url": "https://images1.vinted.net/t/02_01476_F1L7U6RxfQeGDzF7rULqK68T/100x100/1732914149.jpeg?s=b676f9895a2d78bb9cb3c1ecd34636c56aea07a1",
-              "width": 100,
-              "height": 100,
-              "original_size": null
-            },
-            {
-              "type": "thumb50",
-              "url": "https://images1.vinted.net/t/02_01476_F1L7U6RxfQeGDzF7rULqK68T/50x50/1732914149.jpeg?s=b406879ba29379f27a5cdec2b22e0cc8ff2e7ad3",
-              "width": 50,
-              "height": 50,
-              "original_size": null
-            },
-            {
-              "type": "thumb20",
-              "url": "https://images1.vinted.net/t/02_01476_F1L7U6RxfQeGDzF7rULqK68T/20x20/1732914149.jpeg?s=4ca930fc9a9da01c5520d28c8364c033c87eadc8",
-              "width": 20,
-              "height": 20,
-              "original_size": null
-            }
-          ],
-          "is_suspicious": false,
-          "orientation": null,
-          "high_resolution": {
-            "id": "02_01476_F1L7U6RxfQeGDzF7rULqK68T",
-            "timestamp": 1732914149,
-            "orientation": null
-          },
-          "full_size_url": "https://images1.vinted.net/tc/02_01476_F1L7U6RxfQeGDzF7rULqK68T/1732914149.jpeg?s=297e02d6074c2cd19df30982700ed72a5080c031",
-          "is_hidden": false,
-          "extra": {}
-        },
-        "business": false
-      },
-      "conversion": null,
-      "url": "https://www.vinted.fr/items/5944663475-lego-bowser-71411",
-      "promoted": false,
-      "photo": {
-        "id": 24104190706,
-        "image_no": 1,
-        "width": 600,
-        "height": 800,
-        "dominant_color": "#865F34",
-        "dominant_color_opaque": "#DBCFC2",
-        "url": "https://images1.vinted.net/t/03_00793_NaBAeByVRjmDswJvuRfMGCF8/f800/1741608272.jpeg?s=0b5abbb45caf64e905537e1499a32032093caedd",
-        "is_main": true,
-        "thumbnails": [
-          {
-            "type": "thumb70x100",
-            "url": "https://images1.vinted.net/t/03_00793_NaBAeByVRjmDswJvuRfMGCF8/70x100/1741608272.jpeg?s=4fd1e817aab06a30ba9685145b4b539d4f4ffcd2",
-            "width": 70,
-            "height": 100,
-            "original_size": null
-          },
-          {
-            "type": "thumb150x210",
-            "url": "https://images1.vinted.net/t/03_00793_NaBAeByVRjmDswJvuRfMGCF8/150x210/1741608272.jpeg?s=27822c8d31eff9e47f96242b7305258b95fa0102",
-            "width": 150,
-            "height": 210,
-            "original_size": null
-          },
-          {
-            "type": "thumb310x430",
-            "url": "https://images1.vinted.net/t/03_00793_NaBAeByVRjmDswJvuRfMGCF8/310x430/1741608272.jpeg?s=95accd85d79505fbd3026d4ae48b78c0056b9a35",
-            "width": 310,
-            "height": 430,
-            "original_size": null
-          },
-          {
-            "type": "thumb428x624",
-            "url": "https://images1.vinted.net/t/03_00793_NaBAeByVRjmDswJvuRfMGCF8/f800/1741608272.jpeg?s=0b5abbb45caf64e905537e1499a32032093caedd",
-            "width": 321,
-            "height": 428,
-            "original_size": true
-          },
-          {
-            "type": "thumb624x428",
-            "url": "https://images1.vinted.net/t/03_00793_NaBAeByVRjmDswJvuRfMGCF8/f800/1741608272.jpeg?s=0b5abbb45caf64e905537e1499a32032093caedd",
-            "width": 468,
-            "height": 624,
-            "original_size": true
-          },
-          {
-            "type": "thumb364x428",
-            "url": "https://images1.vinted.net/t/03_00793_NaBAeByVRjmDswJvuRfMGCF8/f800/1741608272.jpeg?s=0b5abbb45caf64e905537e1499a32032093caedd",
-            "width": 273,
-            "height": 364,
-            "original_size": true
-          }
-        ],
-        "high_resolution": {
-          "id": "03_00793_NaBAeByVRjmDswJvuRfMGCF8",
-          "timestamp": 1741608272,
-          "orientation": null
-        },
-        "is_suspicious": false,
-        "full_size_url": "https://images1.vinted.net/tc/03_00793_NaBAeByVRjmDswJvuRfMGCF8/1741608272.jpeg?s=b667a97d88b80277d7b5d688e857e31fab91a30f",
-        "is_hidden": false,
-        "extra": {}
-      },
-      "favourite_count": 0,
-      "is_favourite": false,
-      "badge": null,
-      "service_fee": {
-        "amount": "9.45",
-        "currency_code": "EUR"
-      },
-      "total_item_price": {
-        "amount": "184.45",
-        "currency_code": "EUR"
-      },
-      "view_count": 0,
-      "size_title": "Taille unique",
-      "content_source": "search",
-      "status": "Très bon état",
-      "icon_badges": [],
-      "item_box": {
-        "first_line": "LEGO",
-        "second_line": "Taille unique",
-        "accessibility_label": "Lego bowser 71411, marque: LEGO, état: Très bon état, taille: Taille unique, 175,00 €, 184,45 € Protection acheteurs incluse"
-      },
-      "search_tracking_params": {
-        "score": 4.026728630065918,
+        "score": 4.03431510925293,
         "matched_queries": []
       }
     },
@@ -931,7 +766,7 @@
         "accessibility_label": "Lego Super Mario 71411, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 180,00 €, 189,70 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 3.8858642578125,
+        "score": 3.834983825683594,
         "matched_queries": []
       }
     },
@@ -1096,7 +931,7 @@
         "accessibility_label": "Neuf - Lego 71411, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 179,90 €, 189,60 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 3.719581127166748,
+        "score": 3.71070384979248,
         "matched_queries": []
       }
     },
@@ -1206,7 +1041,172 @@
         "accessibility_label": "Lego the Mighty Bowser 71411, marque: LEGO, état: Très bon état, taille: Taille unique, 190,00 €, 200,20 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 3.67479944229126,
+        "score": 3.612544059753418,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5944663475,
+      "title": "Lego bowser 71411",
+      "price": {
+        "amount": "175.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5944663475-lego-bowser-71411",
+      "user": {
+        "id": 37659937,
+        "login": "paulo281005",
+        "profile_url": "https://www.vinted.fr/member/37659937-paulo281005",
+        "photo": {
+          "id": 220392744,
+          "width": 600,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_01476_F1L7U6RxfQeGDzF7rULqK68T/f800/1732914149.jpeg?s=560c15a826f7b13262e55930222194c32a7e45c6",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_01476_F1L7U6RxfQeGDzF7rULqK68T/310x310/1732914149.jpeg?s=84c615ea241a97c909b95cf9a3d3cb362b20dbbe",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_01476_F1L7U6RxfQeGDzF7rULqK68T/150x150/1732914149.jpeg?s=f27c519cf7a26c48a64bdf541cec157ba991acc0",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_01476_F1L7U6RxfQeGDzF7rULqK68T/100x100/1732914149.jpeg?s=b676f9895a2d78bb9cb3c1ecd34636c56aea07a1",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_01476_F1L7U6RxfQeGDzF7rULqK68T/50x50/1732914149.jpeg?s=b406879ba29379f27a5cdec2b22e0cc8ff2e7ad3",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_01476_F1L7U6RxfQeGDzF7rULqK68T/20x20/1732914149.jpeg?s=4ca930fc9a9da01c5520d28c8364c033c87eadc8",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_01476_F1L7U6RxfQeGDzF7rULqK68T",
+            "timestamp": 1732914149,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_01476_F1L7U6RxfQeGDzF7rULqK68T/1732914149.jpeg?s=297e02d6074c2cd19df30982700ed72a5080c031",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5944663475-lego-bowser-71411",
+      "promoted": false,
+      "photo": {
+        "id": 24104190706,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#865F34",
+        "dominant_color_opaque": "#DBCFC2",
+        "url": "https://images1.vinted.net/t/03_00793_NaBAeByVRjmDswJvuRfMGCF8/f800/1741608272.jpeg?s=0b5abbb45caf64e905537e1499a32032093caedd",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/03_00793_NaBAeByVRjmDswJvuRfMGCF8/70x100/1741608272.jpeg?s=4fd1e817aab06a30ba9685145b4b539d4f4ffcd2",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/03_00793_NaBAeByVRjmDswJvuRfMGCF8/150x210/1741608272.jpeg?s=27822c8d31eff9e47f96242b7305258b95fa0102",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/03_00793_NaBAeByVRjmDswJvuRfMGCF8/310x430/1741608272.jpeg?s=95accd85d79505fbd3026d4ae48b78c0056b9a35",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/03_00793_NaBAeByVRjmDswJvuRfMGCF8/f800/1741608272.jpeg?s=0b5abbb45caf64e905537e1499a32032093caedd",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/03_00793_NaBAeByVRjmDswJvuRfMGCF8/f800/1741608272.jpeg?s=0b5abbb45caf64e905537e1499a32032093caedd",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/03_00793_NaBAeByVRjmDswJvuRfMGCF8/f800/1741608272.jpeg?s=0b5abbb45caf64e905537e1499a32032093caedd",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "03_00793_NaBAeByVRjmDswJvuRfMGCF8",
+          "timestamp": 1741608272,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/03_00793_NaBAeByVRjmDswJvuRfMGCF8/1741608272.jpeg?s=b667a97d88b80277d7b5d688e857e31fab91a30f",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 1,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "9.45",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "184.45",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Très bon état",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego bowser 71411, marque: LEGO, état: Très bon état, taille: Taille unique, 175,00 €, 184,45 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 3.444077968597412,
         "matched_queries": []
       }
     },
@@ -1371,7 +1371,7 @@
         "accessibility_label": "Lego 71411 bowser super Mario neuf, marque: LEGO, état: Neuf avec étiquette, taille: XXL, 199,00 €, 209,65 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 3.246849536895752,
+        "score": 3.239324569702148,
         "matched_queries": []
       }
     },
@@ -1536,7 +1536,7 @@
         "accessibility_label": "Set lego 71411, marque: LEGO, état: Neuf avec étiquette, taille: Prématuré, jusqu'à 44cm, 180,00 €, 189,70 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 3.234288692474365,
+        "score": 3.209210395812988,
         "matched_queries": []
       }
     },
@@ -1646,7 +1646,7 @@
         "accessibility_label": "Lego 71411 Mighty Bowser, marque: LEGO, état: Bon état, taille: Taille unique, 145,00 €, 152,95 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 3.13063907623291,
+        "score": 3.143380641937256,
         "matched_queries": []
       }
     },
@@ -1811,7 +1811,7 @@
         "accessibility_label": "Notice lego 71411 le puissant Bwoser, marque: LEGO, état: Bon état, taille: Taille unique, 20,00 €, 21,70 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 3.072941064834595,
+        "score": 3.033879041671753,
         "matched_queries": []
       }
     },
@@ -1976,172 +1976,7 @@
         "accessibility_label": "Lego BOWSER 71411 Super Mario, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 180,00 €, 189,70 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 2.346634864807129,
-        "matched_queries": []
-      }
-    },
-    {
-      "id": 5756967804,
-      "title": "Lego 71411 browser nieuw in gesloten doos",
-      "price": {
-        "amount": "195.0",
-        "currency_code": "EUR"
-      },
-      "is_visible": true,
-      "discount": null,
-      "brand_title": "LEGO",
-      "path": "/items/5756967804-lego-71411-browser-nieuw-in-gesloten-doos",
-      "user": {
-        "id": 69827684,
-        "login": "vierkant",
-        "profile_url": "https://www.vinted.fr/member/69827684-vierkant",
-        "photo": {
-          "id": 68352316,
-          "width": 800,
-          "height": 800,
-          "temp_uuid": null,
-          "url": "https://images1.vinted.net/t/03_01565_V5TY72Du1GxCVz6dt858yhdE/f800/1632920052.jpeg?s=ae6786e7de7898d14aa40eb147d42044cd2318fd",
-          "dominant_color": "#31abc2",
-          "dominant_color_opaque": "#C1E6ED",
-          "thumbnails": [
-            {
-              "type": "thumb310",
-              "url": "https://images1.vinted.net/t/03_01565_V5TY72Du1GxCVz6dt858yhdE/310x310/1632920052.jpeg?s=e305624b287c29ec5043ddf71f7ac40e7ffced19",
-              "width": 310,
-              "height": 310,
-              "original_size": null
-            },
-            {
-              "type": "thumb150",
-              "url": "https://images1.vinted.net/t/03_01565_V5TY72Du1GxCVz6dt858yhdE/150x150/1632920052.jpeg?s=b48fa616b51de47619a91d4f05237ce202abc8f9",
-              "width": 150,
-              "height": 150,
-              "original_size": null
-            },
-            {
-              "type": "thumb100",
-              "url": "https://images1.vinted.net/t/03_01565_V5TY72Du1GxCVz6dt858yhdE/100x100/1632920052.jpeg?s=47db2eb1dbe34365c8fbe07e2bfd939fa4bf6e1f",
-              "width": 100,
-              "height": 100,
-              "original_size": null
-            },
-            {
-              "type": "thumb50",
-              "url": "https://images1.vinted.net/t/03_01565_V5TY72Du1GxCVz6dt858yhdE/50x50/1632920052.jpeg?s=07d70f9705998643adaeadf08de3e5d48d05b2a2",
-              "width": 50,
-              "height": 50,
-              "original_size": null
-            },
-            {
-              "type": "thumb20",
-              "url": "https://images1.vinted.net/t/03_01565_V5TY72Du1GxCVz6dt858yhdE/20x20/1632920052.jpeg?s=c8c87215eb083aa91f5abe71534aa4c4a3bb7ce1",
-              "width": 20,
-              "height": 20,
-              "original_size": null
-            }
-          ],
-          "is_suspicious": false,
-          "orientation": null,
-          "high_resolution": {
-            "id": "03_01565_V5TY72Du1GxCVz6dt858yhdE",
-            "timestamp": 1632920052,
-            "orientation": null
-          },
-          "full_size_url": "https://images1.vinted.net/tc/03_01565_V5TY72Du1GxCVz6dt858yhdE/1632920052.jpeg?s=08af59d34af997c313e96fb79e073da073441180",
-          "is_hidden": false,
-          "extra": {}
-        },
-        "business": false
-      },
-      "conversion": null,
-      "url": "https://www.vinted.fr/items/5756967804-lego-71411-browser-nieuw-in-gesloten-doos",
-      "promoted": false,
-      "photo": {
-        "id": 23324195661,
-        "image_no": 1,
-        "width": 600,
-        "height": 800,
-        "dominant_color": "#876A46",
-        "dominant_color_opaque": "#DBD2C8",
-        "url": "https://images1.vinted.net/t/04_01b8f_qVV57wV8q3JVHyVGVADt2wBn/f800/1738580307.jpeg?s=ed31cb091c2ffc6580c57d87c77a24e6124b48c0",
-        "is_main": true,
-        "thumbnails": [
-          {
-            "type": "thumb70x100",
-            "url": "https://images1.vinted.net/t/04_01b8f_qVV57wV8q3JVHyVGVADt2wBn/70x100/1738580307.jpeg?s=ce777109534e933d0b9b4d375557017cb164bd1a",
-            "width": 70,
-            "height": 100,
-            "original_size": null
-          },
-          {
-            "type": "thumb150x210",
-            "url": "https://images1.vinted.net/t/04_01b8f_qVV57wV8q3JVHyVGVADt2wBn/150x210/1738580307.jpeg?s=2c75d7f2819b5a8f6791e5684146e94b1bc3b5c8",
-            "width": 150,
-            "height": 210,
-            "original_size": null
-          },
-          {
-            "type": "thumb310x430",
-            "url": "https://images1.vinted.net/t/04_01b8f_qVV57wV8q3JVHyVGVADt2wBn/310x430/1738580307.jpeg?s=87258d093944521d5c51d5d58bd41859829eb9b8",
-            "width": 310,
-            "height": 430,
-            "original_size": null
-          },
-          {
-            "type": "thumb428x624",
-            "url": "https://images1.vinted.net/t/04_01b8f_qVV57wV8q3JVHyVGVADt2wBn/f800/1738580307.jpeg?s=ed31cb091c2ffc6580c57d87c77a24e6124b48c0",
-            "width": 321,
-            "height": 428,
-            "original_size": true
-          },
-          {
-            "type": "thumb624x428",
-            "url": "https://images1.vinted.net/t/04_01b8f_qVV57wV8q3JVHyVGVADt2wBn/f800/1738580307.jpeg?s=ed31cb091c2ffc6580c57d87c77a24e6124b48c0",
-            "width": 468,
-            "height": 624,
-            "original_size": true
-          },
-          {
-            "type": "thumb364x428",
-            "url": "https://images1.vinted.net/t/04_01b8f_qVV57wV8q3JVHyVGVADt2wBn/f800/1738580307.jpeg?s=ed31cb091c2ffc6580c57d87c77a24e6124b48c0",
-            "width": 273,
-            "height": 364,
-            "original_size": true
-          }
-        ],
-        "high_resolution": {
-          "id": "04_01b8f_qVV57wV8q3JVHyVGVADt2wBn",
-          "timestamp": 1738580307,
-          "orientation": null
-        },
-        "is_suspicious": false,
-        "full_size_url": "https://images1.vinted.net/tc/04_01b8f_qVV57wV8q3JVHyVGVADt2wBn/1738580307.jpeg?s=e6c6bd0413c2c4f565f915014d889cdd94a0caf5",
-        "is_hidden": false,
-        "extra": {}
-      },
-      "favourite_count": 6,
-      "is_favourite": false,
-      "badge": null,
-      "service_fee": {
-        "amount": "10.45",
-        "currency_code": "EUR"
-      },
-      "total_item_price": {
-        "amount": "205.45",
-        "currency_code": "EUR"
-      },
-      "view_count": 0,
-      "size_title": "Taille unique",
-      "content_source": "search",
-      "status": "Neuf sans étiquette",
-      "icon_badges": [],
-      "item_box": {
-        "first_line": "LEGO",
-        "second_line": "Taille unique",
-        "accessibility_label": "Lego 71411 browser nieuw in gesloten doos, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 195,00 €, 205,45 € Protection acheteurs incluse"
-      },
-      "search_tracking_params": {
-        "score": 2.308890819549561,
+        "score": 2.346380233764648,
         "matched_queries": []
       }
     },
@@ -2306,7 +2141,172 @@
         "accessibility_label": "Lego puissant Bowser 71411, marque: LEGO, état: Très bon état, taille: Taille unique, 199,90 €, 210,60 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 2.291839122772217,
+        "score": 2.280490398406982,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5756967804,
+      "title": "Lego 71411 browser nieuw in gesloten doos",
+      "price": {
+        "amount": "195.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5756967804-lego-71411-browser-nieuw-in-gesloten-doos",
+      "user": {
+        "id": 69827684,
+        "login": "vierkant",
+        "profile_url": "https://www.vinted.fr/member/69827684-vierkant",
+        "photo": {
+          "id": 68352316,
+          "width": 800,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/03_01565_V5TY72Du1GxCVz6dt858yhdE/f800/1632920052.jpeg?s=ae6786e7de7898d14aa40eb147d42044cd2318fd",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/03_01565_V5TY72Du1GxCVz6dt858yhdE/310x310/1632920052.jpeg?s=e305624b287c29ec5043ddf71f7ac40e7ffced19",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/03_01565_V5TY72Du1GxCVz6dt858yhdE/150x150/1632920052.jpeg?s=b48fa616b51de47619a91d4f05237ce202abc8f9",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/03_01565_V5TY72Du1GxCVz6dt858yhdE/100x100/1632920052.jpeg?s=47db2eb1dbe34365c8fbe07e2bfd939fa4bf6e1f",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/03_01565_V5TY72Du1GxCVz6dt858yhdE/50x50/1632920052.jpeg?s=07d70f9705998643adaeadf08de3e5d48d05b2a2",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/03_01565_V5TY72Du1GxCVz6dt858yhdE/20x20/1632920052.jpeg?s=c8c87215eb083aa91f5abe71534aa4c4a3bb7ce1",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "03_01565_V5TY72Du1GxCVz6dt858yhdE",
+            "timestamp": 1632920052,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/03_01565_V5TY72Du1GxCVz6dt858yhdE/1632920052.jpeg?s=08af59d34af997c313e96fb79e073da073441180",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5756967804-lego-71411-browser-nieuw-in-gesloten-doos",
+      "promoted": false,
+      "photo": {
+        "id": 23324195661,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#876A46",
+        "dominant_color_opaque": "#DBD2C8",
+        "url": "https://images1.vinted.net/t/04_01b8f_qVV57wV8q3JVHyVGVADt2wBn/f800/1738580307.jpeg?s=ed31cb091c2ffc6580c57d87c77a24e6124b48c0",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_01b8f_qVV57wV8q3JVHyVGVADt2wBn/70x100/1738580307.jpeg?s=ce777109534e933d0b9b4d375557017cb164bd1a",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_01b8f_qVV57wV8q3JVHyVGVADt2wBn/150x210/1738580307.jpeg?s=2c75d7f2819b5a8f6791e5684146e94b1bc3b5c8",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_01b8f_qVV57wV8q3JVHyVGVADt2wBn/310x430/1738580307.jpeg?s=87258d093944521d5c51d5d58bd41859829eb9b8",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_01b8f_qVV57wV8q3JVHyVGVADt2wBn/f800/1738580307.jpeg?s=ed31cb091c2ffc6580c57d87c77a24e6124b48c0",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_01b8f_qVV57wV8q3JVHyVGVADt2wBn/f800/1738580307.jpeg?s=ed31cb091c2ffc6580c57d87c77a24e6124b48c0",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_01b8f_qVV57wV8q3JVHyVGVADt2wBn/f800/1738580307.jpeg?s=ed31cb091c2ffc6580c57d87c77a24e6124b48c0",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_01b8f_qVV57wV8q3JVHyVGVADt2wBn",
+          "timestamp": 1738580307,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_01b8f_qVV57wV8q3JVHyVGVADt2wBn/1738580307.jpeg?s=e6c6bd0413c2c4f565f915014d889cdd94a0caf5",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 6,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "10.45",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "205.45",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf sans étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego 71411 browser nieuw in gesloten doos, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 195,00 €, 205,45 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 2.269100666046143,
         "matched_queries": []
       }
     },
@@ -2471,7 +2471,7 @@
         "accessibility_label": "LEGO 71411 The Mighty Bowser, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 184,00 €, 193,90 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 2.232561111450195,
+        "score": 2.221837997436523,
         "matched_queries": []
       }
     },
@@ -2581,7 +2581,7 @@
         "accessibility_label": "Lego super mario 71411 le méchant bowser, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 179,99 €, 189,69 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 2.214164257049561,
+        "score": 2.207879066467285,
         "matched_queries": []
       }
     },
@@ -2746,7 +2746,7 @@
         "accessibility_label": "Lego 71411 Il potente Bowser, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 180,00 €, 189,70 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 1.912843227386475,
+        "score": 1.903541564941406,
         "matched_queries": []
       }
     },
@@ -2911,7 +2911,7 @@
         "accessibility_label": "The Mighty Bowser \"71411\" New., marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 200,00 €, 210,70 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 1.39116907119751,
+        "score": 1.391327381134033,
         "matched_queries": []
       }
     },
@@ -3076,667 +3076,7 @@
         "accessibility_label": "Lego bownser 71411, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 240,00 €, 252,70 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 1.218778610229492,
-        "matched_queries": []
-      }
-    },
-    {
-      "id": 5575995639,
-      "title": "Lego Puissant Bowser #71411",
-      "price": {
-        "amount": "180.0",
-        "currency_code": "EUR"
-      },
-      "is_visible": true,
-      "discount": null,
-      "brand_title": "LEGO",
-      "path": "/items/5575995639-lego-puissant-bowser-71411",
-      "user": {
-        "id": 17048859,
-        "login": "nicolazio",
-        "profile_url": "https://www.vinted.fr/member/17048859-nicolazio",
-        "photo": {
-          "id": 223451949,
-          "width": 600,
-          "height": 800,
-          "temp_uuid": null,
-          "url": "https://images1.vinted.net/t/04_01ae4_JcSLSBS22B18eCudYNUupS4Y/f800/1735129346.jpeg?s=904fc98b6a96176fdace2e93ba44cbbef283e43b",
-          "dominant_color": "#31abc2",
-          "dominant_color_opaque": "#C1E6ED",
-          "thumbnails": [
-            {
-              "type": "thumb310",
-              "url": "https://images1.vinted.net/t/04_01ae4_JcSLSBS22B18eCudYNUupS4Y/310x310/1735129346.jpeg?s=947f97d2cc8e02a2b79ffd3ff7fc5eabd6f3f3cb",
-              "width": 310,
-              "height": 310,
-              "original_size": null
-            },
-            {
-              "type": "thumb150",
-              "url": "https://images1.vinted.net/t/04_01ae4_JcSLSBS22B18eCudYNUupS4Y/150x150/1735129346.jpeg?s=b2b50bee5ed789c73990b8facdc55676dc1dbc5c",
-              "width": 150,
-              "height": 150,
-              "original_size": null
-            },
-            {
-              "type": "thumb100",
-              "url": "https://images1.vinted.net/t/04_01ae4_JcSLSBS22B18eCudYNUupS4Y/100x100/1735129346.jpeg?s=2bb762b30d2e345247f196b40843147f1c4ad1cd",
-              "width": 100,
-              "height": 100,
-              "original_size": null
-            },
-            {
-              "type": "thumb50",
-              "url": "https://images1.vinted.net/t/04_01ae4_JcSLSBS22B18eCudYNUupS4Y/50x50/1735129346.jpeg?s=fdfe888a8e3105ec0e3b53c06ea9805a5efc179e",
-              "width": 50,
-              "height": 50,
-              "original_size": null
-            },
-            {
-              "type": "thumb20",
-              "url": "https://images1.vinted.net/t/04_01ae4_JcSLSBS22B18eCudYNUupS4Y/20x20/1735129346.jpeg?s=298de5b3c8259f0f0ad68fa977cabb97410eecab",
-              "width": 20,
-              "height": 20,
-              "original_size": null
-            }
-          ],
-          "is_suspicious": false,
-          "orientation": null,
-          "high_resolution": {
-            "id": "04_01ae4_JcSLSBS22B18eCudYNUupS4Y",
-            "timestamp": 1735129346,
-            "orientation": null
-          },
-          "full_size_url": "https://images1.vinted.net/tc/04_01ae4_JcSLSBS22B18eCudYNUupS4Y/1735129346.jpeg?s=3c824b66be339e3aec434bd1688820b7e9c9906a",
-          "is_hidden": false,
-          "extra": {}
-        },
-        "business": false
-      },
-      "conversion": null,
-      "url": "https://www.vinted.fr/items/5575995639-lego-puissant-bowser-71411",
-      "promoted": false,
-      "photo": {
-        "id": 22584946972,
-        "image_no": 1,
-        "width": 600,
-        "height": 800,
-        "dominant_color": "#8A733F",
-        "dominant_color_opaque": "#DCD5C5",
-        "url": "https://images1.vinted.net/t/03_00b10_Kv59dy9PzA79CBajd9iGXmhF/f800/1735506234.jpeg?s=4901f21a9d6d3f73f89356d1de042a3a26931367",
-        "is_main": true,
-        "thumbnails": [
-          {
-            "type": "thumb70x100",
-            "url": "https://images1.vinted.net/t/03_00b10_Kv59dy9PzA79CBajd9iGXmhF/70x100/1735506234.jpeg?s=4a570ea68b92a00a9dc6582e99901694ae41d7b4",
-            "width": 70,
-            "height": 100,
-            "original_size": null
-          },
-          {
-            "type": "thumb150x210",
-            "url": "https://images1.vinted.net/t/03_00b10_Kv59dy9PzA79CBajd9iGXmhF/150x210/1735506234.jpeg?s=697cc69b1e3ebdab3d9e34f763a7b60dee2661f3",
-            "width": 150,
-            "height": 210,
-            "original_size": null
-          },
-          {
-            "type": "thumb310x430",
-            "url": "https://images1.vinted.net/t/03_00b10_Kv59dy9PzA79CBajd9iGXmhF/310x430/1735506234.jpeg?s=6ca275aa8bb45f71ceef874455d2eb4b0c1e64d4",
-            "width": 310,
-            "height": 430,
-            "original_size": null
-          },
-          {
-            "type": "thumb428x624",
-            "url": "https://images1.vinted.net/t/03_00b10_Kv59dy9PzA79CBajd9iGXmhF/f800/1735506234.jpeg?s=4901f21a9d6d3f73f89356d1de042a3a26931367",
-            "width": 321,
-            "height": 428,
-            "original_size": true
-          },
-          {
-            "type": "thumb624x428",
-            "url": "https://images1.vinted.net/t/03_00b10_Kv59dy9PzA79CBajd9iGXmhF/f800/1735506234.jpeg?s=4901f21a9d6d3f73f89356d1de042a3a26931367",
-            "width": 468,
-            "height": 624,
-            "original_size": true
-          },
-          {
-            "type": "thumb364x428",
-            "url": "https://images1.vinted.net/t/03_00b10_Kv59dy9PzA79CBajd9iGXmhF/f800/1735506234.jpeg?s=4901f21a9d6d3f73f89356d1de042a3a26931367",
-            "width": 273,
-            "height": 364,
-            "original_size": true
-          }
-        ],
-        "high_resolution": {
-          "id": "03_00b10_Kv59dy9PzA79CBajd9iGXmhF",
-          "timestamp": 1735506234,
-          "orientation": null
-        },
-        "is_suspicious": false,
-        "full_size_url": "https://images1.vinted.net/tc/03_00b10_Kv59dy9PzA79CBajd9iGXmhF/1735506234.jpeg?s=a0f935bf68dd00964e82f454e6d061d4f2cd9e7f",
-        "is_hidden": false,
-        "extra": {}
-      },
-      "favourite_count": 1,
-      "is_favourite": false,
-      "badge": null,
-      "service_fee": {
-        "amount": "9.7",
-        "currency_code": "EUR"
-      },
-      "total_item_price": {
-        "amount": "189.7",
-        "currency_code": "EUR"
-      },
-      "view_count": 0,
-      "size_title": "Prématuré, jusqu'à 44cm",
-      "content_source": "search",
-      "status": "Très bon état",
-      "icon_badges": [],
-      "item_box": {
-        "first_line": "LEGO",
-        "second_line": "Prématuré, jusqu'à 44cm",
-        "accessibility_label": "Lego Puissant Bowser #71411, marque: LEGO, état: Très bon état, taille: Prématuré, jusqu'à 44cm, 180,00 €, 189,70 € Protection acheteurs incluse"
-      },
-      "search_tracking_params": {
-        "score": 1.19586181640625,
-        "matched_queries": []
-      }
-    },
-    {
-      "id": 5385012733,
-      "title": "Lego 71411 - The Mighty Bowser",
-      "price": {
-        "amount": "190.0",
-        "currency_code": "EUR"
-      },
-      "is_visible": true,
-      "discount": null,
-      "brand_title": "LEGO",
-      "path": "/items/5385012733-lego-71411-the-mighty-bowser",
-      "user": {
-        "id": 43766169,
-        "login": "mariecreu",
-        "profile_url": "https://www.vinted.fr/member/43766169-mariecreu",
-        "photo": {
-          "id": 38831047,
-          "width": 800,
-          "height": 600,
-          "temp_uuid": null,
-          "url": "https://images1.vinted.net/t/02_00a47_bCgYu7RNWMQ8QbQ7kn1sWb5y/f800/1605114590.jpeg?s=d6ab5ab2826422d170e2ca2f2607e3d281339ccc",
-          "dominant_color": "#31abc2",
-          "dominant_color_opaque": "#C1E6ED",
-          "thumbnails": [
-            {
-              "type": "thumb310",
-              "url": "https://images1.vinted.net/t/02_00a47_bCgYu7RNWMQ8QbQ7kn1sWb5y/310x310/1605114590.jpeg?s=c5f08e166b7d1f48dbc24df37d0ab52a7329d639",
-              "width": 310,
-              "height": 310,
-              "original_size": null
-            },
-            {
-              "type": "thumb150",
-              "url": "https://images1.vinted.net/t/02_00a47_bCgYu7RNWMQ8QbQ7kn1sWb5y/150x150/1605114590.jpeg?s=0155be6b50d0e6b45405596fb3dfc5bf38578be4",
-              "width": 150,
-              "height": 150,
-              "original_size": null
-            },
-            {
-              "type": "thumb100",
-              "url": "https://images1.vinted.net/t/02_00a47_bCgYu7RNWMQ8QbQ7kn1sWb5y/100x100/1605114590.jpeg?s=a41dd5eea36c3867cf57416dc1624423c4c53a14",
-              "width": 100,
-              "height": 100,
-              "original_size": null
-            },
-            {
-              "type": "thumb50",
-              "url": "https://images1.vinted.net/t/02_00a47_bCgYu7RNWMQ8QbQ7kn1sWb5y/50x50/1605114590.jpeg?s=f96329c0ea1cae23cebf975d2e598d3f9f16f73b",
-              "width": 50,
-              "height": 50,
-              "original_size": null
-            },
-            {
-              "type": "thumb20",
-              "url": "https://images1.vinted.net/t/02_00a47_bCgYu7RNWMQ8QbQ7kn1sWb5y/20x20/1605114590.jpeg?s=c227506f2feeb23323cdd02770e34f18798c0026",
-              "width": 20,
-              "height": 20,
-              "original_size": null
-            }
-          ],
-          "is_suspicious": false,
-          "orientation": null,
-          "high_resolution": {
-            "id": "02_00a47_bCgYu7RNWMQ8QbQ7kn1sWb5y",
-            "timestamp": 1605114590,
-            "orientation": null
-          },
-          "full_size_url": "https://images1.vinted.net/tc/02_00a47_bCgYu7RNWMQ8QbQ7kn1sWb5y/1605114590.jpeg?s=eed027462953cafebd04733c75d28fb8ea6659d2",
-          "is_hidden": false,
-          "extra": {}
-        },
-        "business": false
-      },
-      "conversion": null,
-      "url": "https://www.vinted.fr/items/5385012733-lego-71411-the-mighty-bowser",
-      "promoted": false,
-      "photo": {
-        "id": 21797032503,
-        "image_no": 1,
-        "width": 676,
-        "height": 800,
-        "dominant_color": "#B49056",
-        "dominant_color_opaque": "#E9DECC",
-        "url": "https://images1.vinted.net/t/03_01b9a_5k1vtXBrQzoYPnaduTohenDw/f800/1731664208.jpeg?s=990a8ec621bba1ed25ace757aa9e29501d1bef1e",
-        "is_main": true,
-        "thumbnails": [
-          {
-            "type": "thumb70x100",
-            "url": "https://images1.vinted.net/t/03_01b9a_5k1vtXBrQzoYPnaduTohenDw/70x100/1731664208.jpeg?s=05231e2da305437c21c39fba0b4758650e45d768",
-            "width": 70,
-            "height": 100,
-            "original_size": null
-          },
-          {
-            "type": "thumb150x210",
-            "url": "https://images1.vinted.net/t/03_01b9a_5k1vtXBrQzoYPnaduTohenDw/150x210/1731664208.jpeg?s=793686e55846a54d235ccdbce3f9c4cbc13c45f7",
-            "width": 150,
-            "height": 210,
-            "original_size": null
-          },
-          {
-            "type": "thumb310x430",
-            "url": "https://images1.vinted.net/t/03_01b9a_5k1vtXBrQzoYPnaduTohenDw/310x430/1731664208.jpeg?s=d11db053af7145cc6493d8130dc0f7b6d6e1c956",
-            "width": 310,
-            "height": 430,
-            "original_size": null
-          },
-          {
-            "type": "thumb428x624",
-            "url": "https://images1.vinted.net/t/03_01b9a_5k1vtXBrQzoYPnaduTohenDw/f800/1731664208.jpeg?s=990a8ec621bba1ed25ace757aa9e29501d1bef1e",
-            "width": 362,
-            "height": 428,
-            "original_size": true
-          },
-          {
-            "type": "thumb624x428",
-            "url": "https://images1.vinted.net/t/03_01b9a_5k1vtXBrQzoYPnaduTohenDw/f800/1731664208.jpeg?s=990a8ec621bba1ed25ace757aa9e29501d1bef1e",
-            "width": 528,
-            "height": 624,
-            "original_size": true
-          },
-          {
-            "type": "thumb364x428",
-            "url": "https://images1.vinted.net/t/03_01b9a_5k1vtXBrQzoYPnaduTohenDw/f800/1731664208.jpeg?s=990a8ec621bba1ed25ace757aa9e29501d1bef1e",
-            "width": 308,
-            "height": 364,
-            "original_size": true
-          }
-        ],
-        "high_resolution": {
-          "id": "03_01b9a_5k1vtXBrQzoYPnaduTohenDw",
-          "timestamp": 1731664208,
-          "orientation": 0
-        },
-        "is_suspicious": false,
-        "full_size_url": "https://images1.vinted.net/tc/03_01b9a_5k1vtXBrQzoYPnaduTohenDw/1731664208.jpeg?s=85890aa4ad8170ceb5fdcdaffbbed36a3dbc3844",
-        "is_hidden": false,
-        "extra": {}
-      },
-      "favourite_count": 16,
-      "is_favourite": false,
-      "badge": null,
-      "service_fee": {
-        "amount": "10.2",
-        "currency_code": "EUR"
-      },
-      "total_item_price": {
-        "amount": "200.2",
-        "currency_code": "EUR"
-      },
-      "view_count": 0,
-      "size_title": "Taille unique",
-      "content_source": "search",
-      "status": "Neuf avec étiquette",
-      "icon_badges": [],
-      "item_box": {
-        "first_line": "LEGO",
-        "second_line": "Taille unique",
-        "accessibility_label": "Lego 71411 - The Mighty Bowser, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 190,00 €, 200,20 € Protection acheteurs incluse"
-      },
-      "search_tracking_params": {
-        "score": 1.145900726318359,
-        "matched_queries": []
-      }
-    },
-    {
-      "id": 5765765594,
-      "title": "Lego Bowser 71411. Precintado",
-      "price": {
-        "amount": "190.0",
-        "currency_code": "EUR"
-      },
-      "is_visible": true,
-      "discount": null,
-      "brand_title": "LEGO",
-      "path": "/items/5765765594-lego-bowser-71411-precintado",
-      "user": {
-        "id": 33791159,
-        "login": "pablopa5",
-        "profile_url": "https://www.vinted.fr/member/33791159-pablopa5",
-        "photo": {
-          "id": 26705853,
-          "width": 799,
-          "height": 800,
-          "temp_uuid": null,
-          "url": "https://images1.vinted.net/t/02_01cf0_VdS6Jrh3eWm6aCT89YFEYreW/f800/1605250049.jpeg?s=387d19a5764b5a0323f841414284860fbfd0801f",
-          "dominant_color": "#31abc2",
-          "dominant_color_opaque": "#C1E6ED",
-          "thumbnails": [
-            {
-              "type": "thumb310",
-              "url": "https://images1.vinted.net/t/02_01cf0_VdS6Jrh3eWm6aCT89YFEYreW/310x310/1605250049.jpeg?s=41a7b123edeae63a6a1651ab9f7f3a2892fcee2f",
-              "width": 310,
-              "height": 310,
-              "original_size": null
-            },
-            {
-              "type": "thumb150",
-              "url": "https://images1.vinted.net/t/02_01cf0_VdS6Jrh3eWm6aCT89YFEYreW/150x150/1605250049.jpeg?s=14b434be39b0c0a34217425054696402a8ada6af",
-              "width": 150,
-              "height": 150,
-              "original_size": null
-            },
-            {
-              "type": "thumb100",
-              "url": "https://images1.vinted.net/t/02_01cf0_VdS6Jrh3eWm6aCT89YFEYreW/100x100/1605250049.jpeg?s=38c4bde57edc442da841852dfbbcdaba66f706d5",
-              "width": 100,
-              "height": 100,
-              "original_size": null
-            },
-            {
-              "type": "thumb50",
-              "url": "https://images1.vinted.net/t/02_01cf0_VdS6Jrh3eWm6aCT89YFEYreW/50x50/1605250049.jpeg?s=446b48b8a4b58ddd77630b507c6f1f27e7912f2a",
-              "width": 50,
-              "height": 50,
-              "original_size": null
-            },
-            {
-              "type": "thumb20",
-              "url": "https://images1.vinted.net/t/02_01cf0_VdS6Jrh3eWm6aCT89YFEYreW/20x20/1605250049.jpeg?s=646434b510c7830d6db17f81d0ebaee12122be71",
-              "width": 20,
-              "height": 20,
-              "original_size": null
-            }
-          ],
-          "is_suspicious": false,
-          "orientation": null,
-          "high_resolution": {
-            "id": "02_01cf0_VdS6Jrh3eWm6aCT89YFEYreW",
-            "timestamp": 1605250049,
-            "orientation": null
-          },
-          "full_size_url": "https://images1.vinted.net/tc/02_01cf0_VdS6Jrh3eWm6aCT89YFEYreW/1605250049.jpeg?s=bf167cfb76dcdcf38a89f1cd4c8c059b5d719cce",
-          "is_hidden": false,
-          "extra": {}
-        },
-        "business": false
-      },
-      "conversion": null,
-      "url": "https://www.vinted.fr/items/5765765594-lego-bowser-71411-precintado",
-      "promoted": false,
-      "photo": {
-        "id": 23360656153,
-        "image_no": 1,
-        "width": 600,
-        "height": 800,
-        "dominant_color": "#785D40",
-        "dominant_color_opaque": "#D7CEC6",
-        "url": "https://images1.vinted.net/t/02_020b1_7ey8pkirJmQ4CBQeZq8zn7Yb/f800/1738705719.jpeg?s=a83ca9221b650b38b4cc8e72e702eb29b33c0a7f",
-        "is_main": true,
-        "thumbnails": [
-          {
-            "type": "thumb70x100",
-            "url": "https://images1.vinted.net/t/02_020b1_7ey8pkirJmQ4CBQeZq8zn7Yb/70x100/1738705719.jpeg?s=d7573dd45b54d35b86e866b3f72a63369de66c4c",
-            "width": 70,
-            "height": 100,
-            "original_size": null
-          },
-          {
-            "type": "thumb150x210",
-            "url": "https://images1.vinted.net/t/02_020b1_7ey8pkirJmQ4CBQeZq8zn7Yb/150x210/1738705719.jpeg?s=0ed8c121989bc337ee34dc775c3ee87794b9a47d",
-            "width": 150,
-            "height": 210,
-            "original_size": null
-          },
-          {
-            "type": "thumb310x430",
-            "url": "https://images1.vinted.net/t/02_020b1_7ey8pkirJmQ4CBQeZq8zn7Yb/310x430/1738705719.jpeg?s=58fa45636b5bcb0e34656d893bfd35eacad6485d",
-            "width": 310,
-            "height": 430,
-            "original_size": null
-          },
-          {
-            "type": "thumb428x624",
-            "url": "https://images1.vinted.net/t/02_020b1_7ey8pkirJmQ4CBQeZq8zn7Yb/f800/1738705719.jpeg?s=a83ca9221b650b38b4cc8e72e702eb29b33c0a7f",
-            "width": 321,
-            "height": 428,
-            "original_size": true
-          },
-          {
-            "type": "thumb624x428",
-            "url": "https://images1.vinted.net/t/02_020b1_7ey8pkirJmQ4CBQeZq8zn7Yb/f800/1738705719.jpeg?s=a83ca9221b650b38b4cc8e72e702eb29b33c0a7f",
-            "width": 468,
-            "height": 624,
-            "original_size": true
-          },
-          {
-            "type": "thumb364x428",
-            "url": "https://images1.vinted.net/t/02_020b1_7ey8pkirJmQ4CBQeZq8zn7Yb/f800/1738705719.jpeg?s=a83ca9221b650b38b4cc8e72e702eb29b33c0a7f",
-            "width": 273,
-            "height": 364,
-            "original_size": true
-          }
-        ],
-        "high_resolution": {
-          "id": "02_020b1_7ey8pkirJmQ4CBQeZq8zn7Yb",
-          "timestamp": 1738705719,
-          "orientation": null
-        },
-        "is_suspicious": false,
-        "full_size_url": "https://images1.vinted.net/tc/02_020b1_7ey8pkirJmQ4CBQeZq8zn7Yb/1738705719.jpeg?s=839a1c0cf10d1e4ddecf75c1d0060b9d6609d9e4",
-        "is_hidden": false,
-        "extra": {}
-      },
-      "favourite_count": 7,
-      "is_favourite": false,
-      "badge": null,
-      "service_fee": {
-        "amount": "10.2",
-        "currency_code": "EUR"
-      },
-      "total_item_price": {
-        "amount": "200.2",
-        "currency_code": "EUR"
-      },
-      "view_count": 0,
-      "size_title": "",
-      "content_source": "search",
-      "status": "Neuf avec étiquette",
-      "icon_badges": [],
-      "item_box": {
-        "first_line": "LEGO",
-        "second_line": "Neuf avec étiquette",
-        "accessibility_label": "Lego Bowser 71411. Precintado, marque: LEGO, état: Neuf avec étiquette, 190,00 €, 200,20 € Protection acheteurs incluse"
-      },
-      "search_tracking_params": {
-        "score": 1.042084693908691,
-        "matched_queries": []
-      }
-    },
-    {
-      "id": 3040318290,
-      "title": "Lego 71411 Super Mario. El poderoso Bowser",
-      "price": {
-        "amount": "195.0",
-        "currency_code": "EUR"
-      },
-      "is_visible": true,
-      "discount": null,
-      "brand_title": "LEGO",
-      "path": "/items/3040318290-lego-71411-super-mario-el-poderoso-bowser",
-      "user": {
-        "id": 63964396,
-        "login": "esterret",
-        "profile_url": "https://www.vinted.fr/member/63964396-esterret",
-        "photo": {
-          "id": 61550345,
-          "width": 759,
-          "height": 800,
-          "temp_uuid": null,
-          "url": "https://images1.vinted.net/t/03_01a1e_pYeQBknpHiZwy1E17TSik1cv/f800/1624437425.jpeg?s=c29d0ae98cc888c9f6326dafce561168e9d8a7d7",
-          "dominant_color": "#31abc2",
-          "dominant_color_opaque": "#C1E6ED",
-          "thumbnails": [
-            {
-              "type": "thumb310",
-              "url": "https://images1.vinted.net/t/03_01a1e_pYeQBknpHiZwy1E17TSik1cv/310x310/1624437425.jpeg?s=d5892d225cadde29cd4ff1196b874f9631d61559",
-              "width": 310,
-              "height": 310,
-              "original_size": null
-            },
-            {
-              "type": "thumb150",
-              "url": "https://images1.vinted.net/t/03_01a1e_pYeQBknpHiZwy1E17TSik1cv/150x150/1624437425.jpeg?s=924bef2e1d9a8fadd7d93b4b48b0fbcf6831aa58",
-              "width": 150,
-              "height": 150,
-              "original_size": null
-            },
-            {
-              "type": "thumb100",
-              "url": "https://images1.vinted.net/t/03_01a1e_pYeQBknpHiZwy1E17TSik1cv/100x100/1624437425.jpeg?s=3d0d0ae47bd2845ee7aead7c47455759c9a6173a",
-              "width": 100,
-              "height": 100,
-              "original_size": null
-            },
-            {
-              "type": "thumb50",
-              "url": "https://images1.vinted.net/t/03_01a1e_pYeQBknpHiZwy1E17TSik1cv/50x50/1624437425.jpeg?s=712695fbf509942759cce2793ad848b8b391c64d",
-              "width": 50,
-              "height": 50,
-              "original_size": null
-            },
-            {
-              "type": "thumb20",
-              "url": "https://images1.vinted.net/t/03_01a1e_pYeQBknpHiZwy1E17TSik1cv/20x20/1624437425.jpeg?s=494deb7fc278ac8ab446bbf58e70f700d07a3051",
-              "width": 20,
-              "height": 20,
-              "original_size": null
-            }
-          ],
-          "is_suspicious": false,
-          "orientation": null,
-          "high_resolution": {
-            "id": "03_01a1e_pYeQBknpHiZwy1E17TSik1cv",
-            "timestamp": 1624437425,
-            "orientation": null
-          },
-          "full_size_url": "https://images1.vinted.net/tc/03_01a1e_pYeQBknpHiZwy1E17TSik1cv/1624437425.jpeg?s=42b7f668075724f5b6c775e3626218e811aa8660",
-          "is_hidden": false,
-          "extra": {}
-        },
-        "business": false
-      },
-      "conversion": null,
-      "url": "https://www.vinted.fr/items/3040318290-lego-71411-super-mario-el-poderoso-bowser",
-      "promoted": false,
-      "photo": {
-        "id": 12186404843,
-        "image_no": 1,
-        "width": 800,
-        "height": 636,
-        "dominant_color": "#957242",
-        "dominant_color_opaque": "#DFD5C6",
-        "url": "https://images1.vinted.net/t/03_010b2_cFx9msizHP9BN8mNvL9hVr63/f800/1707500617.jpeg?s=ecbed8ba17cdcd1e1c82eb6b42067ad0b9717146",
-        "is_main": true,
-        "thumbnails": [
-          {
-            "type": "thumb70x100",
-            "url": "https://images1.vinted.net/t/03_010b2_cFx9msizHP9BN8mNvL9hVr63/70x100/1707500617.jpeg?s=ccf85810c2832eed4d2de089f82b3b3c798166ad",
-            "width": 70,
-            "height": 100,
-            "original_size": null
-          },
-          {
-            "type": "thumb150x210",
-            "url": "https://images1.vinted.net/t/03_010b2_cFx9msizHP9BN8mNvL9hVr63/150x210/1707500617.jpeg?s=b756cff14b11bdb958cd3b358ed00f22ae4c2318",
-            "width": 150,
-            "height": 210,
-            "original_size": null
-          },
-          {
-            "type": "thumb310x430",
-            "url": "https://images1.vinted.net/t/03_010b2_cFx9msizHP9BN8mNvL9hVr63/310x430/1707500617.jpeg?s=090363dd4e99f0f802954c074a7382030b2642b1",
-            "width": 310,
-            "height": 430,
-            "original_size": null
-          },
-          {
-            "type": "thumb428x624",
-            "url": "https://images1.vinted.net/t/03_010b2_cFx9msizHP9BN8mNvL9hVr63/f800/1707500617.jpeg?s=ecbed8ba17cdcd1e1c82eb6b42067ad0b9717146",
-            "width": 428,
-            "height": 340,
-            "original_size": true
-          },
-          {
-            "type": "thumb624x428",
-            "url": "https://images1.vinted.net/t/03_010b2_cFx9msizHP9BN8mNvL9hVr63/f800/1707500617.jpeg?s=ecbed8ba17cdcd1e1c82eb6b42067ad0b9717146",
-            "width": 624,
-            "height": 496,
-            "original_size": true
-          },
-          {
-            "type": "thumb364x428",
-            "url": "https://images1.vinted.net/t/03_010b2_cFx9msizHP9BN8mNvL9hVr63/f800/1707500617.jpeg?s=ecbed8ba17cdcd1e1c82eb6b42067ad0b9717146",
-            "width": 363,
-            "height": 289,
-            "original_size": true
-          }
-        ],
-        "high_resolution": {
-          "id": "03_010b2_cFx9msizHP9BN8mNvL9hVr63",
-          "timestamp": 1707500617,
-          "orientation": null
-        },
-        "is_suspicious": false,
-        "full_size_url": "https://images1.vinted.net/tc/03_010b2_cFx9msizHP9BN8mNvL9hVr63/1707500617.jpeg?s=f0301668ccbf63a8e3a5d7076e4bc85cf9d3349c",
-        "is_hidden": false,
-        "extra": {}
-      },
-      "favourite_count": 21,
-      "is_favourite": false,
-      "badge": null,
-      "service_fee": {
-        "amount": "10.45",
-        "currency_code": "EUR"
-      },
-      "total_item_price": {
-        "amount": "205.45",
-        "currency_code": "EUR"
-      },
-      "view_count": 0,
-      "size_title": "",
-      "content_source": "search",
-      "status": "Neuf avec étiquette",
-      "icon_badges": [],
-      "item_box": {
-        "first_line": "LEGO",
-        "second_line": "Neuf avec étiquette",
-        "accessibility_label": "Lego 71411 Super Mario. El poderoso Bowser, marque: LEGO, état: Neuf avec étiquette, 195,00 €, 205,45 € Protection acheteurs incluse"
-      },
-      "search_tracking_params": {
-        "score": 1.030686855316162,
+        "score": 1.218406677246094,
         "matched_queries": []
       }
     },
@@ -3901,7 +3241,502 @@
         "accessibility_label": "Lego Super Mario 71411 Le Puissant Bowser - Neuf, marque: LEGO, état: Neuf avec étiquette, taille: XXL, 225,00 €, 236,95 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 0.9822545051574707,
+        "score": 0.972898006439209,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5765765594,
+      "title": "Lego Bowser 71411. Precintado",
+      "price": {
+        "amount": "190.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5765765594-lego-bowser-71411-precintado",
+      "user": {
+        "id": 33791159,
+        "login": "pablopa5",
+        "profile_url": "https://www.vinted.fr/member/33791159-pablopa5",
+        "photo": {
+          "id": 26705853,
+          "width": 799,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_01cf0_VdS6Jrh3eWm6aCT89YFEYreW/f800/1605250049.jpeg?s=387d19a5764b5a0323f841414284860fbfd0801f",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_01cf0_VdS6Jrh3eWm6aCT89YFEYreW/310x310/1605250049.jpeg?s=41a7b123edeae63a6a1651ab9f7f3a2892fcee2f",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_01cf0_VdS6Jrh3eWm6aCT89YFEYreW/150x150/1605250049.jpeg?s=14b434be39b0c0a34217425054696402a8ada6af",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_01cf0_VdS6Jrh3eWm6aCT89YFEYreW/100x100/1605250049.jpeg?s=38c4bde57edc442da841852dfbbcdaba66f706d5",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_01cf0_VdS6Jrh3eWm6aCT89YFEYreW/50x50/1605250049.jpeg?s=446b48b8a4b58ddd77630b507c6f1f27e7912f2a",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_01cf0_VdS6Jrh3eWm6aCT89YFEYreW/20x20/1605250049.jpeg?s=646434b510c7830d6db17f81d0ebaee12122be71",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_01cf0_VdS6Jrh3eWm6aCT89YFEYreW",
+            "timestamp": 1605250049,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_01cf0_VdS6Jrh3eWm6aCT89YFEYreW/1605250049.jpeg?s=bf167cfb76dcdcf38a89f1cd4c8c059b5d719cce",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5765765594-lego-bowser-71411-precintado",
+      "promoted": false,
+      "photo": {
+        "id": 23360656153,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#785D40",
+        "dominant_color_opaque": "#D7CEC6",
+        "url": "https://images1.vinted.net/t/02_020b1_7ey8pkirJmQ4CBQeZq8zn7Yb/f800/1738705719.jpeg?s=a83ca9221b650b38b4cc8e72e702eb29b33c0a7f",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/02_020b1_7ey8pkirJmQ4CBQeZq8zn7Yb/70x100/1738705719.jpeg?s=d7573dd45b54d35b86e866b3f72a63369de66c4c",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/02_020b1_7ey8pkirJmQ4CBQeZq8zn7Yb/150x210/1738705719.jpeg?s=0ed8c121989bc337ee34dc775c3ee87794b9a47d",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/02_020b1_7ey8pkirJmQ4CBQeZq8zn7Yb/310x430/1738705719.jpeg?s=58fa45636b5bcb0e34656d893bfd35eacad6485d",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/02_020b1_7ey8pkirJmQ4CBQeZq8zn7Yb/f800/1738705719.jpeg?s=a83ca9221b650b38b4cc8e72e702eb29b33c0a7f",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/02_020b1_7ey8pkirJmQ4CBQeZq8zn7Yb/f800/1738705719.jpeg?s=a83ca9221b650b38b4cc8e72e702eb29b33c0a7f",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/02_020b1_7ey8pkirJmQ4CBQeZq8zn7Yb/f800/1738705719.jpeg?s=a83ca9221b650b38b4cc8e72e702eb29b33c0a7f",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "02_020b1_7ey8pkirJmQ4CBQeZq8zn7Yb",
+          "timestamp": 1738705719,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/02_020b1_7ey8pkirJmQ4CBQeZq8zn7Yb/1738705719.jpeg?s=839a1c0cf10d1e4ddecf75c1d0060b9d6609d9e4",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 7,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "10.2",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "200.2",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Neuf avec étiquette",
+        "accessibility_label": "Lego Bowser 71411. Precintado, marque: LEGO, état: Neuf avec étiquette, 190,00 €, 200,20 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 1.027504444122314,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5385012733,
+      "title": "Lego 71411 - The Mighty Bowser",
+      "price": {
+        "amount": "190.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5385012733-lego-71411-the-mighty-bowser",
+      "user": {
+        "id": 43766169,
+        "login": "mariecreu",
+        "profile_url": "https://www.vinted.fr/member/43766169-mariecreu",
+        "photo": {
+          "id": 38831047,
+          "width": 800,
+          "height": 600,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_00a47_bCgYu7RNWMQ8QbQ7kn1sWb5y/f800/1605114590.jpeg?s=d6ab5ab2826422d170e2ca2f2607e3d281339ccc",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_00a47_bCgYu7RNWMQ8QbQ7kn1sWb5y/310x310/1605114590.jpeg?s=c5f08e166b7d1f48dbc24df37d0ab52a7329d639",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_00a47_bCgYu7RNWMQ8QbQ7kn1sWb5y/150x150/1605114590.jpeg?s=0155be6b50d0e6b45405596fb3dfc5bf38578be4",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_00a47_bCgYu7RNWMQ8QbQ7kn1sWb5y/100x100/1605114590.jpeg?s=a41dd5eea36c3867cf57416dc1624423c4c53a14",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_00a47_bCgYu7RNWMQ8QbQ7kn1sWb5y/50x50/1605114590.jpeg?s=f96329c0ea1cae23cebf975d2e598d3f9f16f73b",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_00a47_bCgYu7RNWMQ8QbQ7kn1sWb5y/20x20/1605114590.jpeg?s=c227506f2feeb23323cdd02770e34f18798c0026",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_00a47_bCgYu7RNWMQ8QbQ7kn1sWb5y",
+            "timestamp": 1605114590,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_00a47_bCgYu7RNWMQ8QbQ7kn1sWb5y/1605114590.jpeg?s=eed027462953cafebd04733c75d28fb8ea6659d2",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5385012733-lego-71411-the-mighty-bowser",
+      "promoted": false,
+      "photo": {
+        "id": 21797032503,
+        "image_no": 1,
+        "width": 676,
+        "height": 800,
+        "dominant_color": "#B49056",
+        "dominant_color_opaque": "#E9DECC",
+        "url": "https://images1.vinted.net/t/03_01b9a_5k1vtXBrQzoYPnaduTohenDw/f800/1731664208.jpeg?s=990a8ec621bba1ed25ace757aa9e29501d1bef1e",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/03_01b9a_5k1vtXBrQzoYPnaduTohenDw/70x100/1731664208.jpeg?s=05231e2da305437c21c39fba0b4758650e45d768",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/03_01b9a_5k1vtXBrQzoYPnaduTohenDw/150x210/1731664208.jpeg?s=793686e55846a54d235ccdbce3f9c4cbc13c45f7",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/03_01b9a_5k1vtXBrQzoYPnaduTohenDw/310x430/1731664208.jpeg?s=d11db053af7145cc6493d8130dc0f7b6d6e1c956",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/03_01b9a_5k1vtXBrQzoYPnaduTohenDw/f800/1731664208.jpeg?s=990a8ec621bba1ed25ace757aa9e29501d1bef1e",
+            "width": 362,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/03_01b9a_5k1vtXBrQzoYPnaduTohenDw/f800/1731664208.jpeg?s=990a8ec621bba1ed25ace757aa9e29501d1bef1e",
+            "width": 528,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/03_01b9a_5k1vtXBrQzoYPnaduTohenDw/f800/1731664208.jpeg?s=990a8ec621bba1ed25ace757aa9e29501d1bef1e",
+            "width": 308,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "03_01b9a_5k1vtXBrQzoYPnaduTohenDw",
+          "timestamp": 1731664208,
+          "orientation": 0
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/03_01b9a_5k1vtXBrQzoYPnaduTohenDw/1731664208.jpeg?s=85890aa4ad8170ceb5fdcdaffbbed36a3dbc3844",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 16,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "10.2",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "200.2",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego 71411 - The Mighty Bowser, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 190,00 €, 200,20 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 1.134866714477539,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 3040318290,
+      "title": "Lego 71411 Super Mario. El poderoso Bowser",
+      "price": {
+        "amount": "195.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/3040318290-lego-71411-super-mario-el-poderoso-bowser",
+      "user": {
+        "id": 63964396,
+        "login": "esterret",
+        "profile_url": "https://www.vinted.fr/member/63964396-esterret",
+        "photo": {
+          "id": 61550345,
+          "width": 759,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/03_01a1e_pYeQBknpHiZwy1E17TSik1cv/f800/1624437425.jpeg?s=c29d0ae98cc888c9f6326dafce561168e9d8a7d7",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/03_01a1e_pYeQBknpHiZwy1E17TSik1cv/310x310/1624437425.jpeg?s=d5892d225cadde29cd4ff1196b874f9631d61559",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/03_01a1e_pYeQBknpHiZwy1E17TSik1cv/150x150/1624437425.jpeg?s=924bef2e1d9a8fadd7d93b4b48b0fbcf6831aa58",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/03_01a1e_pYeQBknpHiZwy1E17TSik1cv/100x100/1624437425.jpeg?s=3d0d0ae47bd2845ee7aead7c47455759c9a6173a",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/03_01a1e_pYeQBknpHiZwy1E17TSik1cv/50x50/1624437425.jpeg?s=712695fbf509942759cce2793ad848b8b391c64d",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/03_01a1e_pYeQBknpHiZwy1E17TSik1cv/20x20/1624437425.jpeg?s=494deb7fc278ac8ab446bbf58e70f700d07a3051",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "03_01a1e_pYeQBknpHiZwy1E17TSik1cv",
+            "timestamp": 1624437425,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/03_01a1e_pYeQBknpHiZwy1E17TSik1cv/1624437425.jpeg?s=42b7f668075724f5b6c775e3626218e811aa8660",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/3040318290-lego-71411-super-mario-el-poderoso-bowser",
+      "promoted": false,
+      "photo": {
+        "id": 12186404843,
+        "image_no": 1,
+        "width": 800,
+        "height": 636,
+        "dominant_color": "#957242",
+        "dominant_color_opaque": "#DFD5C6",
+        "url": "https://images1.vinted.net/t/03_010b2_cFx9msizHP9BN8mNvL9hVr63/f800/1707500617.jpeg?s=ecbed8ba17cdcd1e1c82eb6b42067ad0b9717146",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/03_010b2_cFx9msizHP9BN8mNvL9hVr63/70x100/1707500617.jpeg?s=ccf85810c2832eed4d2de089f82b3b3c798166ad",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/03_010b2_cFx9msizHP9BN8mNvL9hVr63/150x210/1707500617.jpeg?s=b756cff14b11bdb958cd3b358ed00f22ae4c2318",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/03_010b2_cFx9msizHP9BN8mNvL9hVr63/310x430/1707500617.jpeg?s=090363dd4e99f0f802954c074a7382030b2642b1",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/03_010b2_cFx9msizHP9BN8mNvL9hVr63/f800/1707500617.jpeg?s=ecbed8ba17cdcd1e1c82eb6b42067ad0b9717146",
+            "width": 428,
+            "height": 340,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/03_010b2_cFx9msizHP9BN8mNvL9hVr63/f800/1707500617.jpeg?s=ecbed8ba17cdcd1e1c82eb6b42067ad0b9717146",
+            "width": 624,
+            "height": 496,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/03_010b2_cFx9msizHP9BN8mNvL9hVr63/f800/1707500617.jpeg?s=ecbed8ba17cdcd1e1c82eb6b42067ad0b9717146",
+            "width": 363,
+            "height": 289,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "03_010b2_cFx9msizHP9BN8mNvL9hVr63",
+          "timestamp": 1707500617,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/03_010b2_cFx9msizHP9BN8mNvL9hVr63/1707500617.jpeg?s=f0301668ccbf63a8e3a5d7076e4bc85cf9d3349c",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 21,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "10.45",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "205.45",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Neuf avec étiquette",
+        "accessibility_label": "Lego 71411 Super Mario. El poderoso Bowser, marque: LEGO, état: Neuf avec étiquette, 195,00 €, 205,45 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 1.004740715026855,
         "matched_queries": []
       }
     },
@@ -4066,7 +3901,7 @@
         "accessibility_label": "Lego De machtige Bowser 71411, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 210,00 €, 221,20 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 0.9696321487426758,
+        "score": 0.9563922882080078,
         "matched_queries": []
       }
     },
@@ -4231,7 +4066,7 @@
         "accessibility_label": "Lego Mario - 71411, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 235,00 €, 247,45 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 0.882260799407959,
+        "score": 0.8821630477905273,
         "matched_queries": []
       }
     },
@@ -4396,7 +4231,7 @@
         "accessibility_label": "Lego 71411 Super Mario Bowser Nuovo, marque: LEGO, état: Neuf avec étiquette, 203,90 €, 214,80 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 0.7167744636535645,
+        "score": 0.7166328430175781,
         "matched_queries": []
       }
     },
@@ -4561,7 +4396,7 @@
         "accessibility_label": "LEGO 71411 Super Mario - Bowser (New in box), marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 200,00 €, 210,70 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 0.6624536514282227,
+        "score": 0.6524920463562012,
         "matched_queries": []
       }
     },
@@ -4726,7 +4561,7 @@
         "accessibility_label": "Lego 71411 “the mighty Bowser”, marque: LEGO, état: Neuf avec étiquette, taille: 8 ans / 128 cm, 195,00 €, 205,45 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 0.6010088920593262,
+        "score": 0.5924439430236816,
         "matched_queries": []
       }
     },
@@ -4891,7 +4726,7 @@
         "accessibility_label": "Lego Il potente Bowser 71411 | LEGO® Super Mario sigillato, marque: LEGO, état: Neuf avec étiquette, 289,99 €, 305,19 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 0.3930482864379883,
+        "score": 0.3874287605285645,
         "matched_queries": []
       }
     },
@@ -5056,7 +4891,7 @@
         "accessibility_label": "Lego Super Mario 71411 - Potente Bowser, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 195,00 €, 205,45 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 0.3582382202148438,
+        "score": 0.3581452369689941,
         "matched_queries": []
       }
     },
@@ -5221,172 +5056,7 @@
         "accessibility_label": "LEGO 71411 Super Mario Il Potente Bowser, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 199,00 €, 209,65 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 0.322329044342041,
-        "matched_queries": []
-      }
-    },
-    {
-      "id": 5477583770,
-      "title": "Lego De machtige Bowser 71411",
-      "price": {
-        "amount": "210.0",
-        "currency_code": "EUR"
-      },
-      "is_visible": true,
-      "discount": null,
-      "brand_title": "LEGO",
-      "path": "/items/5477583770-lego-de-machtige-bowser-71411",
-      "user": {
-        "id": 230513078,
-        "login": "realkelly",
-        "profile_url": "https://www.vinted.fr/member/230513078-realkelly",
-        "photo": {
-          "id": 216500003,
-          "width": 600,
-          "height": 800,
-          "temp_uuid": null,
-          "url": "https://images1.vinted.net/t/04_00d4c_PX5TYvkn6rEo3Qc9B7C4nzZL/f800/1730579691.jpeg?s=f9cf80f677d8bea3e64d94adc4dea64eff8bfe33",
-          "dominant_color": "#31abc2",
-          "dominant_color_opaque": "#C1E6ED",
-          "thumbnails": [
-            {
-              "type": "thumb310",
-              "url": "https://images1.vinted.net/t/04_00d4c_PX5TYvkn6rEo3Qc9B7C4nzZL/310x310/1730579691.jpeg?s=2b2df4b0af8f37aca52a5f53bc1a784ade99003e",
-              "width": 310,
-              "height": 310,
-              "original_size": null
-            },
-            {
-              "type": "thumb150",
-              "url": "https://images1.vinted.net/t/04_00d4c_PX5TYvkn6rEo3Qc9B7C4nzZL/150x150/1730579691.jpeg?s=376e5227c59bd81efc5c420939cbd86437b2055d",
-              "width": 150,
-              "height": 150,
-              "original_size": null
-            },
-            {
-              "type": "thumb100",
-              "url": "https://images1.vinted.net/t/04_00d4c_PX5TYvkn6rEo3Qc9B7C4nzZL/100x100/1730579691.jpeg?s=90bc97d950cf37bf6c85953fe9c6c291e9dbe5b9",
-              "width": 100,
-              "height": 100,
-              "original_size": null
-            },
-            {
-              "type": "thumb50",
-              "url": "https://images1.vinted.net/t/04_00d4c_PX5TYvkn6rEo3Qc9B7C4nzZL/50x50/1730579691.jpeg?s=7d8d344af04975286f86375c592931c241034dc4",
-              "width": 50,
-              "height": 50,
-              "original_size": null
-            },
-            {
-              "type": "thumb20",
-              "url": "https://images1.vinted.net/t/04_00d4c_PX5TYvkn6rEo3Qc9B7C4nzZL/20x20/1730579691.jpeg?s=3a83020f9ec954cdc03a6089345dbaed23bd3af5",
-              "width": 20,
-              "height": 20,
-              "original_size": null
-            }
-          ],
-          "is_suspicious": false,
-          "orientation": null,
-          "high_resolution": {
-            "id": "04_00d4c_PX5TYvkn6rEo3Qc9B7C4nzZL",
-            "timestamp": 1730579691,
-            "orientation": null
-          },
-          "full_size_url": "https://images1.vinted.net/tc/04_00d4c_PX5TYvkn6rEo3Qc9B7C4nzZL/1730579691.jpeg?s=66f976204165032e9bd832b9d66f15ee3fe79488",
-          "is_hidden": false,
-          "extra": {}
-        },
-        "business": false
-      },
-      "conversion": null,
-      "url": "https://www.vinted.fr/items/5477583770-lego-de-machtige-bowser-71411",
-      "promoted": false,
-      "photo": {
-        "id": 22881694535,
-        "image_no": 1,
-        "width": 800,
-        "height": 600,
-        "dominant_color": "#9D725B",
-        "dominant_color_opaque": "#E2D5CE",
-        "url": "https://images1.vinted.net/t/04_00c97_XkVuxiDCsYbawoAPqVWjuY2e/f800/1736796380.jpeg?s=19b4bd7a06136782f5aca9e2625cd40e483cea21",
-        "is_main": true,
-        "thumbnails": [
-          {
-            "type": "thumb70x100",
-            "url": "https://images1.vinted.net/t/04_00c97_XkVuxiDCsYbawoAPqVWjuY2e/70x100/1736796380.jpeg?s=9739b253980fff00d972a8502919a7b5e88397d0",
-            "width": 70,
-            "height": 100,
-            "original_size": null
-          },
-          {
-            "type": "thumb150x210",
-            "url": "https://images1.vinted.net/t/04_00c97_XkVuxiDCsYbawoAPqVWjuY2e/150x210/1736796380.jpeg?s=24c1b1581432750c9ceff5041151b9726aa3edaa",
-            "width": 150,
-            "height": 210,
-            "original_size": null
-          },
-          {
-            "type": "thumb310x430",
-            "url": "https://images1.vinted.net/t/04_00c97_XkVuxiDCsYbawoAPqVWjuY2e/310x430/1736796380.jpeg?s=00c38ee53aaf69330a31fe4663330b53f01c5be4",
-            "width": 310,
-            "height": 430,
-            "original_size": null
-          },
-          {
-            "type": "thumb428x624",
-            "url": "https://images1.vinted.net/t/04_00c97_XkVuxiDCsYbawoAPqVWjuY2e/f800/1736796380.jpeg?s=19b4bd7a06136782f5aca9e2625cd40e483cea21",
-            "width": 428,
-            "height": 321,
-            "original_size": true
-          },
-          {
-            "type": "thumb624x428",
-            "url": "https://images1.vinted.net/t/04_00c97_XkVuxiDCsYbawoAPqVWjuY2e/f800/1736796380.jpeg?s=19b4bd7a06136782f5aca9e2625cd40e483cea21",
-            "width": 624,
-            "height": 468,
-            "original_size": true
-          },
-          {
-            "type": "thumb364x428",
-            "url": "https://images1.vinted.net/t/04_00c97_XkVuxiDCsYbawoAPqVWjuY2e/f800/1736796380.jpeg?s=19b4bd7a06136782f5aca9e2625cd40e483cea21",
-            "width": 364,
-            "height": 273,
-            "original_size": true
-          }
-        ],
-        "high_resolution": {
-          "id": "04_00c97_XkVuxiDCsYbawoAPqVWjuY2e",
-          "timestamp": 1736796380,
-          "orientation": null
-        },
-        "is_suspicious": false,
-        "full_size_url": "https://images1.vinted.net/tc/04_00c97_XkVuxiDCsYbawoAPqVWjuY2e/1736796380.jpeg?s=d728f8c47c9e140d8f10b50874b108ceb5bcffef",
-        "is_hidden": false,
-        "extra": {}
-      },
-      "favourite_count": 3,
-      "is_favourite": false,
-      "badge": null,
-      "service_fee": {
-        "amount": "11.2",
-        "currency_code": "EUR"
-      },
-      "total_item_price": {
-        "amount": "221.2",
-        "currency_code": "EUR"
-      },
-      "view_count": 0,
-      "size_title": "Taille unique",
-      "content_source": "search",
-      "status": "Neuf avec étiquette",
-      "icon_badges": [],
-      "item_box": {
-        "first_line": "LEGO",
-        "second_line": "Taille unique",
-        "accessibility_label": "Lego De machtige Bowser 71411, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 210,00 €, 221,20 € Protection acheteurs incluse"
-      },
-      "search_tracking_params": {
-        "score": 0.248225212097168,
+        "score": 0.3070826530456543,
         "matched_queries": []
       }
     },
@@ -5551,7 +5221,172 @@
         "accessibility_label": "LEGO 71411 - Le puissant Bowser, marque: LEGO, état: Très bon état, taille: Taille unique, 230,00 €, 242,20 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 0.1673316955566406,
+        "score": 0.1672706604003906,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5477583770,
+      "title": "Lego De machtige Bowser 71411",
+      "price": {
+        "amount": "210.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5477583770-lego-de-machtige-bowser-71411",
+      "user": {
+        "id": 230513078,
+        "login": "realkelly",
+        "profile_url": "https://www.vinted.fr/member/230513078-realkelly",
+        "photo": {
+          "id": 216500003,
+          "width": 600,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/04_00d4c_PX5TYvkn6rEo3Qc9B7C4nzZL/f800/1730579691.jpeg?s=f9cf80f677d8bea3e64d94adc4dea64eff8bfe33",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/04_00d4c_PX5TYvkn6rEo3Qc9B7C4nzZL/310x310/1730579691.jpeg?s=2b2df4b0af8f37aca52a5f53bc1a784ade99003e",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/04_00d4c_PX5TYvkn6rEo3Qc9B7C4nzZL/150x150/1730579691.jpeg?s=376e5227c59bd81efc5c420939cbd86437b2055d",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/04_00d4c_PX5TYvkn6rEo3Qc9B7C4nzZL/100x100/1730579691.jpeg?s=90bc97d950cf37bf6c85953fe9c6c291e9dbe5b9",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/04_00d4c_PX5TYvkn6rEo3Qc9B7C4nzZL/50x50/1730579691.jpeg?s=7d8d344af04975286f86375c592931c241034dc4",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/04_00d4c_PX5TYvkn6rEo3Qc9B7C4nzZL/20x20/1730579691.jpeg?s=3a83020f9ec954cdc03a6089345dbaed23bd3af5",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "04_00d4c_PX5TYvkn6rEo3Qc9B7C4nzZL",
+            "timestamp": 1730579691,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/04_00d4c_PX5TYvkn6rEo3Qc9B7C4nzZL/1730579691.jpeg?s=66f976204165032e9bd832b9d66f15ee3fe79488",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5477583770-lego-de-machtige-bowser-71411",
+      "promoted": false,
+      "photo": {
+        "id": 22881694535,
+        "image_no": 1,
+        "width": 800,
+        "height": 600,
+        "dominant_color": "#9D725B",
+        "dominant_color_opaque": "#E2D5CE",
+        "url": "https://images1.vinted.net/t/04_00c97_XkVuxiDCsYbawoAPqVWjuY2e/f800/1736796380.jpeg?s=19b4bd7a06136782f5aca9e2625cd40e483cea21",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_00c97_XkVuxiDCsYbawoAPqVWjuY2e/70x100/1736796380.jpeg?s=9739b253980fff00d972a8502919a7b5e88397d0",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_00c97_XkVuxiDCsYbawoAPqVWjuY2e/150x210/1736796380.jpeg?s=24c1b1581432750c9ceff5041151b9726aa3edaa",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_00c97_XkVuxiDCsYbawoAPqVWjuY2e/310x430/1736796380.jpeg?s=00c38ee53aaf69330a31fe4663330b53f01c5be4",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_00c97_XkVuxiDCsYbawoAPqVWjuY2e/f800/1736796380.jpeg?s=19b4bd7a06136782f5aca9e2625cd40e483cea21",
+            "width": 428,
+            "height": 321,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_00c97_XkVuxiDCsYbawoAPqVWjuY2e/f800/1736796380.jpeg?s=19b4bd7a06136782f5aca9e2625cd40e483cea21",
+            "width": 624,
+            "height": 468,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_00c97_XkVuxiDCsYbawoAPqVWjuY2e/f800/1736796380.jpeg?s=19b4bd7a06136782f5aca9e2625cd40e483cea21",
+            "width": 364,
+            "height": 273,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_00c97_XkVuxiDCsYbawoAPqVWjuY2e",
+          "timestamp": 1736796380,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_00c97_XkVuxiDCsYbawoAPqVWjuY2e/1736796380.jpeg?s=d728f8c47c9e140d8f10b50874b108ceb5bcffef",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 3,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "11.2",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "221.2",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego De machtige Bowser 71411, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 210,00 €, 221,20 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 0.2481269836425781,
         "matched_queries": []
       }
     },
@@ -5716,7 +5551,7 @@
         "accessibility_label": "Lego 71411 Super Mario Le Puissant Bowser - Neuf, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 199,99 €, 210,69 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 0.07871437072753906,
+        "score": 0.07864665985107422,
         "matched_queries": []
       }
     },
@@ -5881,7 +5716,7 @@
         "accessibility_label": "Lego super Mario 71411, marque: LEGO, état: Neuf avec étiquette, taille: M, 210,00 €, 221,20 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": -0.00005598544885287993,
+        "score": -0.0001957130443770438,
         "matched_queries": []
       }
     },
@@ -6046,7 +5881,7 @@
         "accessibility_label": "Lego 71411 The Mighty Bowser Super Mario, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 199,00 €, 209,65 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": -0.001567811938002706,
+        "score": -0.001568036037497222,
         "matched_queries": []
       }
     },
@@ -6211,7 +6046,7 @@
         "accessibility_label": "Lego Super Mario 71411, marque: LEGO, état: Neuf avec étiquette, taille: 16 ans / 176 cm, 200,00 €, 210,70 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": -0.001934008556418121,
+        "score": -0.002028069458901882,
         "matched_queries": []
       }
     },
@@ -6376,7 +6211,7 @@
         "accessibility_label": "Lego 71411 super mario, marque: LEGO, état: Très bon état, taille: 16 ans / 176 cm, 249,99 €, 263,19 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": -0.002210154430940747,
+        "score": -0.002210268983617425,
         "matched_queries": []
       }
     },
@@ -6541,7 +6376,172 @@
         "accessibility_label": "Lego The Mighty Bowser 71411, marque: LEGO, état: Très bon état, taille: Taille unique, 195,00 €, 205,45 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": -0.002305383561179042,
+        "score": -0.002305607777088881,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5575995639,
+      "title": "Lego Puissant Bowser #71411",
+      "price": {
+        "amount": "180.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5575995639-lego-puissant-bowser-71411",
+      "user": {
+        "id": 17048859,
+        "login": "nicolazio",
+        "profile_url": "https://www.vinted.fr/member/17048859-nicolazio",
+        "photo": {
+          "id": 223451949,
+          "width": 600,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/04_01ae4_JcSLSBS22B18eCudYNUupS4Y/f800/1735129346.jpeg?s=904fc98b6a96176fdace2e93ba44cbbef283e43b",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/04_01ae4_JcSLSBS22B18eCudYNUupS4Y/310x310/1735129346.jpeg?s=947f97d2cc8e02a2b79ffd3ff7fc5eabd6f3f3cb",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/04_01ae4_JcSLSBS22B18eCudYNUupS4Y/150x150/1735129346.jpeg?s=b2b50bee5ed789c73990b8facdc55676dc1dbc5c",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/04_01ae4_JcSLSBS22B18eCudYNUupS4Y/100x100/1735129346.jpeg?s=2bb762b30d2e345247f196b40843147f1c4ad1cd",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/04_01ae4_JcSLSBS22B18eCudYNUupS4Y/50x50/1735129346.jpeg?s=fdfe888a8e3105ec0e3b53c06ea9805a5efc179e",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/04_01ae4_JcSLSBS22B18eCudYNUupS4Y/20x20/1735129346.jpeg?s=298de5b3c8259f0f0ad68fa977cabb97410eecab",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "04_01ae4_JcSLSBS22B18eCudYNUupS4Y",
+            "timestamp": 1735129346,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/04_01ae4_JcSLSBS22B18eCudYNUupS4Y/1735129346.jpeg?s=3c824b66be339e3aec434bd1688820b7e9c9906a",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5575995639-lego-puissant-bowser-71411",
+      "promoted": false,
+      "photo": {
+        "id": 22584946972,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#8A733F",
+        "dominant_color_opaque": "#DCD5C5",
+        "url": "https://images1.vinted.net/t/03_00b10_Kv59dy9PzA79CBajd9iGXmhF/f800/1735506234.jpeg?s=4901f21a9d6d3f73f89356d1de042a3a26931367",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/03_00b10_Kv59dy9PzA79CBajd9iGXmhF/70x100/1735506234.jpeg?s=4a570ea68b92a00a9dc6582e99901694ae41d7b4",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/03_00b10_Kv59dy9PzA79CBajd9iGXmhF/150x210/1735506234.jpeg?s=697cc69b1e3ebdab3d9e34f763a7b60dee2661f3",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/03_00b10_Kv59dy9PzA79CBajd9iGXmhF/310x430/1735506234.jpeg?s=6ca275aa8bb45f71ceef874455d2eb4b0c1e64d4",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/03_00b10_Kv59dy9PzA79CBajd9iGXmhF/f800/1735506234.jpeg?s=4901f21a9d6d3f73f89356d1de042a3a26931367",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/03_00b10_Kv59dy9PzA79CBajd9iGXmhF/f800/1735506234.jpeg?s=4901f21a9d6d3f73f89356d1de042a3a26931367",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/03_00b10_Kv59dy9PzA79CBajd9iGXmhF/f800/1735506234.jpeg?s=4901f21a9d6d3f73f89356d1de042a3a26931367",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "03_00b10_Kv59dy9PzA79CBajd9iGXmhF",
+          "timestamp": 1735506234,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/03_00b10_Kv59dy9PzA79CBajd9iGXmhF/1735506234.jpeg?s=a0f935bf68dd00964e82f454e6d061d4f2cd9e7f",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 1,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "9.7",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "189.7",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Prématuré, jusqu'à 44cm",
+      "content_source": "search",
+      "status": "Très bon état",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Prématuré, jusqu'à 44cm",
+        "accessibility_label": "Lego Puissant Bowser #71411, marque: LEGO, état: Très bon état, taille: Prématuré, jusqu'à 44cm, 180,00 €, 189,70 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 1.195739269256592,
         "matched_queries": []
       }
     },
@@ -6706,7 +6706,7 @@
         "accessibility_label": "Lego Mario 71411 s, marque: LEGO, état: Neuf avec étiquette, taille: S, 250,00 €, 263,20 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": -0.003183865454047918,
+        "score": -0.003184132510796189,
         "matched_queries": []
       }
     },
@@ -6871,7 +6871,7 @@
         "accessibility_label": "Set lego 71411 - Il potente Bowser- Supermario, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 230,00 €, 242,20 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": -0.00570867070928216,
+        "score": -0.005708994809538126,
         "matched_queries": []
       }
     },
@@ -7036,7 +7036,7 @@
         "accessibility_label": "Lego Mario Bowser 71411, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 230,00 €, 242,20 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": -0.007307796273380518,
+        "score": -0.007308025378733873,
         "matched_queries": []
       }
     },
@@ -7201,7 +7201,7 @@
         "accessibility_label": "Lego Super Mario The Mighty Bowser 71411, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 240,00 €, 252,70 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": -0.01286301575601101,
+        "score": -0.01286313496530056,
         "matched_queries": []
       }
     },
@@ -7366,7 +7366,7 @@
         "accessibility_label": "Lego Mario , marque: LEGO, état: Neuf avec étiquette, taille: 3 ans / 98 cm, 230,00 €, 242,20 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": -0.01439160294830799,
+        "score": -0.01439186558127403,
         "matched_queries": []
       }
     },
@@ -7531,7 +7531,7 @@
         "accessibility_label": "Neuf LEGO 71411 Le puissant Bowser, marque: LEGO, état: Neuf avec étiquette, taille: 8 ans / 128 cm, 210,00 €, 221,20 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": -0.01514515839517117,
+        "score": -0.01514551136642694,
         "matched_queries": []
       }
     }
@@ -7540,7 +7540,7 @@
     "id": 89162,
     "title": "LEGO",
     "slug": "lego",
-    "favourite_count": 185159,
+    "favourite_count": 185164,
     "pretty_favourite_count": "185.2K",
     "item_count": 2321353,
     "pretty_item_count": "2.3M",
@@ -7553,16 +7553,16 @@
     "is_favourite": false
   },
   "search_tracking_params": {
-    "search_correlation_id": "b1911b51-8e20-4987-8f50-283d45acfaca",
-    "search_session_id": "56be6162-9f21-441b-9c2c-772d554190a0",
-    "global_search_session_id": "cc802fef-da98-4710-8491-772440eac96d"
+    "search_correlation_id": "0ee72294-07f9-476d-b096-bd5bb83cc242",
+    "search_session_id": "7b5eda99-57ee-40b7-b6fb-32722b534fdc",
+    "global_search_session_id": "af016418-59d9-45a7-aa9e-12b5c9f1b8ae"
   },
   "pagination": {
     "current_page": 1,
     "total_pages": 1,
     "total_entries": 47,
     "per_page": 96,
-    "time": 1741612905
+    "time": 1741614503
   },
   "code": 0
 }

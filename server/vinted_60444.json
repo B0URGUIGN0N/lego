@@ -161,7 +161,7 @@
         "accessibility_label": "Lego City 60444 Formula Uno, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 55,00 €, 58,45 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 4.527066707611084,
+        "score": 4.526133060455322,
         "matched_queries": []
       }
     },
@@ -326,7 +326,7 @@
         "accessibility_label": "Lego 60444, marque: LEGO, état: Neuf avec étiquette, taille: 7 ans / 122 cm, 71,00 €, 75,25 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 3.14575719833374,
+        "score": 3.225839376449585,
         "matched_queries": []
       }
     },
@@ -491,7 +491,7 @@
         "accessibility_label": "Lego 60444, marque: LEGO, état: Bon état, taille: Taille unique, 15,00 €, 16,45 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 3.105854749679565,
+        "score": 3.105848073959351,
         "matched_queries": []
       }
     },
@@ -656,7 +656,7 @@
         "accessibility_label": "Lego City 60444 - F1 Garage Mercedes-AMG & Alpine, marque: LEGO, état: Neuf avec étiquette, taille: 7 ans / 122 cm, 69,00 €, 73,15 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 2.333040714263916,
+        "score": 2.393970012664795,
         "matched_queries": []
       }
     }
@@ -665,7 +665,7 @@
     "id": 89162,
     "title": "LEGO",
     "slug": "lego",
-    "favourite_count": 185159,
+    "favourite_count": 185164,
     "pretty_favourite_count": "185.2K",
     "item_count": 2321353,
     "pretty_item_count": "2.3M",
@@ -678,16 +678,16 @@
     "is_favourite": false
   },
   "search_tracking_params": {
-    "search_correlation_id": "44fa3a8f-988c-480a-89f3-946ee1c99ec5",
-    "search_session_id": "936857d1-54df-4bf9-914b-3367413b4480",
-    "global_search_session_id": "8bdb0118-6d4b-4b03-be98-944eb2c37b17"
+    "search_correlation_id": "f62c0b4e-95a3-4906-8799-c4c85e98c24c",
+    "search_session_id": "8b63ef33-d1cf-462f-a3e1-d6df0eff4550",
+    "global_search_session_id": "d49ccd67-80d6-429f-b76a-e21d484b4a00"
   },
   "pagination": {
     "current_page": 1,
     "total_pages": 1,
     "total_entries": 4,
     "per_page": 96,
-    "time": 1741612904
+    "time": 1741614502
   },
   "code": 0
 }

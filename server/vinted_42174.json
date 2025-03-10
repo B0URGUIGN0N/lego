@@ -161,7 +161,7 @@
         "accessibility_label": "Lego 42174 Yacht Emirates Team New Zealand AC75, marque: LEGO, état: Neuf avec étiquette, taille: Prématuré, jusqu'à 44cm, 84,99 €, 89,94 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 5.140901565551758,
+        "score": 5.130643367767334,
         "matched_queries": []
       }
     },
@@ -271,7 +271,7 @@
         "accessibility_label": "Lego 42174, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 85,00 €, 89,95 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 4.734861373901367,
+        "score": 4.73412561416626,
         "matched_queries": []
       }
     },
@@ -436,7 +436,7 @@
         "accessibility_label": "Lego 42174 technic yacht emirates ac75, marque: LEGO, état: Très bon état, taille: Taille unique, 85,00 €, 89,95 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 4.711356639862061,
+        "score": 4.711727619171143,
         "matched_queries": []
       }
     },
@@ -601,7 +601,7 @@
         "accessibility_label": "Lego technic 42174 nuovo, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 95,00 €, 100,45 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 3.782317638397217,
+        "score": 3.782501220703125,
         "matched_queries": []
       }
     },
@@ -766,7 +766,7 @@
         "accessibility_label": "Lego technic 42174, marque: LEGO, état: Neuf sans étiquette, 85,00 €, 89,95 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 3.448374032974243,
+        "score": 3.473112106323242,
         "matched_queries": []
       }
     },
@@ -931,7 +931,7 @@
         "accessibility_label": "Lego yacht Emirates team , numéro 42174, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 90,00 €, 95,20 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 3.381380558013916,
+        "score": 3.381716966629028,
         "matched_queries": []
       }
     },
@@ -1096,7 +1096,7 @@
         "accessibility_label": "Lego 42174 America Cup team New Zeland yatch AC75, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 100,00 €, 105,70 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 3.20653223991394,
+        "score": 3.206468105316162,
         "matched_queries": []
       }
     },
@@ -1261,7 +1261,7 @@
         "accessibility_label": "Lego 42174 - Emirates Team New Zealand AC75 jacht - NIEUW, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 85,00 €, 89,95 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 3.144287109375,
+        "score": 3.124261617660522,
         "matched_queries": []
       }
     },
@@ -1426,7 +1426,7 @@
         "accessibility_label": "LEGO Technic Yacht Emirates Team New Zealand 42174, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 90,00 €, 95,20 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 2.595357894897461,
+        "score": 2.575981616973877,
         "matched_queries": []
       }
     },
@@ -1591,7 +1591,7 @@
         "accessibility_label": "Lego 42174, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 96,00 €, 101,50 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 2.468017101287842,
+        "score": 2.468355417251587,
         "matched_queries": []
       }
     },
@@ -1756,7 +1756,7 @@
         "accessibility_label": "Lego technic, marque: LEGO, état: Neuf avec étiquette, 100,00 €, 105,70 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 0.796907901763916,
+        "score": 0.7968645095825195,
         "matched_queries": []
       }
     },
@@ -1921,7 +1921,7 @@
         "accessibility_label": "Lego Technic 42174 Ac75 Team New Zealand Coppa America, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 110,00 €, 116,20 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 0.531548023223877,
+        "score": 0.5315299034118652,
         "matched_queries": []
       }
     }
@@ -1930,7 +1930,7 @@
     "id": 89162,
     "title": "LEGO",
     "slug": "lego",
-    "favourite_count": 185159,
+    "favourite_count": 185164,
     "pretty_favourite_count": "185.2K",
     "item_count": 2321353,
     "pretty_item_count": "2.3M",
@@ -1943,16 +1943,16 @@
     "is_favourite": false
   },
   "search_tracking_params": {
-    "search_correlation_id": "6022862c-8794-4b47-a142-befcf60222c1",
-    "search_session_id": "9f571963-f5f3-41d3-9c2c-c6aeaa266ba0",
-    "global_search_session_id": "5aa63903-6dfa-44b8-9ca4-00b221814c33"
+    "search_correlation_id": "db0d092c-95b0-4dce-bd4c-7e402de6d579",
+    "search_session_id": "b418466f-f478-4bf7-a760-ec2accb08464",
+    "global_search_session_id": "d42e616c-4985-4269-878b-7a91ae993d5f"
   },
   "pagination": {
     "current_page": 1,
     "total_pages": 1,
     "total_entries": 12,
     "per_page": 96,
-    "time": 1741612909
+    "time": 1741614507
   },
   "code": 0
 }

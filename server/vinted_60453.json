@@ -161,7 +161,7 @@
         "accessibility_label": "Lego city 60453 le véhicule de secours de la plage, marque: LEGO, état: Très bon état, taille: Taille unique, 18,00 €, 19,60 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 37.53772,
+        "score": 37.537,
         "matched_queries": []
       }
     }
@@ -170,7 +170,7 @@
     "id": 89162,
     "title": "LEGO",
     "slug": "lego",
-    "favourite_count": 185159,
+    "favourite_count": 185164,
     "pretty_favourite_count": "185.2K",
     "item_count": 2321353,
     "pretty_item_count": "2.3M",
@@ -183,16 +183,16 @@
     "is_favourite": false
   },
   "search_tracking_params": {
-    "search_correlation_id": "876bafc6-a945-497e-acd7-617c3cfd02da",
-    "search_session_id": "508c2078-8fa2-4a46-bf42-b2ddb198a5d5",
-    "global_search_session_id": "df598393-929f-4847-b890-37922bf0b117"
+    "search_correlation_id": "7436f334-9710-4192-a79f-ad3ed65340a9",
+    "search_session_id": "9c37f10f-e09a-4750-870f-6d40ed2cdea8",
+    "global_search_session_id": "833411c5-8d0a-4712-9fa9-1c38dd35074a"
   },
   "pagination": {
     "current_page": 1,
     "total_pages": 1,
     "total_entries": 1,
     "per_page": 96,
-    "time": 1741612903
+    "time": 1741614501
   },
   "code": 0
 }

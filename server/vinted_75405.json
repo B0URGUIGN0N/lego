@@ -161,7 +161,7 @@
         "accessibility_label": "Lego 75405 Starwars, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 45,00 €, 47,95 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 5.18720531463623,
+        "score": 5.187070846557617,
         "matched_queries": []
       }
     },
@@ -326,7 +326,7 @@
         "accessibility_label": "Lego 75405, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 50,00 €, 53,20 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 4.771947860717773,
+        "score": 4.771180152893066,
         "matched_queries": []
       }
     },
@@ -491,7 +491,7 @@
         "accessibility_label": "lego star wars MEGA bundle, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 485,00 €, 509,95 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 4.650822639465332,
+        "score": 4.651111125946045,
         "matched_queries": []
       }
     },
@@ -656,7 +656,7 @@
         "accessibility_label": "lego star wars sigillati, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 250,00 €, 263,20 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 3.805208683013916,
+        "score": 3.858592987060547,
         "matched_queries": []
       }
     },
@@ -821,117 +821,7 @@
         "accessibility_label": "Lego Star Wars 75405 neuf, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 48,00 €, 51,10 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 3.712423324584961,
-        "matched_queries": []
-      }
-    },
-    {
-      "id": 5862649352,
-      "title": "Lego star wars 75405",
-      "price": {
-        "amount": "55.0",
-        "currency_code": "EUR"
-      },
-      "is_visible": true,
-      "discount": null,
-      "brand_title": "LEGO",
-      "path": "/items/5862649352-lego-star-wars-75405",
-      "user": {
-        "id": 30945726,
-        "login": "koreas93",
-        "profile_url": "https://www.vinted.fr/member/30945726-koreas93",
-        "photo": null,
-        "business": false
-      },
-      "conversion": null,
-      "url": "https://www.vinted.fr/items/5862649352-lego-star-wars-75405",
-      "promoted": false,
-      "photo": {
-        "id": 23762700807,
-        "image_no": 1,
-        "width": 800,
-        "height": 600,
-        "dominant_color": "#304A65",
-        "dominant_color_opaque": "#C1C9D1",
-        "url": "https://images1.vinted.net/t/04_021e1_7NLyRkiYENmYBoY2xrt3xiAR/f800/1740306442.jpeg?s=d96cd9d9bc69f8c21f81b90c0c7b9643d9371c55",
-        "is_main": true,
-        "thumbnails": [
-          {
-            "type": "thumb70x100",
-            "url": "https://images1.vinted.net/t/04_021e1_7NLyRkiYENmYBoY2xrt3xiAR/70x100/1740306442.jpeg?s=4ac1fb2439548972a84414bb5cd72f51074c25f8",
-            "width": 70,
-            "height": 100,
-            "original_size": null
-          },
-          {
-            "type": "thumb150x210",
-            "url": "https://images1.vinted.net/t/04_021e1_7NLyRkiYENmYBoY2xrt3xiAR/150x210/1740306442.jpeg?s=240f2f7fb3b050f599a14311340912a93c259df6",
-            "width": 150,
-            "height": 210,
-            "original_size": null
-          },
-          {
-            "type": "thumb310x430",
-            "url": "https://images1.vinted.net/t/04_021e1_7NLyRkiYENmYBoY2xrt3xiAR/310x430/1740306442.jpeg?s=446375bcc91e6f7cb9361418d7c15848963d4463",
-            "width": 310,
-            "height": 430,
-            "original_size": null
-          },
-          {
-            "type": "thumb428x624",
-            "url": "https://images1.vinted.net/t/04_021e1_7NLyRkiYENmYBoY2xrt3xiAR/f800/1740306442.jpeg?s=d96cd9d9bc69f8c21f81b90c0c7b9643d9371c55",
-            "width": 428,
-            "height": 321,
-            "original_size": true
-          },
-          {
-            "type": "thumb624x428",
-            "url": "https://images1.vinted.net/t/04_021e1_7NLyRkiYENmYBoY2xrt3xiAR/f800/1740306442.jpeg?s=d96cd9d9bc69f8c21f81b90c0c7b9643d9371c55",
-            "width": 624,
-            "height": 468,
-            "original_size": true
-          },
-          {
-            "type": "thumb364x428",
-            "url": "https://images1.vinted.net/t/04_021e1_7NLyRkiYENmYBoY2xrt3xiAR/f800/1740306442.jpeg?s=d96cd9d9bc69f8c21f81b90c0c7b9643d9371c55",
-            "width": 364,
-            "height": 273,
-            "original_size": true
-          }
-        ],
-        "high_resolution": {
-          "id": "04_021e1_7NLyRkiYENmYBoY2xrt3xiAR",
-          "timestamp": 1740306442,
-          "orientation": null
-        },
-        "is_suspicious": false,
-        "full_size_url": "https://images1.vinted.net/tc/04_021e1_7NLyRkiYENmYBoY2xrt3xiAR/1740306442.jpeg?s=e984e24036e7636051e490b18a1f2c8d036e2cdc",
-        "is_hidden": false,
-        "extra": {}
-      },
-      "favourite_count": 4,
-      "is_favourite": false,
-      "badge": null,
-      "service_fee": {
-        "amount": "3.45",
-        "currency_code": "EUR"
-      },
-      "total_item_price": {
-        "amount": "58.45",
-        "currency_code": "EUR"
-      },
-      "view_count": 0,
-      "size_title": "Taille unique",
-      "content_source": "search",
-      "status": "Neuf sans étiquette",
-      "icon_badges": [],
-      "item_box": {
-        "first_line": "LEGO",
-        "second_line": "Taille unique",
-        "accessibility_label": "Lego star wars 75405, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 55,00 €, 58,45 € Protection acheteurs incluse"
-      },
-      "search_tracking_params": {
-        "score": 3.254871606826782,
+        "score": 3.712329387664795,
         "matched_queries": []
       }
     },
@@ -1096,7 +986,7 @@
         "accessibility_label": "Lego Star Wars Home One Starcruiser Referencia:75405, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 55,00 €, 58,45 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 3.154877662658691,
+        "score": 3.154502868652344,
         "matched_queries": []
       }
     },
@@ -1261,7 +1151,7 @@
         "accessibility_label": "Set LEGO Star Wars, marque: LEGO, état: Neuf avec étiquette, taille: M, 48,00 €, 51,10 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 3.148937463760376,
+        "score": 3.149042367935181,
         "matched_queries": []
       }
     },
@@ -1426,7 +1316,117 @@
         "accessibility_label": "Lego 75405, marque: LEGO, état: Neuf avec étiquette, taille: 8 ans / 128 cm, 49,95 €, 53,15 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 3.05770206451416,
+        "score": 3.059216499328613,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5862649352,
+      "title": "Lego star wars 75405",
+      "price": {
+        "amount": "55.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5862649352-lego-star-wars-75405",
+      "user": {
+        "id": 30945726,
+        "login": "koreas93",
+        "profile_url": "https://www.vinted.fr/member/30945726-koreas93",
+        "photo": null,
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5862649352-lego-star-wars-75405",
+      "promoted": false,
+      "photo": {
+        "id": 23762700807,
+        "image_no": 1,
+        "width": 800,
+        "height": 600,
+        "dominant_color": "#304A65",
+        "dominant_color_opaque": "#C1C9D1",
+        "url": "https://images1.vinted.net/t/04_021e1_7NLyRkiYENmYBoY2xrt3xiAR/f800/1740306442.jpeg?s=d96cd9d9bc69f8c21f81b90c0c7b9643d9371c55",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_021e1_7NLyRkiYENmYBoY2xrt3xiAR/70x100/1740306442.jpeg?s=4ac1fb2439548972a84414bb5cd72f51074c25f8",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_021e1_7NLyRkiYENmYBoY2xrt3xiAR/150x210/1740306442.jpeg?s=240f2f7fb3b050f599a14311340912a93c259df6",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_021e1_7NLyRkiYENmYBoY2xrt3xiAR/310x430/1740306442.jpeg?s=446375bcc91e6f7cb9361418d7c15848963d4463",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_021e1_7NLyRkiYENmYBoY2xrt3xiAR/f800/1740306442.jpeg?s=d96cd9d9bc69f8c21f81b90c0c7b9643d9371c55",
+            "width": 428,
+            "height": 321,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_021e1_7NLyRkiYENmYBoY2xrt3xiAR/f800/1740306442.jpeg?s=d96cd9d9bc69f8c21f81b90c0c7b9643d9371c55",
+            "width": 624,
+            "height": 468,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_021e1_7NLyRkiYENmYBoY2xrt3xiAR/f800/1740306442.jpeg?s=d96cd9d9bc69f8c21f81b90c0c7b9643d9371c55",
+            "width": 364,
+            "height": 273,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_021e1_7NLyRkiYENmYBoY2xrt3xiAR",
+          "timestamp": 1740306442,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_021e1_7NLyRkiYENmYBoY2xrt3xiAR/1740306442.jpeg?s=e984e24036e7636051e490b18a1f2c8d036e2cdc",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 4,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "3.45",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "58.45",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf sans étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego star wars 75405, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 55,00 €, 58,45 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 2.954709529876709,
         "matched_queries": []
       }
     },
@@ -1591,7 +1591,7 @@
         "accessibility_label": "Lego star wars 75405 new!, marque: LEGO, état: Très bon état, taille: Taille unique, 60,00 €, 63,70 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 2.801695823669434,
+        "score": 2.801824569702148,
         "matched_queries": []
       }
     },
@@ -1756,7 +1756,7 @@
         "accessibility_label": "75405 Lego - Home One Starcruiser, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 52,00 €, 55,30 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 2.697809934616089,
+        "score": 2.69792366027832,
         "matched_queries": []
       }
     },
@@ -1921,7 +1921,7 @@
         "accessibility_label": "Lego 75405 starcruiser, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 60,00 €, 63,70 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 2.567198514938354,
+        "score": 2.567407608032227,
         "matched_queries": []
       }
     },
@@ -2086,7 +2086,7 @@
         "accessibility_label": "Lego star wars, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 55,00 €, 58,45 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 2.509812355041504,
+        "score": 2.510462522506714,
         "matched_queries": []
       }
     },
@@ -2196,7 +2196,7 @@
         "accessibility_label": "Lego 75405 Star Wars home one star cruiser, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 53,00 €, 56,35 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 2.465257167816162,
+        "score": 2.465182065963745,
         "matched_queries": []
       }
     },
@@ -2361,7 +2361,7 @@
         "accessibility_label": "Lego 75405, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 58,00 €, 61,60 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 2.005952119827271,
+        "score": 2.006132364273071,
         "matched_queries": []
       }
     },
@@ -2526,7 +2526,7 @@
         "accessibility_label": "LEGO 75405 Star Wars  Crucero Estelar Hogar, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 50,00 €, 53,20 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 1.860235214233398,
+        "score": 1.852339744567871,
         "matched_queries": []
       }
     },
@@ -2691,7 +2691,7 @@
         "accessibility_label": "Lego 75405, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 58,00 €, 61,60 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 1.834732532501221,
+        "score": 1.834879875183105,
         "matched_queries": []
       }
     },
@@ -2856,7 +2856,7 @@
         "accessibility_label": "Starcruiser Home One, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 60,00 €, 63,70 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 1.122206687927246,
+        "score": 1.122356414794922,
         "matched_queries": []
       }
     },
@@ -3021,7 +3021,7 @@
         "accessibility_label": "Lego Star Wars Starship Collection 75405: Home One Starcruiser, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 70,00 €, 74,20 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": -0.00747025478631258,
+        "score": -0.007470769807696342,
         "matched_queries": []
       }
     }
@@ -3030,7 +3030,7 @@
     "id": 89162,
     "title": "LEGO",
     "slug": "lego",
-    "favourite_count": 185159,
+    "favourite_count": 185164,
     "pretty_favourite_count": "185.2K",
     "item_count": 2321353,
     "pretty_item_count": "2.3M",
@@ -3043,16 +3043,16 @@
     "is_favourite": false
   },
   "search_tracking_params": {
-    "search_correlation_id": "3d52e538-92ba-48f9-a9e2-cef1bb90fadd",
-    "search_session_id": "5ead97de-79fd-480e-beb3-ec0a13798de6",
-    "global_search_session_id": "7539ac85-4306-4699-a07f-fd2e8e38437a"
+    "search_correlation_id": "d4a67269-8a1c-42e2-887c-adc4e2637fd2",
+    "search_session_id": "e69ae3b2-bee4-49d2-bc11-8d5c00ff8771",
+    "global_search_session_id": "800a3120-3112-45ca-a4f3-02fd989619bc"
   },
   "pagination": {
     "current_page": 1,
     "total_pages": 1,
     "total_entries": 19,
     "per_page": 96,
-    "time": 1741612908
+    "time": 1741614506
   },
   "code": 0
 }

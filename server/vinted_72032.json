@@ -106,7 +106,7 @@
         "accessibility_label": "Lego Super Mario 72032, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 15,70 €, 17,19 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 5.495095252990723,
+        "score": 5.489315986633301,
         "matched_queries": []
       }
     },
@@ -271,7 +271,7 @@
         "accessibility_label": "Lego 72032 Mario Kart: Kart standard, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 17,00 €, 18,55 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 5.32952356338501,
+        "score": 5.321558952331543,
         "matched_queries": []
       }
     },
@@ -381,7 +381,7 @@
         "accessibility_label": "Lego Mario 72032, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 19,99 €, 21,69 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 4.638871669769287,
+        "score": 4.638715267181396,
         "matched_queries": []
       }
     },
@@ -546,7 +546,7 @@
         "accessibility_label": "Lego 72031 + 72032, marque: LEGO, état: Neuf avec étiquette, taille: 8 ans / 128 cm, 31,95 €, 34,25 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 4.408177375793457,
+        "score": 4.402096748352051,
         "matched_queries": []
       }
     },
@@ -711,7 +711,7 @@
         "accessibility_label": "Lego 72032 Mario Kart standard, marque: LEGO, état: Très bon état, taille: Taille unique, 19,99 €, 21,69 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 3.722323894500732,
+        "score": 3.722204685211182,
         "matched_queries": []
       }
     },
@@ -876,7 +876,7 @@
         "accessibility_label": "Lego super mario 72032, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 21,00 €, 22,75 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 3.565407752990723,
+        "score": 3.564305543899536,
         "matched_queries": []
       }
     },
@@ -986,7 +986,7 @@
         "accessibility_label": "Lego super Mario 72032 kart standard neuf, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 20,00 €, 21,70 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 3.37628960609436,
+        "score": 3.37657642364502,
         "matched_queries": []
       }
     },
@@ -1151,7 +1151,7 @@
         "accessibility_label": "Lego Mario Kart: Standard Kart 72032, marque: LEGO, état: Très bon état, taille: Taille unique, 24,00 €, 25,90 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 2.671754121780396,
+        "score": 2.672235012054443,
         "matched_queries": []
       }
     }
@@ -1160,7 +1160,7 @@
     "id": 89162,
     "title": "LEGO",
     "slug": "lego",
-    "favourite_count": 185159,
+    "favourite_count": 185164,
     "pretty_favourite_count": "185.2K",
     "item_count": 2321353,
     "pretty_item_count": "2.3M",
@@ -1173,16 +1173,16 @@
     "is_favourite": false
   },
   "search_tracking_params": {
-    "search_correlation_id": "a31c50e2-0b15-4f49-b72a-627801afe797",
-    "search_session_id": "020cf4df-8b77-46e4-9c49-a7388b42caf5",
-    "global_search_session_id": "41b2cd2b-fd34-41fc-b548-3608043cc5a4"
+    "search_correlation_id": "ae7523d3-903b-4396-ade7-a650b561f8ca",
+    "search_session_id": "6c14ab81-05f8-4216-a974-b93fbb3ff600",
+    "global_search_session_id": "dfb423a5-3bd3-4352-aa95-97d5e355150a"
   },
   "pagination": {
     "current_page": 1,
     "total_pages": 1,
     "total_entries": 8,
     "per_page": 96,
-    "time": 1741612903
+    "time": 1741614502
   },
   "code": 0
 }

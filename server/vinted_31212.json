@@ -106,7 +106,7 @@
         "accessibility_label": "Lego 31213, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 70,00 €, 74,20 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 5.022295475006104,
+        "score": 5.021727561950684,
         "matched_queries": []
       }
     },
@@ -271,7 +271,7 @@
         "accessibility_label": "Milky Way Lego, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 180,00 €, 189,70 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 4.654582023620605,
+        "score": 4.649988174438477,
         "matched_queries": []
       }
     },
@@ -436,7 +436,7 @@
         "accessibility_label": "Lego 31212 the milky way, marque: LEGO, état: Neuf avec étiquette, 175,00 €, 184,45 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 4.105564117431641,
+        "score": 4.106040477752686,
         "matched_queries": []
       }
     },
@@ -601,7 +601,7 @@
         "accessibility_label": "LEGO Art 31212 - La Voie Lactée 🚀 | Neuf & Scellé, marque: LEGO, état: Neuf avec étiquette, taille: 5 ans / 110 cm, 185,00 €, 194,95 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 2.707528591156006,
+        "score": 2.707132816314697,
         "matched_queries": []
       }
     }
@@ -610,7 +610,7 @@
     "id": 89162,
     "title": "LEGO",
     "slug": "lego",
-    "favourite_count": 185159,
+    "favourite_count": 185164,
     "pretty_favourite_count": "185.2K",
     "item_count": 2321353,
     "pretty_item_count": "2.3M",
@@ -623,16 +623,16 @@
     "is_favourite": false
   },
   "search_tracking_params": {
-    "search_correlation_id": "9822c2e7-17ae-4f37-82b7-aea414a919a8",
-    "search_session_id": "22100c87-5e56-4999-b787-a27bff69f02a",
-    "global_search_session_id": "5002eea7-dc0a-4f3c-b03a-c96d92530757"
+    "search_correlation_id": "042ec48b-14bc-4f8c-8bd8-0f381f129b5c",
+    "search_session_id": "48591447-367a-49ad-80e2-699864b85473",
+    "global_search_session_id": "cfc8f64f-795c-4c43-8c73-e13b851eb744"
   },
   "pagination": {
     "current_page": 1,
     "total_pages": 1,
     "total_entries": 4,
     "per_page": 96,
-    "time": 1741612901
+    "time": 1741614500
   },
   "code": 0
 }

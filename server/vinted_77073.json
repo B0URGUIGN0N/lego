@@ -161,7 +161,7 @@
         "accessibility_label": "Lego Fortnite 2024, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 45,00 €, 47,95 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 6.075289726257324,
+        "score": 6.099756717681885,
         "matched_queries": []
       }
     },
@@ -326,7 +326,7 @@
         "accessibility_label": "Lego Bus fortnite 77073, marque: LEGO, état: Neuf sans étiquette, taille: 10 ans / 140 cm, 65,00 €, 68,95 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 5.45305061340332,
+        "score": 5.45332145690918,
         "matched_queries": []
       }
     },
@@ -491,7 +491,7 @@
         "accessibility_label": "Figurine Lego Raven Fortnite fort009, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 8,00 €, 9,10 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 5.109584808349609,
+        "score": 5.10789155960083,
         "matched_queries": []
       }
     },
@@ -656,7 +656,7 @@
         "accessibility_label": "Lego 77073 Sin Minifiguras, marque: LEGO, état: Neuf avec étiquette, taille: 9 ans / 134 cm, 43,95 €, 46,85 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 5.039819717407227,
+        "score": 5.031167030334473,
         "matched_queries": []
       }
     },
@@ -821,7 +821,7 @@
         "accessibility_label": "Lego Fortnite 77073, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 79,00 €, 83,65 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 4.932863235473633,
+        "score": 4.934288024902344,
         "matched_queries": []
       }
     },
@@ -986,172 +986,7 @@
         "accessibility_label": "Lego fortnite bus 77073 no minifigs, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 50,00 €, 53,20 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 4.929944038391113,
-        "matched_queries": []
-      }
-    },
-    {
-      "id": 5938093111,
-      "title": "LEGO N.9 Minifigures Fortnite Dal Set 77073 Battle Bus",
-      "price": {
-        "amount": "59.0",
-        "currency_code": "EUR"
-      },
-      "is_visible": true,
-      "discount": null,
-      "brand_title": "LEGO",
-      "path": "/items/5938093111-lego-n9-minifigures-fortnite-dal-set-77073-battle-bus",
-      "user": {
-        "id": 133723898,
-        "login": "brickscollector",
-        "profile_url": "https://www.vinted.fr/member/133723898-brickscollector",
-        "photo": {
-          "id": 130521628,
-          "width": 800,
-          "height": 772,
-          "temp_uuid": null,
-          "url": "https://images1.vinted.net/t/02_01249_inrxHD3FjXFmez7e4zyLgdD2/f800/1677405876.jpeg?s=23702aba98176492c7d91aa1932cd4d75a55c2f9",
-          "dominant_color": "#31abc2",
-          "dominant_color_opaque": "#C1E6ED",
-          "thumbnails": [
-            {
-              "type": "thumb310",
-              "url": "https://images1.vinted.net/t/02_01249_inrxHD3FjXFmez7e4zyLgdD2/310x310/1677405876.jpeg?s=39e748333d6af6432fa3d3103fa9f94cfeb8916b",
-              "width": 310,
-              "height": 310,
-              "original_size": null
-            },
-            {
-              "type": "thumb150",
-              "url": "https://images1.vinted.net/t/02_01249_inrxHD3FjXFmez7e4zyLgdD2/150x150/1677405876.jpeg?s=e3483f86d1b81eafd3e3a9c5bebc0aad658f09b0",
-              "width": 150,
-              "height": 150,
-              "original_size": null
-            },
-            {
-              "type": "thumb100",
-              "url": "https://images1.vinted.net/t/02_01249_inrxHD3FjXFmez7e4zyLgdD2/100x100/1677405876.jpeg?s=822c6782147bb56fa8943355e5937492bcb441d6",
-              "width": 100,
-              "height": 100,
-              "original_size": null
-            },
-            {
-              "type": "thumb50",
-              "url": "https://images1.vinted.net/t/02_01249_inrxHD3FjXFmez7e4zyLgdD2/50x50/1677405876.jpeg?s=7d5e24407e87a7b8b445bbcf4dc85721052e6986",
-              "width": 50,
-              "height": 50,
-              "original_size": null
-            },
-            {
-              "type": "thumb20",
-              "url": "https://images1.vinted.net/t/02_01249_inrxHD3FjXFmez7e4zyLgdD2/20x20/1677405876.jpeg?s=9582f3ba5b00a085bf02489990919e27de0345fd",
-              "width": 20,
-              "height": 20,
-              "original_size": null
-            }
-          ],
-          "is_suspicious": false,
-          "orientation": null,
-          "high_resolution": {
-            "id": "02_01249_inrxHD3FjXFmez7e4zyLgdD2",
-            "timestamp": 1677405876,
-            "orientation": null
-          },
-          "full_size_url": "https://images1.vinted.net/tc/02_01249_inrxHD3FjXFmez7e4zyLgdD2/1677405876.jpeg?s=495f93c4034a464720934e591afa39c7aa397c8f",
-          "is_hidden": false,
-          "extra": {}
-        },
-        "business": false
-      },
-      "conversion": null,
-      "url": "https://www.vinted.fr/items/5938093111-lego-n9-minifigures-fortnite-dal-set-77073-battle-bus",
-      "promoted": false,
-      "photo": {
-        "id": 24087834851,
-        "image_no": 1,
-        "width": 651,
-        "height": 800,
-        "dominant_color": "#877E83",
-        "dominant_color_opaque": "#DBD8DA",
-        "url": "https://images1.vinted.net/t/04_00da9_djAWh77ZWqQSaePRw9A8LFu3/f800/1741538114.jpeg?s=5df4b9e3c4ad2906c99792fdfca69ed9d6f398a4",
-        "is_main": true,
-        "thumbnails": [
-          {
-            "type": "thumb70x100",
-            "url": "https://images1.vinted.net/t/04_00da9_djAWh77ZWqQSaePRw9A8LFu3/70x100/1741538114.jpeg?s=25dcfc033157f0dcc9227bc576e9632dc7757765",
-            "width": 70,
-            "height": 100,
-            "original_size": null
-          },
-          {
-            "type": "thumb150x210",
-            "url": "https://images1.vinted.net/t/04_00da9_djAWh77ZWqQSaePRw9A8LFu3/150x210/1741538114.jpeg?s=0084ce65957d4f9eab3f5c26230890754fac6144",
-            "width": 150,
-            "height": 210,
-            "original_size": null
-          },
-          {
-            "type": "thumb310x430",
-            "url": "https://images1.vinted.net/t/04_00da9_djAWh77ZWqQSaePRw9A8LFu3/310x430/1741538114.jpeg?s=97fcf705375dd964a1e9e76a1c8bb41f44df251c",
-            "width": 310,
-            "height": 430,
-            "original_size": null
-          },
-          {
-            "type": "thumb428x624",
-            "url": "https://images1.vinted.net/t/04_00da9_djAWh77ZWqQSaePRw9A8LFu3/f800/1741538114.jpeg?s=5df4b9e3c4ad2906c99792fdfca69ed9d6f398a4",
-            "width": 348,
-            "height": 428,
-            "original_size": true
-          },
-          {
-            "type": "thumb624x428",
-            "url": "https://images1.vinted.net/t/04_00da9_djAWh77ZWqQSaePRw9A8LFu3/f800/1741538114.jpeg?s=5df4b9e3c4ad2906c99792fdfca69ed9d6f398a4",
-            "width": 507,
-            "height": 624,
-            "original_size": true
-          },
-          {
-            "type": "thumb364x428",
-            "url": "https://images1.vinted.net/t/04_00da9_djAWh77ZWqQSaePRw9A8LFu3/f800/1741538114.jpeg?s=5df4b9e3c4ad2906c99792fdfca69ed9d6f398a4",
-            "width": 296,
-            "height": 364,
-            "original_size": true
-          }
-        ],
-        "high_resolution": {
-          "id": "04_00da9_djAWh77ZWqQSaePRw9A8LFu3",
-          "timestamp": 1741538114,
-          "orientation": null
-        },
-        "is_suspicious": false,
-        "full_size_url": "https://images1.vinted.net/tc/04_00da9_djAWh77ZWqQSaePRw9A8LFu3/1741538114.jpeg?s=ae0741ec2f73168101c5493c3f50c09b1212542a",
-        "is_hidden": false,
-        "extra": {}
-      },
-      "favourite_count": 8,
-      "is_favourite": false,
-      "badge": null,
-      "service_fee": {
-        "amount": "3.65",
-        "currency_code": "EUR"
-      },
-      "total_item_price": {
-        "amount": "62.65",
-        "currency_code": "EUR"
-      },
-      "view_count": 0,
-      "size_title": "Taille unique",
-      "content_source": "search",
-      "status": "Très bon état",
-      "icon_badges": [],
-      "item_box": {
-        "first_line": "LEGO",
-        "second_line": "Taille unique",
-        "accessibility_label": "LEGO N.9 Minifigures Fortnite Dal Set 77073 Battle Bus, marque: LEGO, état: Très bon état, taille: Taille unique, 59,00 €, 62,65 € Protection acheteurs incluse"
-      },
-      "search_tracking_params": {
-        "score": 4.909968852996826,
+        "score": 4.930685997009277,
         "matched_queries": []
       }
     },
@@ -1316,7 +1151,172 @@
         "accessibility_label": "Figurine Lego Cube Assassin fornite fort006, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 7,50 €, 8,58 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 4.890750408172607,
+        "score": 4.890699863433838,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5938093111,
+      "title": "LEGO N.9 Minifigures Fortnite Dal Set 77073 Battle Bus",
+      "price": {
+        "amount": "59.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5938093111-lego-n9-minifigures-fortnite-dal-set-77073-battle-bus",
+      "user": {
+        "id": 133723898,
+        "login": "brickscollector",
+        "profile_url": "https://www.vinted.fr/member/133723898-brickscollector",
+        "photo": {
+          "id": 130521628,
+          "width": 800,
+          "height": 772,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_01249_inrxHD3FjXFmez7e4zyLgdD2/f800/1677405876.jpeg?s=23702aba98176492c7d91aa1932cd4d75a55c2f9",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_01249_inrxHD3FjXFmez7e4zyLgdD2/310x310/1677405876.jpeg?s=39e748333d6af6432fa3d3103fa9f94cfeb8916b",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_01249_inrxHD3FjXFmez7e4zyLgdD2/150x150/1677405876.jpeg?s=e3483f86d1b81eafd3e3a9c5bebc0aad658f09b0",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_01249_inrxHD3FjXFmez7e4zyLgdD2/100x100/1677405876.jpeg?s=822c6782147bb56fa8943355e5937492bcb441d6",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_01249_inrxHD3FjXFmez7e4zyLgdD2/50x50/1677405876.jpeg?s=7d5e24407e87a7b8b445bbcf4dc85721052e6986",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_01249_inrxHD3FjXFmez7e4zyLgdD2/20x20/1677405876.jpeg?s=9582f3ba5b00a085bf02489990919e27de0345fd",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_01249_inrxHD3FjXFmez7e4zyLgdD2",
+            "timestamp": 1677405876,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_01249_inrxHD3FjXFmez7e4zyLgdD2/1677405876.jpeg?s=495f93c4034a464720934e591afa39c7aa397c8f",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5938093111-lego-n9-minifigures-fortnite-dal-set-77073-battle-bus",
+      "promoted": false,
+      "photo": {
+        "id": 24087834851,
+        "image_no": 1,
+        "width": 651,
+        "height": 800,
+        "dominant_color": "#877E83",
+        "dominant_color_opaque": "#DBD8DA",
+        "url": "https://images1.vinted.net/t/04_00da9_djAWh77ZWqQSaePRw9A8LFu3/f800/1741538114.jpeg?s=5df4b9e3c4ad2906c99792fdfca69ed9d6f398a4",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_00da9_djAWh77ZWqQSaePRw9A8LFu3/70x100/1741538114.jpeg?s=25dcfc033157f0dcc9227bc576e9632dc7757765",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_00da9_djAWh77ZWqQSaePRw9A8LFu3/150x210/1741538114.jpeg?s=0084ce65957d4f9eab3f5c26230890754fac6144",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_00da9_djAWh77ZWqQSaePRw9A8LFu3/310x430/1741538114.jpeg?s=97fcf705375dd964a1e9e76a1c8bb41f44df251c",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_00da9_djAWh77ZWqQSaePRw9A8LFu3/f800/1741538114.jpeg?s=5df4b9e3c4ad2906c99792fdfca69ed9d6f398a4",
+            "width": 348,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_00da9_djAWh77ZWqQSaePRw9A8LFu3/f800/1741538114.jpeg?s=5df4b9e3c4ad2906c99792fdfca69ed9d6f398a4",
+            "width": 507,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_00da9_djAWh77ZWqQSaePRw9A8LFu3/f800/1741538114.jpeg?s=5df4b9e3c4ad2906c99792fdfca69ed9d6f398a4",
+            "width": 296,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_00da9_djAWh77ZWqQSaePRw9A8LFu3",
+          "timestamp": 1741538114,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_00da9_djAWh77ZWqQSaePRw9A8LFu3/1741538114.jpeg?s=ae0741ec2f73168101c5493c3f50c09b1212542a",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 8,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "3.65",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "62.65",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Très bon état",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "LEGO N.9 Minifigures Fortnite Dal Set 77073 Battle Bus, marque: LEGO, état: Très bon état, taille: Taille unique, 59,00 €, 62,65 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 4.855241775512695,
         "matched_queries": []
       }
     },
@@ -1481,7 +1481,7 @@
         "accessibility_label": "Figurine Lego Battalion Brawler Fortnite fort001, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 6,00 €, 7,00 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 4.804609775543213,
+        "score": 4.804443359375,
         "matched_queries": []
       }
     },
@@ -1646,7 +1646,7 @@
         "accessibility_label": "Expositor Lego 77073 Autobus de batalla Fortnite, marque: LEGO, état: Neuf avec étiquette, taille: 10 ans / 140 cm, 32,00 €, 34,30 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 4.773059844970703,
+        "score": 4.768547058105469,
         "matched_queries": []
       }
     },
@@ -1811,7 +1811,7 @@
         "accessibility_label": "Lego 77073 Fortnite Battle Bus NO figures, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 55,00 €, 58,45 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 4.668239593505859,
+        "score": 4.665706157684326,
         "matched_queries": []
       }
     },
@@ -1976,7 +1976,7 @@
         "accessibility_label": "Lego Battle Bus Fortnite 77073 (sans personnages), marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 48,00 €, 51,10 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 4.612612724304199,
+        "score": 4.614084243774414,
         "matched_queries": []
       }
     },
@@ -2141,7 +2141,7 @@
         "accessibility_label": "Lego 77073, marque: LEGO, état: Neuf avec étiquette, taille: 10 ans / 140 cm, 77,95 €, 82,55 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 4.557042598724365,
+        "score": 4.552235126495361,
         "matched_queries": []
       }
     },
@@ -2306,7 +2306,7 @@
         "accessibility_label": "Figurine Lego Trespasser Elite Fortnite fort005, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 9,99 €, 11,19 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 4.544797420501709,
+        "score": 4.544733047485352,
         "matched_queries": []
       }
     },
@@ -2471,172 +2471,7 @@
         "accessibility_label": "Figurine Lego Brite Bomber fornite fort003, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 6,00 €, 7,00 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 4.404294013977051,
-        "matched_queries": []
-      }
-    },
-    {
-      "id": 5943357491,
-      "title": "Lego 77073 fortnite battle bus",
-      "price": {
-        "amount": "75.0",
-        "currency_code": "EUR"
-      },
-      "is_visible": true,
-      "discount": null,
-      "brand_title": "LEGO",
-      "path": "/items/5943357491-lego-77073-fortnite-battle-bus",
-      "user": {
-        "id": 100173754,
-        "login": "joelschildnl",
-        "profile_url": "https://www.vinted.fr/member/100173754-joelschildnl",
-        "photo": {
-          "id": 98864546,
-          "width": 96,
-          "height": 96,
-          "temp_uuid": null,
-          "url": "https://images1.vinted.net/t/02_002d0_XmgFTtwrHXAEroVUbhTnCzoz/f800/1657548365.jpeg?s=81dca8460fffb6231c34485c8a9dcfa55730acb6",
-          "dominant_color": "#31abc2",
-          "dominant_color_opaque": "#C1E6ED",
-          "thumbnails": [
-            {
-              "type": "thumb310",
-              "url": "https://images1.vinted.net/t/02_002d0_XmgFTtwrHXAEroVUbhTnCzoz/310x310/1657548365.jpeg?s=7df195bd1e29421884f982f81712ceead5e8ed3b",
-              "width": 310,
-              "height": 310,
-              "original_size": null
-            },
-            {
-              "type": "thumb150",
-              "url": "https://images1.vinted.net/t/02_002d0_XmgFTtwrHXAEroVUbhTnCzoz/150x150/1657548365.jpeg?s=bfecfecdd41e7caa2bc5ec22d64cdf55362bae5e",
-              "width": 150,
-              "height": 150,
-              "original_size": null
-            },
-            {
-              "type": "thumb100",
-              "url": "https://images1.vinted.net/t/02_002d0_XmgFTtwrHXAEroVUbhTnCzoz/100x100/1657548365.jpeg?s=2415a2becf6d413497517908ec5a3df4e0eef060",
-              "width": 100,
-              "height": 100,
-              "original_size": null
-            },
-            {
-              "type": "thumb50",
-              "url": "https://images1.vinted.net/t/02_002d0_XmgFTtwrHXAEroVUbhTnCzoz/50x50/1657548365.jpeg?s=00e146e6db269e3b1965bdcffe540be56d0eb69e",
-              "width": 50,
-              "height": 50,
-              "original_size": null
-            },
-            {
-              "type": "thumb20",
-              "url": "https://images1.vinted.net/t/02_002d0_XmgFTtwrHXAEroVUbhTnCzoz/20x20/1657548365.jpeg?s=b6fb1ed602f9f8d53381d5fde3ce130fb6765b3b",
-              "width": 20,
-              "height": 20,
-              "original_size": null
-            }
-          ],
-          "is_suspicious": false,
-          "orientation": null,
-          "high_resolution": {
-            "id": "02_002d0_XmgFTtwrHXAEroVUbhTnCzoz",
-            "timestamp": 1657548365,
-            "orientation": null
-          },
-          "full_size_url": "https://images1.vinted.net/tc/02_002d0_XmgFTtwrHXAEroVUbhTnCzoz/1657548365.jpeg?s=4a0991b3321be36b8a410b7fc31d37c28bfde17d",
-          "is_hidden": false,
-          "extra": {}
-        },
-        "business": false
-      },
-      "conversion": null,
-      "url": "https://www.vinted.fr/items/5943357491-lego-77073-fortnite-battle-bus",
-      "promoted": false,
-      "photo": {
-        "id": 24098851997,
-        "image_no": 1,
-        "width": 800,
-        "height": 600,
-        "dominant_color": "#55687A",
-        "dominant_color_opaque": "#CCD2D7",
-        "url": "https://images1.vinted.net/t/04_022e8_hFF3qx6LdBXKueoMmZhXL1jp/f800/1741593775.jpeg?s=e8af5e48c155b1ef6a004657a206d9de38ffcc30",
-        "is_main": true,
-        "thumbnails": [
-          {
-            "type": "thumb70x100",
-            "url": "https://images1.vinted.net/t/04_022e8_hFF3qx6LdBXKueoMmZhXL1jp/70x100/1741593775.jpeg?s=9f0e5e180d3fd5461869e06761cd1f368840d242",
-            "width": 70,
-            "height": 100,
-            "original_size": null
-          },
-          {
-            "type": "thumb150x210",
-            "url": "https://images1.vinted.net/t/04_022e8_hFF3qx6LdBXKueoMmZhXL1jp/150x210/1741593775.jpeg?s=dec18c95abc616a7ff492c107e3a184966a6dec3",
-            "width": 150,
-            "height": 210,
-            "original_size": null
-          },
-          {
-            "type": "thumb310x430",
-            "url": "https://images1.vinted.net/t/04_022e8_hFF3qx6LdBXKueoMmZhXL1jp/310x430/1741593775.jpeg?s=af37f8c9198339d2a00231e896253128e55eb853",
-            "width": 310,
-            "height": 430,
-            "original_size": null
-          },
-          {
-            "type": "thumb428x624",
-            "url": "https://images1.vinted.net/t/04_022e8_hFF3qx6LdBXKueoMmZhXL1jp/f800/1741593775.jpeg?s=e8af5e48c155b1ef6a004657a206d9de38ffcc30",
-            "width": 428,
-            "height": 321,
-            "original_size": true
-          },
-          {
-            "type": "thumb624x428",
-            "url": "https://images1.vinted.net/t/04_022e8_hFF3qx6LdBXKueoMmZhXL1jp/f800/1741593775.jpeg?s=e8af5e48c155b1ef6a004657a206d9de38ffcc30",
-            "width": 624,
-            "height": 468,
-            "original_size": true
-          },
-          {
-            "type": "thumb364x428",
-            "url": "https://images1.vinted.net/t/04_022e8_hFF3qx6LdBXKueoMmZhXL1jp/f800/1741593775.jpeg?s=e8af5e48c155b1ef6a004657a206d9de38ffcc30",
-            "width": 364,
-            "height": 273,
-            "original_size": true
-          }
-        ],
-        "high_resolution": {
-          "id": "04_022e8_hFF3qx6LdBXKueoMmZhXL1jp",
-          "timestamp": 1741593775,
-          "orientation": null
-        },
-        "is_suspicious": false,
-        "full_size_url": "https://images1.vinted.net/tc/04_022e8_hFF3qx6LdBXKueoMmZhXL1jp/1741593775.jpeg?s=0750d9bff4cebeb4638f87c45b40201db2237255",
-        "is_hidden": false,
-        "extra": {}
-      },
-      "favourite_count": 7,
-      "is_favourite": false,
-      "badge": null,
-      "service_fee": {
-        "amount": "4.45",
-        "currency_code": "EUR"
-      },
-      "total_item_price": {
-        "amount": "79.45",
-        "currency_code": "EUR"
-      },
-      "view_count": 0,
-      "size_title": "10 ans / 140 cm",
-      "content_source": "search",
-      "status": "Bon état",
-      "icon_badges": [],
-      "item_box": {
-        "first_line": "LEGO",
-        "second_line": "10 ans / 140 cm",
-        "accessibility_label": "Lego 77073 fortnite battle bus, marque: LEGO, état: Bon état, taille: 10 ans / 140 cm, 75,00 €, 79,45 € Protection acheteurs incluse"
-      },
-      "search_tracking_params": {
-        "score": 4.289764881134033,
+        "score": 4.401196479797363,
         "matched_queries": []
       }
     },
@@ -2801,7 +2636,172 @@
         "accessibility_label": "LEGO fort001 Battalion Brawler Minifigure from 77073, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 6,00 €, 7,00 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 4.260857582092285,
+        "score": 4.260813236236572,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5943357491,
+      "title": "Lego 77073 fortnite battle bus",
+      "price": {
+        "amount": "75.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5943357491-lego-77073-fortnite-battle-bus",
+      "user": {
+        "id": 100173754,
+        "login": "joelschildnl",
+        "profile_url": "https://www.vinted.fr/member/100173754-joelschildnl",
+        "photo": {
+          "id": 98864546,
+          "width": 96,
+          "height": 96,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_002d0_XmgFTtwrHXAEroVUbhTnCzoz/f800/1657548365.jpeg?s=81dca8460fffb6231c34485c8a9dcfa55730acb6",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_002d0_XmgFTtwrHXAEroVUbhTnCzoz/310x310/1657548365.jpeg?s=7df195bd1e29421884f982f81712ceead5e8ed3b",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_002d0_XmgFTtwrHXAEroVUbhTnCzoz/150x150/1657548365.jpeg?s=bfecfecdd41e7caa2bc5ec22d64cdf55362bae5e",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_002d0_XmgFTtwrHXAEroVUbhTnCzoz/100x100/1657548365.jpeg?s=2415a2becf6d413497517908ec5a3df4e0eef060",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_002d0_XmgFTtwrHXAEroVUbhTnCzoz/50x50/1657548365.jpeg?s=00e146e6db269e3b1965bdcffe540be56d0eb69e",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_002d0_XmgFTtwrHXAEroVUbhTnCzoz/20x20/1657548365.jpeg?s=b6fb1ed602f9f8d53381d5fde3ce130fb6765b3b",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_002d0_XmgFTtwrHXAEroVUbhTnCzoz",
+            "timestamp": 1657548365,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_002d0_XmgFTtwrHXAEroVUbhTnCzoz/1657548365.jpeg?s=4a0991b3321be36b8a410b7fc31d37c28bfde17d",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5943357491-lego-77073-fortnite-battle-bus",
+      "promoted": false,
+      "photo": {
+        "id": 24098851997,
+        "image_no": 1,
+        "width": 800,
+        "height": 600,
+        "dominant_color": "#55687A",
+        "dominant_color_opaque": "#CCD2D7",
+        "url": "https://images1.vinted.net/t/04_022e8_hFF3qx6LdBXKueoMmZhXL1jp/f800/1741593775.jpeg?s=e8af5e48c155b1ef6a004657a206d9de38ffcc30",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_022e8_hFF3qx6LdBXKueoMmZhXL1jp/70x100/1741593775.jpeg?s=9f0e5e180d3fd5461869e06761cd1f368840d242",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_022e8_hFF3qx6LdBXKueoMmZhXL1jp/150x210/1741593775.jpeg?s=dec18c95abc616a7ff492c107e3a184966a6dec3",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_022e8_hFF3qx6LdBXKueoMmZhXL1jp/310x430/1741593775.jpeg?s=af37f8c9198339d2a00231e896253128e55eb853",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_022e8_hFF3qx6LdBXKueoMmZhXL1jp/f800/1741593775.jpeg?s=e8af5e48c155b1ef6a004657a206d9de38ffcc30",
+            "width": 428,
+            "height": 321,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_022e8_hFF3qx6LdBXKueoMmZhXL1jp/f800/1741593775.jpeg?s=e8af5e48c155b1ef6a004657a206d9de38ffcc30",
+            "width": 624,
+            "height": 468,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_022e8_hFF3qx6LdBXKueoMmZhXL1jp/f800/1741593775.jpeg?s=e8af5e48c155b1ef6a004657a206d9de38ffcc30",
+            "width": 364,
+            "height": 273,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_022e8_hFF3qx6LdBXKueoMmZhXL1jp",
+          "timestamp": 1741593775,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_022e8_hFF3qx6LdBXKueoMmZhXL1jp/1741593775.jpeg?s=0750d9bff4cebeb4638f87c45b40201db2237255",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 7,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "4.45",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "79.45",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "10 ans / 140 cm",
+      "content_source": "search",
+      "status": "Bon état",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "10 ans / 140 cm",
+        "accessibility_label": "Lego 77073 fortnite battle bus, marque: LEGO, état: Bon état, taille: 10 ans / 140 cm, 75,00 €, 79,45 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 4.180952548980713,
         "matched_queries": []
       }
     },
@@ -2966,7 +2966,7 @@
         "accessibility_label": "LEGO | Fornite Battle Bus 77073, marque: LEGO, état: Neuf sans étiquette, taille: 10 ans / 140 cm, 85,00 €, 89,95 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 4.094728469848633,
+        "score": 4.094604969024658,
         "matched_queries": []
       }
     },
@@ -3131,7 +3131,7 @@
         "accessibility_label": "Neuf sans carton - Peely Bone, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 69,90 €, 74,10 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 3.915393114089966,
+        "score": 3.906184434890747,
         "matched_queries": []
       }
     },
@@ -3296,7 +3296,7 @@
         "accessibility_label": "Cornice per set lego fornite 77073, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 25,00 €, 26,95 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 3.856493473052979,
+        "score": 3.846667289733887,
         "matched_queries": []
       }
     },
@@ -3406,7 +3406,7 @@
         "accessibility_label": "Figurine lego fortnite fort005, marque: LEGO, état: Neuf sans étiquette, taille: Prématuré, jusqu'à 44cm, 15,00 €, 16,45 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 3.825707912445068,
+        "score": 3.822683334350586,
         "matched_queries": []
       }
     },
@@ -3571,172 +3571,7 @@
         "accessibility_label": "Lego 77073 fortnite new!, marque: LEGO, état: Très bon état, taille: Taille unique, 80,00 €, 84,70 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 3.824923038482666,
-        "matched_queries": []
-      }
-    },
-    {
-      "id": 5625135163,
-      "title": "LEGO fort004 Cuddle Team Leader Minifigure from 77073",
-      "price": {
-        "amount": "20.0",
-        "currency_code": "EUR"
-      },
-      "is_visible": true,
-      "discount": null,
-      "brand_title": "LEGO",
-      "path": "/items/5625135163-lego-fort004-cuddle-team-leader-minifigure-from-77073",
-      "user": {
-        "id": 184568813,
-        "login": "luismaduarte",
-        "profile_url": "https://www.vinted.fr/member/184568813-luismaduarte",
-        "photo": {
-          "id": 177915163,
-          "width": 600,
-          "height": 800,
-          "temp_uuid": null,
-          "url": "https://images1.vinted.net/t/03_00556_aT2aCiB9GC8aQhnj1Ehn4Tya/f800/1706210617.jpeg?s=aa706d4504b289aefb0a7a8b291676c0b9a05191",
-          "dominant_color": "#31abc2",
-          "dominant_color_opaque": "#C1E6ED",
-          "thumbnails": [
-            {
-              "type": "thumb310",
-              "url": "https://images1.vinted.net/t/03_00556_aT2aCiB9GC8aQhnj1Ehn4Tya/310x310/1706210617.jpeg?s=b468ccfd63aa919ab79b794ff5844e8523519fbd",
-              "width": 310,
-              "height": 310,
-              "original_size": null
-            },
-            {
-              "type": "thumb150",
-              "url": "https://images1.vinted.net/t/03_00556_aT2aCiB9GC8aQhnj1Ehn4Tya/150x150/1706210617.jpeg?s=6adf0986161314c83cbaa6f688318439a682d984",
-              "width": 150,
-              "height": 150,
-              "original_size": null
-            },
-            {
-              "type": "thumb100",
-              "url": "https://images1.vinted.net/t/03_00556_aT2aCiB9GC8aQhnj1Ehn4Tya/100x100/1706210617.jpeg?s=9caeaa3e51567fc589984a5befd69170ed2d86fe",
-              "width": 100,
-              "height": 100,
-              "original_size": null
-            },
-            {
-              "type": "thumb50",
-              "url": "https://images1.vinted.net/t/03_00556_aT2aCiB9GC8aQhnj1Ehn4Tya/50x50/1706210617.jpeg?s=3f03890ac3d79acbe2359d314202772386d31ef2",
-              "width": 50,
-              "height": 50,
-              "original_size": null
-            },
-            {
-              "type": "thumb20",
-              "url": "https://images1.vinted.net/t/03_00556_aT2aCiB9GC8aQhnj1Ehn4Tya/20x20/1706210617.jpeg?s=db8527be6ef3423aa3844d323d1edf106ada2bf9",
-              "width": 20,
-              "height": 20,
-              "original_size": null
-            }
-          ],
-          "is_suspicious": false,
-          "orientation": null,
-          "high_resolution": {
-            "id": "03_00556_aT2aCiB9GC8aQhnj1Ehn4Tya",
-            "timestamp": 1706210617,
-            "orientation": null
-          },
-          "full_size_url": "https://images1.vinted.net/tc/03_00556_aT2aCiB9GC8aQhnj1Ehn4Tya/1706210617.jpeg?s=1c4f50435251f25fdc249c0eb233e7456c8d3f7b",
-          "is_hidden": false,
-          "extra": {}
-        },
-        "business": false
-      },
-      "conversion": null,
-      "url": "https://www.vinted.fr/items/5625135163-lego-fort004-cuddle-team-leader-minifigure-from-77073",
-      "promoted": false,
-      "photo": {
-        "id": 22782224724,
-        "image_no": 1,
-        "width": 800,
-        "height": 800,
-        "dominant_color": "#405E71",
-        "dominant_color_opaque": "#C6CFD4",
-        "url": "https://images1.vinted.net/t/04_01be8_A2nKCdyRN1Hmpt8XgCx79o5w/f800/1736426130.jpeg?s=891e58a9e1ddd7ca155962f3bab4de41736a2785",
-        "is_main": true,
-        "thumbnails": [
-          {
-            "type": "thumb70x100",
-            "url": "https://images1.vinted.net/t/04_01be8_A2nKCdyRN1Hmpt8XgCx79o5w/70x100/1736426130.jpeg?s=d4a1a6ef79705ee56eb20b3dc26bc94c3a5fb961",
-            "width": 70,
-            "height": 100,
-            "original_size": null
-          },
-          {
-            "type": "thumb150x210",
-            "url": "https://images1.vinted.net/t/04_01be8_A2nKCdyRN1Hmpt8XgCx79o5w/150x210/1736426130.jpeg?s=78cd0d7f5809ac3901e584d16f15c182d5603633",
-            "width": 150,
-            "height": 210,
-            "original_size": null
-          },
-          {
-            "type": "thumb310x430",
-            "url": "https://images1.vinted.net/t/04_01be8_A2nKCdyRN1Hmpt8XgCx79o5w/310x430/1736426130.jpeg?s=8182ba91cf22a8ad47880e529d29595cb8e49977",
-            "width": 310,
-            "height": 430,
-            "original_size": null
-          },
-          {
-            "type": "thumb428x624",
-            "url": "https://images1.vinted.net/t/04_01be8_A2nKCdyRN1Hmpt8XgCx79o5w/f800/1736426130.jpeg?s=891e58a9e1ddd7ca155962f3bab4de41736a2785",
-            "width": 428,
-            "height": 428,
-            "original_size": true
-          },
-          {
-            "type": "thumb624x428",
-            "url": "https://images1.vinted.net/t/04_01be8_A2nKCdyRN1Hmpt8XgCx79o5w/f800/1736426130.jpeg?s=891e58a9e1ddd7ca155962f3bab4de41736a2785",
-            "width": 624,
-            "height": 624,
-            "original_size": true
-          },
-          {
-            "type": "thumb364x428",
-            "url": "https://images1.vinted.net/t/04_01be8_A2nKCdyRN1Hmpt8XgCx79o5w/f800/1736426130.jpeg?s=891e58a9e1ddd7ca155962f3bab4de41736a2785",
-            "width": 364,
-            "height": 364,
-            "original_size": true
-          }
-        ],
-        "high_resolution": {
-          "id": "04_01be8_A2nKCdyRN1Hmpt8XgCx79o5w",
-          "timestamp": 1736426130,
-          "orientation": 0
-        },
-        "is_suspicious": false,
-        "full_size_url": "https://images1.vinted.net/tc/04_01be8_A2nKCdyRN1Hmpt8XgCx79o5w/1736426130.jpeg?s=94a13b7549355af8d5a2c5a176a4008a282b056f",
-        "is_hidden": false,
-        "extra": {}
-      },
-      "favourite_count": 15,
-      "is_favourite": false,
-      "badge": null,
-      "service_fee": {
-        "amount": "1.7",
-        "currency_code": "EUR"
-      },
-      "total_item_price": {
-        "amount": "21.7",
-        "currency_code": "EUR"
-      },
-      "view_count": 0,
-      "size_title": "Taille unique",
-      "content_source": "search",
-      "status": "Neuf sans étiquette",
-      "icon_badges": [],
-      "item_box": {
-        "first_line": "LEGO",
-        "second_line": "Taille unique",
-        "accessibility_label": "LEGO fort004 Cuddle Team Leader Minifigure from 77073, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 20,00 €, 21,70 € Protection acheteurs incluse"
-      },
-      "search_tracking_params": {
-        "score": 3.296377897262573,
+        "score": 3.817867040634155,
         "matched_queries": []
       }
     },
@@ -3901,65 +3736,65 @@
         "accessibility_label": "Figurine Lego Fortnite du bus 77073, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 32,00 €, 34,30 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 3.294236421585083,
+        "score": 3.298663854598999,
         "matched_queries": []
       }
     },
     {
-      "id": 5937852950,
-      "title": "LEGO 77073 Battle Bus Fortnite - Senza Minifigures",
+      "id": 5625135163,
+      "title": "LEGO fort004 Cuddle Team Leader Minifigure from 77073",
       "price": {
-        "amount": "49.0",
+        "amount": "20.0",
         "currency_code": "EUR"
       },
       "is_visible": true,
       "discount": null,
       "brand_title": "LEGO",
-      "path": "/items/5937852950-lego-77073-battle-bus-fortnite-senza-minifigures",
+      "path": "/items/5625135163-lego-fort004-cuddle-team-leader-minifigure-from-77073",
       "user": {
-        "id": 133723898,
-        "login": "brickscollector",
-        "profile_url": "https://www.vinted.fr/member/133723898-brickscollector",
+        "id": 184568813,
+        "login": "luismaduarte",
+        "profile_url": "https://www.vinted.fr/member/184568813-luismaduarte",
         "photo": {
-          "id": 130521628,
-          "width": 800,
-          "height": 772,
+          "id": 177915163,
+          "width": 600,
+          "height": 800,
           "temp_uuid": null,
-          "url": "https://images1.vinted.net/t/02_01249_inrxHD3FjXFmez7e4zyLgdD2/f800/1677405876.jpeg?s=23702aba98176492c7d91aa1932cd4d75a55c2f9",
+          "url": "https://images1.vinted.net/t/03_00556_aT2aCiB9GC8aQhnj1Ehn4Tya/f800/1706210617.jpeg?s=aa706d4504b289aefb0a7a8b291676c0b9a05191",
           "dominant_color": "#31abc2",
           "dominant_color_opaque": "#C1E6ED",
           "thumbnails": [
             {
               "type": "thumb310",
-              "url": "https://images1.vinted.net/t/02_01249_inrxHD3FjXFmez7e4zyLgdD2/310x310/1677405876.jpeg?s=39e748333d6af6432fa3d3103fa9f94cfeb8916b",
+              "url": "https://images1.vinted.net/t/03_00556_aT2aCiB9GC8aQhnj1Ehn4Tya/310x310/1706210617.jpeg?s=b468ccfd63aa919ab79b794ff5844e8523519fbd",
               "width": 310,
               "height": 310,
               "original_size": null
             },
             {
               "type": "thumb150",
-              "url": "https://images1.vinted.net/t/02_01249_inrxHD3FjXFmez7e4zyLgdD2/150x150/1677405876.jpeg?s=e3483f86d1b81eafd3e3a9c5bebc0aad658f09b0",
+              "url": "https://images1.vinted.net/t/03_00556_aT2aCiB9GC8aQhnj1Ehn4Tya/150x150/1706210617.jpeg?s=6adf0986161314c83cbaa6f688318439a682d984",
               "width": 150,
               "height": 150,
               "original_size": null
             },
             {
               "type": "thumb100",
-              "url": "https://images1.vinted.net/t/02_01249_inrxHD3FjXFmez7e4zyLgdD2/100x100/1677405876.jpeg?s=822c6782147bb56fa8943355e5937492bcb441d6",
+              "url": "https://images1.vinted.net/t/03_00556_aT2aCiB9GC8aQhnj1Ehn4Tya/100x100/1706210617.jpeg?s=9caeaa3e51567fc589984a5befd69170ed2d86fe",
               "width": 100,
               "height": 100,
               "original_size": null
             },
             {
               "type": "thumb50",
-              "url": "https://images1.vinted.net/t/02_01249_inrxHD3FjXFmez7e4zyLgdD2/50x50/1677405876.jpeg?s=7d5e24407e87a7b8b445bbcf4dc85721052e6986",
+              "url": "https://images1.vinted.net/t/03_00556_aT2aCiB9GC8aQhnj1Ehn4Tya/50x50/1706210617.jpeg?s=3f03890ac3d79acbe2359d314202772386d31ef2",
               "width": 50,
               "height": 50,
               "original_size": null
             },
             {
               "type": "thumb20",
-              "url": "https://images1.vinted.net/t/02_01249_inrxHD3FjXFmez7e4zyLgdD2/20x20/1677405876.jpeg?s=9582f3ba5b00a085bf02489990919e27de0345fd",
+              "url": "https://images1.vinted.net/t/03_00556_aT2aCiB9GC8aQhnj1Ehn4Tya/20x20/1706210617.jpeg?s=db8527be6ef3423aa3844d323d1edf106ada2bf9",
               "width": 20,
               "height": 20,
               "original_size": null
@@ -3968,105 +3803,105 @@
           "is_suspicious": false,
           "orientation": null,
           "high_resolution": {
-            "id": "02_01249_inrxHD3FjXFmez7e4zyLgdD2",
-            "timestamp": 1677405876,
+            "id": "03_00556_aT2aCiB9GC8aQhnj1Ehn4Tya",
+            "timestamp": 1706210617,
             "orientation": null
           },
-          "full_size_url": "https://images1.vinted.net/tc/02_01249_inrxHD3FjXFmez7e4zyLgdD2/1677405876.jpeg?s=495f93c4034a464720934e591afa39c7aa397c8f",
+          "full_size_url": "https://images1.vinted.net/tc/03_00556_aT2aCiB9GC8aQhnj1Ehn4Tya/1706210617.jpeg?s=1c4f50435251f25fdc249c0eb233e7456c8d3f7b",
           "is_hidden": false,
           "extra": {}
         },
         "business": false
       },
       "conversion": null,
-      "url": "https://www.vinted.fr/items/5937852950-lego-77073-battle-bus-fortnite-senza-minifigures",
+      "url": "https://www.vinted.fr/items/5625135163-lego-fort004-cuddle-team-leader-minifigure-from-77073",
       "promoted": false,
       "photo": {
-        "id": 24076252217,
+        "id": 22782224724,
         "image_no": 1,
         "width": 800,
-        "height": 549,
-        "dominant_color": "#778699",
-        "dominant_color_opaque": "#D6DBE0",
-        "url": "https://images1.vinted.net/t/04_013d8_g926w3dXMriSFVpmUCKV5aFH/f800/1741520643.jpeg?s=6c56840fff52a802864dfaa7d863ca4855f92344",
+        "height": 800,
+        "dominant_color": "#405E71",
+        "dominant_color_opaque": "#C6CFD4",
+        "url": "https://images1.vinted.net/t/04_01be8_A2nKCdyRN1Hmpt8XgCx79o5w/f800/1736426130.jpeg?s=891e58a9e1ddd7ca155962f3bab4de41736a2785",
         "is_main": true,
         "thumbnails": [
           {
             "type": "thumb70x100",
-            "url": "https://images1.vinted.net/t/04_013d8_g926w3dXMriSFVpmUCKV5aFH/70x100/1741520643.jpeg?s=8a3859ee459d67f07c5795bc860017f3af1f931f",
+            "url": "https://images1.vinted.net/t/04_01be8_A2nKCdyRN1Hmpt8XgCx79o5w/70x100/1736426130.jpeg?s=d4a1a6ef79705ee56eb20b3dc26bc94c3a5fb961",
             "width": 70,
             "height": 100,
             "original_size": null
           },
           {
             "type": "thumb150x210",
-            "url": "https://images1.vinted.net/t/04_013d8_g926w3dXMriSFVpmUCKV5aFH/150x210/1741520643.jpeg?s=42c2a044059325a2bb72d370c574794273a01fb5",
+            "url": "https://images1.vinted.net/t/04_01be8_A2nKCdyRN1Hmpt8XgCx79o5w/150x210/1736426130.jpeg?s=78cd0d7f5809ac3901e584d16f15c182d5603633",
             "width": 150,
             "height": 210,
             "original_size": null
           },
           {
             "type": "thumb310x430",
-            "url": "https://images1.vinted.net/t/04_013d8_g926w3dXMriSFVpmUCKV5aFH/310x430/1741520643.jpeg?s=50198ae2bcafa861a03bf51907656d35cb3aa08d",
+            "url": "https://images1.vinted.net/t/04_01be8_A2nKCdyRN1Hmpt8XgCx79o5w/310x430/1736426130.jpeg?s=8182ba91cf22a8ad47880e529d29595cb8e49977",
             "width": 310,
             "height": 430,
             "original_size": null
           },
           {
             "type": "thumb428x624",
-            "url": "https://images1.vinted.net/t/04_013d8_g926w3dXMriSFVpmUCKV5aFH/f800/1741520643.jpeg?s=6c56840fff52a802864dfaa7d863ca4855f92344",
+            "url": "https://images1.vinted.net/t/04_01be8_A2nKCdyRN1Hmpt8XgCx79o5w/f800/1736426130.jpeg?s=891e58a9e1ddd7ca155962f3bab4de41736a2785",
             "width": 428,
-            "height": 293,
-            "original_size": true
-          },
-          {
-            "type": "thumb624x428",
-            "url": "https://images1.vinted.net/t/04_013d8_g926w3dXMriSFVpmUCKV5aFH/f800/1741520643.jpeg?s=6c56840fff52a802864dfaa7d863ca4855f92344",
-            "width": 624,
             "height": 428,
             "original_size": true
           },
           {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_01be8_A2nKCdyRN1Hmpt8XgCx79o5w/f800/1736426130.jpeg?s=891e58a9e1ddd7ca155962f3bab4de41736a2785",
+            "width": 624,
+            "height": 624,
+            "original_size": true
+          },
+          {
             "type": "thumb364x428",
-            "url": "https://images1.vinted.net/t/04_013d8_g926w3dXMriSFVpmUCKV5aFH/f800/1741520643.jpeg?s=6c56840fff52a802864dfaa7d863ca4855f92344",
+            "url": "https://images1.vinted.net/t/04_01be8_A2nKCdyRN1Hmpt8XgCx79o5w/f800/1736426130.jpeg?s=891e58a9e1ddd7ca155962f3bab4de41736a2785",
             "width": 364,
-            "height": 249,
+            "height": 364,
             "original_size": true
           }
         ],
         "high_resolution": {
-          "id": "04_013d8_g926w3dXMriSFVpmUCKV5aFH",
-          "timestamp": 1741520643,
-          "orientation": null
+          "id": "04_01be8_A2nKCdyRN1Hmpt8XgCx79o5w",
+          "timestamp": 1736426130,
+          "orientation": 0
         },
         "is_suspicious": false,
-        "full_size_url": "https://images1.vinted.net/tc/04_013d8_g926w3dXMriSFVpmUCKV5aFH/1741520643.jpeg?s=98471049ce926717ab3e89ab2b1e9bc0efaa005a",
+        "full_size_url": "https://images1.vinted.net/tc/04_01be8_A2nKCdyRN1Hmpt8XgCx79o5w/1736426130.jpeg?s=94a13b7549355af8d5a2c5a176a4008a282b056f",
         "is_hidden": false,
         "extra": {}
       },
-      "favourite_count": 3,
+      "favourite_count": 15,
       "is_favourite": false,
       "badge": null,
       "service_fee": {
-        "amount": "3.15",
+        "amount": "1.7",
         "currency_code": "EUR"
       },
       "total_item_price": {
-        "amount": "52.15",
+        "amount": "21.7",
         "currency_code": "EUR"
       },
       "view_count": 0,
       "size_title": "Taille unique",
       "content_source": "search",
-      "status": "Très bon état",
+      "status": "Neuf sans étiquette",
       "icon_badges": [],
       "item_box": {
         "first_line": "LEGO",
         "second_line": "Taille unique",
-        "accessibility_label": "LEGO 77073 Battle Bus Fortnite - Senza Minifigures, marque: LEGO, état: Très bon état, taille: Taille unique, 49,00 €, 52,15 € Protection acheteurs incluse"
+        "accessibility_label": "LEGO fort004 Cuddle Team Leader Minifigure from 77073, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 20,00 €, 21,70 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 3.269840002059937,
+        "score": 3.286742210388184,
         "matched_queries": []
       }
     },
@@ -4231,7 +4066,172 @@
         "accessibility_label": "Lego 77073, marque: LEGO, état: Neuf avec étiquette, taille: 10 ans / 140 cm, 30,00 €, 32,20 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 3.224451303482056,
+        "score": 3.221854209899902,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5937852950,
+      "title": "LEGO 77073 Battle Bus Fortnite - Senza Minifigures",
+      "price": {
+        "amount": "49.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5937852950-lego-77073-battle-bus-fortnite-senza-minifigures",
+      "user": {
+        "id": 133723898,
+        "login": "brickscollector",
+        "profile_url": "https://www.vinted.fr/member/133723898-brickscollector",
+        "photo": {
+          "id": 130521628,
+          "width": 800,
+          "height": 772,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_01249_inrxHD3FjXFmez7e4zyLgdD2/f800/1677405876.jpeg?s=23702aba98176492c7d91aa1932cd4d75a55c2f9",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_01249_inrxHD3FjXFmez7e4zyLgdD2/310x310/1677405876.jpeg?s=39e748333d6af6432fa3d3103fa9f94cfeb8916b",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_01249_inrxHD3FjXFmez7e4zyLgdD2/150x150/1677405876.jpeg?s=e3483f86d1b81eafd3e3a9c5bebc0aad658f09b0",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_01249_inrxHD3FjXFmez7e4zyLgdD2/100x100/1677405876.jpeg?s=822c6782147bb56fa8943355e5937492bcb441d6",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_01249_inrxHD3FjXFmez7e4zyLgdD2/50x50/1677405876.jpeg?s=7d5e24407e87a7b8b445bbcf4dc85721052e6986",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_01249_inrxHD3FjXFmez7e4zyLgdD2/20x20/1677405876.jpeg?s=9582f3ba5b00a085bf02489990919e27de0345fd",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_01249_inrxHD3FjXFmez7e4zyLgdD2",
+            "timestamp": 1677405876,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_01249_inrxHD3FjXFmez7e4zyLgdD2/1677405876.jpeg?s=495f93c4034a464720934e591afa39c7aa397c8f",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5937852950-lego-77073-battle-bus-fortnite-senza-minifigures",
+      "promoted": false,
+      "photo": {
+        "id": 24076252217,
+        "image_no": 1,
+        "width": 800,
+        "height": 549,
+        "dominant_color": "#778699",
+        "dominant_color_opaque": "#D6DBE0",
+        "url": "https://images1.vinted.net/t/04_013d8_g926w3dXMriSFVpmUCKV5aFH/f800/1741520643.jpeg?s=6c56840fff52a802864dfaa7d863ca4855f92344",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_013d8_g926w3dXMriSFVpmUCKV5aFH/70x100/1741520643.jpeg?s=8a3859ee459d67f07c5795bc860017f3af1f931f",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_013d8_g926w3dXMriSFVpmUCKV5aFH/150x210/1741520643.jpeg?s=42c2a044059325a2bb72d370c574794273a01fb5",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_013d8_g926w3dXMriSFVpmUCKV5aFH/310x430/1741520643.jpeg?s=50198ae2bcafa861a03bf51907656d35cb3aa08d",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_013d8_g926w3dXMriSFVpmUCKV5aFH/f800/1741520643.jpeg?s=6c56840fff52a802864dfaa7d863ca4855f92344",
+            "width": 428,
+            "height": 293,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_013d8_g926w3dXMriSFVpmUCKV5aFH/f800/1741520643.jpeg?s=6c56840fff52a802864dfaa7d863ca4855f92344",
+            "width": 624,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_013d8_g926w3dXMriSFVpmUCKV5aFH/f800/1741520643.jpeg?s=6c56840fff52a802864dfaa7d863ca4855f92344",
+            "width": 364,
+            "height": 249,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_013d8_g926w3dXMriSFVpmUCKV5aFH",
+          "timestamp": 1741520643,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_013d8_g926w3dXMriSFVpmUCKV5aFH/1741520643.jpeg?s=98471049ce926717ab3e89ab2b1e9bc0efaa005a",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 3,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "3.15",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "52.15",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Très bon état",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "LEGO 77073 Battle Bus Fortnite - Senza Minifigures, marque: LEGO, état: Très bon état, taille: Taille unique, 49,00 €, 52,15 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 3.211163997650146,
         "matched_queries": []
       }
     },
@@ -4396,117 +4396,7 @@
         "accessibility_label": "Neuf - Lego 77072, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 94,90 €, 100,35 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 3.125309944152832,
-        "matched_queries": []
-      }
-    },
-    {
-      "id": 5482750829,
-      "title": "Figurines Fortnite 77073",
-      "price": {
-        "amount": "100.0",
-        "currency_code": "EUR"
-      },
-      "is_visible": true,
-      "discount": null,
-      "brand_title": "LEGO",
-      "path": "/items/5482750829-figurines-fortnite-77073",
-      "user": {
-        "id": 20748029,
-        "login": "romy_59",
-        "profile_url": "https://www.vinted.fr/member/20748029-romy59",
-        "photo": null,
-        "business": false
-      },
-      "conversion": null,
-      "url": "https://www.vinted.fr/items/5482750829-figurines-fortnite-77073",
-      "promoted": false,
-      "photo": {
-        "id": 22199222989,
-        "image_no": 1,
-        "width": 600,
-        "height": 800,
-        "dominant_color": "#554B46",
-        "dominant_color_opaque": "#CCC9C8",
-        "url": "https://images1.vinted.net/t/03_007e9_qEYmKTjvv6SdZxK3KiRQXwHq/f800/1733322166.jpeg?s=f97529cd1ecd786e36d744d0ff810ca8a118a207",
-        "is_main": true,
-        "thumbnails": [
-          {
-            "type": "thumb70x100",
-            "url": "https://images1.vinted.net/t/03_007e9_qEYmKTjvv6SdZxK3KiRQXwHq/70x100/1733322166.jpeg?s=ae95879acdc888d346f2aaaefc67176f673e7919",
-            "width": 70,
-            "height": 100,
-            "original_size": null
-          },
-          {
-            "type": "thumb150x210",
-            "url": "https://images1.vinted.net/t/03_007e9_qEYmKTjvv6SdZxK3KiRQXwHq/150x210/1733322166.jpeg?s=cc255ad058709f63fc947d6bdd53d60bd030e63f",
-            "width": 150,
-            "height": 210,
-            "original_size": null
-          },
-          {
-            "type": "thumb310x430",
-            "url": "https://images1.vinted.net/t/03_007e9_qEYmKTjvv6SdZxK3KiRQXwHq/310x430/1733322166.jpeg?s=c2b39ab423ec59eafaa59226f4462384f7094319",
-            "width": 310,
-            "height": 430,
-            "original_size": null
-          },
-          {
-            "type": "thumb428x624",
-            "url": "https://images1.vinted.net/t/03_007e9_qEYmKTjvv6SdZxK3KiRQXwHq/f800/1733322166.jpeg?s=f97529cd1ecd786e36d744d0ff810ca8a118a207",
-            "width": 321,
-            "height": 428,
-            "original_size": true
-          },
-          {
-            "type": "thumb624x428",
-            "url": "https://images1.vinted.net/t/03_007e9_qEYmKTjvv6SdZxK3KiRQXwHq/f800/1733322166.jpeg?s=f97529cd1ecd786e36d744d0ff810ca8a118a207",
-            "width": 468,
-            "height": 624,
-            "original_size": true
-          },
-          {
-            "type": "thumb364x428",
-            "url": "https://images1.vinted.net/t/03_007e9_qEYmKTjvv6SdZxK3KiRQXwHq/f800/1733322166.jpeg?s=f97529cd1ecd786e36d744d0ff810ca8a118a207",
-            "width": 273,
-            "height": 364,
-            "original_size": true
-          }
-        ],
-        "high_resolution": {
-          "id": "03_007e9_qEYmKTjvv6SdZxK3KiRQXwHq",
-          "timestamp": 1733322166,
-          "orientation": null
-        },
-        "is_suspicious": false,
-        "full_size_url": "https://images1.vinted.net/tc/03_007e9_qEYmKTjvv6SdZxK3KiRQXwHq/1733322166.jpeg?s=7e369fb6c53cad750c61a6c70c355d3270673435",
-        "is_hidden": false,
-        "extra": {}
-      },
-      "favourite_count": 16,
-      "is_favourite": false,
-      "badge": null,
-      "service_fee": {
-        "amount": "5.7",
-        "currency_code": "EUR"
-      },
-      "total_item_price": {
-        "amount": "105.7",
-        "currency_code": "EUR"
-      },
-      "view_count": 0,
-      "size_title": "Taille unique",
-      "content_source": "search",
-      "status": "Neuf sans étiquette",
-      "icon_badges": [],
-      "item_box": {
-        "first_line": "LEGO",
-        "second_line": "Taille unique",
-        "accessibility_label": "Figurines Fortnite 77073, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 100,00 €, 105,70 € Protection acheteurs incluse"
-      },
-      "search_tracking_params": {
-        "score": 2.945236921310425,
+        "score": 3.1107177734375,
         "matched_queries": []
       }
     },
@@ -4616,7 +4506,117 @@
         "accessibility_label": "Figurine lego fortnite fort005, marque: LEGO, état: Neuf sans étiquette, taille: Prématuré, jusqu'à 44cm, 15,00 €, 16,45 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 2.924437761306763,
+        "score": 2.924327850341797,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5482750829,
+      "title": "Figurines Fortnite 77073",
+      "price": {
+        "amount": "100.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5482750829-figurines-fortnite-77073",
+      "user": {
+        "id": 20748029,
+        "login": "romy_59",
+        "profile_url": "https://www.vinted.fr/member/20748029-romy59",
+        "photo": null,
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5482750829-figurines-fortnite-77073",
+      "promoted": false,
+      "photo": {
+        "id": 22199222989,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#554B46",
+        "dominant_color_opaque": "#CCC9C8",
+        "url": "https://images1.vinted.net/t/03_007e9_qEYmKTjvv6SdZxK3KiRQXwHq/f800/1733322166.jpeg?s=f97529cd1ecd786e36d744d0ff810ca8a118a207",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/03_007e9_qEYmKTjvv6SdZxK3KiRQXwHq/70x100/1733322166.jpeg?s=ae95879acdc888d346f2aaaefc67176f673e7919",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/03_007e9_qEYmKTjvv6SdZxK3KiRQXwHq/150x210/1733322166.jpeg?s=cc255ad058709f63fc947d6bdd53d60bd030e63f",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/03_007e9_qEYmKTjvv6SdZxK3KiRQXwHq/310x430/1733322166.jpeg?s=c2b39ab423ec59eafaa59226f4462384f7094319",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/03_007e9_qEYmKTjvv6SdZxK3KiRQXwHq/f800/1733322166.jpeg?s=f97529cd1ecd786e36d744d0ff810ca8a118a207",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/03_007e9_qEYmKTjvv6SdZxK3KiRQXwHq/f800/1733322166.jpeg?s=f97529cd1ecd786e36d744d0ff810ca8a118a207",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/03_007e9_qEYmKTjvv6SdZxK3KiRQXwHq/f800/1733322166.jpeg?s=f97529cd1ecd786e36d744d0ff810ca8a118a207",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "03_007e9_qEYmKTjvv6SdZxK3KiRQXwHq",
+          "timestamp": 1733322166,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/03_007e9_qEYmKTjvv6SdZxK3KiRQXwHq/1733322166.jpeg?s=7e369fb6c53cad750c61a6c70c355d3270673435",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 16,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "5.7",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "105.7",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf sans étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Figurines Fortnite 77073, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 100,00 €, 105,70 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 2.929368257522583,
         "matched_queries": []
       }
     },
@@ -4781,117 +4781,7 @@
         "accessibility_label": "LEGO fort003 Brite Bomber Minifigure from 77073, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 12,00 €, 13,30 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 2.847159862518311,
-        "matched_queries": []
-      }
-    },
-    {
-      "id": 5416637194,
-      "title": "2 figurines lego Fortnite",
-      "price": {
-        "amount": "30.0",
-        "currency_code": "EUR"
-      },
-      "is_visible": true,
-      "discount": null,
-      "brand_title": "LEGO",
-      "path": "/items/5416637194-2-figurines-lego-fortnite",
-      "user": {
-        "id": 20748029,
-        "login": "romy_59",
-        "profile_url": "https://www.vinted.fr/member/20748029-romy59",
-        "photo": null,
-        "business": false
-      },
-      "conversion": null,
-      "url": "https://www.vinted.fr/items/5416637194-2-figurines-lego-fortnite",
-      "promoted": false,
-      "photo": {
-        "id": 21926191949,
-        "image_no": 1,
-        "width": 638,
-        "height": 800,
-        "dominant_color": "#7C606D",
-        "dominant_color_opaque": "#D8CFD3",
-        "url": "https://images1.vinted.net/t/02_005dd_FZ1dASnD9RNpLZSseLGu9tCo/f800/1732133446.jpeg?s=c65a7bfe91bf2657623dc1f469ee948717134a4f",
-        "is_main": true,
-        "thumbnails": [
-          {
-            "type": "thumb70x100",
-            "url": "https://images1.vinted.net/t/02_005dd_FZ1dASnD9RNpLZSseLGu9tCo/70x100/1732133446.jpeg?s=85eb2aee1c9dde9a1e63e628b3b6a2c535425335",
-            "width": 70,
-            "height": 100,
-            "original_size": null
-          },
-          {
-            "type": "thumb150x210",
-            "url": "https://images1.vinted.net/t/02_005dd_FZ1dASnD9RNpLZSseLGu9tCo/150x210/1732133446.jpeg?s=f772f556a54a14f2974753f039e0d2a133faa3df",
-            "width": 150,
-            "height": 210,
-            "original_size": null
-          },
-          {
-            "type": "thumb310x430",
-            "url": "https://images1.vinted.net/t/02_005dd_FZ1dASnD9RNpLZSseLGu9tCo/310x430/1732133446.jpeg?s=76797f3ab4beb7b0893354746d99fe11ee4c1834",
-            "width": 310,
-            "height": 430,
-            "original_size": null
-          },
-          {
-            "type": "thumb428x624",
-            "url": "https://images1.vinted.net/t/02_005dd_FZ1dASnD9RNpLZSseLGu9tCo/f800/1732133446.jpeg?s=c65a7bfe91bf2657623dc1f469ee948717134a4f",
-            "width": 341,
-            "height": 428,
-            "original_size": true
-          },
-          {
-            "type": "thumb624x428",
-            "url": "https://images1.vinted.net/t/02_005dd_FZ1dASnD9RNpLZSseLGu9tCo/f800/1732133446.jpeg?s=c65a7bfe91bf2657623dc1f469ee948717134a4f",
-            "width": 498,
-            "height": 624,
-            "original_size": true
-          },
-          {
-            "type": "thumb364x428",
-            "url": "https://images1.vinted.net/t/02_005dd_FZ1dASnD9RNpLZSseLGu9tCo/f800/1732133446.jpeg?s=c65a7bfe91bf2657623dc1f469ee948717134a4f",
-            "width": 290,
-            "height": 364,
-            "original_size": true
-          }
-        ],
-        "high_resolution": {
-          "id": "02_005dd_FZ1dASnD9RNpLZSseLGu9tCo",
-          "timestamp": 1732133446,
-          "orientation": null
-        },
-        "is_suspicious": false,
-        "full_size_url": "https://images1.vinted.net/tc/02_005dd_FZ1dASnD9RNpLZSseLGu9tCo/1732133446.jpeg?s=031e95e64df9202a0ec81ee431117441a3757948",
-        "is_hidden": false,
-        "extra": {}
-      },
-      "favourite_count": 23,
-      "is_favourite": false,
-      "badge": null,
-      "service_fee": {
-        "amount": "2.2",
-        "currency_code": "EUR"
-      },
-      "total_item_price": {
-        "amount": "32.2",
-        "currency_code": "EUR"
-      },
-      "view_count": 0,
-      "size_title": "Taille unique",
-      "content_source": "search",
-      "status": "Neuf sans étiquette",
-      "icon_badges": [],
-      "item_box": {
-        "first_line": "LEGO",
-        "second_line": "Taille unique",
-        "accessibility_label": "2 figurines lego Fortnite, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 30,00 €, 32,20 € Protection acheteurs incluse"
-      },
-      "search_tracking_params": {
-        "score": 2.696262359619141,
+        "score": 2.847001075744629,
         "matched_queries": []
       }
     },
@@ -5056,282 +4946,117 @@
         "accessibility_label": "Lego fortnite, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 90,00 €, 95,20 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 2.509972095489502,
+        "score": 2.549444198608398,
         "matched_queries": []
       }
     },
     {
-      "id": 5838651044,
-      "title": "Bus de combat LEGO® Fortnite (77073)",
+      "id": 5416637194,
+      "title": "2 figurines lego Fortnite",
       "price": {
-        "amount": "100.0",
+        "amount": "30.0",
         "currency_code": "EUR"
       },
       "is_visible": true,
       "discount": null,
       "brand_title": "LEGO",
-      "path": "/items/5838651044-bus-de-combat-legor-fortnite-77073",
+      "path": "/items/5416637194-2-figurines-lego-fortnite",
       "user": {
-        "id": 206618482,
-        "login": "flair_snkrs",
-        "profile_url": "https://www.vinted.fr/member/206618482-flairsnkrs",
-        "photo": {
-          "id": 220570014,
-          "width": 800,
-          "height": 800,
-          "temp_uuid": null,
-          "url": "https://images1.vinted.net/t/04_00bd7_TSce7Yj8p4eZVqfvHWQkFbcQ/f800/1733051401.jpeg?s=b29b4e68e97a0d0f283a2b7f1bc130223f5ade2b",
-          "dominant_color": "#31abc2",
-          "dominant_color_opaque": "#C1E6ED",
-          "thumbnails": [
-            {
-              "type": "thumb310",
-              "url": "https://images1.vinted.net/t/04_00bd7_TSce7Yj8p4eZVqfvHWQkFbcQ/310x310/1733051401.jpeg?s=461606f720bae7c258885802c521f4ff05212a3e",
-              "width": 310,
-              "height": 310,
-              "original_size": null
-            },
-            {
-              "type": "thumb150",
-              "url": "https://images1.vinted.net/t/04_00bd7_TSce7Yj8p4eZVqfvHWQkFbcQ/150x150/1733051401.jpeg?s=bee7f5a9366655a5f0402f2fe94d844c99b7ac09",
-              "width": 150,
-              "height": 150,
-              "original_size": null
-            },
-            {
-              "type": "thumb100",
-              "url": "https://images1.vinted.net/t/04_00bd7_TSce7Yj8p4eZVqfvHWQkFbcQ/100x100/1733051401.jpeg?s=3f5f117c41170dc98468306d87d2ad1d6d2c44ac",
-              "width": 100,
-              "height": 100,
-              "original_size": null
-            },
-            {
-              "type": "thumb50",
-              "url": "https://images1.vinted.net/t/04_00bd7_TSce7Yj8p4eZVqfvHWQkFbcQ/50x50/1733051401.jpeg?s=25dad3cb2fd6eb4173edd394bf61c3e20b2a6aa9",
-              "width": 50,
-              "height": 50,
-              "original_size": null
-            },
-            {
-              "type": "thumb20",
-              "url": "https://images1.vinted.net/t/04_00bd7_TSce7Yj8p4eZVqfvHWQkFbcQ/20x20/1733051401.jpeg?s=c57c0663f60084fd8ab6ea2e40475e6a1b324689",
-              "width": 20,
-              "height": 20,
-              "original_size": null
-            }
-          ],
-          "is_suspicious": false,
-          "orientation": null,
-          "high_resolution": {
-            "id": "04_00bd7_TSce7Yj8p4eZVqfvHWQkFbcQ",
-            "timestamp": 1733051401,
-            "orientation": null
-          },
-          "full_size_url": "https://images1.vinted.net/tc/04_00bd7_TSce7Yj8p4eZVqfvHWQkFbcQ/1733051401.jpeg?s=f486306cf0541eab34870334a722264898bd4203",
-          "is_hidden": false,
-          "extra": {}
-        },
+        "id": 20748029,
+        "login": "romy_59",
+        "profile_url": "https://www.vinted.fr/member/20748029-romy59",
+        "photo": null,
         "business": false
       },
       "conversion": null,
-      "url": "https://www.vinted.fr/items/5838651044-bus-de-combat-legor-fortnite-77073",
+      "url": "https://www.vinted.fr/items/5416637194-2-figurines-lego-fortnite",
       "promoted": false,
       "photo": {
-        "id": 23662864807,
+        "id": 21926191949,
         "image_no": 1,
-        "width": 450,
+        "width": 638,
         "height": 800,
-        "dominant_color": "#5B6A83",
-        "dominant_color_opaque": "#CED2DA",
-        "url": "https://images1.vinted.net/t/02_00aa2_aqzF2Ty6DfWa98zge842gkYD/f800/1739897255.jpeg?s=352c0b68ac4827ee52cc71fcc42233a5c8e200a5",
+        "dominant_color": "#7C606D",
+        "dominant_color_opaque": "#D8CFD3",
+        "url": "https://images1.vinted.net/t/02_005dd_FZ1dASnD9RNpLZSseLGu9tCo/f800/1732133446.jpeg?s=c65a7bfe91bf2657623dc1f469ee948717134a4f",
         "is_main": true,
         "thumbnails": [
           {
             "type": "thumb70x100",
-            "url": "https://images1.vinted.net/t/02_00aa2_aqzF2Ty6DfWa98zge842gkYD/70x100/1739897255.jpeg?s=30ea1cca56a0ac4fb9088e7bfcf86b8a50dec16b",
+            "url": "https://images1.vinted.net/t/02_005dd_FZ1dASnD9RNpLZSseLGu9tCo/70x100/1732133446.jpeg?s=85eb2aee1c9dde9a1e63e628b3b6a2c535425335",
             "width": 70,
             "height": 100,
             "original_size": null
           },
           {
             "type": "thumb150x210",
-            "url": "https://images1.vinted.net/t/02_00aa2_aqzF2Ty6DfWa98zge842gkYD/150x210/1739897255.jpeg?s=6b04c4e0d979462b6cbf90357246dfa6e9b9f4a6",
+            "url": "https://images1.vinted.net/t/02_005dd_FZ1dASnD9RNpLZSseLGu9tCo/150x210/1732133446.jpeg?s=f772f556a54a14f2974753f039e0d2a133faa3df",
             "width": 150,
             "height": 210,
             "original_size": null
           },
           {
             "type": "thumb310x430",
-            "url": "https://images1.vinted.net/t/02_00aa2_aqzF2Ty6DfWa98zge842gkYD/310x430/1739897255.jpeg?s=23b79548468ac8fc0439c00b5e86e461b5e49236",
+            "url": "https://images1.vinted.net/t/02_005dd_FZ1dASnD9RNpLZSseLGu9tCo/310x430/1732133446.jpeg?s=76797f3ab4beb7b0893354746d99fe11ee4c1834",
             "width": 310,
             "height": 430,
             "original_size": null
           },
           {
             "type": "thumb428x624",
-            "url": "https://images1.vinted.net/t/02_00aa2_aqzF2Ty6DfWa98zge842gkYD/f800/1739897255.jpeg?s=352c0b68ac4827ee52cc71fcc42233a5c8e200a5",
-            "width": 241,
+            "url": "https://images1.vinted.net/t/02_005dd_FZ1dASnD9RNpLZSseLGu9tCo/f800/1732133446.jpeg?s=c65a7bfe91bf2657623dc1f469ee948717134a4f",
+            "width": 341,
             "height": 428,
             "original_size": true
           },
           {
             "type": "thumb624x428",
-            "url": "https://images1.vinted.net/t/02_00aa2_aqzF2Ty6DfWa98zge842gkYD/f800/1739897255.jpeg?s=352c0b68ac4827ee52cc71fcc42233a5c8e200a5",
-            "width": 351,
+            "url": "https://images1.vinted.net/t/02_005dd_FZ1dASnD9RNpLZSseLGu9tCo/f800/1732133446.jpeg?s=c65a7bfe91bf2657623dc1f469ee948717134a4f",
+            "width": 498,
             "height": 624,
             "original_size": true
           },
           {
             "type": "thumb364x428",
-            "url": "https://images1.vinted.net/t/02_00aa2_aqzF2Ty6DfWa98zge842gkYD/f800/1739897255.jpeg?s=352c0b68ac4827ee52cc71fcc42233a5c8e200a5",
-            "width": 204,
+            "url": "https://images1.vinted.net/t/02_005dd_FZ1dASnD9RNpLZSseLGu9tCo/f800/1732133446.jpeg?s=c65a7bfe91bf2657623dc1f469ee948717134a4f",
+            "width": 290,
             "height": 364,
             "original_size": true
           }
         ],
         "high_resolution": {
-          "id": "02_00aa2_aqzF2Ty6DfWa98zge842gkYD",
-          "timestamp": 1739897255,
+          "id": "02_005dd_FZ1dASnD9RNpLZSseLGu9tCo",
+          "timestamp": 1732133446,
           "orientation": null
         },
         "is_suspicious": false,
-        "full_size_url": "https://images1.vinted.net/tc/02_00aa2_aqzF2Ty6DfWa98zge842gkYD/1739897255.jpeg?s=32a42846a7ba5ea117c1256b95f3855687c6fe5a",
+        "full_size_url": "https://images1.vinted.net/tc/02_005dd_FZ1dASnD9RNpLZSseLGu9tCo/1732133446.jpeg?s=031e95e64df9202a0ec81ee431117441a3757948",
         "is_hidden": false,
         "extra": {}
       },
-      "favourite_count": 6,
+      "favourite_count": 23,
       "is_favourite": false,
       "badge": null,
       "service_fee": {
-        "amount": "5.7",
+        "amount": "2.2",
         "currency_code": "EUR"
       },
       "total_item_price": {
-        "amount": "105.7",
-        "currency_code": "EUR"
-      },
-      "view_count": 0,
-      "size_title": "9 ans / 134 cm",
-      "content_source": "search",
-      "status": "Neuf avec étiquette",
-      "icon_badges": [],
-      "item_box": {
-        "first_line": "LEGO",
-        "second_line": "9 ans / 134 cm",
-        "accessibility_label": "Bus de combat LEGO® Fortnite (77073), marque: LEGO, état: Neuf avec étiquette, taille: 9 ans / 134 cm, 100,00 €, 105,70 € Protection acheteurs incluse"
-      },
-      "search_tracking_params": {
-        "score": 2.441633701324463,
-        "matched_queries": []
-      }
-    },
-    {
-      "id": 5597292398,
-      "title": "Lego autobús fornite 77073",
-      "price": {
-        "amount": "300.0",
-        "currency_code": "EUR"
-      },
-      "is_visible": true,
-      "discount": null,
-      "brand_title": "LEGO",
-      "path": "/items/5597292398-lego-autobus-fornite-77073",
-      "user": {
-        "id": 106186814,
-        "login": "amorarr",
-        "profile_url": "https://www.vinted.fr/member/106186814-amorarr",
-        "photo": null,
-        "business": false
-      },
-      "conversion": null,
-      "url": "https://www.vinted.fr/items/5597292398-lego-autobus-fornite-77073",
-      "promoted": false,
-      "photo": {
-        "id": 22670145127,
-        "image_no": 1,
-        "width": 800,
-        "height": 564,
-        "dominant_color": "#907E7B",
-        "dominant_color_opaque": "#DED8D7",
-        "url": "https://images1.vinted.net/t/04_01803_pYjCNukfeKQobz3YZ8sPvTat/f800/1735984664.jpeg?s=c780ec3f57f9c5835a919ac32722e09aeebc91d8",
-        "is_main": true,
-        "thumbnails": [
-          {
-            "type": "thumb70x100",
-            "url": "https://images1.vinted.net/t/04_01803_pYjCNukfeKQobz3YZ8sPvTat/70x100/1735984664.jpeg?s=339ffeada399835b965bc265f7c0710380b67838",
-            "width": 70,
-            "height": 100,
-            "original_size": null
-          },
-          {
-            "type": "thumb150x210",
-            "url": "https://images1.vinted.net/t/04_01803_pYjCNukfeKQobz3YZ8sPvTat/150x210/1735984664.jpeg?s=0eedf3e85aa3e3ea33bcfacdad787a4a7bfa7bc5",
-            "width": 150,
-            "height": 210,
-            "original_size": null
-          },
-          {
-            "type": "thumb310x430",
-            "url": "https://images1.vinted.net/t/04_01803_pYjCNukfeKQobz3YZ8sPvTat/310x430/1735984664.jpeg?s=c55ed4ad4235ff2a94a1a251b7d09677871ae368",
-            "width": 310,
-            "height": 430,
-            "original_size": null
-          },
-          {
-            "type": "thumb428x624",
-            "url": "https://images1.vinted.net/t/04_01803_pYjCNukfeKQobz3YZ8sPvTat/f800/1735984664.jpeg?s=c780ec3f57f9c5835a919ac32722e09aeebc91d8",
-            "width": 428,
-            "height": 301,
-            "original_size": true
-          },
-          {
-            "type": "thumb624x428",
-            "url": "https://images1.vinted.net/t/04_01803_pYjCNukfeKQobz3YZ8sPvTat/f800/1735984664.jpeg?s=c780ec3f57f9c5835a919ac32722e09aeebc91d8",
-            "width": 624,
-            "height": 439,
-            "original_size": true
-          },
-          {
-            "type": "thumb364x428",
-            "url": "https://images1.vinted.net/t/04_01803_pYjCNukfeKQobz3YZ8sPvTat/f800/1735984664.jpeg?s=c780ec3f57f9c5835a919ac32722e09aeebc91d8",
-            "width": 364,
-            "height": 256,
-            "original_size": true
-          }
-        ],
-        "high_resolution": {
-          "id": "04_01803_pYjCNukfeKQobz3YZ8sPvTat",
-          "timestamp": 1735984664,
-          "orientation": null
-        },
-        "is_suspicious": false,
-        "full_size_url": "https://images1.vinted.net/tc/04_01803_pYjCNukfeKQobz3YZ8sPvTat/1735984664.jpeg?s=03c1599398004f21c7c5d49eed02e44d6af78442",
-        "is_hidden": false,
-        "extra": {}
-      },
-      "favourite_count": 3,
-      "is_favourite": false,
-      "badge": null,
-      "service_fee": {
-        "amount": "15.7",
-        "currency_code": "EUR"
-      },
-      "total_item_price": {
-        "amount": "315.7",
+        "amount": "32.2",
         "currency_code": "EUR"
       },
       "view_count": 0,
       "size_title": "Taille unique",
       "content_source": "search",
-      "status": "Neuf avec étiquette",
+      "status": "Neuf sans étiquette",
       "icon_badges": [],
       "item_box": {
         "first_line": "LEGO",
         "second_line": "Taille unique",
-        "accessibility_label": "Lego autobús fornite 77073, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 300,00 €, 315,70 € Protection acheteurs incluse"
+        "accessibility_label": "2 figurines lego Fortnite, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 30,00 €, 32,20 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 2.209687232971191,
+        "score": 2.696237802505493,
         "matched_queries": []
       }
     },
@@ -5496,7 +5221,282 @@
         "accessibility_label": "Bus de combat Fortnite Lego 77073, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 95,00 €, 100,45 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 2.126538276672363,
+        "score": 2.149244785308838,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5838651044,
+      "title": "Bus de combat LEGO® Fortnite (77073)",
+      "price": {
+        "amount": "100.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5838651044-bus-de-combat-legor-fortnite-77073",
+      "user": {
+        "id": 206618482,
+        "login": "flair_snkrs",
+        "profile_url": "https://www.vinted.fr/member/206618482-flairsnkrs",
+        "photo": {
+          "id": 220570014,
+          "width": 800,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/04_00bd7_TSce7Yj8p4eZVqfvHWQkFbcQ/f800/1733051401.jpeg?s=b29b4e68e97a0d0f283a2b7f1bc130223f5ade2b",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/04_00bd7_TSce7Yj8p4eZVqfvHWQkFbcQ/310x310/1733051401.jpeg?s=461606f720bae7c258885802c521f4ff05212a3e",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/04_00bd7_TSce7Yj8p4eZVqfvHWQkFbcQ/150x150/1733051401.jpeg?s=bee7f5a9366655a5f0402f2fe94d844c99b7ac09",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/04_00bd7_TSce7Yj8p4eZVqfvHWQkFbcQ/100x100/1733051401.jpeg?s=3f5f117c41170dc98468306d87d2ad1d6d2c44ac",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/04_00bd7_TSce7Yj8p4eZVqfvHWQkFbcQ/50x50/1733051401.jpeg?s=25dad3cb2fd6eb4173edd394bf61c3e20b2a6aa9",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/04_00bd7_TSce7Yj8p4eZVqfvHWQkFbcQ/20x20/1733051401.jpeg?s=c57c0663f60084fd8ab6ea2e40475e6a1b324689",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "04_00bd7_TSce7Yj8p4eZVqfvHWQkFbcQ",
+            "timestamp": 1733051401,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/04_00bd7_TSce7Yj8p4eZVqfvHWQkFbcQ/1733051401.jpeg?s=f486306cf0541eab34870334a722264898bd4203",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5838651044-bus-de-combat-legor-fortnite-77073",
+      "promoted": false,
+      "photo": {
+        "id": 23662864807,
+        "image_no": 1,
+        "width": 450,
+        "height": 800,
+        "dominant_color": "#5B6A83",
+        "dominant_color_opaque": "#CED2DA",
+        "url": "https://images1.vinted.net/t/02_00aa2_aqzF2Ty6DfWa98zge842gkYD/f800/1739897255.jpeg?s=352c0b68ac4827ee52cc71fcc42233a5c8e200a5",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/02_00aa2_aqzF2Ty6DfWa98zge842gkYD/70x100/1739897255.jpeg?s=30ea1cca56a0ac4fb9088e7bfcf86b8a50dec16b",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/02_00aa2_aqzF2Ty6DfWa98zge842gkYD/150x210/1739897255.jpeg?s=6b04c4e0d979462b6cbf90357246dfa6e9b9f4a6",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/02_00aa2_aqzF2Ty6DfWa98zge842gkYD/310x430/1739897255.jpeg?s=23b79548468ac8fc0439c00b5e86e461b5e49236",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/02_00aa2_aqzF2Ty6DfWa98zge842gkYD/f800/1739897255.jpeg?s=352c0b68ac4827ee52cc71fcc42233a5c8e200a5",
+            "width": 241,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/02_00aa2_aqzF2Ty6DfWa98zge842gkYD/f800/1739897255.jpeg?s=352c0b68ac4827ee52cc71fcc42233a5c8e200a5",
+            "width": 351,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/02_00aa2_aqzF2Ty6DfWa98zge842gkYD/f800/1739897255.jpeg?s=352c0b68ac4827ee52cc71fcc42233a5c8e200a5",
+            "width": 204,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "02_00aa2_aqzF2Ty6DfWa98zge842gkYD",
+          "timestamp": 1739897255,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/02_00aa2_aqzF2Ty6DfWa98zge842gkYD/1739897255.jpeg?s=32a42846a7ba5ea117c1256b95f3855687c6fe5a",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 6,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "5.7",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "105.7",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "9 ans / 134 cm",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "9 ans / 134 cm",
+        "accessibility_label": "Bus de combat LEGO® Fortnite (77073), marque: LEGO, état: Neuf avec étiquette, taille: 9 ans / 134 cm, 100,00 €, 105,70 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 2.457324504852295,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5597292398,
+      "title": "Lego autobús fornite 77073",
+      "price": {
+        "amount": "300.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5597292398-lego-autobus-fornite-77073",
+      "user": {
+        "id": 106186814,
+        "login": "amorarr",
+        "profile_url": "https://www.vinted.fr/member/106186814-amorarr",
+        "photo": null,
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5597292398-lego-autobus-fornite-77073",
+      "promoted": false,
+      "photo": {
+        "id": 22670145127,
+        "image_no": 1,
+        "width": 800,
+        "height": 564,
+        "dominant_color": "#907E7B",
+        "dominant_color_opaque": "#DED8D7",
+        "url": "https://images1.vinted.net/t/04_01803_pYjCNukfeKQobz3YZ8sPvTat/f800/1735984664.jpeg?s=c780ec3f57f9c5835a919ac32722e09aeebc91d8",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_01803_pYjCNukfeKQobz3YZ8sPvTat/70x100/1735984664.jpeg?s=339ffeada399835b965bc265f7c0710380b67838",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_01803_pYjCNukfeKQobz3YZ8sPvTat/150x210/1735984664.jpeg?s=0eedf3e85aa3e3ea33bcfacdad787a4a7bfa7bc5",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_01803_pYjCNukfeKQobz3YZ8sPvTat/310x430/1735984664.jpeg?s=c55ed4ad4235ff2a94a1a251b7d09677871ae368",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_01803_pYjCNukfeKQobz3YZ8sPvTat/f800/1735984664.jpeg?s=c780ec3f57f9c5835a919ac32722e09aeebc91d8",
+            "width": 428,
+            "height": 301,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_01803_pYjCNukfeKQobz3YZ8sPvTat/f800/1735984664.jpeg?s=c780ec3f57f9c5835a919ac32722e09aeebc91d8",
+            "width": 624,
+            "height": 439,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_01803_pYjCNukfeKQobz3YZ8sPvTat/f800/1735984664.jpeg?s=c780ec3f57f9c5835a919ac32722e09aeebc91d8",
+            "width": 364,
+            "height": 256,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_01803_pYjCNukfeKQobz3YZ8sPvTat",
+          "timestamp": 1735984664,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_01803_pYjCNukfeKQobz3YZ8sPvTat/1735984664.jpeg?s=03c1599398004f21c7c5d49eed02e44d6af78442",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 3,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "15.7",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "315.7",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego autobús fornite 77073, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 300,00 €, 315,70 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 2.199454784393311,
         "matched_queries": []
       }
     },
@@ -5661,7 +5661,7 @@
         "accessibility_label": "Lego fortnite bus - 77073 nuovo misb, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 83,00 €, 87,85 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 2.090597152709961,
+        "score": 2.090043067932129,
         "matched_queries": []
       }
     },
@@ -5771,7 +5771,7 @@
         "accessibility_label": "Lego Fortnite Battle Bus / Schlachtenbus 77073 Neu exklusiv, marque: LEGO, état: Neuf avec étiquette, taille: 10 ans / 140 cm, 90,00 €, 95,20 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 2.038602828979492,
+        "score": 2.03851318359375,
         "matched_queries": []
       }
     },
@@ -5881,7 +5881,7 @@
         "accessibility_label": "Lego fortnite le bus de combat 77073 neuf scelle, marque: LEGO, état: Neuf avec étiquette, taille: Prématuré, jusqu'à 44cm, 115,00 €, 121,45 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 1.902029991149902,
+        "score": 1.901922225952148,
         "matched_queries": []
       }
     },
@@ -6046,7 +6046,7 @@
         "accessibility_label": "LEGO 77073 bus de combat Fortnite, marque: LEGO, état: Neuf sans étiquette, taille: 10 ans / 140 cm, 97,00 €, 102,55 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 1.838181495666504,
+        "score": 1.838113307952881,
         "matched_queries": []
       }
     },
@@ -6156,502 +6156,7 @@
         "accessibility_label": "Lego fornite bus 77073, marque: LEGO, état: Très bon état, taille: 10 ans / 140 cm, 110,00 €, 116,20 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 3.131147146224976,
-        "matched_queries": []
-      }
-    },
-    {
-      "id": 5601358764,
-      "title": "Lego autobus fornite",
-      "price": {
-        "amount": "120.0",
-        "currency_code": "EUR"
-      },
-      "is_visible": true,
-      "discount": null,
-      "brand_title": "LEGO",
-      "path": "/items/5601358764-lego-autobus-fornite",
-      "user": {
-        "id": 36880389,
-        "login": "hectorcardenal-17",
-        "profile_url": "https://www.vinted.fr/member/36880389-hectorcardenal-17",
-        "photo": {
-          "id": 30347523,
-          "width": 800,
-          "height": 800,
-          "temp_uuid": null,
-          "url": "https://images1.vinted.net/t/02_022db_TCfpJyp8x9NuKKkvaVfqYwdC/f800/1605203854.jpeg?s=cd3385805fd4404fcdc92fce0418a9313f5173ad",
-          "dominant_color": "#31abc2",
-          "dominant_color_opaque": "#C1E6ED",
-          "thumbnails": [
-            {
-              "type": "thumb310",
-              "url": "https://images1.vinted.net/t/02_022db_TCfpJyp8x9NuKKkvaVfqYwdC/310x310/1605203854.jpeg?s=5ad61464953acc4ea3d8b8f10451e30acd7cb6c6",
-              "width": 310,
-              "height": 310,
-              "original_size": null
-            },
-            {
-              "type": "thumb150",
-              "url": "https://images1.vinted.net/t/02_022db_TCfpJyp8x9NuKKkvaVfqYwdC/150x150/1605203854.jpeg?s=66f09dd606022cd9712daf7438a4839abb13f1f4",
-              "width": 150,
-              "height": 150,
-              "original_size": null
-            },
-            {
-              "type": "thumb100",
-              "url": "https://images1.vinted.net/t/02_022db_TCfpJyp8x9NuKKkvaVfqYwdC/100x100/1605203854.jpeg?s=ec22174629b2a96e644603f2184d9bd701368c7c",
-              "width": 100,
-              "height": 100,
-              "original_size": null
-            },
-            {
-              "type": "thumb50",
-              "url": "https://images1.vinted.net/t/02_022db_TCfpJyp8x9NuKKkvaVfqYwdC/50x50/1605203854.jpeg?s=1c0689e63bd58ba53247f8d0f6faabbcd71eeef9",
-              "width": 50,
-              "height": 50,
-              "original_size": null
-            },
-            {
-              "type": "thumb20",
-              "url": "https://images1.vinted.net/t/02_022db_TCfpJyp8x9NuKKkvaVfqYwdC/20x20/1605203854.jpeg?s=bfc25ae22c4692ac1641c034b9694155dabb321e",
-              "width": 20,
-              "height": 20,
-              "original_size": null
-            }
-          ],
-          "is_suspicious": false,
-          "orientation": null,
-          "high_resolution": {
-            "id": "02_022db_TCfpJyp8x9NuKKkvaVfqYwdC",
-            "timestamp": 1605203854,
-            "orientation": null
-          },
-          "full_size_url": "https://images1.vinted.net/tc/02_022db_TCfpJyp8x9NuKKkvaVfqYwdC/1605203854.jpeg?s=c7252ade281f4da938d1bf7bc9fe1b6af8e95ff5",
-          "is_hidden": false,
-          "extra": {}
-        },
-        "business": false
-      },
-      "conversion": null,
-      "url": "https://www.vinted.fr/items/5601358764-lego-autobus-fornite",
-      "promoted": false,
-      "photo": {
-        "id": 22686564582,
-        "image_no": 1,
-        "width": 800,
-        "height": 600,
-        "dominant_color": "#6C665E",
-        "dominant_color_opaque": "#D3D1CF",
-        "url": "https://images1.vinted.net/t/04_00e99_kZQdLUYcXSBEGraVWnbsfq6i/f800/1736018145.jpeg?s=b320a3476be68bce576fa70d5c3cb5943c5795dd",
-        "is_main": true,
-        "thumbnails": [
-          {
-            "type": "thumb70x100",
-            "url": "https://images1.vinted.net/t/04_00e99_kZQdLUYcXSBEGraVWnbsfq6i/70x100/1736018145.jpeg?s=8b37c93a74a444aa8e600587b7333ffaae440229",
-            "width": 70,
-            "height": 100,
-            "original_size": null
-          },
-          {
-            "type": "thumb150x210",
-            "url": "https://images1.vinted.net/t/04_00e99_kZQdLUYcXSBEGraVWnbsfq6i/150x210/1736018145.jpeg?s=405d047491eea6af31693626efdfd958244927d2",
-            "width": 150,
-            "height": 210,
-            "original_size": null
-          },
-          {
-            "type": "thumb310x430",
-            "url": "https://images1.vinted.net/t/04_00e99_kZQdLUYcXSBEGraVWnbsfq6i/310x430/1736018145.jpeg?s=d5f605f5f96d31b6cc4658b6bc09a62e81c8df18",
-            "width": 310,
-            "height": 430,
-            "original_size": null
-          },
-          {
-            "type": "thumb428x624",
-            "url": "https://images1.vinted.net/t/04_00e99_kZQdLUYcXSBEGraVWnbsfq6i/f800/1736018145.jpeg?s=b320a3476be68bce576fa70d5c3cb5943c5795dd",
-            "width": 428,
-            "height": 321,
-            "original_size": true
-          },
-          {
-            "type": "thumb624x428",
-            "url": "https://images1.vinted.net/t/04_00e99_kZQdLUYcXSBEGraVWnbsfq6i/f800/1736018145.jpeg?s=b320a3476be68bce576fa70d5c3cb5943c5795dd",
-            "width": 624,
-            "height": 468,
-            "original_size": true
-          },
-          {
-            "type": "thumb364x428",
-            "url": "https://images1.vinted.net/t/04_00e99_kZQdLUYcXSBEGraVWnbsfq6i/f800/1736018145.jpeg?s=b320a3476be68bce576fa70d5c3cb5943c5795dd",
-            "width": 364,
-            "height": 273,
-            "original_size": true
-          }
-        ],
-        "high_resolution": {
-          "id": "04_00e99_kZQdLUYcXSBEGraVWnbsfq6i",
-          "timestamp": 1736018145,
-          "orientation": null
-        },
-        "is_suspicious": false,
-        "full_size_url": "https://images1.vinted.net/tc/04_00e99_kZQdLUYcXSBEGraVWnbsfq6i/1736018145.jpeg?s=b32d904442bce4679e2a8b01a36f08a2cfebdd77",
-        "is_hidden": false,
-        "extra": {}
-      },
-      "favourite_count": 3,
-      "is_favourite": false,
-      "badge": null,
-      "service_fee": {
-        "amount": "6.7",
-        "currency_code": "EUR"
-      },
-      "total_item_price": {
-        "amount": "126.7",
-        "currency_code": "EUR"
-      },
-      "view_count": 0,
-      "size_title": "Prématuré, jusqu'à 44cm",
-      "content_source": "search",
-      "status": "Neuf sans étiquette",
-      "icon_badges": [],
-      "item_box": {
-        "first_line": "LEGO",
-        "second_line": "Prématuré, jusqu'à 44cm",
-        "accessibility_label": "Lego autobus fornite, marque: LEGO, état: Neuf sans étiquette, taille: Prématuré, jusqu'à 44cm, 120,00 €, 126,70 € Protection acheteurs incluse"
-      },
-      "search_tracking_params": {
-        "score": 1.668520450592041,
-        "matched_queries": []
-      }
-    },
-    {
-      "id": 5636757218,
-      "title": "Lego 77073 Fortnite Bus della battaglia",
-      "price": {
-        "amount": "99.99",
-        "currency_code": "EUR"
-      },
-      "is_visible": true,
-      "discount": null,
-      "brand_title": "LEGO",
-      "path": "/items/5636757218-lego-77073-fortnite-bus-della-battaglia",
-      "user": {
-        "id": 100943943,
-        "login": "simone220290",
-        "profile_url": "https://www.vinted.fr/member/100943943-simone220290",
-        "photo": {
-          "id": 208563887,
-          "width": 800,
-          "height": 800,
-          "temp_uuid": null,
-          "url": "https://images1.vinted.net/t/03_00e83_p9Ry6nBLnxDZnskMb9gsgipw/f800/1726386175.jpeg?s=e9a9695757e199269aa326da4cdc0382c878211d",
-          "dominant_color": "#31abc2",
-          "dominant_color_opaque": "#C1E6ED",
-          "thumbnails": [
-            {
-              "type": "thumb310",
-              "url": "https://images1.vinted.net/t/03_00e83_p9Ry6nBLnxDZnskMb9gsgipw/310x310/1726386175.jpeg?s=eb1c12d9d6272e2e7b0626d9fbdb704dce4cf5df",
-              "width": 310,
-              "height": 310,
-              "original_size": null
-            },
-            {
-              "type": "thumb150",
-              "url": "https://images1.vinted.net/t/03_00e83_p9Ry6nBLnxDZnskMb9gsgipw/150x150/1726386175.jpeg?s=415fd14680a7c5ea04b26af410b92ca975e08939",
-              "width": 150,
-              "height": 150,
-              "original_size": null
-            },
-            {
-              "type": "thumb100",
-              "url": "https://images1.vinted.net/t/03_00e83_p9Ry6nBLnxDZnskMb9gsgipw/100x100/1726386175.jpeg?s=b0ae243f3c4fa6f49d6b108497a2019ec9933e82",
-              "width": 100,
-              "height": 100,
-              "original_size": null
-            },
-            {
-              "type": "thumb50",
-              "url": "https://images1.vinted.net/t/03_00e83_p9Ry6nBLnxDZnskMb9gsgipw/50x50/1726386175.jpeg?s=91f1a0f03fd29fc6ab883107ba07742ea33f3624",
-              "width": 50,
-              "height": 50,
-              "original_size": null
-            },
-            {
-              "type": "thumb20",
-              "url": "https://images1.vinted.net/t/03_00e83_p9Ry6nBLnxDZnskMb9gsgipw/20x20/1726386175.jpeg?s=5314bf865a16e8f769cec6d6bfdee76934d2b936",
-              "width": 20,
-              "height": 20,
-              "original_size": null
-            }
-          ],
-          "is_suspicious": false,
-          "orientation": null,
-          "high_resolution": {
-            "id": "03_00e83_p9Ry6nBLnxDZnskMb9gsgipw",
-            "timestamp": 1726386175,
-            "orientation": null
-          },
-          "full_size_url": "https://images1.vinted.net/tc/03_00e83_p9Ry6nBLnxDZnskMb9gsgipw/1726386175.jpeg?s=ddd9bfad46c0d6ec9f3c98a4fc462e3f1e5979c2",
-          "is_hidden": false,
-          "extra": {}
-        },
-        "business": false
-      },
-      "conversion": null,
-      "url": "https://www.vinted.fr/items/5636757218-lego-77073-fortnite-bus-della-battaglia",
-      "promoted": false,
-      "photo": {
-        "id": 22829959146,
-        "image_no": 1,
-        "width": 600,
-        "height": 800,
-        "dominant_color": "#434054",
-        "dominant_color_opaque": "#C7C6CC",
-        "url": "https://images1.vinted.net/t/01_01c10_xHajMHitoV2DnLU1CBRByjPt/f800/1736616625.jpeg?s=9c4936b30faf7afbc9012532987dc165f9adb3e2",
-        "is_main": true,
-        "thumbnails": [
-          {
-            "type": "thumb70x100",
-            "url": "https://images1.vinted.net/t/01_01c10_xHajMHitoV2DnLU1CBRByjPt/70x100/1736616625.jpeg?s=31720ee02a8965a1069184047f0aa83eb54775c3",
-            "width": 70,
-            "height": 100,
-            "original_size": null
-          },
-          {
-            "type": "thumb150x210",
-            "url": "https://images1.vinted.net/t/01_01c10_xHajMHitoV2DnLU1CBRByjPt/150x210/1736616625.jpeg?s=7b3ee6d6639a144a7b8a412de71a53e2ea3df5ed",
-            "width": 150,
-            "height": 210,
-            "original_size": null
-          },
-          {
-            "type": "thumb310x430",
-            "url": "https://images1.vinted.net/t/01_01c10_xHajMHitoV2DnLU1CBRByjPt/310x430/1736616625.jpeg?s=a6244c5698caecce8211433972d2ae0e54c4cd91",
-            "width": 310,
-            "height": 430,
-            "original_size": null
-          },
-          {
-            "type": "thumb428x624",
-            "url": "https://images1.vinted.net/t/01_01c10_xHajMHitoV2DnLU1CBRByjPt/f800/1736616625.jpeg?s=9c4936b30faf7afbc9012532987dc165f9adb3e2",
-            "width": 321,
-            "height": 428,
-            "original_size": true
-          },
-          {
-            "type": "thumb624x428",
-            "url": "https://images1.vinted.net/t/01_01c10_xHajMHitoV2DnLU1CBRByjPt/f800/1736616625.jpeg?s=9c4936b30faf7afbc9012532987dc165f9adb3e2",
-            "width": 468,
-            "height": 624,
-            "original_size": true
-          },
-          {
-            "type": "thumb364x428",
-            "url": "https://images1.vinted.net/t/01_01c10_xHajMHitoV2DnLU1CBRByjPt/f800/1736616625.jpeg?s=9c4936b30faf7afbc9012532987dc165f9adb3e2",
-            "width": 273,
-            "height": 364,
-            "original_size": true
-          }
-        ],
-        "high_resolution": {
-          "id": "01_01c10_xHajMHitoV2DnLU1CBRByjPt",
-          "timestamp": 1736616625,
-          "orientation": null
-        },
-        "is_suspicious": false,
-        "full_size_url": "https://images1.vinted.net/tc/01_01c10_xHajMHitoV2DnLU1CBRByjPt/1736616625.jpeg?s=78a92058c9f5419473cb1dbd818f09d812048595",
-        "is_hidden": false,
-        "extra": {}
-      },
-      "favourite_count": 5,
-      "is_favourite": false,
-      "badge": null,
-      "service_fee": {
-        "amount": "5.7",
-        "currency_code": "EUR"
-      },
-      "total_item_price": {
-        "amount": "105.69",
-        "currency_code": "EUR"
-      },
-      "view_count": 0,
-      "size_title": "Taille unique",
-      "content_source": "search",
-      "status": "Neuf avec étiquette",
-      "icon_badges": [],
-      "item_box": {
-        "first_line": "LEGO",
-        "second_line": "Taille unique",
-        "accessibility_label": "Lego 77073 Fortnite Bus della battaglia, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 99,99 €, 105,69 € Protection acheteurs incluse"
-      },
-      "search_tracking_params": {
-        "score": 1.473884105682373,
-        "matched_queries": []
-      }
-    },
-    {
-      "id": 5738662542,
-      "title": "Lego 77073 Fortnite Battle Bus",
-      "price": {
-        "amount": "120.0",
-        "currency_code": "EUR"
-      },
-      "is_visible": true,
-      "discount": null,
-      "brand_title": "LEGO",
-      "path": "/items/5738662542-lego-77073-fortnite-battle-bus",
-      "user": {
-        "id": 103906556,
-        "login": "mandi_3011",
-        "profile_url": "https://www.vinted.fr/member/103906556-mandi3011",
-        "photo": {
-          "id": 230293557,
-          "width": 800,
-          "height": 533,
-          "temp_uuid": null,
-          "url": "https://images1.vinted.net/t/04_00452_ULHa7nBNZW3CPhT89oXu78rF/f800/1739406792.jpeg?s=019e49a461aa4c02ba637df979e44e4fe3af63ed",
-          "dominant_color": "#31abc2",
-          "dominant_color_opaque": "#C1E6ED",
-          "thumbnails": [
-            {
-              "type": "thumb310",
-              "url": "https://images1.vinted.net/t/04_00452_ULHa7nBNZW3CPhT89oXu78rF/310x310/1739406792.jpeg?s=d949d88292e97cc9cc77a14c895f22fff9d89ba4",
-              "width": 310,
-              "height": 310,
-              "original_size": null
-            },
-            {
-              "type": "thumb150",
-              "url": "https://images1.vinted.net/t/04_00452_ULHa7nBNZW3CPhT89oXu78rF/150x150/1739406792.jpeg?s=e7ee7c35312a4b942ddc2fcc46f9f1f887fff6f6",
-              "width": 150,
-              "height": 150,
-              "original_size": null
-            },
-            {
-              "type": "thumb100",
-              "url": "https://images1.vinted.net/t/04_00452_ULHa7nBNZW3CPhT89oXu78rF/100x100/1739406792.jpeg?s=9cc5971d47db31abf95a63e4491690a0482487cd",
-              "width": 100,
-              "height": 100,
-              "original_size": null
-            },
-            {
-              "type": "thumb50",
-              "url": "https://images1.vinted.net/t/04_00452_ULHa7nBNZW3CPhT89oXu78rF/50x50/1739406792.jpeg?s=351e76d1a19a12c086ae67094461a5c9c7eeef2b",
-              "width": 50,
-              "height": 50,
-              "original_size": null
-            },
-            {
-              "type": "thumb20",
-              "url": "https://images1.vinted.net/t/04_00452_ULHa7nBNZW3CPhT89oXu78rF/20x20/1739406792.jpeg?s=c58910ac1814ff4bda3925687d62ca3fb24cd716",
-              "width": 20,
-              "height": 20,
-              "original_size": null
-            }
-          ],
-          "is_suspicious": false,
-          "orientation": null,
-          "high_resolution": {
-            "id": "04_00452_ULHa7nBNZW3CPhT89oXu78rF",
-            "timestamp": 1739406792,
-            "orientation": null
-          },
-          "full_size_url": "https://images1.vinted.net/tc/04_00452_ULHa7nBNZW3CPhT89oXu78rF/1739406792.jpeg?s=d61bb14364e447b2d6ed86053b8ffcfed6fee6a8",
-          "is_hidden": false,
-          "extra": {}
-        },
-        "business": false
-      },
-      "conversion": null,
-      "url": "https://www.vinted.fr/items/5738662542-lego-77073-fortnite-battle-bus",
-      "promoted": false,
-      "photo": {
-        "id": 23247902452,
-        "image_no": 1,
-        "width": 800,
-        "height": 600,
-        "dominant_color": "#424A55",
-        "dominant_color_opaque": "#C6C9CC",
-        "url": "https://images1.vinted.net/t/04_0158d_RDGhw59RuX4iMCaT4yLwQEH8/f800/1738274545.jpeg?s=1174cf9d459b576926c9974169867d3c031a0896",
-        "is_main": true,
-        "thumbnails": [
-          {
-            "type": "thumb70x100",
-            "url": "https://images1.vinted.net/t/04_0158d_RDGhw59RuX4iMCaT4yLwQEH8/70x100/1738274545.jpeg?s=a360a6953332d15671e84c87a08b1218ea0192cd",
-            "width": 70,
-            "height": 100,
-            "original_size": null
-          },
-          {
-            "type": "thumb150x210",
-            "url": "https://images1.vinted.net/t/04_0158d_RDGhw59RuX4iMCaT4yLwQEH8/150x210/1738274545.jpeg?s=a0407ed58da1b3013168af0b165c362afd7cee7e",
-            "width": 150,
-            "height": 210,
-            "original_size": null
-          },
-          {
-            "type": "thumb310x430",
-            "url": "https://images1.vinted.net/t/04_0158d_RDGhw59RuX4iMCaT4yLwQEH8/310x430/1738274545.jpeg?s=066eaddc8fde267cf19d280852b875f7c23db93b",
-            "width": 310,
-            "height": 430,
-            "original_size": null
-          },
-          {
-            "type": "thumb428x624",
-            "url": "https://images1.vinted.net/t/04_0158d_RDGhw59RuX4iMCaT4yLwQEH8/f800/1738274545.jpeg?s=1174cf9d459b576926c9974169867d3c031a0896",
-            "width": 428,
-            "height": 321,
-            "original_size": true
-          },
-          {
-            "type": "thumb624x428",
-            "url": "https://images1.vinted.net/t/04_0158d_RDGhw59RuX4iMCaT4yLwQEH8/f800/1738274545.jpeg?s=1174cf9d459b576926c9974169867d3c031a0896",
-            "width": 624,
-            "height": 468,
-            "original_size": true
-          },
-          {
-            "type": "thumb364x428",
-            "url": "https://images1.vinted.net/t/04_0158d_RDGhw59RuX4iMCaT4yLwQEH8/f800/1738274545.jpeg?s=1174cf9d459b576926c9974169867d3c031a0896",
-            "width": 364,
-            "height": 273,
-            "original_size": true
-          }
-        ],
-        "high_resolution": {
-          "id": "04_0158d_RDGhw59RuX4iMCaT4yLwQEH8",
-          "timestamp": 1738274545,
-          "orientation": null
-        },
-        "is_suspicious": false,
-        "full_size_url": "https://images1.vinted.net/tc/04_0158d_RDGhw59RuX4iMCaT4yLwQEH8/1738274545.jpeg?s=80ae119579d61f2188a6c4017fc0317e73cba92c",
-        "is_hidden": false,
-        "extra": {}
-      },
-      "favourite_count": 0,
-      "is_favourite": false,
-      "badge": null,
-      "service_fee": {
-        "amount": "6.7",
-        "currency_code": "EUR"
-      },
-      "total_item_price": {
-        "amount": "126.7",
-        "currency_code": "EUR"
-      },
-      "view_count": 0,
-      "size_title": "Taille unique",
-      "content_source": "search",
-      "status": "Neuf avec étiquette",
-      "icon_badges": [],
-      "item_box": {
-        "first_line": "LEGO",
-        "second_line": "Taille unique",
-        "accessibility_label": "Lego 77073 Fortnite Battle Bus, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 120,00 €, 126,70 € Protection acheteurs incluse"
-      },
-      "search_tracking_params": {
-        "score": 1.333609104156494,
+        "score": 3.125445604324341,
         "matched_queries": []
       }
     },
@@ -6816,7 +6321,502 @@
         "accessibility_label": "Lego 77073 - Fortnite Battle Bus, marque: LEGO, état: Neuf avec étiquette, taille: 10 ans / 140 cm, 99,90 €, 105,60 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 1.798398017883301,
+        "score": 1.793587684631348,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5601358764,
+      "title": "Lego autobus fornite",
+      "price": {
+        "amount": "120.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5601358764-lego-autobus-fornite",
+      "user": {
+        "id": 36880389,
+        "login": "hectorcardenal-17",
+        "profile_url": "https://www.vinted.fr/member/36880389-hectorcardenal-17",
+        "photo": {
+          "id": 30347523,
+          "width": 800,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_022db_TCfpJyp8x9NuKKkvaVfqYwdC/f800/1605203854.jpeg?s=cd3385805fd4404fcdc92fce0418a9313f5173ad",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_022db_TCfpJyp8x9NuKKkvaVfqYwdC/310x310/1605203854.jpeg?s=5ad61464953acc4ea3d8b8f10451e30acd7cb6c6",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_022db_TCfpJyp8x9NuKKkvaVfqYwdC/150x150/1605203854.jpeg?s=66f09dd606022cd9712daf7438a4839abb13f1f4",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_022db_TCfpJyp8x9NuKKkvaVfqYwdC/100x100/1605203854.jpeg?s=ec22174629b2a96e644603f2184d9bd701368c7c",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_022db_TCfpJyp8x9NuKKkvaVfqYwdC/50x50/1605203854.jpeg?s=1c0689e63bd58ba53247f8d0f6faabbcd71eeef9",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_022db_TCfpJyp8x9NuKKkvaVfqYwdC/20x20/1605203854.jpeg?s=bfc25ae22c4692ac1641c034b9694155dabb321e",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_022db_TCfpJyp8x9NuKKkvaVfqYwdC",
+            "timestamp": 1605203854,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_022db_TCfpJyp8x9NuKKkvaVfqYwdC/1605203854.jpeg?s=c7252ade281f4da938d1bf7bc9fe1b6af8e95ff5",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5601358764-lego-autobus-fornite",
+      "promoted": false,
+      "photo": {
+        "id": 22686564582,
+        "image_no": 1,
+        "width": 800,
+        "height": 600,
+        "dominant_color": "#6C665E",
+        "dominant_color_opaque": "#D3D1CF",
+        "url": "https://images1.vinted.net/t/04_00e99_kZQdLUYcXSBEGraVWnbsfq6i/f800/1736018145.jpeg?s=b320a3476be68bce576fa70d5c3cb5943c5795dd",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_00e99_kZQdLUYcXSBEGraVWnbsfq6i/70x100/1736018145.jpeg?s=8b37c93a74a444aa8e600587b7333ffaae440229",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_00e99_kZQdLUYcXSBEGraVWnbsfq6i/150x210/1736018145.jpeg?s=405d047491eea6af31693626efdfd958244927d2",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_00e99_kZQdLUYcXSBEGraVWnbsfq6i/310x430/1736018145.jpeg?s=d5f605f5f96d31b6cc4658b6bc09a62e81c8df18",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_00e99_kZQdLUYcXSBEGraVWnbsfq6i/f800/1736018145.jpeg?s=b320a3476be68bce576fa70d5c3cb5943c5795dd",
+            "width": 428,
+            "height": 321,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_00e99_kZQdLUYcXSBEGraVWnbsfq6i/f800/1736018145.jpeg?s=b320a3476be68bce576fa70d5c3cb5943c5795dd",
+            "width": 624,
+            "height": 468,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_00e99_kZQdLUYcXSBEGraVWnbsfq6i/f800/1736018145.jpeg?s=b320a3476be68bce576fa70d5c3cb5943c5795dd",
+            "width": 364,
+            "height": 273,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_00e99_kZQdLUYcXSBEGraVWnbsfq6i",
+          "timestamp": 1736018145,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_00e99_kZQdLUYcXSBEGraVWnbsfq6i/1736018145.jpeg?s=b32d904442bce4679e2a8b01a36f08a2cfebdd77",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 3,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "6.7",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "126.7",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Prématuré, jusqu'à 44cm",
+      "content_source": "search",
+      "status": "Neuf sans étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Prématuré, jusqu'à 44cm",
+        "accessibility_label": "Lego autobus fornite, marque: LEGO, état: Neuf sans étiquette, taille: Prématuré, jusqu'à 44cm, 120,00 €, 126,70 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 1.650687694549561,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5636757218,
+      "title": "Lego 77073 Fortnite Bus della battaglia",
+      "price": {
+        "amount": "99.99",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5636757218-lego-77073-fortnite-bus-della-battaglia",
+      "user": {
+        "id": 100943943,
+        "login": "simone220290",
+        "profile_url": "https://www.vinted.fr/member/100943943-simone220290",
+        "photo": {
+          "id": 208563887,
+          "width": 800,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/03_00e83_p9Ry6nBLnxDZnskMb9gsgipw/f800/1726386175.jpeg?s=e9a9695757e199269aa326da4cdc0382c878211d",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/03_00e83_p9Ry6nBLnxDZnskMb9gsgipw/310x310/1726386175.jpeg?s=eb1c12d9d6272e2e7b0626d9fbdb704dce4cf5df",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/03_00e83_p9Ry6nBLnxDZnskMb9gsgipw/150x150/1726386175.jpeg?s=415fd14680a7c5ea04b26af410b92ca975e08939",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/03_00e83_p9Ry6nBLnxDZnskMb9gsgipw/100x100/1726386175.jpeg?s=b0ae243f3c4fa6f49d6b108497a2019ec9933e82",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/03_00e83_p9Ry6nBLnxDZnskMb9gsgipw/50x50/1726386175.jpeg?s=91f1a0f03fd29fc6ab883107ba07742ea33f3624",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/03_00e83_p9Ry6nBLnxDZnskMb9gsgipw/20x20/1726386175.jpeg?s=5314bf865a16e8f769cec6d6bfdee76934d2b936",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "03_00e83_p9Ry6nBLnxDZnskMb9gsgipw",
+            "timestamp": 1726386175,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/03_00e83_p9Ry6nBLnxDZnskMb9gsgipw/1726386175.jpeg?s=ddd9bfad46c0d6ec9f3c98a4fc462e3f1e5979c2",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5636757218-lego-77073-fortnite-bus-della-battaglia",
+      "promoted": false,
+      "photo": {
+        "id": 22829959146,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#434054",
+        "dominant_color_opaque": "#C7C6CC",
+        "url": "https://images1.vinted.net/t/01_01c10_xHajMHitoV2DnLU1CBRByjPt/f800/1736616625.jpeg?s=9c4936b30faf7afbc9012532987dc165f9adb3e2",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/01_01c10_xHajMHitoV2DnLU1CBRByjPt/70x100/1736616625.jpeg?s=31720ee02a8965a1069184047f0aa83eb54775c3",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/01_01c10_xHajMHitoV2DnLU1CBRByjPt/150x210/1736616625.jpeg?s=7b3ee6d6639a144a7b8a412de71a53e2ea3df5ed",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/01_01c10_xHajMHitoV2DnLU1CBRByjPt/310x430/1736616625.jpeg?s=a6244c5698caecce8211433972d2ae0e54c4cd91",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/01_01c10_xHajMHitoV2DnLU1CBRByjPt/f800/1736616625.jpeg?s=9c4936b30faf7afbc9012532987dc165f9adb3e2",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/01_01c10_xHajMHitoV2DnLU1CBRByjPt/f800/1736616625.jpeg?s=9c4936b30faf7afbc9012532987dc165f9adb3e2",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/01_01c10_xHajMHitoV2DnLU1CBRByjPt/f800/1736616625.jpeg?s=9c4936b30faf7afbc9012532987dc165f9adb3e2",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "01_01c10_xHajMHitoV2DnLU1CBRByjPt",
+          "timestamp": 1736616625,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/01_01c10_xHajMHitoV2DnLU1CBRByjPt/1736616625.jpeg?s=78a92058c9f5419473cb1dbd818f09d812048595",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 5,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "5.7",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "105.69",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego 77073 Fortnite Bus della battaglia, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 99,99 €, 105,69 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 1.473836421966553,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5738662542,
+      "title": "Lego 77073 Fortnite Battle Bus",
+      "price": {
+        "amount": "120.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5738662542-lego-77073-fortnite-battle-bus",
+      "user": {
+        "id": 103906556,
+        "login": "mandi_3011",
+        "profile_url": "https://www.vinted.fr/member/103906556-mandi3011",
+        "photo": {
+          "id": 230293557,
+          "width": 800,
+          "height": 533,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/04_00452_ULHa7nBNZW3CPhT89oXu78rF/f800/1739406792.jpeg?s=019e49a461aa4c02ba637df979e44e4fe3af63ed",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/04_00452_ULHa7nBNZW3CPhT89oXu78rF/310x310/1739406792.jpeg?s=d949d88292e97cc9cc77a14c895f22fff9d89ba4",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/04_00452_ULHa7nBNZW3CPhT89oXu78rF/150x150/1739406792.jpeg?s=e7ee7c35312a4b942ddc2fcc46f9f1f887fff6f6",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/04_00452_ULHa7nBNZW3CPhT89oXu78rF/100x100/1739406792.jpeg?s=9cc5971d47db31abf95a63e4491690a0482487cd",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/04_00452_ULHa7nBNZW3CPhT89oXu78rF/50x50/1739406792.jpeg?s=351e76d1a19a12c086ae67094461a5c9c7eeef2b",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/04_00452_ULHa7nBNZW3CPhT89oXu78rF/20x20/1739406792.jpeg?s=c58910ac1814ff4bda3925687d62ca3fb24cd716",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "04_00452_ULHa7nBNZW3CPhT89oXu78rF",
+            "timestamp": 1739406792,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/04_00452_ULHa7nBNZW3CPhT89oXu78rF/1739406792.jpeg?s=d61bb14364e447b2d6ed86053b8ffcfed6fee6a8",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5738662542-lego-77073-fortnite-battle-bus",
+      "promoted": false,
+      "photo": {
+        "id": 23247902452,
+        "image_no": 1,
+        "width": 800,
+        "height": 600,
+        "dominant_color": "#424A55",
+        "dominant_color_opaque": "#C6C9CC",
+        "url": "https://images1.vinted.net/t/04_0158d_RDGhw59RuX4iMCaT4yLwQEH8/f800/1738274545.jpeg?s=1174cf9d459b576926c9974169867d3c031a0896",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_0158d_RDGhw59RuX4iMCaT4yLwQEH8/70x100/1738274545.jpeg?s=a360a6953332d15671e84c87a08b1218ea0192cd",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_0158d_RDGhw59RuX4iMCaT4yLwQEH8/150x210/1738274545.jpeg?s=a0407ed58da1b3013168af0b165c362afd7cee7e",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_0158d_RDGhw59RuX4iMCaT4yLwQEH8/310x430/1738274545.jpeg?s=066eaddc8fde267cf19d280852b875f7c23db93b",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_0158d_RDGhw59RuX4iMCaT4yLwQEH8/f800/1738274545.jpeg?s=1174cf9d459b576926c9974169867d3c031a0896",
+            "width": 428,
+            "height": 321,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_0158d_RDGhw59RuX4iMCaT4yLwQEH8/f800/1738274545.jpeg?s=1174cf9d459b576926c9974169867d3c031a0896",
+            "width": 624,
+            "height": 468,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_0158d_RDGhw59RuX4iMCaT4yLwQEH8/f800/1738274545.jpeg?s=1174cf9d459b576926c9974169867d3c031a0896",
+            "width": 364,
+            "height": 273,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_0158d_RDGhw59RuX4iMCaT4yLwQEH8",
+          "timestamp": 1738274545,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_0158d_RDGhw59RuX4iMCaT4yLwQEH8/1738274545.jpeg?s=80ae119579d61f2188a6c4017fc0317e73cba92c",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 0,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "6.7",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "126.7",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego 77073 Fortnite Battle Bus, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 120,00 €, 126,70 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 1.333543300628662,
         "matched_queries": []
       }
     },
@@ -6981,7 +6981,7 @@
         "accessibility_label": "Lego Fortnite 77073 Battle Bus, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 100,00 €, 105,70 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 1.254066944122314,
+        "score": 1.254015445709229,
         "matched_queries": []
       }
     },
@@ -7146,7 +7146,7 @@
         "accessibility_label": "Lego 77073 Neuf, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 125,00 €, 131,95 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 1.244881629943848,
+        "score": 1.244836807250977,
         "matched_queries": []
       }
     },
@@ -7311,7 +7311,7 @@
         "accessibility_label": "Autobús de batalla lego ref: 77073, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 300,00 €, 315,70 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 1.19451904296875,
+        "score": 1.194324016571045,
         "matched_queries": []
       }
     },
@@ -7476,7 +7476,7 @@
         "accessibility_label": "Lego Fortnite Battlebus 77073, marque: LEGO, état: Très bon état, taille: Taille unique, 119,99 €, 126,69 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 1.164621353149414,
+        "score": 1.164573192596436,
         "matched_queries": []
       }
     },
@@ -7641,7 +7641,7 @@
         "accessibility_label": "Lego Fortnite bus della battaglia 77073 nuovo, marque: LEGO, état: Neuf avec étiquette, taille: 10 ans / 140 cm, 130,00 €, 137,20 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 1.114229679107666,
+        "score": 1.114268779754639,
         "matched_queries": []
       }
     },
@@ -7806,7 +7806,7 @@
         "accessibility_label": "Lego Fortnite 77073: Bus, marque: LEGO, état: Neuf avec étiquette, taille: 10 ans / 140 cm, 105,00 €, 110,95 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 1.03124475479126,
+        "score": 1.031273365020752,
         "matched_queries": []
       }
     },
@@ -7971,172 +7971,7 @@
         "accessibility_label": "Lego 77073 Fortnite, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 140,00 €, 147,70 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 0.9297890663146973,
-        "matched_queries": []
-      }
-    },
-    {
-      "id": 5507671445,
-      "title": "Lego Fortnite Bus de combat 77073",
-      "price": {
-        "amount": "170.0",
-        "currency_code": "EUR"
-      },
-      "is_visible": true,
-      "discount": null,
-      "brand_title": "LEGO",
-      "path": "/items/5507671445-lego-fortnite-bus-de-combat-77073",
-      "user": {
-        "id": 38288574,
-        "login": "lusoperuano",
-        "profile_url": "https://www.vinted.fr/member/38288574-lusoperuano",
-        "photo": {
-          "id": 222734678,
-          "width": 640,
-          "height": 800,
-          "temp_uuid": null,
-          "url": "https://images1.vinted.net/t/01_019e2_zebLKTUjX2h28QA2BGGyLUVa/f800/1734476276.jpeg?s=85710329efb10eeb0021f46af67db0cac59275ac",
-          "dominant_color": "#31abc2",
-          "dominant_color_opaque": "#C1E6ED",
-          "thumbnails": [
-            {
-              "type": "thumb310",
-              "url": "https://images1.vinted.net/t/01_019e2_zebLKTUjX2h28QA2BGGyLUVa/310x310/1734476276.jpeg?s=f260d22cf3f44f331b8d4593577373155cf432b3",
-              "width": 310,
-              "height": 310,
-              "original_size": null
-            },
-            {
-              "type": "thumb150",
-              "url": "https://images1.vinted.net/t/01_019e2_zebLKTUjX2h28QA2BGGyLUVa/150x150/1734476276.jpeg?s=219080cd40ef211cfd07b3eb776e331af301e720",
-              "width": 150,
-              "height": 150,
-              "original_size": null
-            },
-            {
-              "type": "thumb100",
-              "url": "https://images1.vinted.net/t/01_019e2_zebLKTUjX2h28QA2BGGyLUVa/100x100/1734476276.jpeg?s=2dd1fa0c5c133fc65bd368b99a9bf27544661c90",
-              "width": 100,
-              "height": 100,
-              "original_size": null
-            },
-            {
-              "type": "thumb50",
-              "url": "https://images1.vinted.net/t/01_019e2_zebLKTUjX2h28QA2BGGyLUVa/50x50/1734476276.jpeg?s=8eb7bff6404e514ec3e1c38bd1b68f78b8185552",
-              "width": 50,
-              "height": 50,
-              "original_size": null
-            },
-            {
-              "type": "thumb20",
-              "url": "https://images1.vinted.net/t/01_019e2_zebLKTUjX2h28QA2BGGyLUVa/20x20/1734476276.jpeg?s=d99544c5b68cd3d1aebef6e78808673d57d28959",
-              "width": 20,
-              "height": 20,
-              "original_size": null
-            }
-          ],
-          "is_suspicious": false,
-          "orientation": null,
-          "high_resolution": {
-            "id": "01_019e2_zebLKTUjX2h28QA2BGGyLUVa",
-            "timestamp": 1734476276,
-            "orientation": null
-          },
-          "full_size_url": "https://images1.vinted.net/tc/01_019e2_zebLKTUjX2h28QA2BGGyLUVa/1734476276.jpeg?s=6c073db8ce57c83b8ea1d5544040a81d03730d93",
-          "is_hidden": false,
-          "extra": {}
-        },
-        "business": false
-      },
-      "conversion": null,
-      "url": "https://www.vinted.fr/items/5507671445-lego-fortnite-bus-de-combat-77073",
-      "promoted": false,
-      "photo": {
-        "id": 22302667426,
-        "image_no": 1,
-        "width": 800,
-        "height": 600,
-        "dominant_color": "#434A57",
-        "dominant_color_opaque": "#C7C9CD",
-        "url": "https://images1.vinted.net/t/04_015f9_hjAu9usTAC8bTxgUT45nQNn6/f800/1733778744.jpeg?s=ccadc8ec2142c0b1df0452d6b7d924ad47524e24",
-        "is_main": true,
-        "thumbnails": [
-          {
-            "type": "thumb70x100",
-            "url": "https://images1.vinted.net/t/04_015f9_hjAu9usTAC8bTxgUT45nQNn6/70x100/1733778744.jpeg?s=a5c8711ecc03e68c4dc85b42606a0fd0df5c78c7",
-            "width": 70,
-            "height": 100,
-            "original_size": null
-          },
-          {
-            "type": "thumb150x210",
-            "url": "https://images1.vinted.net/t/04_015f9_hjAu9usTAC8bTxgUT45nQNn6/150x210/1733778744.jpeg?s=8c6a3b4e6303288084cd9629ae10debe01c08ab0",
-            "width": 150,
-            "height": 210,
-            "original_size": null
-          },
-          {
-            "type": "thumb310x430",
-            "url": "https://images1.vinted.net/t/04_015f9_hjAu9usTAC8bTxgUT45nQNn6/310x430/1733778744.jpeg?s=ebac975a1db74d67621c91077a25a0e9f0ea3fd0",
-            "width": 310,
-            "height": 430,
-            "original_size": null
-          },
-          {
-            "type": "thumb428x624",
-            "url": "https://images1.vinted.net/t/04_015f9_hjAu9usTAC8bTxgUT45nQNn6/f800/1733778744.jpeg?s=ccadc8ec2142c0b1df0452d6b7d924ad47524e24",
-            "width": 428,
-            "height": 321,
-            "original_size": true
-          },
-          {
-            "type": "thumb624x428",
-            "url": "https://images1.vinted.net/t/04_015f9_hjAu9usTAC8bTxgUT45nQNn6/f800/1733778744.jpeg?s=ccadc8ec2142c0b1df0452d6b7d924ad47524e24",
-            "width": 624,
-            "height": 468,
-            "original_size": true
-          },
-          {
-            "type": "thumb364x428",
-            "url": "https://images1.vinted.net/t/04_015f9_hjAu9usTAC8bTxgUT45nQNn6/f800/1733778744.jpeg?s=ccadc8ec2142c0b1df0452d6b7d924ad47524e24",
-            "width": 364,
-            "height": 273,
-            "original_size": true
-          }
-        ],
-        "high_resolution": {
-          "id": "04_015f9_hjAu9usTAC8bTxgUT45nQNn6",
-          "timestamp": 1733778744,
-          "orientation": null
-        },
-        "is_suspicious": false,
-        "full_size_url": "https://images1.vinted.net/tc/04_015f9_hjAu9usTAC8bTxgUT45nQNn6/1733778744.jpeg?s=903de46e762a30051220140940c90d29168f5508",
-        "is_hidden": false,
-        "extra": {}
-      },
-      "favourite_count": 9,
-      "is_favourite": false,
-      "badge": null,
-      "service_fee": {
-        "amount": "9.2",
-        "currency_code": "EUR"
-      },
-      "total_item_price": {
-        "amount": "179.2",
-        "currency_code": "EUR"
-      },
-      "view_count": 0,
-      "size_title": "Taille unique",
-      "content_source": "search",
-      "status": "Neuf avec étiquette",
-      "icon_badges": [],
-      "item_box": {
-        "first_line": "LEGO",
-        "second_line": "Taille unique",
-        "accessibility_label": "Lego Fortnite Bus de combat 77073, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 170,00 €, 179,20 € Protection acheteurs incluse"
-      },
-      "search_tracking_params": {
-        "score": 0.8488965034484863,
+        "score": 0.9297223091125488,
         "matched_queries": []
       }
     },
@@ -8301,7 +8136,172 @@
         "accessibility_label": "Lego 77073, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 120,00 €, 126,70 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 0.8165626525878906,
+        "score": 0.8164873123168945,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5507671445,
+      "title": "Lego Fortnite Bus de combat 77073",
+      "price": {
+        "amount": "170.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5507671445-lego-fortnite-bus-de-combat-77073",
+      "user": {
+        "id": 38288574,
+        "login": "lusoperuano",
+        "profile_url": "https://www.vinted.fr/member/38288574-lusoperuano",
+        "photo": {
+          "id": 222734678,
+          "width": 640,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/01_019e2_zebLKTUjX2h28QA2BGGyLUVa/f800/1734476276.jpeg?s=85710329efb10eeb0021f46af67db0cac59275ac",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/01_019e2_zebLKTUjX2h28QA2BGGyLUVa/310x310/1734476276.jpeg?s=f260d22cf3f44f331b8d4593577373155cf432b3",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/01_019e2_zebLKTUjX2h28QA2BGGyLUVa/150x150/1734476276.jpeg?s=219080cd40ef211cfd07b3eb776e331af301e720",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/01_019e2_zebLKTUjX2h28QA2BGGyLUVa/100x100/1734476276.jpeg?s=2dd1fa0c5c133fc65bd368b99a9bf27544661c90",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/01_019e2_zebLKTUjX2h28QA2BGGyLUVa/50x50/1734476276.jpeg?s=8eb7bff6404e514ec3e1c38bd1b68f78b8185552",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/01_019e2_zebLKTUjX2h28QA2BGGyLUVa/20x20/1734476276.jpeg?s=d99544c5b68cd3d1aebef6e78808673d57d28959",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "01_019e2_zebLKTUjX2h28QA2BGGyLUVa",
+            "timestamp": 1734476276,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/01_019e2_zebLKTUjX2h28QA2BGGyLUVa/1734476276.jpeg?s=6c073db8ce57c83b8ea1d5544040a81d03730d93",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5507671445-lego-fortnite-bus-de-combat-77073",
+      "promoted": false,
+      "photo": {
+        "id": 22302667426,
+        "image_no": 1,
+        "width": 800,
+        "height": 600,
+        "dominant_color": "#434A57",
+        "dominant_color_opaque": "#C7C9CD",
+        "url": "https://images1.vinted.net/t/04_015f9_hjAu9usTAC8bTxgUT45nQNn6/f800/1733778744.jpeg?s=ccadc8ec2142c0b1df0452d6b7d924ad47524e24",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_015f9_hjAu9usTAC8bTxgUT45nQNn6/70x100/1733778744.jpeg?s=a5c8711ecc03e68c4dc85b42606a0fd0df5c78c7",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_015f9_hjAu9usTAC8bTxgUT45nQNn6/150x210/1733778744.jpeg?s=8c6a3b4e6303288084cd9629ae10debe01c08ab0",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_015f9_hjAu9usTAC8bTxgUT45nQNn6/310x430/1733778744.jpeg?s=ebac975a1db74d67621c91077a25a0e9f0ea3fd0",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_015f9_hjAu9usTAC8bTxgUT45nQNn6/f800/1733778744.jpeg?s=ccadc8ec2142c0b1df0452d6b7d924ad47524e24",
+            "width": 428,
+            "height": 321,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_015f9_hjAu9usTAC8bTxgUT45nQNn6/f800/1733778744.jpeg?s=ccadc8ec2142c0b1df0452d6b7d924ad47524e24",
+            "width": 624,
+            "height": 468,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_015f9_hjAu9usTAC8bTxgUT45nQNn6/f800/1733778744.jpeg?s=ccadc8ec2142c0b1df0452d6b7d924ad47524e24",
+            "width": 364,
+            "height": 273,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_015f9_hjAu9usTAC8bTxgUT45nQNn6",
+          "timestamp": 1733778744,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_015f9_hjAu9usTAC8bTxgUT45nQNn6/1733778744.jpeg?s=903de46e762a30051220140940c90d29168f5508",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 9,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "9.2",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "179.2",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego Fortnite Bus de combat 77073, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 170,00 €, 179,20 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 0.848811149597168,
         "matched_queries": []
       }
     },
@@ -8466,7 +8466,7 @@
         "accessibility_label": "77073 Lego Battle Bus Fortnite, marque: LEGO, état: Neuf avec étiquette, 122,00 €, 128,80 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 0.6530966758728027,
+        "score": 0.6529788970947266,
         "matched_queries": []
       }
     },
@@ -8576,7 +8576,7 @@
         "accessibility_label": "Lego bus fortnite 77073, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 150,00 €, 158,20 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 0.536221981048584,
+        "score": 0.5362744331359863,
         "matched_queries": []
       }
     },
@@ -8741,7 +8741,7 @@
         "accessibility_label": "Fortnite Lego Battle Bus 77073, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 174,99 €, 184,44 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 0.3365755081176758,
+        "score": 0.336522102355957,
         "matched_queries": []
       }
     },
@@ -8906,7 +8906,7 @@
         "accessibility_label": "Lego Fortnite 77073: Battle Bus with Cuddle Team Leader, Meowscles, Drift, Peely, Brite Bomber, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 120,00 €, 126,70 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": -0.007227086927741766,
+        "score": -0.007262210827320814,
         "matched_queries": []
       }
     }
@@ -8915,7 +8915,7 @@
     "id": 89162,
     "title": "LEGO",
     "slug": "lego",
-    "favourite_count": 185159,
+    "favourite_count": 185164,
     "pretty_favourite_count": "185.2K",
     "item_count": 2321353,
     "pretty_item_count": "2.3M",
@@ -8928,16 +8928,16 @@
     "is_favourite": false
   },
   "search_tracking_params": {
-    "search_correlation_id": "8b1301ce-b2a4-4999-a793-ebdb4620d552",
-    "search_session_id": "f1c57240-9b7c-4c3b-9155-22f8863d65e6",
-    "global_search_session_id": "037ab32d-0910-4ab6-ba61-da18e5dac71a"
+    "search_correlation_id": "85c00cc5-6c5d-4e5b-ac2a-c685fb0829dd",
+    "search_session_id": "cb09cf31-d6ca-44c2-ae25-299d589d8552",
+    "global_search_session_id": "bdcb13ae-6c48-4f0f-baca-c652cdb1106f"
   },
   "pagination": {
     "current_page": 1,
     "total_pages": 1,
     "total_entries": 57,
     "per_page": 96,
-    "time": 1741612907
+    "time": 1741614506
   },
   "code": 0
 }

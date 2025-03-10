@@ -106,7 +106,7 @@
         "accessibility_label": "Lego McLaren P1 42172, marque: LEGO, état: Très bon état, taille: XXL, 280,00 €, 294,70 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 4.685866355895996,
+        "score": 4.689203262329102,
         "matched_queries": []
       }
     },
@@ -271,7 +271,7 @@
         "accessibility_label": "42172 Lego McLaren P1, marque: LEGO, état: Neuf avec étiquette, 340,00 €, 357,70 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 4.044293403625488,
+        "score": 4.043951511383057,
         "matched_queries": []
       }
     },
@@ -436,7 +436,7 @@
         "accessibility_label": "Mclaren P1 LEGO 42172, marque: LEGO, état: Très bon état, taille: Taille unique, 300,00 €, 315,70 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 2.856964111328125,
+        "score": 2.855254650115967,
         "matched_queries": []
       }
     },
@@ -601,7 +601,7 @@
         "accessibility_label": "Lego 42172, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 400,00 €, 420,70 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 2.709774017333984,
+        "score": 2.709303855895996,
         "matched_queries": []
       }
     },
@@ -711,7 +711,7 @@
         "accessibility_label": "Lego Technic McLaren P1, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 265,00 €, 278,95 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 2.661992073059082,
+        "score": 2.639169216156006,
         "matched_queries": []
       }
     },
@@ -876,7 +876,7 @@
         "accessibility_label": "Lego McLaren 42172, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 350,00 €, 368,20 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 2.242734909057617,
+        "score": 2.194019317626953,
         "matched_queries": []
       }
     },
@@ -986,7 +986,7 @@
         "accessibility_label": "Lego Technik Lamborghini Sian FKP 37 42115 OVP & NEU, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 340,00 €, 357,70 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 2.122642517089844,
+        "score": 2.126320362091064,
         "matched_queries": []
       }
     },
@@ -1151,7 +1151,7 @@
         "accessibility_label": "Lego 42172 McLaren P1, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 419,00 €, 440,65 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 2.012766361236572,
+        "score": 2.012660026550293,
         "matched_queries": []
       }
     },
@@ -1316,7 +1316,7 @@
         "accessibility_label": "Lego Technic 42172 McLaren P1, marque: LEGO, état: Neuf avec étiquette, 360,00 €, 378,70 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 1.351920604705811,
+        "score": 1.351848602294922,
         "matched_queries": []
       }
     },
@@ -1459,7 +1459,7 @@
         "is_hidden": false,
         "extra": {}
       },
-      "favourite_count": 126,
+      "favourite_count": 127,
       "is_favourite": false,
       "badge": null,
       "service_fee": {
@@ -1481,7 +1481,7 @@
         "accessibility_label": "Lego technic, marque: LEGO, état: Neuf avec étiquette, taille: 7 ans / 122 cm, 415,00 €, 436,45 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 1.192958354949951,
+        "score": 1.188408374786377,
         "matched_queries": []
       }
     },
@@ -1646,7 +1646,7 @@
         "accessibility_label": "Lego 42172, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 369,00 €, 388,15 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 0.3762216567993164,
+        "score": 0.3760881423950195,
         "matched_queries": []
       }
     }
@@ -1655,7 +1655,7 @@
     "id": 89162,
     "title": "LEGO",
     "slug": "lego",
-    "favourite_count": 185159,
+    "favourite_count": 185164,
     "pretty_favourite_count": "185.2K",
     "item_count": 2321353,
     "pretty_item_count": "2.3M",
@@ -1668,16 +1668,16 @@
     "is_favourite": false
   },
   "search_tracking_params": {
-    "search_correlation_id": "36e3aaf2-0d6c-411f-a63d-90d7aebf3046",
-    "search_session_id": "31e8574a-13f2-4f65-8f65-24da761495ab",
-    "global_search_session_id": "d3a9ec2f-0bc7-42c6-a58e-1a6ca9dfab67"
+    "search_correlation_id": "ea53f7c1-3b18-42d4-a98d-f51983c5625b",
+    "search_session_id": "b7f8f515-7bd0-4848-a626-7dc4774294dd",
+    "global_search_session_id": "8b5fca3e-8baa-4ac8-843e-8e8b08ec83ff"
   },
   "pagination": {
     "current_page": 1,
     "total_pages": 1,
     "total_entries": 11,
     "per_page": 96,
-    "time": 1741612908
+    "time": 1741614506
   },
   "code": 0
 }

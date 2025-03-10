@@ -2,16 +2,16 @@
   "items": [],
   "dominant_brand": null,
   "search_tracking_params": {
-    "search_correlation_id": "b3e99675-ad8e-4640-a52a-78024e992406",
-    "search_session_id": "2a2e6814-dc7e-4285-8dfc-d6d6f84632dd",
-    "global_search_session_id": "dfbf8117-8823-4529-a79a-f7d998aa4fd7"
+    "search_correlation_id": "3b55e8f3-8fa6-4244-97e4-f828858e0f07",
+    "search_session_id": "b4dc317a-fc7d-4192-b443-1d9d23cd8ece",
+    "global_search_session_id": "f7d2c9ce-3953-4fa4-90a2-24c4e7e02783"
   },
   "pagination": {
     "current_page": 1,
     "total_pages": 1,
     "total_entries": 0,
     "per_page": 960,
-    "time": 1741612908
+    "time": 1741614507
   },
   "code": 0
 }

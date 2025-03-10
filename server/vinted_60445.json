@@ -161,7 +161,117 @@
         "accessibility_label": "Lego City 60445 Formula Uno, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 75,00 €, 79,45 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 4.656238555908203,
+        "score": 4.654165267944336,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5944261616,
+      "title": "Set lego \"City formula 1\" 60445",
+      "price": {
+        "amount": "74.99",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5944261616-set-lego-city-formula-1-60445",
+      "user": {
+        "id": 255342392,
+        "login": "brendarinaldi97",
+        "profile_url": "https://www.vinted.fr/member/255342392-brendarinaldi97",
+        "photo": null,
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5944261616-set-lego-city-formula-1-60445",
+      "promoted": false,
+      "photo": {
+        "id": 24102536383,
+        "image_no": 1,
+        "width": 450,
+        "height": 800,
+        "dominant_color": "#8D7F78",
+        "dominant_color_opaque": "#DDD9D7",
+        "url": "https://images1.vinted.net/t/04_01b34_WQpzAvz3LvFWu8jhoqHh2aft/f800/1741604399.jpeg?s=f8a20feb25bb0edf0be93c7467f199118880b0bc",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_01b34_WQpzAvz3LvFWu8jhoqHh2aft/70x100/1741604399.jpeg?s=b12bc557a2a58fa17b549b4169f6baa6aa05282c",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_01b34_WQpzAvz3LvFWu8jhoqHh2aft/150x210/1741604399.jpeg?s=66158bff196aca5bff0da73b0abce1ef5747ad9c",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_01b34_WQpzAvz3LvFWu8jhoqHh2aft/310x430/1741604399.jpeg?s=084367f61901338338f6471581f2ccf5c46d2ab9",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_01b34_WQpzAvz3LvFWu8jhoqHh2aft/f800/1741604399.jpeg?s=f8a20feb25bb0edf0be93c7467f199118880b0bc",
+            "width": 240,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_01b34_WQpzAvz3LvFWu8jhoqHh2aft/f800/1741604399.jpeg?s=f8a20feb25bb0edf0be93c7467f199118880b0bc",
+            "width": 351,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_01b34_WQpzAvz3LvFWu8jhoqHh2aft/f800/1741604399.jpeg?s=f8a20feb25bb0edf0be93c7467f199118880b0bc",
+            "width": 204,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_01b34_WQpzAvz3LvFWu8jhoqHh2aft",
+          "timestamp": 1741604399,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_01b34_WQpzAvz3LvFWu8jhoqHh2aft/1741604399.jpeg?s=4647209ca5989f3acb32865ca31a628bde540fca",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 3,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "4.45",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "79.44",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf sans étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Set lego \"City formula 1\" 60445, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 74,99 €, 79,44 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 3.456870079040527,
         "matched_queries": []
       }
     },
@@ -326,91 +436,91 @@
         "accessibility_label": "Lego 60445, marque: LEGO, état: Neuf avec étiquette, taille: 8 ans / 128 cm, 76,00 €, 80,50 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 3.508506298065186,
+        "score": 3.444536209106445,
         "matched_queries": []
       }
     },
     {
-      "id": 5944261616,
-      "title": "Set lego \"City formula 1\" 60445",
+      "id": 5944155499,
+      "title": "LEGO City Camion de F1 avec voitures de F1 RB20 et AMR24C'est",
       "price": {
-        "amount": "74.99",
+        "amount": "79.0",
         "currency_code": "EUR"
       },
       "is_visible": true,
       "discount": null,
       "brand_title": "LEGO",
-      "path": "/items/5944261616-set-lego-city-formula-1-60445",
+      "path": "/items/5944155499-lego-city-camion-de-f1-avec-voitures-de-f1-rb20-et-amr24cest",
       "user": {
-        "id": 255342392,
-        "login": "brendarinaldi97",
-        "profile_url": "https://www.vinted.fr/member/255342392-brendarinaldi97",
+        "id": 148857563,
+        "login": "goinsteen7",
+        "profile_url": "https://www.vinted.fr/member/148857563-goinsteen7",
         "photo": null,
         "business": false
       },
       "conversion": null,
-      "url": "https://www.vinted.fr/items/5944261616-set-lego-city-formula-1-60445",
+      "url": "https://www.vinted.fr/items/5944155499-lego-city-camion-de-f1-avec-voitures-de-f1-rb20-et-amr24cest",
       "promoted": false,
       "photo": {
-        "id": 24102536383,
+        "id": 24102103519,
         "image_no": 1,
-        "width": 450,
-        "height": 800,
-        "dominant_color": "#8D7F78",
-        "dominant_color_opaque": "#DDD9D7",
-        "url": "https://images1.vinted.net/t/04_01b34_WQpzAvz3LvFWu8jhoqHh2aft/f800/1741604399.jpeg?s=f8a20feb25bb0edf0be93c7467f199118880b0bc",
+        "width": 800,
+        "height": 600,
+        "dominant_color": "#684F47",
+        "dominant_color_opaque": "#D2CAC8",
+        "url": "https://images1.vinted.net/t/04_01011_EMijUow4jgGE7T4RyjmEfLhF/f800/1741603404.jpeg?s=bf498ba86566cd1e01d2641d6546cfdc45677ebc",
         "is_main": true,
         "thumbnails": [
           {
             "type": "thumb70x100",
-            "url": "https://images1.vinted.net/t/04_01b34_WQpzAvz3LvFWu8jhoqHh2aft/70x100/1741604399.jpeg?s=b12bc557a2a58fa17b549b4169f6baa6aa05282c",
+            "url": "https://images1.vinted.net/t/04_01011_EMijUow4jgGE7T4RyjmEfLhF/70x100/1741603404.jpeg?s=84de880aaa849ca8cfc9ef8a2078e7605b135f78",
             "width": 70,
             "height": 100,
             "original_size": null
           },
           {
             "type": "thumb150x210",
-            "url": "https://images1.vinted.net/t/04_01b34_WQpzAvz3LvFWu8jhoqHh2aft/150x210/1741604399.jpeg?s=66158bff196aca5bff0da73b0abce1ef5747ad9c",
+            "url": "https://images1.vinted.net/t/04_01011_EMijUow4jgGE7T4RyjmEfLhF/150x210/1741603404.jpeg?s=579eb9b3b167512ca4d14cfe54b93fbb80e5ae7a",
             "width": 150,
             "height": 210,
             "original_size": null
           },
           {
             "type": "thumb310x430",
-            "url": "https://images1.vinted.net/t/04_01b34_WQpzAvz3LvFWu8jhoqHh2aft/310x430/1741604399.jpeg?s=084367f61901338338f6471581f2ccf5c46d2ab9",
+            "url": "https://images1.vinted.net/t/04_01011_EMijUow4jgGE7T4RyjmEfLhF/310x430/1741603404.jpeg?s=3bcf66f02d41fa81ae8e524dd422bcf1b7a3fefe",
             "width": 310,
             "height": 430,
             "original_size": null
           },
           {
             "type": "thumb428x624",
-            "url": "https://images1.vinted.net/t/04_01b34_WQpzAvz3LvFWu8jhoqHh2aft/f800/1741604399.jpeg?s=f8a20feb25bb0edf0be93c7467f199118880b0bc",
-            "width": 240,
-            "height": 428,
+            "url": "https://images1.vinted.net/t/04_01011_EMijUow4jgGE7T4RyjmEfLhF/f800/1741603404.jpeg?s=bf498ba86566cd1e01d2641d6546cfdc45677ebc",
+            "width": 428,
+            "height": 321,
             "original_size": true
           },
           {
             "type": "thumb624x428",
-            "url": "https://images1.vinted.net/t/04_01b34_WQpzAvz3LvFWu8jhoqHh2aft/f800/1741604399.jpeg?s=f8a20feb25bb0edf0be93c7467f199118880b0bc",
-            "width": 351,
-            "height": 624,
+            "url": "https://images1.vinted.net/t/04_01011_EMijUow4jgGE7T4RyjmEfLhF/f800/1741603404.jpeg?s=bf498ba86566cd1e01d2641d6546cfdc45677ebc",
+            "width": 624,
+            "height": 468,
             "original_size": true
           },
           {
             "type": "thumb364x428",
-            "url": "https://images1.vinted.net/t/04_01b34_WQpzAvz3LvFWu8jhoqHh2aft/f800/1741604399.jpeg?s=f8a20feb25bb0edf0be93c7467f199118880b0bc",
-            "width": 204,
-            "height": 364,
+            "url": "https://images1.vinted.net/t/04_01011_EMijUow4jgGE7T4RyjmEfLhF/f800/1741603404.jpeg?s=bf498ba86566cd1e01d2641d6546cfdc45677ebc",
+            "width": 364,
+            "height": 273,
             "original_size": true
           }
         ],
         "high_resolution": {
-          "id": "04_01b34_WQpzAvz3LvFWu8jhoqHh2aft",
-          "timestamp": 1741604399,
-          "orientation": null
+          "id": "04_01011_EMijUow4jgGE7T4RyjmEfLhF",
+          "timestamp": 1741603404,
+          "orientation": 0
         },
         "is_suspicious": false,
-        "full_size_url": "https://images1.vinted.net/tc/04_01b34_WQpzAvz3LvFWu8jhoqHh2aft/1741604399.jpeg?s=4647209ca5989f3acb32865ca31a628bde540fca",
+        "full_size_url": "https://images1.vinted.net/tc/04_01011_EMijUow4jgGE7T4RyjmEfLhF/1741603404.jpeg?s=2fb1f5d383b3d044a61a642f91d84b5636c04d35",
         "is_hidden": false,
         "extra": {}
       },
@@ -418,25 +528,25 @@
       "is_favourite": false,
       "badge": null,
       "service_fee": {
-        "amount": "4.45",
+        "amount": "4.65",
         "currency_code": "EUR"
       },
       "total_item_price": {
-        "amount": "79.44",
+        "amount": "83.65",
         "currency_code": "EUR"
       },
       "view_count": 0,
-      "size_title": "Taille unique",
+      "size_title": "Prématuré, jusqu'à 44cm",
       "content_source": "search",
-      "status": "Neuf sans étiquette",
+      "status": "Neuf avec étiquette",
       "icon_badges": [],
       "item_box": {
         "first_line": "LEGO",
-        "second_line": "Taille unique",
-        "accessibility_label": "Set lego \"City formula 1\" 60445, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 74,99 €, 79,44 € Protection acheteurs incluse"
+        "second_line": "Prématuré, jusqu'à 44cm",
+        "accessibility_label": "LEGO City Camion de F1 avec voitures de F1 RB20 et AMR24C'est, marque: LEGO, état: Neuf avec étiquette, taille: Prématuré, jusqu'à 44cm, 79,00 €, 83,65 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 3.448520183563232,
+        "score": 3.356973171234131,
         "matched_queries": []
       }
     },
@@ -546,7 +656,7 @@
         "accessibility_label": "LEGO City Camion de F1 avec voitures de F1 RB20 et AMR24, marque: LEGO, état: Neuf avec étiquette, taille: Prématuré, jusqu'à 44cm, 79,00 €, 83,65 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 3.039758205413818,
+        "score": 2.999178886413574,
         "matched_queries": []
       }
     },
@@ -656,282 +766,7 @@
         "accessibility_label": "LEGO City Camion de F1 avec voitures de F1 RB20 et AMR24C'est, marque: LEGO, état: Neuf avec étiquette, taille: Prématuré, jusqu'à 44cm, 79,00 €, 83,65 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 2.938727378845215,
-        "matched_queries": []
-      }
-    },
-    {
-      "id": 5944155499,
-      "title": "LEGO City Camion de F1 avec voitures de F1 RB20 et AMR24C'est",
-      "price": {
-        "amount": "79.0",
-        "currency_code": "EUR"
-      },
-      "is_visible": true,
-      "discount": null,
-      "brand_title": "LEGO",
-      "path": "/items/5944155499-lego-city-camion-de-f1-avec-voitures-de-f1-rb20-et-amr24cest",
-      "user": {
-        "id": 148857563,
-        "login": "goinsteen7",
-        "profile_url": "https://www.vinted.fr/member/148857563-goinsteen7",
-        "photo": null,
-        "business": false
-      },
-      "conversion": null,
-      "url": "https://www.vinted.fr/items/5944155499-lego-city-camion-de-f1-avec-voitures-de-f1-rb20-et-amr24cest",
-      "promoted": false,
-      "photo": {
-        "id": 24102103519,
-        "image_no": 1,
-        "width": 800,
-        "height": 600,
-        "dominant_color": "#684F47",
-        "dominant_color_opaque": "#D2CAC8",
-        "url": "https://images1.vinted.net/t/04_01011_EMijUow4jgGE7T4RyjmEfLhF/f800/1741603404.jpeg?s=bf498ba86566cd1e01d2641d6546cfdc45677ebc",
-        "is_main": true,
-        "thumbnails": [
-          {
-            "type": "thumb70x100",
-            "url": "https://images1.vinted.net/t/04_01011_EMijUow4jgGE7T4RyjmEfLhF/70x100/1741603404.jpeg?s=84de880aaa849ca8cfc9ef8a2078e7605b135f78",
-            "width": 70,
-            "height": 100,
-            "original_size": null
-          },
-          {
-            "type": "thumb150x210",
-            "url": "https://images1.vinted.net/t/04_01011_EMijUow4jgGE7T4RyjmEfLhF/150x210/1741603404.jpeg?s=579eb9b3b167512ca4d14cfe54b93fbb80e5ae7a",
-            "width": 150,
-            "height": 210,
-            "original_size": null
-          },
-          {
-            "type": "thumb310x430",
-            "url": "https://images1.vinted.net/t/04_01011_EMijUow4jgGE7T4RyjmEfLhF/310x430/1741603404.jpeg?s=3bcf66f02d41fa81ae8e524dd422bcf1b7a3fefe",
-            "width": 310,
-            "height": 430,
-            "original_size": null
-          },
-          {
-            "type": "thumb428x624",
-            "url": "https://images1.vinted.net/t/04_01011_EMijUow4jgGE7T4RyjmEfLhF/f800/1741603404.jpeg?s=bf498ba86566cd1e01d2641d6546cfdc45677ebc",
-            "width": 428,
-            "height": 321,
-            "original_size": true
-          },
-          {
-            "type": "thumb624x428",
-            "url": "https://images1.vinted.net/t/04_01011_EMijUow4jgGE7T4RyjmEfLhF/f800/1741603404.jpeg?s=bf498ba86566cd1e01d2641d6546cfdc45677ebc",
-            "width": 624,
-            "height": 468,
-            "original_size": true
-          },
-          {
-            "type": "thumb364x428",
-            "url": "https://images1.vinted.net/t/04_01011_EMijUow4jgGE7T4RyjmEfLhF/f800/1741603404.jpeg?s=bf498ba86566cd1e01d2641d6546cfdc45677ebc",
-            "width": 364,
-            "height": 273,
-            "original_size": true
-          }
-        ],
-        "high_resolution": {
-          "id": "04_01011_EMijUow4jgGE7T4RyjmEfLhF",
-          "timestamp": 1741603404,
-          "orientation": 0
-        },
-        "is_suspicious": false,
-        "full_size_url": "https://images1.vinted.net/tc/04_01011_EMijUow4jgGE7T4RyjmEfLhF/1741603404.jpeg?s=2fb1f5d383b3d044a61a642f91d84b5636c04d35",
-        "is_hidden": false,
-        "extra": {}
-      },
-      "favourite_count": 1,
-      "is_favourite": false,
-      "badge": null,
-      "service_fee": {
-        "amount": "4.65",
-        "currency_code": "EUR"
-      },
-      "total_item_price": {
-        "amount": "83.65",
-        "currency_code": "EUR"
-      },
-      "view_count": 0,
-      "size_title": "Prématuré, jusqu'à 44cm",
-      "content_source": "search",
-      "status": "Neuf avec étiquette",
-      "icon_badges": [],
-      "item_box": {
-        "first_line": "LEGO",
-        "second_line": "Prématuré, jusqu'à 44cm",
-        "accessibility_label": "LEGO City Camion de F1 avec voitures de F1 RB20 et AMR24C'est, marque: LEGO, état: Neuf avec étiquette, taille: Prématuré, jusqu'à 44cm, 79,00 €, 83,65 € Protection acheteurs incluse"
-      },
-      "search_tracking_params": {
-        "score": 2.903634071350098,
-        "matched_queries": []
-      }
-    },
-    {
-      "id": 5871255940,
-      "title": "LEGO City 60445 : camion F1 avec F1 RB20 & AMR24",
-      "price": {
-        "amount": "85.0",
-        "currency_code": "EUR"
-      },
-      "is_visible": true,
-      "discount": null,
-      "brand_title": "LEGO",
-      "path": "/items/5871255940-lego-city-60445-camion-f1-avec-f1-rb20-amr24",
-      "user": {
-        "id": 13728547,
-        "login": "team_g",
-        "profile_url": "https://www.vinted.fr/member/13728547-teamg",
-        "photo": {
-          "id": 101244031,
-          "width": 607,
-          "height": 607,
-          "temp_uuid": null,
-          "url": "https://images1.vinted.net/t/03_01809_wPYbCenGAhz4yUsvhYRGznPv/f800/1659554539.jpeg?s=d14c3719a7f19b49f6b99ef3fe14c2d4e59278e8",
-          "dominant_color": "#31abc2",
-          "dominant_color_opaque": "#C1E6ED",
-          "thumbnails": [
-            {
-              "type": "thumb310",
-              "url": "https://images1.vinted.net/t/03_01809_wPYbCenGAhz4yUsvhYRGznPv/310x310/1659554539.jpeg?s=9177bfca1f6e844e7f09d7856e17b8d0d3c356f9",
-              "width": 310,
-              "height": 310,
-              "original_size": null
-            },
-            {
-              "type": "thumb150",
-              "url": "https://images1.vinted.net/t/03_01809_wPYbCenGAhz4yUsvhYRGznPv/150x150/1659554539.jpeg?s=1eaa9ffdcfdb0e2a474a085581d47fea97fc07f3",
-              "width": 150,
-              "height": 150,
-              "original_size": null
-            },
-            {
-              "type": "thumb100",
-              "url": "https://images1.vinted.net/t/03_01809_wPYbCenGAhz4yUsvhYRGznPv/100x100/1659554539.jpeg?s=2ead6619db062c8f04a871848b0a2f5f01d9d7fe",
-              "width": 100,
-              "height": 100,
-              "original_size": null
-            },
-            {
-              "type": "thumb50",
-              "url": "https://images1.vinted.net/t/03_01809_wPYbCenGAhz4yUsvhYRGznPv/50x50/1659554539.jpeg?s=ecf1400efab6f1572a3fc845706bcfcc5dcbbf4e",
-              "width": 50,
-              "height": 50,
-              "original_size": null
-            },
-            {
-              "type": "thumb20",
-              "url": "https://images1.vinted.net/t/03_01809_wPYbCenGAhz4yUsvhYRGznPv/20x20/1659554539.jpeg?s=7ca31df3caccea02c8a745a0cc5b7e5c1b3b4899",
-              "width": 20,
-              "height": 20,
-              "original_size": null
-            }
-          ],
-          "is_suspicious": false,
-          "orientation": null,
-          "high_resolution": {
-            "id": "03_01809_wPYbCenGAhz4yUsvhYRGznPv",
-            "timestamp": 1659554539,
-            "orientation": null
-          },
-          "full_size_url": "https://images1.vinted.net/tc/03_01809_wPYbCenGAhz4yUsvhYRGznPv/1659554539.jpeg?s=a11336ded78ac0c2f212984b5c36ee2bd07e03d1",
-          "is_hidden": false,
-          "extra": {}
-        },
-        "business": false
-      },
-      "conversion": null,
-      "url": "https://www.vinted.fr/items/5871255940-lego-city-60445-camion-f1-avec-f1-rb20-amr24",
-      "promoted": false,
-      "photo": {
-        "id": 23798032627,
-        "image_no": 1,
-        "width": 800,
-        "height": 402,
-        "dominant_color": "#96755A",
-        "dominant_color_opaque": "#E0D6CE",
-        "url": "https://images1.vinted.net/t/03_00ea6_3qo9Bx4wCYSrf5SUm3DfsVJG/f800/1740408837.jpeg?s=b65c6aa8ec48805ea5ffc28f062c1e54e48db42a",
-        "is_main": true,
-        "thumbnails": [
-          {
-            "type": "thumb70x100",
-            "url": "https://images1.vinted.net/t/03_00ea6_3qo9Bx4wCYSrf5SUm3DfsVJG/70x100/1740408837.jpeg?s=1595e5a03c5fd0c49b084bd25b84e8eaadd7f961",
-            "width": 70,
-            "height": 100,
-            "original_size": null
-          },
-          {
-            "type": "thumb150x210",
-            "url": "https://images1.vinted.net/t/03_00ea6_3qo9Bx4wCYSrf5SUm3DfsVJG/150x210/1740408837.jpeg?s=40c1b6c20c59f4e3a39c1b9b8ff3a81dd1841bdd",
-            "width": 150,
-            "height": 210,
-            "original_size": null
-          },
-          {
-            "type": "thumb310x430",
-            "url": "https://images1.vinted.net/t/03_00ea6_3qo9Bx4wCYSrf5SUm3DfsVJG/310x430/1740408837.jpeg?s=922fc363ba4113494b0524ff459aa9f65b56618a",
-            "width": 310,
-            "height": 430,
-            "original_size": null
-          },
-          {
-            "type": "thumb428x624",
-            "url": "https://images1.vinted.net/t/03_00ea6_3qo9Bx4wCYSrf5SUm3DfsVJG/f800/1740408837.jpeg?s=b65c6aa8ec48805ea5ffc28f062c1e54e48db42a",
-            "width": 428,
-            "height": 215,
-            "original_size": true
-          },
-          {
-            "type": "thumb624x428",
-            "url": "https://images1.vinted.net/t/03_00ea6_3qo9Bx4wCYSrf5SUm3DfsVJG/f800/1740408837.jpeg?s=b65c6aa8ec48805ea5ffc28f062c1e54e48db42a",
-            "width": 624,
-            "height": 313,
-            "original_size": true
-          },
-          {
-            "type": "thumb364x428",
-            "url": "https://images1.vinted.net/t/03_00ea6_3qo9Bx4wCYSrf5SUm3DfsVJG/f800/1740408837.jpeg?s=b65c6aa8ec48805ea5ffc28f062c1e54e48db42a",
-            "width": 364,
-            "height": 182,
-            "original_size": true
-          }
-        ],
-        "high_resolution": {
-          "id": "03_00ea6_3qo9Bx4wCYSrf5SUm3DfsVJG",
-          "timestamp": 1740408837,
-          "orientation": null
-        },
-        "is_suspicious": false,
-        "full_size_url": "https://images1.vinted.net/tc/03_00ea6_3qo9Bx4wCYSrf5SUm3DfsVJG/1740408837.jpeg?s=d6313c16e469d5093145349c24bb9d1a6249eb85",
-        "is_hidden": false,
-        "extra": {}
-      },
-      "favourite_count": 5,
-      "is_favourite": false,
-      "badge": null,
-      "service_fee": {
-        "amount": "4.95",
-        "currency_code": "EUR"
-      },
-      "total_item_price": {
-        "amount": "89.95",
-        "currency_code": "EUR"
-      },
-      "view_count": 0,
-      "size_title": "Taille unique",
-      "content_source": "search",
-      "status": "Neuf avec étiquette",
-      "icon_badges": [],
-      "item_box": {
-        "first_line": "LEGO",
-        "second_line": "Taille unique",
-        "accessibility_label": "LEGO City 60445 : camion F1 avec F1 RB20 & AMR24, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 85,00 €, 89,95 € Protection acheteurs incluse"
-      },
-      "search_tracking_params": {
-        "score": 2.804357051849365,
+        "score": 2.900420665740967,
         "matched_queries": []
       }
     },
@@ -1096,7 +931,172 @@
         "accessibility_label": "Lego 60445, marque: LEGO, état: Neuf avec étiquette, taille: 8 ans / 128 cm, 84,00 €, 88,90 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 2.692607879638672,
+        "score": 2.692513465881348,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5871255940,
+      "title": "LEGO City 60445 : camion F1 avec F1 RB20 & AMR24",
+      "price": {
+        "amount": "85.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5871255940-lego-city-60445-camion-f1-avec-f1-rb20-amr24",
+      "user": {
+        "id": 13728547,
+        "login": "team_g",
+        "profile_url": "https://www.vinted.fr/member/13728547-teamg",
+        "photo": {
+          "id": 101244031,
+          "width": 607,
+          "height": 607,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/03_01809_wPYbCenGAhz4yUsvhYRGznPv/f800/1659554539.jpeg?s=d14c3719a7f19b49f6b99ef3fe14c2d4e59278e8",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/03_01809_wPYbCenGAhz4yUsvhYRGznPv/310x310/1659554539.jpeg?s=9177bfca1f6e844e7f09d7856e17b8d0d3c356f9",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/03_01809_wPYbCenGAhz4yUsvhYRGznPv/150x150/1659554539.jpeg?s=1eaa9ffdcfdb0e2a474a085581d47fea97fc07f3",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/03_01809_wPYbCenGAhz4yUsvhYRGznPv/100x100/1659554539.jpeg?s=2ead6619db062c8f04a871848b0a2f5f01d9d7fe",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/03_01809_wPYbCenGAhz4yUsvhYRGznPv/50x50/1659554539.jpeg?s=ecf1400efab6f1572a3fc845706bcfcc5dcbbf4e",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/03_01809_wPYbCenGAhz4yUsvhYRGznPv/20x20/1659554539.jpeg?s=7ca31df3caccea02c8a745a0cc5b7e5c1b3b4899",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "03_01809_wPYbCenGAhz4yUsvhYRGznPv",
+            "timestamp": 1659554539,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/03_01809_wPYbCenGAhz4yUsvhYRGznPv/1659554539.jpeg?s=a11336ded78ac0c2f212984b5c36ee2bd07e03d1",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5871255940-lego-city-60445-camion-f1-avec-f1-rb20-amr24",
+      "promoted": false,
+      "photo": {
+        "id": 23798032627,
+        "image_no": 1,
+        "width": 800,
+        "height": 402,
+        "dominant_color": "#96755A",
+        "dominant_color_opaque": "#E0D6CE",
+        "url": "https://images1.vinted.net/t/03_00ea6_3qo9Bx4wCYSrf5SUm3DfsVJG/f800/1740408837.jpeg?s=b65c6aa8ec48805ea5ffc28f062c1e54e48db42a",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/03_00ea6_3qo9Bx4wCYSrf5SUm3DfsVJG/70x100/1740408837.jpeg?s=1595e5a03c5fd0c49b084bd25b84e8eaadd7f961",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/03_00ea6_3qo9Bx4wCYSrf5SUm3DfsVJG/150x210/1740408837.jpeg?s=40c1b6c20c59f4e3a39c1b9b8ff3a81dd1841bdd",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/03_00ea6_3qo9Bx4wCYSrf5SUm3DfsVJG/310x430/1740408837.jpeg?s=922fc363ba4113494b0524ff459aa9f65b56618a",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/03_00ea6_3qo9Bx4wCYSrf5SUm3DfsVJG/f800/1740408837.jpeg?s=b65c6aa8ec48805ea5ffc28f062c1e54e48db42a",
+            "width": 428,
+            "height": 215,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/03_00ea6_3qo9Bx4wCYSrf5SUm3DfsVJG/f800/1740408837.jpeg?s=b65c6aa8ec48805ea5ffc28f062c1e54e48db42a",
+            "width": 624,
+            "height": 313,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/03_00ea6_3qo9Bx4wCYSrf5SUm3DfsVJG/f800/1740408837.jpeg?s=b65c6aa8ec48805ea5ffc28f062c1e54e48db42a",
+            "width": 364,
+            "height": 182,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "03_00ea6_3qo9Bx4wCYSrf5SUm3DfsVJG",
+          "timestamp": 1740408837,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/03_00ea6_3qo9Bx4wCYSrf5SUm3DfsVJG/1740408837.jpeg?s=d6313c16e469d5093145349c24bb9d1a6249eb85",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 5,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "4.95",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "89.95",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "LEGO City 60445 : camion F1 avec F1 RB20 & AMR24, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 85,00 €, 89,95 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 2.663853645324707,
         "matched_queries": []
       }
     },
@@ -1261,7 +1261,7 @@
         "accessibility_label": "Set LEGO City Autotrasportatore F1 con Monoposto RB20 e AMR24 F1, marque: LEGO, état: Neuf avec étiquette, taille: 8 ans / 128 cm, 80,00 €, 84,70 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 2.666210651397705,
+        "score": 2.60756778717041,
         "matched_queries": []
       }
     },
@@ -1426,7 +1426,7 @@
         "accessibility_label": "Lego 60445, marque: LEGO, état: Neuf avec étiquette, taille: 8 ans / 128 cm, 85,00 €, 89,95 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 2.545690536499023,
+        "score": 2.537421703338623,
         "matched_queries": []
       }
     },
@@ -1591,7 +1591,7 @@
         "accessibility_label": "Lego 60445 Autotrasportatore F1, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 75,00 €, 79,45 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 2.521677017211914,
+        "score": 2.462840557098389,
         "matched_queries": []
       }
     }
@@ -1600,7 +1600,7 @@
     "id": 89162,
     "title": "LEGO",
     "slug": "lego",
-    "favourite_count": 185159,
+    "favourite_count": 185164,
     "pretty_favourite_count": "185.2K",
     "item_count": 2321353,
     "pretty_item_count": "2.3M",
@@ -1613,16 +1613,16 @@
     "is_favourite": false
   },
   "search_tracking_params": {
-    "search_correlation_id": "e2f683e4-6007-415e-8dc0-9686fc82d37e",
-    "search_session_id": "3074e883-36f4-41b1-9129-8cd1ea5e50bc",
-    "global_search_session_id": "f60a24cf-9925-42ad-9a4a-10c2a8b6be80"
+    "search_correlation_id": "10f3fdda-773a-425b-8c7d-6586c3060610",
+    "search_session_id": "3d4cafb0-2d39-4111-a4ac-65c6810b59c3",
+    "global_search_session_id": "54e1efb1-2a90-479f-bdff-3eab01adcde9"
   },
   "pagination": {
     "current_page": 1,
     "total_pages": 1,
     "total_entries": 11,
     "per_page": 96,
-    "time": 1741612905
+    "time": 1741614504
   },
   "code": 0
 }

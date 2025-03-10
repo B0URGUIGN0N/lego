@@ -1,6 +1,171 @@
 {
   "items": [
     {
+      "id": 5945011361,
+      "title": "Lego 42202",
+      "price": {
+        "amount": "150.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5945011361-lego-42202",
+      "user": {
+        "id": 105227833,
+        "login": "ajnp1965",
+        "profile_url": "https://www.vinted.fr/member/105227833-ajnp1965",
+        "photo": {
+          "id": 103659166,
+          "width": 799,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_0231f_H51KfCrFd4rY6nBZqbZY6gDw/f800/1661428120.jpeg?s=13788bf7979d226259e527e44630158c0d9df794",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_0231f_H51KfCrFd4rY6nBZqbZY6gDw/310x310/1661428120.jpeg?s=a07ac617cf4b819e086f6e20985cfcb2598341d3",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_0231f_H51KfCrFd4rY6nBZqbZY6gDw/150x150/1661428120.jpeg?s=22158c6dd9e0b60b6d0ffd6c73364654db30614c",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_0231f_H51KfCrFd4rY6nBZqbZY6gDw/100x100/1661428120.jpeg?s=557b7bd1995068dae381e55f936287185302cb47",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_0231f_H51KfCrFd4rY6nBZqbZY6gDw/50x50/1661428120.jpeg?s=3033f2688fe03f24d226225d7041977550bb9c39",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_0231f_H51KfCrFd4rY6nBZqbZY6gDw/20x20/1661428120.jpeg?s=89692fba745f5537864b7bded566d1cf1bf3ca6e",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_0231f_H51KfCrFd4rY6nBZqbZY6gDw",
+            "timestamp": 1661428120,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_0231f_H51KfCrFd4rY6nBZqbZY6gDw/1661428120.jpeg?s=220db7bfa14e54e8c526163f22be9ddfe8e8df81",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5945011361-lego-42202",
+      "promoted": false,
+      "photo": {
+        "id": 24105608824,
+        "image_no": 1,
+        "width": 800,
+        "height": 600,
+        "dominant_color": "#7D372F",
+        "dominant_color_opaque": "#D8C3C1",
+        "url": "https://images1.vinted.net/t/03_00b5b_fJditrixGArG1RWUafNT7ycT/f800/1741611523.jpeg?s=dc05fc03e9826299b3620e8a4a07343c9b942cdc",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/03_00b5b_fJditrixGArG1RWUafNT7ycT/70x100/1741611523.jpeg?s=50a880655af4d4036e00ba0baa2592b1c9dca0d8",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/03_00b5b_fJditrixGArG1RWUafNT7ycT/150x210/1741611523.jpeg?s=22b3832bc3f2087cd4979068e6a30d5c5d1d4b27",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/03_00b5b_fJditrixGArG1RWUafNT7ycT/310x430/1741611523.jpeg?s=eaee293dede0726f96ce27cee18e8657ac4c585e",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/03_00b5b_fJditrixGArG1RWUafNT7ycT/f800/1741611523.jpeg?s=dc05fc03e9826299b3620e8a4a07343c9b942cdc",
+            "width": 428,
+            "height": 321,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/03_00b5b_fJditrixGArG1RWUafNT7ycT/f800/1741611523.jpeg?s=dc05fc03e9826299b3620e8a4a07343c9b942cdc",
+            "width": 624,
+            "height": 468,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/03_00b5b_fJditrixGArG1RWUafNT7ycT/f800/1741611523.jpeg?s=dc05fc03e9826299b3620e8a4a07343c9b942cdc",
+            "width": 364,
+            "height": 273,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "03_00b5b_fJditrixGArG1RWUafNT7ycT",
+          "timestamp": 1741611523,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/03_00b5b_fJditrixGArG1RWUafNT7ycT/1741611523.jpeg?s=d33c2673acfc63e8d357eef95758fe91e2b92819",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 0,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "8.2",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "158.2",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego 42202, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 150,00 €, 158,20 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 5.190435409545898,
+        "matched_queries": []
+      }
+    },
+    {
       "id": 5863472729,
       "title": "Lego Motocicletta Ducati Panigale V4 S set 42202",
       "price": {
@@ -106,7 +271,7 @@
         "accessibility_label": "Lego Motocicletta Ducati Panigale V4 S set 42202, marque: LEGO, état: Neuf sans étiquette, taille: L, 160,00 €, 168,70 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 4.143884658813477,
+        "score": 4.143603801727295,
         "matched_queries": []
       }
     },
@@ -271,7 +436,7 @@
         "accessibility_label": "Lego 42202 Ducati Panigale, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 159,00 €, 167,65 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 3.925905227661133,
+        "score": 3.922043800354004,
         "matched_queries": []
       }
     },
@@ -436,7 +601,7 @@
         "accessibility_label": "Vendo lego 42202 ducati panigale v4 misb, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 160,00 €, 168,70 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 3.58390474319458,
+        "score": 3.590601444244385,
         "matched_queries": []
       }
     },
@@ -546,7 +711,7 @@
         "accessibility_label": "Lego Motocicletta Ducati Panigale V4 S set 42202, marque: LEGO, état: Neuf sans étiquette, taille: L, 160,00 €, 168,70 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 2.982899188995361,
+        "score": 2.989865303039551,
         "matched_queries": []
       }
     },
@@ -711,7 +876,7 @@
         "accessibility_label": "Lego 42202 Ducati Panigali, marque: LEGO, état: Neuf avec étiquette, taille: 7 ans / 122 cm, 160,00 €, 168,70 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 2.887978076934814,
+        "score": 2.853496551513672,
         "matched_queries": []
       }
     },
@@ -876,7 +1041,7 @@
         "accessibility_label": "Lego 42202, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 199,00 €, 209,65 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 2.663021564483643,
+        "score": 2.652086734771729,
         "matched_queries": []
       }
     },
@@ -1041,7 +1206,7 @@
         "accessibility_label": "Lego 42130 BMW M 1000 RR Nuovo s sigillato, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 190,00 €, 200,20 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 1.331544876098633,
+        "score": 1.342443466186523,
         "matched_queries": []
       }
     }
@@ -1050,7 +1215,7 @@
     "id": 89162,
     "title": "LEGO",
     "slug": "lego",
-    "favourite_count": 185159,
+    "favourite_count": 185164,
     "pretty_favourite_count": "185.2K",
     "item_count": 2321353,
     "pretty_item_count": "2.3M",
@@ -1063,16 +1228,16 @@
     "is_favourite": false
   },
   "search_tracking_params": {
-    "search_correlation_id": "8f8d84e2-d4ad-48fc-bac1-50c07544b8dd",
-    "search_session_id": "76c2b51a-6707-4de1-a5f7-250e4ec1cc21",
-    "global_search_session_id": "a3cf09b0-23da-4f9d-81dd-9ede7ce1ffc4"
+    "search_correlation_id": "370a6ff1-e9d9-4675-b4ec-f684659a845b",
+    "search_session_id": "71eacd20-a8f5-4554-aad9-7dc930702ee5",
+    "global_search_session_id": "9dcaf5b6-118f-4efc-90db-7be21f85af80"
   },
   "pagination": {
     "current_page": 1,
     "total_pages": 1,
     "total_entries": 8,
     "per_page": 96,
-    "time": 1741612902
+    "time": 1741614500
   },
   "code": 0
 }

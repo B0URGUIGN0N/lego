@@ -161,7 +161,172 @@
         "accessibility_label": "Lego fortnite, marque: LEGO, état: Très bon état, taille: 12 ans / 152 cm, 30,00 €, 32,20 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 6.158857822418213,
+        "score": 6.166604042053223,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5944970598,
+      "title": "Lego Fornite 77071 novo, selado",
+      "price": {
+        "amount": "30.79",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5944970598-lego-fornite-77071-novo-selado",
+      "user": {
+        "id": 95168754,
+        "login": "hugomlmartins",
+        "profile_url": "https://www.vinted.fr/member/95168754-hugomlmartins",
+        "photo": {
+          "id": 121960643,
+          "width": 533,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_010da_M1CLzeWMKQdjk2Z3L36RP5Gg/f800/1671480832.jpeg?s=7c3070a27d505cd6ea8b7131ab547b44abd8a799",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_010da_M1CLzeWMKQdjk2Z3L36RP5Gg/310x310/1671480832.jpeg?s=31e047744a17314f825bd3eed2a6e8e0d3347bb7",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_010da_M1CLzeWMKQdjk2Z3L36RP5Gg/150x150/1671480832.jpeg?s=2bf16be129baf7458c1e0db4d481da9f2764940e",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_010da_M1CLzeWMKQdjk2Z3L36RP5Gg/100x100/1671480832.jpeg?s=8b6b2bf87f3920b7eafdd402b95ff56fb51e4051",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_010da_M1CLzeWMKQdjk2Z3L36RP5Gg/50x50/1671480832.jpeg?s=e79fa38b02a47a7aad1791c3dabfb6d7084339d2",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_010da_M1CLzeWMKQdjk2Z3L36RP5Gg/20x20/1671480832.jpeg?s=249b9ba10e39943ab43e6bb9d107dca153f16ff9",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_010da_M1CLzeWMKQdjk2Z3L36RP5Gg",
+            "timestamp": 1671480832,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_010da_M1CLzeWMKQdjk2Z3L36RP5Gg/1671480832.jpeg?s=32b10c5c74e5495532847e636d5e87a05d8a6e4d",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5944970598-lego-fornite-77071-novo-selado",
+      "promoted": false,
+      "photo": {
+        "id": 24105442411,
+        "image_no": 1,
+        "width": 513,
+        "height": 405,
+        "dominant_color": "#8E98AA",
+        "dominant_color_opaque": "#DDE0E6",
+        "url": "https://images1.vinted.net/t/04_00b46_ncsTwuNgRZ3dtHsZ7m8v2hYQ/f800/1741611147.jpeg?s=44263b9352ca19c14201013b321edc563b00f948",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_00b46_ncsTwuNgRZ3dtHsZ7m8v2hYQ/70x100/1741611147.jpeg?s=94bab6110aed3786172eb3b1a1621334527b397a",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_00b46_ncsTwuNgRZ3dtHsZ7m8v2hYQ/150x210/1741611147.jpeg?s=c2ebe2c6c349e06542e2a93ebce14649f2729a8d",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_00b46_ncsTwuNgRZ3dtHsZ7m8v2hYQ/310x430/1741611147.jpeg?s=bdc3f162ed9c0d2993cc6fe2ce5041a6f46e817f",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_00b46_ncsTwuNgRZ3dtHsZ7m8v2hYQ/f800/1741611147.jpeg?s=44263b9352ca19c14201013b321edc563b00f948",
+            "width": 428,
+            "height": 337,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_00b46_ncsTwuNgRZ3dtHsZ7m8v2hYQ/f800/1741611147.jpeg?s=44263b9352ca19c14201013b321edc563b00f948",
+            "width": 624,
+            "height": 492,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_00b46_ncsTwuNgRZ3dtHsZ7m8v2hYQ/f800/1741611147.jpeg?s=44263b9352ca19c14201013b321edc563b00f948",
+            "width": 364,
+            "height": 287,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_00b46_ncsTwuNgRZ3dtHsZ7m8v2hYQ",
+          "timestamp": 1741611147,
+          "orientation": 0
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_00b46_ncsTwuNgRZ3dtHsZ7m8v2hYQ/1741611147.jpeg?s=6481ad42dc18c658ad3ac0c2123f92680fbe8983",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 1,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "2.24",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "33.03",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "12 ans / 152 cm",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "12 ans / 152 cm",
+        "accessibility_label": "Lego Fornite 77071 novo, selado, marque: LEGO, état: Neuf avec étiquette, taille: 12 ans / 152 cm, 30,79 €, 33,03 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 4.848952293395996,
         "matched_queries": []
       }
     },
@@ -326,7 +491,7 @@
         "accessibility_label": "Lego 40728 + 77070 + 77071, marque: LEGO, état: Neuf avec étiquette, taille: 8 ans / 128 cm, 59,95 €, 63,65 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 4.028491020202637,
+        "score": 4.023060321807861,
         "matched_queries": []
       }
     },
@@ -491,7 +656,7 @@
         "accessibility_label": "Neuf sans carton - Peely Bone, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 69,90 €, 74,10 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 3.915393114089966,
+        "score": 3.906184434890747,
         "matched_queries": []
       }
     },
@@ -656,7 +821,7 @@
         "accessibility_label": "LEGO Fortnite | \"Lama\" delle scorte | 77071 | nuovo |, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 34,90 €, 37,35 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 3.87133264541626,
+        "score": 3.851286172866821,
         "matched_queries": []
       }
     },
@@ -766,7 +931,7 @@
         "accessibility_label": "Lego fortnite lama de ravitaillement 77071 neuf scelle, marque: LEGO, état: Neuf avec étiquette, taille: Prématuré, jusqu'à 44cm, 37,00 €, 39,55 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 3.453994274139404,
+        "score": 3.436692476272583,
         "matched_queries": []
       }
     },
@@ -931,7 +1096,7 @@
         "accessibility_label": "LEGO 77071 Llama de suministros Fornite, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 60,00 €, 63,70 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 3.402632713317871,
+        "score": 3.279271125793457,
         "matched_queries": []
       }
     },
@@ -1096,7 +1261,7 @@
         "accessibility_label": "Neuf - Lego 77072, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 94,90 €, 100,35 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 3.125309467315674,
+        "score": 3.1107177734375,
         "matched_queries": []
       }
     },
@@ -1261,7 +1426,7 @@
         "accessibility_label": "Lego 77071, marque: LEGO, état: Neuf avec étiquette, taille: 12 ans / 152 cm, 40,00 €, 42,70 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 2.956777334213257,
+        "score": 2.943408727645874,
         "matched_queries": []
       }
     },
@@ -1426,7 +1591,7 @@
         "accessibility_label": "Lego Forrnite llama de suministros 77071, marque: LEGO, état: Neuf avec étiquette, taille: 12 ans / 152 cm, 39,00 €, 41,65 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 2.612123966217041,
+        "score": 2.589414119720459,
         "matched_queries": []
       }
     },
@@ -1536,172 +1701,7 @@
         "accessibility_label": "Lego 77071 - Fortnite  - Llama de suministros, marque: LEGO, état: Neuf avec étiquette, taille: 12 ans / 152 cm, 39,50 €, 42,18 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 2.51978588104248,
-        "matched_queries": []
-      }
-    },
-    {
-      "id": 5775284760,
-      "title": "Lego Fortnite 77071: Lama",
-      "price": {
-        "amount": "38.99",
-        "currency_code": "EUR"
-      },
-      "is_visible": true,
-      "discount": null,
-      "brand_title": "LEGO",
-      "path": "/items/5775284760-lego-fortnite-77071-lama",
-      "user": {
-        "id": 210378751,
-        "login": "warrior_princess",
-        "profile_url": "https://www.vinted.fr/member/210378751-warriorprincess",
-        "photo": {
-          "id": 225968872,
-          "width": 727,
-          "height": 800,
-          "temp_uuid": null,
-          "url": "https://images1.vinted.net/t/04_011c2_9sVUJARQUHgW6jLrmEn5Uod8/f800/1736719376.jpeg?s=77328072a3c90c1aa69671b22ea6d42f49901307",
-          "dominant_color": "#31abc2",
-          "dominant_color_opaque": "#C1E6ED",
-          "thumbnails": [
-            {
-              "type": "thumb310",
-              "url": "https://images1.vinted.net/t/04_011c2_9sVUJARQUHgW6jLrmEn5Uod8/310x310/1736719376.jpeg?s=d1a3ffa06c477179573aafd524eb5959512a911c",
-              "width": 310,
-              "height": 310,
-              "original_size": null
-            },
-            {
-              "type": "thumb150",
-              "url": "https://images1.vinted.net/t/04_011c2_9sVUJARQUHgW6jLrmEn5Uod8/150x150/1736719376.jpeg?s=6b52186b06a288f99f70a4cb28cadae7dbc530fa",
-              "width": 150,
-              "height": 150,
-              "original_size": null
-            },
-            {
-              "type": "thumb100",
-              "url": "https://images1.vinted.net/t/04_011c2_9sVUJARQUHgW6jLrmEn5Uod8/100x100/1736719376.jpeg?s=90f7dace7acc28d426bc9fb81fbedaf27e82f3e0",
-              "width": 100,
-              "height": 100,
-              "original_size": null
-            },
-            {
-              "type": "thumb50",
-              "url": "https://images1.vinted.net/t/04_011c2_9sVUJARQUHgW6jLrmEn5Uod8/50x50/1736719376.jpeg?s=99921999eceda753acf2eb9a524173eabc82d05c",
-              "width": 50,
-              "height": 50,
-              "original_size": null
-            },
-            {
-              "type": "thumb20",
-              "url": "https://images1.vinted.net/t/04_011c2_9sVUJARQUHgW6jLrmEn5Uod8/20x20/1736719376.jpeg?s=2fe8960e39d9ffd97c1297cc8f2f23c5bfd4e5f3",
-              "width": 20,
-              "height": 20,
-              "original_size": null
-            }
-          ],
-          "is_suspicious": false,
-          "orientation": null,
-          "high_resolution": {
-            "id": "04_011c2_9sVUJARQUHgW6jLrmEn5Uod8",
-            "timestamp": 1736719376,
-            "orientation": null
-          },
-          "full_size_url": "https://images1.vinted.net/tc/04_011c2_9sVUJARQUHgW6jLrmEn5Uod8/1736719376.jpeg?s=9c64516ec4ae22292463d85fbdc60692be6e5cbc",
-          "is_hidden": false,
-          "extra": {}
-        },
-        "business": false
-      },
-      "conversion": null,
-      "url": "https://www.vinted.fr/items/5775284760-lego-fortnite-77071-lama",
-      "promoted": false,
-      "photo": {
-        "id": 23400244405,
-        "image_no": 1,
-        "width": 800,
-        "height": 775,
-        "dominant_color": "#697182",
-        "dominant_color_opaque": "#D2D4DA",
-        "url": "https://images1.vinted.net/t/04_018db_9ukUq5XeFh3xRW45EQZeipmm/f800/1738875201.jpeg?s=b62a794d73f2308a4870bce9f0c20c4ab5a41c40",
-        "is_main": true,
-        "thumbnails": [
-          {
-            "type": "thumb70x100",
-            "url": "https://images1.vinted.net/t/04_018db_9ukUq5XeFh3xRW45EQZeipmm/70x100/1738875201.jpeg?s=3c16157e73bf452ff66c4e844a4d8a290e1fdf48",
-            "width": 70,
-            "height": 100,
-            "original_size": null
-          },
-          {
-            "type": "thumb150x210",
-            "url": "https://images1.vinted.net/t/04_018db_9ukUq5XeFh3xRW45EQZeipmm/150x210/1738875201.jpeg?s=264b9044ea78525f2618507710b91c1a949c0a58",
-            "width": 150,
-            "height": 210,
-            "original_size": null
-          },
-          {
-            "type": "thumb310x430",
-            "url": "https://images1.vinted.net/t/04_018db_9ukUq5XeFh3xRW45EQZeipmm/310x430/1738875201.jpeg?s=72348d1b247720029317ddc67c97dbd037e26427",
-            "width": 310,
-            "height": 430,
-            "original_size": null
-          },
-          {
-            "type": "thumb428x624",
-            "url": "https://images1.vinted.net/t/04_018db_9ukUq5XeFh3xRW45EQZeipmm/f800/1738875201.jpeg?s=b62a794d73f2308a4870bce9f0c20c4ab5a41c40",
-            "width": 428,
-            "height": 414,
-            "original_size": true
-          },
-          {
-            "type": "thumb624x428",
-            "url": "https://images1.vinted.net/t/04_018db_9ukUq5XeFh3xRW45EQZeipmm/f800/1738875201.jpeg?s=b62a794d73f2308a4870bce9f0c20c4ab5a41c40",
-            "width": 624,
-            "height": 604,
-            "original_size": true
-          },
-          {
-            "type": "thumb364x428",
-            "url": "https://images1.vinted.net/t/04_018db_9ukUq5XeFh3xRW45EQZeipmm/f800/1738875201.jpeg?s=b62a794d73f2308a4870bce9f0c20c4ab5a41c40",
-            "width": 364,
-            "height": 352,
-            "original_size": true
-          }
-        ],
-        "high_resolution": {
-          "id": "04_018db_9ukUq5XeFh3xRW45EQZeipmm",
-          "timestamp": 1738875201,
-          "orientation": 0
-        },
-        "is_suspicious": false,
-        "full_size_url": "https://images1.vinted.net/tc/04_018db_9ukUq5XeFh3xRW45EQZeipmm/1738875201.jpeg?s=ea44331a180884d4dff884559d6790ce26a345f6",
-        "is_hidden": false,
-        "extra": {}
-      },
-      "favourite_count": 4,
-      "is_favourite": false,
-      "badge": null,
-      "service_fee": {
-        "amount": "2.65",
-        "currency_code": "EUR"
-      },
-      "total_item_price": {
-        "amount": "41.64",
-        "currency_code": "EUR"
-      },
-      "view_count": 0,
-      "size_title": "12 ans / 152 cm",
-      "content_source": "search",
-      "status": "Neuf avec étiquette",
-      "icon_badges": [],
-      "item_box": {
-        "first_line": "LEGO",
-        "second_line": "12 ans / 152 cm",
-        "accessibility_label": "Lego Fortnite 77071: Lama, marque: LEGO, état: Neuf avec étiquette, taille: 12 ans / 152 cm, 38,99 €, 41,64 € Protection acheteurs incluse"
-      },
-      "search_tracking_params": {
-        "score": 2.115400314331055,
+        "score": 2.505443572998047,
         "matched_queries": []
       }
     },
@@ -1866,7 +1866,172 @@
         "accessibility_label": "Lego 77071 - Fortnite Supply Llama, marque: LEGO, état: Neuf avec étiquette, taille: 12 ans / 152 cm, 45,90 €, 48,90 € Protection acheteurs incluse"
       },
       "search_tracking_params": {
-        "score": 2.088613986968994,
+        "score": 2.076433181762695,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5775284760,
+      "title": "Lego Fortnite 77071: Lama",
+      "price": {
+        "amount": "38.99",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5775284760-lego-fortnite-77071-lama",
+      "user": {
+        "id": 210378751,
+        "login": "warrior_princess",
+        "profile_url": "https://www.vinted.fr/member/210378751-warriorprincess",
+        "photo": {
+          "id": 225968872,
+          "width": 727,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/04_011c2_9sVUJARQUHgW6jLrmEn5Uod8/f800/1736719376.jpeg?s=77328072a3c90c1aa69671b22ea6d42f49901307",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/04_011c2_9sVUJARQUHgW6jLrmEn5Uod8/310x310/1736719376.jpeg?s=d1a3ffa06c477179573aafd524eb5959512a911c",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/04_011c2_9sVUJARQUHgW6jLrmEn5Uod8/150x150/1736719376.jpeg?s=6b52186b06a288f99f70a4cb28cadae7dbc530fa",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/04_011c2_9sVUJARQUHgW6jLrmEn5Uod8/100x100/1736719376.jpeg?s=90f7dace7acc28d426bc9fb81fbedaf27e82f3e0",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/04_011c2_9sVUJARQUHgW6jLrmEn5Uod8/50x50/1736719376.jpeg?s=99921999eceda753acf2eb9a524173eabc82d05c",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/04_011c2_9sVUJARQUHgW6jLrmEn5Uod8/20x20/1736719376.jpeg?s=2fe8960e39d9ffd97c1297cc8f2f23c5bfd4e5f3",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "04_011c2_9sVUJARQUHgW6jLrmEn5Uod8",
+            "timestamp": 1736719376,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/04_011c2_9sVUJARQUHgW6jLrmEn5Uod8/1736719376.jpeg?s=9c64516ec4ae22292463d85fbdc60692be6e5cbc",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5775284760-lego-fortnite-77071-lama",
+      "promoted": false,
+      "photo": {
+        "id": 23400244405,
+        "image_no": 1,
+        "width": 800,
+        "height": 775,
+        "dominant_color": "#697182",
+        "dominant_color_opaque": "#D2D4DA",
+        "url": "https://images1.vinted.net/t/04_018db_9ukUq5XeFh3xRW45EQZeipmm/f800/1738875201.jpeg?s=b62a794d73f2308a4870bce9f0c20c4ab5a41c40",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_018db_9ukUq5XeFh3xRW45EQZeipmm/70x100/1738875201.jpeg?s=3c16157e73bf452ff66c4e844a4d8a290e1fdf48",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_018db_9ukUq5XeFh3xRW45EQZeipmm/150x210/1738875201.jpeg?s=264b9044ea78525f2618507710b91c1a949c0a58",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_018db_9ukUq5XeFh3xRW45EQZeipmm/310x430/1738875201.jpeg?s=72348d1b247720029317ddc67c97dbd037e26427",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_018db_9ukUq5XeFh3xRW45EQZeipmm/f800/1738875201.jpeg?s=b62a794d73f2308a4870bce9f0c20c4ab5a41c40",
+            "width": 428,
+            "height": 414,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_018db_9ukUq5XeFh3xRW45EQZeipmm/f800/1738875201.jpeg?s=b62a794d73f2308a4870bce9f0c20c4ab5a41c40",
+            "width": 624,
+            "height": 604,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_018db_9ukUq5XeFh3xRW45EQZeipmm/f800/1738875201.jpeg?s=b62a794d73f2308a4870bce9f0c20c4ab5a41c40",
+            "width": 364,
+            "height": 352,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_018db_9ukUq5XeFh3xRW45EQZeipmm",
+          "timestamp": 1738875201,
+          "orientation": 0
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_018db_9ukUq5XeFh3xRW45EQZeipmm/1738875201.jpeg?s=ea44331a180884d4dff884559d6790ce26a345f6",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 4,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "2.65",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "41.64",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "12 ans / 152 cm",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "12 ans / 152 cm",
+        "accessibility_label": "Lego Fortnite 77071: Lama, marque: LEGO, état: Neuf avec étiquette, taille: 12 ans / 152 cm, 38,99 €, 41,64 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 2.108448028564453,
         "matched_queries": []
       }
     }
@@ -1875,7 +2040,7 @@
     "id": 89162,
     "title": "LEGO",
     "slug": "lego",
-    "favourite_count": 185159,
+    "favourite_count": 185164,
     "pretty_favourite_count": "185.2K",
     "item_count": 2321353,
     "pretty_item_count": "2.3M",
@@ -1888,16 +2053,16 @@
     "is_favourite": false
   },
   "search_tracking_params": {
-    "search_correlation_id": "4ddbcdc9-4bb2-4a19-96a3-62b770814e16",
-    "search_session_id": "401b1cb3-4628-4093-a5db-9223e6e738fb",
-    "global_search_session_id": "037ab32d-0910-4ab6-ba61-da18e5dac71a"
+    "search_correlation_id": "ca346c27-9dcb-4116-9999-f54071360c10",
+    "search_session_id": "2f5d5f8e-d6a2-438d-82b4-3032592fa9fb",
+    "global_search_session_id": "bdcb13ae-6c48-4f0f-baca-c652cdb1106f"
   },
   "pagination": {
     "current_page": 1,
     "total_pages": 1,
-    "total_entries": 12,
+    "total_entries": 13,
     "per_page": 96,
-    "time": 1741612907
+    "time": 1741614505
   },
   "code": 0
 }

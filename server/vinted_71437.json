@@ -335,7 +335,7 @@
     "id": 89162,
     "title": "LEGO",
     "slug": "lego",
-    "favourite_count": 185159,
+    "favourite_count": 185164,
     "pretty_favourite_count": "185.2K",
     "item_count": 2321353,
     "pretty_item_count": "2.3M",
@@ -348,16 +348,16 @@
     "is_favourite": false
   },
   "search_tracking_params": {
-    "search_correlation_id": "3eb58099-a10e-4bec-b020-bedc18666c34",
-    "search_session_id": "9be47e88-5d14-4f17-a466-b31ec50370ba",
-    "global_search_session_id": "b2eb8a79-d649-4c4f-9da7-8241a8cf33a4"
+    "search_correlation_id": "cce72d6d-b925-415c-9a73-16e37e4f47ec",
+    "search_session_id": "fe61ceba-a256-4136-ae5c-8c7136237cae",
+    "global_search_session_id": "d8923f0f-c369-4795-b53d-9393ead4ea89"
   },
   "pagination": {
     "current_page": 1,
     "total_pages": 1,
     "total_entries": 2,
     "per_page": 96,
-    "time": 1741612903
+    "time": 1741614502
   },
   "code": 0
 }
