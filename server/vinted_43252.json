@@ -1,0 +1,143 @@
+{
+  "items": [
+    {
+      "id": 5580657743,
+      "title": "NEW! Lego disney Ariel set 43252",
+      "price": {
+        "amount": "25.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5580657743-new-lego-disney-ariel-set-43252",
+      "user": {
+        "id": 118663618,
+        "login": "romeepina",
+        "profile_url": "https://www.vinted.fr/member/118663618-romeepina",
+        "photo": null,
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5580657743-new-lego-disney-ariel-set-43252",
+      "promoted": false,
+      "photo": {
+        "id": 22603544611,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#8B7B7E",
+        "dominant_color_opaque": "#DCD7D8",
+        "url": "https://images1.vinted.net/t/02_007d6_938Eb4Z3yAj8T3BfVYZj5BK1/f800/1735632691.jpeg?s=88c4366176ba6bfd3980d1db358e3a5e16c7ab01",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/02_007d6_938Eb4Z3yAj8T3BfVYZj5BK1/70x100/1735632691.jpeg?s=809f85025eae97b9a296deaf0fb06d17e9cfb819",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/02_007d6_938Eb4Z3yAj8T3BfVYZj5BK1/150x210/1735632691.jpeg?s=053528bf96585f6ae70a4d11c0573e0c1d28a5d1",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/02_007d6_938Eb4Z3yAj8T3BfVYZj5BK1/310x430/1735632691.jpeg?s=a5e27fc541b5e06b60ad16af1e5ff5d07b41320c",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/02_007d6_938Eb4Z3yAj8T3BfVYZj5BK1/f800/1735632691.jpeg?s=88c4366176ba6bfd3980d1db358e3a5e16c7ab01",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/02_007d6_938Eb4Z3yAj8T3BfVYZj5BK1/f800/1735632691.jpeg?s=88c4366176ba6bfd3980d1db358e3a5e16c7ab01",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/02_007d6_938Eb4Z3yAj8T3BfVYZj5BK1/f800/1735632691.jpeg?s=88c4366176ba6bfd3980d1db358e3a5e16c7ab01",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "02_007d6_938Eb4Z3yAj8T3BfVYZj5BK1",
+          "timestamp": 1735632691,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/02_007d6_938Eb4Z3yAj8T3BfVYZj5BK1/1735632691.jpeg?s=36bd40872d3c4cbd0df682cdc3113fb4fed571d9",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 16,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "1.95",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "26.95",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf sans étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "NEW! Lego disney Ariel set 43252, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 25,00 €, 26,95 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 37.28955,
+        "matched_queries": []
+      }
+    }
+  ],
+  "dominant_brand": {
+    "id": 89162,
+    "title": "LEGO",
+    "slug": "lego",
+    "favourite_count": 186407,
+    "pretty_favourite_count": "186.4K",
+    "item_count": 2174673,
+    "pretty_item_count": "2.2M",
+    "is_visible_in_listings": true,
+    "requires_authenticity_check": false,
+    "is_luxury": false,
+    "is_hvf": false,
+    "path": "/brand/89162-lego",
+    "url": "https://www.vinted.fr/brand/89162-lego",
+    "is_favourite": false
+  },
+  "search_tracking_params": {
+    "search_correlation_id": "e263a733-76a7-49c9-92da-d3d117a9c193",
+    "search_session_id": "7125ec61-fa32-48cd-ab02-defa1777c1d5",
+    "global_search_session_id": "90955dfa-3faa-43b0-93ac-537289eb62d0"
+  },
+  "pagination": {
+    "current_page": 1,
+    "total_pages": 1,
+    "total_entries": 1,
+    "per_page": 96,
+    "time": 1742218130
+  },
+  "code": 0
+}

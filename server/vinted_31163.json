@@ -1,0 +1,363 @@
+{
+  "items": [
+    {
+      "id": 5796390921,
+      "title": "Lego creator 3in1 31163",
+      "price": {
+        "amount": "25.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5796390921-lego-creator-3in1-31163",
+      "user": {
+        "id": 32598330,
+        "login": "debsterd",
+        "profile_url": "https://www.vinted.fr/member/32598330-debsterd",
+        "photo": {
+          "id": 211935838,
+          "width": 577,
+          "height": 580,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/03_02368_UFsKrAHvcE7owbYnJTqKyEtC/f800/1728109461.jpeg?s=587d1c489e9cd300499e10b972d240aced55ea87",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/03_02368_UFsKrAHvcE7owbYnJTqKyEtC/310x310/1728109461.jpeg?s=678dba08239f7f6e4d963d8bef054723a34af9a8",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/03_02368_UFsKrAHvcE7owbYnJTqKyEtC/150x150/1728109461.jpeg?s=b8a0ef210ab4b5158231704afc65b9b816bd7523",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/03_02368_UFsKrAHvcE7owbYnJTqKyEtC/100x100/1728109461.jpeg?s=3a5323e535c969b1ff77904210512efbf1153cce",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/03_02368_UFsKrAHvcE7owbYnJTqKyEtC/50x50/1728109461.jpeg?s=3adbeb17f412a213b0fbb394e36284078e1cfd79",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/03_02368_UFsKrAHvcE7owbYnJTqKyEtC/20x20/1728109461.jpeg?s=289e33cb9bf11717ef8a5b876277dd8ba5f3f6db",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "03_02368_UFsKrAHvcE7owbYnJTqKyEtC",
+            "timestamp": 1728109461,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/03_02368_UFsKrAHvcE7owbYnJTqKyEtC/1728109461.jpeg?s=e87f515cc18ca2a8b42b747bb3029a2de4d9ba29",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5796390921-lego-creator-3in1-31163",
+      "promoted": false,
+      "photo": {
+        "id": 23487632224,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#828994",
+        "dominant_color_opaque": "#DADCDF",
+        "url": "https://images1.vinted.net/t/03_006a4_fbpT3WGwAcsbm2PacnE1H6PH/f800/1739203358.jpeg?s=44e0b86a5aba580d1fdd59717efa4d5c91523a09",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/03_006a4_fbpT3WGwAcsbm2PacnE1H6PH/70x100/1739203358.jpeg?s=32abf7ac484c24b60c98ac88a2a55994153a00ca",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/03_006a4_fbpT3WGwAcsbm2PacnE1H6PH/150x210/1739203358.jpeg?s=cb8d609ca9a5e86410516db2a91d7af6950df4ec",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/03_006a4_fbpT3WGwAcsbm2PacnE1H6PH/310x430/1739203358.jpeg?s=a225c1b5dfbd96625838275c7a9d3b09a37d67fe",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/03_006a4_fbpT3WGwAcsbm2PacnE1H6PH/f800/1739203358.jpeg?s=44e0b86a5aba580d1fdd59717efa4d5c91523a09",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/03_006a4_fbpT3WGwAcsbm2PacnE1H6PH/f800/1739203358.jpeg?s=44e0b86a5aba580d1fdd59717efa4d5c91523a09",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/03_006a4_fbpT3WGwAcsbm2PacnE1H6PH/f800/1739203358.jpeg?s=44e0b86a5aba580d1fdd59717efa4d5c91523a09",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "03_006a4_fbpT3WGwAcsbm2PacnE1H6PH",
+          "timestamp": 1739203358,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/03_006a4_fbpT3WGwAcsbm2PacnE1H6PH/1739203358.jpeg?s=7656cf19d9b8dc759ebacee2f439f0d55061fc73",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 2,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "1.95",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "26.95",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego creator 3in1 31163, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 25,00 €, 26,95 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 37.121796,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5693257751,
+      "title": "Cuore di San valentino - Gattino giocoso | 40824 - 31163 | nuovo |",
+      "price": {
+        "amount": "48.9",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5693257751-cuore-di-san-valentino-gattino-giocoso-40824-31163-nuovo",
+      "user": {
+        "id": 147024546,
+        "login": "the.jacket",
+        "profile_url": "https://www.vinted.fr/member/147024546-thejacket",
+        "photo": {
+          "id": 231025961,
+          "width": 450,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/04_001d4_TFJLg4aYrUDWPaQokAmhNaqt/f800/1739877292.jpeg?s=3b2e48f194d1f0c21e41a68b2e3f25d5a056d2b1",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/04_001d4_TFJLg4aYrUDWPaQokAmhNaqt/310x310/1739877292.jpeg?s=76d7b37474bedf785336549b91c05632314ec170",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/04_001d4_TFJLg4aYrUDWPaQokAmhNaqt/150x150/1739877292.jpeg?s=9a81b1c9d48ae938a4d8d518f12edf511512dd73",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/04_001d4_TFJLg4aYrUDWPaQokAmhNaqt/100x100/1739877292.jpeg?s=7bc63beddccac3cdf4c9ae8aa0203ea9bc3e2bdc",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/04_001d4_TFJLg4aYrUDWPaQokAmhNaqt/50x50/1739877292.jpeg?s=6cf7e870ad5958e5eb08f528c8df13d0b9aba987",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/04_001d4_TFJLg4aYrUDWPaQokAmhNaqt/20x20/1739877292.jpeg?s=adea23a579c7ad7982b77e02a8e7d3f03ea9f671",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "04_001d4_TFJLg4aYrUDWPaQokAmhNaqt",
+            "timestamp": 1739877292,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/04_001d4_TFJLg4aYrUDWPaQokAmhNaqt/1739877292.jpeg?s=5996b3a3a26134149f953f6f463e510a2516c967",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5693257751-cuore-di-san-valentino-gattino-giocoso-40824-31163-nuovo",
+      "promoted": false,
+      "photo": {
+        "id": 23060629920,
+        "image_no": 1,
+        "width": 450,
+        "height": 800,
+        "dominant_color": "#AE7E6B",
+        "dominant_color_opaque": "#E7D8D3",
+        "url": "https://images1.vinted.net/t/03_01a45_52T6yvtHfVwHswrLJRZtuUhU/f800/1737549484.jpeg?s=c6cea8f437d1eed4da8cae13f315c84aecf86edf",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/03_01a45_52T6yvtHfVwHswrLJRZtuUhU/70x100/1737549484.jpeg?s=822cb2de87c598518515fd5b85bc0814d9a12748",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/03_01a45_52T6yvtHfVwHswrLJRZtuUhU/150x210/1737549484.jpeg?s=34ae75153390fb1e0fc6d5ad71dc1a78a025dc64",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/03_01a45_52T6yvtHfVwHswrLJRZtuUhU/310x430/1737549484.jpeg?s=257f8fd1047bd970cd5452be8b4bdb859c12303b",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/03_01a45_52T6yvtHfVwHswrLJRZtuUhU/f800/1737549484.jpeg?s=c6cea8f437d1eed4da8cae13f315c84aecf86edf",
+            "width": 241,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/03_01a45_52T6yvtHfVwHswrLJRZtuUhU/f800/1737549484.jpeg?s=c6cea8f437d1eed4da8cae13f315c84aecf86edf",
+            "width": 351,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/03_01a45_52T6yvtHfVwHswrLJRZtuUhU/f800/1737549484.jpeg?s=c6cea8f437d1eed4da8cae13f315c84aecf86edf",
+            "width": 204,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "03_01a45_52T6yvtHfVwHswrLJRZtuUhU",
+          "timestamp": 1737549484,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/03_01a45_52T6yvtHfVwHswrLJRZtuUhU/1737549484.jpeg?s=74b3f7027985e9578e25421fcc991e7b685aea32",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 24,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "3.15",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "52.05",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Cuore di San valentino - Gattino giocoso | 40824 - 31163 | nuovo |, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 48,90 €, 52,05 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 37.000946,
+        "matched_queries": []
+      }
+    }
+  ],
+  "dominant_brand": {
+    "id": 89162,
+    "title": "LEGO",
+    "slug": "lego",
+    "favourite_count": 186407,
+    "pretty_favourite_count": "186.4K",
+    "item_count": 2174673,
+    "pretty_item_count": "2.2M",
+    "is_visible_in_listings": true,
+    "requires_authenticity_check": false,
+    "is_luxury": false,
+    "is_hvf": false,
+    "path": "/brand/89162-lego",
+    "url": "https://www.vinted.fr/brand/89162-lego",
+    "is_favourite": false
+  },
+  "search_tracking_params": {
+    "search_correlation_id": "0917215d-e2c1-43e8-afa6-ceaa9c6c3791",
+    "search_session_id": "ad1dd5ec-6baa-4568-824d-32f9250a195f",
+    "global_search_session_id": "87a28897-ae8a-4d64-b313-f7d011e788fe"
+  },
+  "pagination": {
+    "current_page": 1,
+    "total_pages": 1,
+    "total_entries": 2,
+    "per_page": 96,
+    "time": 1742218132
+  },
+  "code": 0
+}

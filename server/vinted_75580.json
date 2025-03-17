@@ -1,0 +1,968 @@
+{
+  "items": [
+    {
+      "id": 5918710253,
+      "title": "LEGO despicable me 4 set 75580 completo +scatola e istruzioni+ 2 personaggi  aggiuntivi",
+      "price": {
+        "amount": "22.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5918710253-lego-despicable-me-4-set-75580-completo-scatola-e-istruzioni-2-personaggi-aggiuntivi",
+      "user": {
+        "id": 54622690,
+        "login": "dafefe1855",
+        "profile_url": "https://www.vinted.fr/member/54622690-dafefe1855",
+        "photo": {
+          "id": 232294844,
+          "width": 451,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/04_00cc2_1AN3umRZpKFNk8HtJH3Dq35a/f800/1740594036.jpeg?s=5fcc1ec32ba7c044b5eb72acb3fd3a6385aecf97",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/04_00cc2_1AN3umRZpKFNk8HtJH3Dq35a/310x310/1740594036.jpeg?s=cd819f32f7940251feccc7bb221c469a6db4bd74",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/04_00cc2_1AN3umRZpKFNk8HtJH3Dq35a/150x150/1740594036.jpeg?s=08343b761a16236a08feaafa864e269013567aa1",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/04_00cc2_1AN3umRZpKFNk8HtJH3Dq35a/100x100/1740594036.jpeg?s=f5d3a16989faa4cc4a8176f980f857861625e244",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/04_00cc2_1AN3umRZpKFNk8HtJH3Dq35a/50x50/1740594036.jpeg?s=532549302015b23ab19ecef0a75681c8a5e66ded",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/04_00cc2_1AN3umRZpKFNk8HtJH3Dq35a/20x20/1740594036.jpeg?s=9870599399b5956523cc219ae22195783f43a008",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "04_00cc2_1AN3umRZpKFNk8HtJH3Dq35a",
+            "timestamp": 1740594036,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/04_00cc2_1AN3umRZpKFNk8HtJH3Dq35a/1740594036.jpeg?s=d48b4ce673504d304db1f6f4380d49463e2adc20",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5918710253-lego-despicable-me-4-set-75580-completo-scatola-e-istruzioni-2-personaggi-aggiuntivi",
+      "promoted": false,
+      "photo": {
+        "id": 23996077423,
+        "image_no": 1,
+        "width": 698,
+        "height": 800,
+        "dominant_color": "#6A5540",
+        "dominant_color_opaque": "#D2CCC6",
+        "url": "https://images1.vinted.net/t/04_00e3e_ERRu79TQoQ8CRPN4kvrTsRCo/f800/1741188832.jpeg?s=bb39f25f29afd3dcc7d332bc783acd791113bacb",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_00e3e_ERRu79TQoQ8CRPN4kvrTsRCo/70x100/1741188832.jpeg?s=01e534593deb816766c550abaf0f24c0e4cff00d",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_00e3e_ERRu79TQoQ8CRPN4kvrTsRCo/150x210/1741188832.jpeg?s=c9b8550c57e00b3e66a96ef96c705f77ce398634",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_00e3e_ERRu79TQoQ8CRPN4kvrTsRCo/310x430/1741188832.jpeg?s=9f3d6c46fc11e401dd549f364e7e6dc0156bb833",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_00e3e_ERRu79TQoQ8CRPN4kvrTsRCo/f800/1741188832.jpeg?s=bb39f25f29afd3dcc7d332bc783acd791113bacb",
+            "width": 373,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_00e3e_ERRu79TQoQ8CRPN4kvrTsRCo/f800/1741188832.jpeg?s=bb39f25f29afd3dcc7d332bc783acd791113bacb",
+            "width": 544,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_00e3e_ERRu79TQoQ8CRPN4kvrTsRCo/f800/1741188832.jpeg?s=bb39f25f29afd3dcc7d332bc783acd791113bacb",
+            "width": 317,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_00e3e_ERRu79TQoQ8CRPN4kvrTsRCo",
+          "timestamp": 1741188832,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_00e3e_ERRu79TQoQ8CRPN4kvrTsRCo/1741188832.jpeg?s=2c2ebd13f6b0c35edae2d993cc1b36bb5c737703",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 6,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "1.8",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "23.8",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Très bon état",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "LEGO despicable me 4 set 75580 completo +scatola e istruzioni+ 2 personaggi  aggiuntivi, marque: LEGO, état: Très bon état, taille: Taille unique, 22,00 €, 23,80 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 5.31778621673584,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5973823219,
+      "title": "LEGO 75580 Les Minions et la voiture banane",
+      "price": {
+        "amount": "22.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5973823219-lego-75580-les-minions-et-la-voiture-banane",
+      "user": {
+        "id": 20040557,
+        "login": "chica30140",
+        "profile_url": "https://www.vinted.fr/member/20040557-chica30140",
+        "photo": null,
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5973823219-lego-75580-les-minions-et-la-voiture-banane",
+      "promoted": false,
+      "photo": {
+        "id": 24225559783,
+        "image_no": 1,
+        "width": 800,
+        "height": 600,
+        "dominant_color": "#906D52",
+        "dominant_color_opaque": "#DED3CB",
+        "url": "https://images1.vinted.net/t/03_026c0_vETHyttaGqeCwd1e4dPjFVBe/f800/1742056453.jpeg?s=c36618cc9e1158a5767e5c565e2054fcee6cedbf",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/03_026c0_vETHyttaGqeCwd1e4dPjFVBe/70x100/1742056453.jpeg?s=a3e4584e46a4e58b9cbbe087c9215ef58ac571a1",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/03_026c0_vETHyttaGqeCwd1e4dPjFVBe/150x210/1742056453.jpeg?s=2ace04e6af4831003dfab3c07ff2897fa0b2a168",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/03_026c0_vETHyttaGqeCwd1e4dPjFVBe/310x430/1742056453.jpeg?s=58e492d03dfc7a9a8a1c01461064173a48d093e1",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/03_026c0_vETHyttaGqeCwd1e4dPjFVBe/f800/1742056453.jpeg?s=c36618cc9e1158a5767e5c565e2054fcee6cedbf",
+            "width": 428,
+            "height": 321,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/03_026c0_vETHyttaGqeCwd1e4dPjFVBe/f800/1742056453.jpeg?s=c36618cc9e1158a5767e5c565e2054fcee6cedbf",
+            "width": 624,
+            "height": 468,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/03_026c0_vETHyttaGqeCwd1e4dPjFVBe/f800/1742056453.jpeg?s=c36618cc9e1158a5767e5c565e2054fcee6cedbf",
+            "width": 364,
+            "height": 273,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "03_026c0_vETHyttaGqeCwd1e4dPjFVBe",
+          "timestamp": 1742056453,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/03_026c0_vETHyttaGqeCwd1e4dPjFVBe/1742056453.jpeg?s=c0201ad7505e550509bc95606e476fe57edf33fa",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 4,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "1.8",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "23.8",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "6 ans / 116 cm",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "6 ans / 116 cm",
+        "accessibility_label": "LEGO 75580 Les Minions et la voiture banane, marque: LEGO, état: Neuf avec étiquette, taille: 6 ans / 116 cm, 22,00 €, 23,80 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 5.222319602966309,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5779454366,
+      "title": "Lego 75580 Minions",
+      "price": {
+        "amount": "20.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5779454366-lego-75580-minions",
+      "user": {
+        "id": 254342793,
+        "login": "nataliiakob",
+        "profile_url": "https://www.vinted.fr/member/254342793-nataliiakob",
+        "photo": {
+          "id": 229667965,
+          "width": 96,
+          "height": 96,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/04_004a9_RDQy4LqfsspYRs9xQsHQpAJB/f800/1739045513.jpeg?s=6489f01a4bc96e4a217ecc347d1ca8bdd042c157",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/04_004a9_RDQy4LqfsspYRs9xQsHQpAJB/310x310/1739045513.jpeg?s=cefc89324aaf5f4a7bb7590a531a3b3333d29a7c",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/04_004a9_RDQy4LqfsspYRs9xQsHQpAJB/150x150/1739045513.jpeg?s=ee3533fe5f05803a07956a455400fcb68943fb1f",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/04_004a9_RDQy4LqfsspYRs9xQsHQpAJB/100x100/1739045513.jpeg?s=a16f82fe6876a91e9128778d510ae6488356152d",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/04_004a9_RDQy4LqfsspYRs9xQsHQpAJB/50x50/1739045513.jpeg?s=1d9c1032d0be172e6b9edf9882eb2e0cb0a5d067",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/04_004a9_RDQy4LqfsspYRs9xQsHQpAJB/20x20/1739045513.jpeg?s=c12797b45eaf37e43d76f444f9134efbeb5448e2",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "04_004a9_RDQy4LqfsspYRs9xQsHQpAJB",
+            "timestamp": 1739045513,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/04_004a9_RDQy4LqfsspYRs9xQsHQpAJB/1739045513.jpeg?s=4e0055ca9c05924c0a287b84f491370d54a22213",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5779454366-lego-75580-minions",
+      "promoted": false,
+      "photo": {
+        "id": 23417766838,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#69593E",
+        "dominant_color_opaque": "#D2CDC5",
+        "url": "https://images1.vinted.net/t/02_01a55_3nEsbHDV8iat7PF3DUA6vHth/f800/1738956081.jpeg?s=46f513fe35311b9bf1aea7bf358bf9c29c3fd8d6",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/02_01a55_3nEsbHDV8iat7PF3DUA6vHth/70x100/1738956081.jpeg?s=ff9ef5bd44fab47d999cd63db1d8410749f11df8",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/02_01a55_3nEsbHDV8iat7PF3DUA6vHth/150x210/1738956081.jpeg?s=60c543e372376d5824cdf8ea2f6c1302f7097eb7",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/02_01a55_3nEsbHDV8iat7PF3DUA6vHth/310x430/1738956081.jpeg?s=70fc600fe6723cea894fcc5c847bb4ea6f1e333c",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/02_01a55_3nEsbHDV8iat7PF3DUA6vHth/f800/1738956081.jpeg?s=46f513fe35311b9bf1aea7bf358bf9c29c3fd8d6",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/02_01a55_3nEsbHDV8iat7PF3DUA6vHth/f800/1738956081.jpeg?s=46f513fe35311b9bf1aea7bf358bf9c29c3fd8d6",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/02_01a55_3nEsbHDV8iat7PF3DUA6vHth/f800/1738956081.jpeg?s=46f513fe35311b9bf1aea7bf358bf9c29c3fd8d6",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "02_01a55_3nEsbHDV8iat7PF3DUA6vHth",
+          "timestamp": 1738956081,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/02_01a55_3nEsbHDV8iat7PF3DUA6vHth/1738956081.jpeg?s=a7adfa06064f6e97c310ca882ddbedcb3bb6dab8",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 2,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "1.7",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "21.7",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "6 ans / 116 cm",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "6 ans / 116 cm",
+        "accessibility_label": "Lego 75580 Minions, marque: LEGO, état: Neuf avec étiquette, taille: 6 ans / 116 cm, 20,00 €, 21,70 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 4.18567943572998,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5234156237,
+      "title": "Lego 75580 Mega Minion Dave",
+      "price": {
+        "amount": "7.5",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5234156237-lego-75580-mega-minion-dave",
+      "user": {
+        "id": 178082937,
+        "login": "sthe81",
+        "profile_url": "https://www.vinted.fr/member/178082937-sthe81",
+        "photo": {
+          "id": 190503657,
+          "width": 600,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/01_010f0_sKffeZMWH3r2V8vo28TTPgo5/f800/1714332284.jpeg?s=8f27749aa9b9c967dc6a5c9402ee443d582eff41",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/01_010f0_sKffeZMWH3r2V8vo28TTPgo5/310x310/1714332284.jpeg?s=5d2f0db2b2fad68adaccd16afc69c904b974347c",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/01_010f0_sKffeZMWH3r2V8vo28TTPgo5/150x150/1714332284.jpeg?s=ee19a5c1d9a8ae7059be4cf170240d529f40e255",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/01_010f0_sKffeZMWH3r2V8vo28TTPgo5/100x100/1714332284.jpeg?s=d6bbf2086e0c0d36c08dda06532029ccb291e746",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/01_010f0_sKffeZMWH3r2V8vo28TTPgo5/50x50/1714332284.jpeg?s=ac22e40cd4754484ee2a8b2e12758e5a1ea2c8ad",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/01_010f0_sKffeZMWH3r2V8vo28TTPgo5/20x20/1714332284.jpeg?s=d6c08ca735f60842077998a96b353e4fb7b26c83",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "01_010f0_sKffeZMWH3r2V8vo28TTPgo5",
+            "timestamp": 1714332284,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/01_010f0_sKffeZMWH3r2V8vo28TTPgo5/1714332284.jpeg?s=0947bc35dc3e6b0bf6f394eea15151b6dbe219e7",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5234156237-lego-75580-mega-minion-dave",
+      "promoted": false,
+      "photo": {
+        "id": 21186540609,
+        "image_no": 1,
+        "width": 761,
+        "height": 800,
+        "dominant_color": "#C9B05C",
+        "dominant_color_opaque": "#EFE7CE",
+        "url": "https://images1.vinted.net/t/02_000d4_yYusCzBiWBcFgr4UQZWaYKaZ/f800/1729188829.jpeg?s=8a38f7777183988ac300b7c46bcd326b5bf7ce7d",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/02_000d4_yYusCzBiWBcFgr4UQZWaYKaZ/70x100/1729188829.jpeg?s=7ae3a14ad6e7b3b32ee03ece37b1945ff4e38324",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/02_000d4_yYusCzBiWBcFgr4UQZWaYKaZ/150x210/1729188829.jpeg?s=9eb33ac0f35771e92d826efcdce10a50036da001",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/02_000d4_yYusCzBiWBcFgr4UQZWaYKaZ/310x430/1729188829.jpeg?s=c64643be070676004959d4c79a2b7cacdbfe5cc6",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/02_000d4_yYusCzBiWBcFgr4UQZWaYKaZ/f800/1729188829.jpeg?s=8a38f7777183988ac300b7c46bcd326b5bf7ce7d",
+            "width": 407,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/02_000d4_yYusCzBiWBcFgr4UQZWaYKaZ/f800/1729188829.jpeg?s=8a38f7777183988ac300b7c46bcd326b5bf7ce7d",
+            "width": 593,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/02_000d4_yYusCzBiWBcFgr4UQZWaYKaZ/f800/1729188829.jpeg?s=8a38f7777183988ac300b7c46bcd326b5bf7ce7d",
+            "width": 346,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "02_000d4_yYusCzBiWBcFgr4UQZWaYKaZ",
+          "timestamp": 1729188829,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/02_000d4_yYusCzBiWBcFgr4UQZWaYKaZ/1729188829.jpeg?s=031fa63df8370fc95234c5638fe595d1c7287260",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 1,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "1.08",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "8.58",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "",
+      "content_source": "search",
+      "status": "Neuf sans étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Neuf sans étiquette",
+        "accessibility_label": "Lego 75580 Mega Minion Dave, marque: LEGO, état: Neuf sans étiquette, 7,50 €, 8,58 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 4.035356521606445,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5506388000,
+      "title": "Lego minions 75580 neuf",
+      "price": {
+        "amount": "25.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5506388000-lego-minions-75580-neuf",
+      "user": {
+        "id": 153482891,
+        "login": "legocastle",
+        "profile_url": "https://www.vinted.fr/member/153482891-legocastle",
+        "photo": {
+          "id": 207881444,
+          "width": 600,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/01_00081_Nf9e4xWsxBXLV1tjwnHPae3R/f800/1726035991.jpeg?s=6e14a745ca2796ac10a0fad78e1de64507a751d9",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/01_00081_Nf9e4xWsxBXLV1tjwnHPae3R/310x310/1726035991.jpeg?s=ddeca551b13e3318bad2d72b12951dfa4af9fb32",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/01_00081_Nf9e4xWsxBXLV1tjwnHPae3R/150x150/1726035991.jpeg?s=64a4cb48d5a32a22116abdfea5eb2841b2f66720",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/01_00081_Nf9e4xWsxBXLV1tjwnHPae3R/100x100/1726035991.jpeg?s=441a659e4c35f6a76adcb31eb646e3b099c8f63d",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/01_00081_Nf9e4xWsxBXLV1tjwnHPae3R/50x50/1726035991.jpeg?s=acdaa1241968a830ecfbd0e0b8cda1b59560b589",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/01_00081_Nf9e4xWsxBXLV1tjwnHPae3R/20x20/1726035991.jpeg?s=b5fd62009981aa8e10cb923fb47bb7ddd0643d59",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "01_00081_Nf9e4xWsxBXLV1tjwnHPae3R",
+            "timestamp": 1726035991,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/01_00081_Nf9e4xWsxBXLV1tjwnHPae3R/1726035991.jpeg?s=6635807b32129b0f7f5e63bf9fe1af146fe0a3b8",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5506388000-lego-minions-75580-neuf",
+      "promoted": false,
+      "photo": {
+        "id": 22297405175,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#A39A7A",
+        "dominant_color_opaque": "#E3E1D7",
+        "url": "https://images1.vinted.net/t/04_00199_AEhivkivbw42ABSrjfbnD41A/f800/1733763216.jpeg?s=f46e234df9abd6b661e3918d7bc59f30cbffed9f",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_00199_AEhivkivbw42ABSrjfbnD41A/70x100/1733763216.jpeg?s=82ee3887aed789894db96e7fef353db4f964fb1a",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_00199_AEhivkivbw42ABSrjfbnD41A/150x210/1733763216.jpeg?s=9d5fd0ddf4684bed2de76c3a812c011ab41cd559",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_00199_AEhivkivbw42ABSrjfbnD41A/310x430/1733763216.jpeg?s=613b5a6ae6c01441d5085775e06c1006ed60a8e9",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_00199_AEhivkivbw42ABSrjfbnD41A/f800/1733763216.jpeg?s=f46e234df9abd6b661e3918d7bc59f30cbffed9f",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_00199_AEhivkivbw42ABSrjfbnD41A/f800/1733763216.jpeg?s=f46e234df9abd6b661e3918d7bc59f30cbffed9f",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_00199_AEhivkivbw42ABSrjfbnD41A/f800/1733763216.jpeg?s=f46e234df9abd6b661e3918d7bc59f30cbffed9f",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_00199_AEhivkivbw42ABSrjfbnD41A",
+          "timestamp": 1733763216,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_00199_AEhivkivbw42ABSrjfbnD41A/1733763216.jpeg?s=6aee331eff5ebe1039da4dbb72ef7e51ee1a241a",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 23,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "1.95",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "26.95",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf sans étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego minions 75580 neuf, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 25,00 €, 26,95 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 3.801349639892578,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 4471424952,
+      "title": "Lot lego Les minions 3 sets 75583 + 75581 + 75580 sans figurines",
+      "price": {
+        "amount": "82.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/4471424952-lot-lego-les-minions-3-sets-75583-75581-75580-sans-figurines",
+      "user": {
+        "id": 32072587,
+        "login": "pedro181818",
+        "profile_url": "https://www.vinted.fr/member/32072587-pedro181818",
+        "photo": {
+          "id": 66259267,
+          "width": 600,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/03_01e8a_xXpsLFhnJDtTaga2VSnU2zPf/f800/1630785055.jpeg?s=7ad8c14a4fd9d64cf07b2b9ad684f80b1ed2dfd1",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/03_01e8a_xXpsLFhnJDtTaga2VSnU2zPf/310x310/1630785055.jpeg?s=9362bb58aa67325ec63100c9ecf7a3d5763ba140",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/03_01e8a_xXpsLFhnJDtTaga2VSnU2zPf/150x150/1630785055.jpeg?s=b409459d2bc7d1f67660604ce38d4965899a1d70",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/03_01e8a_xXpsLFhnJDtTaga2VSnU2zPf/100x100/1630785055.jpeg?s=9a037ebe7c221416b7690d2e8e677035d8567252",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/03_01e8a_xXpsLFhnJDtTaga2VSnU2zPf/50x50/1630785055.jpeg?s=6dd006a99dd1b06354098eac5eaaeff3bfe1ceb5",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/03_01e8a_xXpsLFhnJDtTaga2VSnU2zPf/20x20/1630785055.jpeg?s=fe87f86336d940c5be908c084dcb255122ff758a",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "03_01e8a_xXpsLFhnJDtTaga2VSnU2zPf",
+            "timestamp": 1630785055,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/03_01e8a_xXpsLFhnJDtTaga2VSnU2zPf/1630785055.jpeg?s=619417010654f0cc6797e9b5faafeaef213b10c8",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/4471424952-lot-lego-les-minions-3-sets-75583-75581-75580-sans-figurines",
+      "promoted": false,
+      "photo": {
+        "id": 18199592215,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#7F8B91",
+        "dominant_color_opaque": "#D9DCDE",
+        "url": "https://images1.vinted.net/t/02_00ba7_ton5JersLnh4m3uyyoKg9mbf/f800/1715090727.jpeg?s=b3b90cc16f15d3e6ce187957613f2b387d44f892",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/02_00ba7_ton5JersLnh4m3uyyoKg9mbf/70x100/1715090727.jpeg?s=0e1c855ef0e0b4e24b13f22a4457ae3470871900",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/02_00ba7_ton5JersLnh4m3uyyoKg9mbf/150x210/1715090727.jpeg?s=84e0659e0d041f1052a70c0fc1d5c0d566d907b8",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/02_00ba7_ton5JersLnh4m3uyyoKg9mbf/310x430/1715090727.jpeg?s=da409768f91002489cdb860daf3c401d7c966a9b",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/02_00ba7_ton5JersLnh4m3uyyoKg9mbf/f800/1715090727.jpeg?s=b3b90cc16f15d3e6ce187957613f2b387d44f892",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/02_00ba7_ton5JersLnh4m3uyyoKg9mbf/f800/1715090727.jpeg?s=b3b90cc16f15d3e6ce187957613f2b387d44f892",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/02_00ba7_ton5JersLnh4m3uyyoKg9mbf/f800/1715090727.jpeg?s=b3b90cc16f15d3e6ce187957613f2b387d44f892",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "02_00ba7_ton5JersLnh4m3uyyoKg9mbf",
+          "timestamp": 1715090727,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/02_00ba7_ton5JersLnh4m3uyyoKg9mbf/1715090727.jpeg?s=f2c7334f2885b57a0dd6de03da79ef5bc8e8746b",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 66,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "4.8",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "86.8",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "8 ans / 128 cm",
+      "content_source": "search",
+      "status": "Très bon état",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "8 ans / 128 cm",
+        "accessibility_label": "Lot lego Les minions 3 sets 75583 + 75581 + 75580 sans figurines, marque: LEGO, état: Très bon état, taille: 8 ans / 128 cm, 82,00 €, 86,80 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 3.011093854904175,
+        "matched_queries": []
+      }
+    }
+  ],
+  "dominant_brand": {
+    "id": 89162,
+    "title": "LEGO",
+    "slug": "lego",
+    "favourite_count": 186407,
+    "pretty_favourite_count": "186.4K",
+    "item_count": 2174673,
+    "pretty_item_count": "2.2M",
+    "is_visible_in_listings": true,
+    "requires_authenticity_check": false,
+    "is_luxury": false,
+    "is_hvf": false,
+    "path": "/brand/89162-lego",
+    "url": "https://www.vinted.fr/brand/89162-lego",
+    "is_favourite": false
+  },
+  "search_tracking_params": {
+    "search_correlation_id": "b09771e4-9192-4162-a773-d3abc2cbc668",
+    "search_session_id": "1ba25cda-b404-48a1-8380-96d726b8e981",
+    "global_search_session_id": "193aa042-7786-4329-b9cc-aeb4c6fa4132"
+  },
+  "pagination": {
+    "current_page": 1,
+    "total_pages": 1,
+    "total_entries": 6,
+    "per_page": 96,
+    "time": 1742218126
+  },
+  "code": 0
+}
