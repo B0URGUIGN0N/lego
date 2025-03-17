@@ -1,0 +1,1409 @@
+{
+  "items": [
+    {
+      "id": 5985114812,
+      "title": "LEGO la fontaine de Trevi (modèle 2025)",
+      "price": {
+        "amount": "130.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5985114812-lego-la-fontaine-de-trevi-modele-2025",
+      "user": {
+        "id": 33389323,
+        "login": "manganokamisama",
+        "profile_url": "https://www.vinted.fr/member/33389323-manganokamisama",
+        "photo": {
+          "id": 26442568,
+          "width": 225,
+          "height": 225,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_008c9_9XLR4Pm3kWinoDfRu2xHupKe/f800/1605256839.jpeg?s=7a79c6ff62af3a1f345f6b928cc3674e4fecd833",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_008c9_9XLR4Pm3kWinoDfRu2xHupKe/310x310/1605256839.jpeg?s=062e48e3dcfc687505a47f6006104afa5dd1a66b",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_008c9_9XLR4Pm3kWinoDfRu2xHupKe/150x150/1605256839.jpeg?s=75e0336a18ce9117e9ac67fcee97eb65c2e16acb",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_008c9_9XLR4Pm3kWinoDfRu2xHupKe/100x100/1605256839.jpeg?s=07d2d9502ae02153200a8d4749fa5ebbd9ba368c",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_008c9_9XLR4Pm3kWinoDfRu2xHupKe/50x50/1605256839.jpeg?s=f592d1a15ff31007f855e70f3b0385bdd42b8056",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_008c9_9XLR4Pm3kWinoDfRu2xHupKe/20x20/1605256839.jpeg?s=6171387cb0a16c015fc19218458081ef7452e069",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_008c9_9XLR4Pm3kWinoDfRu2xHupKe",
+            "timestamp": 1605256839,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_008c9_9XLR4Pm3kWinoDfRu2xHupKe/1605256839.jpeg?s=7cc696d97679ba4ed9cba8d71acf2a462b31858e",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5985114812-lego-la-fontaine-de-trevi-modele-2025",
+      "promoted": false,
+      "photo": {
+        "id": 24271978311,
+        "image_no": 1,
+        "width": 800,
+        "height": 600,
+        "dominant_color": "#AD907E",
+        "dominant_color_opaque": "#E6DED8",
+        "url": "https://images1.vinted.net/t/04_0128a_qAjpDADJP8QcDFD7a6Vo8ymh/f800/1742210683.jpeg?s=51f6261fdc53e6e38a11044ac3c1a1845f7f2ee3",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_0128a_qAjpDADJP8QcDFD7a6Vo8ymh/70x100/1742210683.jpeg?s=f4be7203edb61631395117fa41b48c03d578f9a0",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_0128a_qAjpDADJP8QcDFD7a6Vo8ymh/150x210/1742210683.jpeg?s=4f063ff8ef8b127494e2982d1583e0cf1581accc",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_0128a_qAjpDADJP8QcDFD7a6Vo8ymh/310x430/1742210683.jpeg?s=beda12be47bb46bd8edb4fa2571479d6284fa9c6",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_0128a_qAjpDADJP8QcDFD7a6Vo8ymh/f800/1742210683.jpeg?s=51f6261fdc53e6e38a11044ac3c1a1845f7f2ee3",
+            "width": 428,
+            "height": 321,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_0128a_qAjpDADJP8QcDFD7a6Vo8ymh/f800/1742210683.jpeg?s=51f6261fdc53e6e38a11044ac3c1a1845f7f2ee3",
+            "width": 624,
+            "height": 468,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_0128a_qAjpDADJP8QcDFD7a6Vo8ymh/f800/1742210683.jpeg?s=51f6261fdc53e6e38a11044ac3c1a1845f7f2ee3",
+            "width": 364,
+            "height": 273,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_0128a_qAjpDADJP8QcDFD7a6Vo8ymh",
+          "timestamp": 1742210683,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_0128a_qAjpDADJP8QcDFD7a6Vo8ymh/1742210683.jpeg?s=0fe66fb4e9bb398e7afa19d765e70c2131b02e66",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 13,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "7.2",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "137.2",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "XXL",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "XXL",
+        "accessibility_label": "LEGO la fontaine de Trevi (modèle 2025), marque: LEGO, état: Neuf avec étiquette, taille: XXL, 130,00 €, 137,20 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 5.489280700683594,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5953919163,
+      "title": "Set Lego Neuf Trevi Fountain",
+      "price": {
+        "amount": "146.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5953919163-set-lego-neuf-trevi-fountain",
+      "user": {
+        "id": 251124255,
+        "login": "pilvin67",
+        "profile_url": "https://www.vinted.fr/member/251124255-pilvin67",
+        "photo": {
+          "id": 226349503,
+          "width": 96,
+          "height": 96,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/04_00be4_PQ6ARGqttBoeAvQXskNZjLf2/f800/1736962213.jpeg?s=65fcdf3d364359432bb5829866766ac2de993026",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/04_00be4_PQ6ARGqttBoeAvQXskNZjLf2/310x310/1736962213.jpeg?s=85ee56bbbcf6377d81ab54757d7e7ffe8163355e",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/04_00be4_PQ6ARGqttBoeAvQXskNZjLf2/150x150/1736962213.jpeg?s=8450d0c67302d7c440a85867fca8a0f4a5024e88",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/04_00be4_PQ6ARGqttBoeAvQXskNZjLf2/100x100/1736962213.jpeg?s=c201f53ded2e4ab7303e6f9e5ee68af8d536eb53",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/04_00be4_PQ6ARGqttBoeAvQXskNZjLf2/50x50/1736962213.jpeg?s=c97f58d32ca59c86a14106235c3f002b17f30339",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/04_00be4_PQ6ARGqttBoeAvQXskNZjLf2/20x20/1736962213.jpeg?s=7efec919ab7793080b32c1b54a22f7a54cd04005",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "04_00be4_PQ6ARGqttBoeAvQXskNZjLf2",
+            "timestamp": 1736962213,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/04_00be4_PQ6ARGqttBoeAvQXskNZjLf2/1736962213.jpeg?s=6cc78644537df91cc13303cf28ac6cf7a90bb7c0",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5953919163-set-lego-neuf-trevi-fountain",
+      "promoted": false,
+      "photo": {
+        "id": 24142539329,
+        "image_no": 1,
+        "width": 800,
+        "height": 600,
+        "dominant_color": "#77726F",
+        "dominant_color_opaque": "#D6D5D4",
+        "url": "https://images1.vinted.net/t/02_00635_PJggXMVV3WdKffwsg7qLRevu/f800/1741760189.jpeg?s=ea695a60f636ff88b7ea112f5d121262e56c7f24",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/02_00635_PJggXMVV3WdKffwsg7qLRevu/70x100/1741760189.jpeg?s=369eb85ff716d98038d7dbfefbb6c72d10a8c1b1",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/02_00635_PJggXMVV3WdKffwsg7qLRevu/150x210/1741760189.jpeg?s=08b0bc88589e24c8b288c18792a956aa683fbdc0",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/02_00635_PJggXMVV3WdKffwsg7qLRevu/310x430/1741760189.jpeg?s=dc3ac1deab4634df62122270fe58a1a163953101",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/02_00635_PJggXMVV3WdKffwsg7qLRevu/f800/1741760189.jpeg?s=ea695a60f636ff88b7ea112f5d121262e56c7f24",
+            "width": 428,
+            "height": 321,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/02_00635_PJggXMVV3WdKffwsg7qLRevu/f800/1741760189.jpeg?s=ea695a60f636ff88b7ea112f5d121262e56c7f24",
+            "width": 624,
+            "height": 468,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/02_00635_PJggXMVV3WdKffwsg7qLRevu/f800/1741760189.jpeg?s=ea695a60f636ff88b7ea112f5d121262e56c7f24",
+            "width": 364,
+            "height": 273,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "02_00635_PJggXMVV3WdKffwsg7qLRevu",
+          "timestamp": 1741760189,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/02_00635_PJggXMVV3WdKffwsg7qLRevu/1741760189.jpeg?s=88e5cc39bf95f7cdc0f09d3ed9a7fa75e049ee12",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 17,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "8.0",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "154.0",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Set Lego Neuf Trevi Fountain, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 146,00 €, 154,00 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 4.452349185943604,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5914205415,
+      "title": "Lego 21062 Fontana di Trevi",
+      "price": {
+        "amount": "140.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5914205415-lego-21062-fontana-di-trevi",
+      "user": {
+        "id": 84374687,
+        "login": "ali2925",
+        "profile_url": "https://www.vinted.fr/member/84374687-ali2925",
+        "photo": {
+          "id": 88757129,
+          "width": 360,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_01699_3uo4mhtkVpcVrM4Lr2HNFyXv/f800/1651672649.jpeg?s=04ddf00d6022e15ee15f2da5751459c5e41af579",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_01699_3uo4mhtkVpcVrM4Lr2HNFyXv/310x310/1651672649.jpeg?s=87c655e86e4941c26a4454c4dc31b90cedb65567",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_01699_3uo4mhtkVpcVrM4Lr2HNFyXv/150x150/1651672649.jpeg?s=22d1e8b32b95ee963e871a479c4b5c3e3e329c23",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_01699_3uo4mhtkVpcVrM4Lr2HNFyXv/100x100/1651672649.jpeg?s=3485f43bcc571e7f8de86904ed71cb736a452016",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_01699_3uo4mhtkVpcVrM4Lr2HNFyXv/50x50/1651672649.jpeg?s=ebc6c5e020717f907d8e6a62eefdf8e4820a23f8",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_01699_3uo4mhtkVpcVrM4Lr2HNFyXv/20x20/1651672649.jpeg?s=7c906b86e9628f1455c97a19d3234984a2bccad2",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_01699_3uo4mhtkVpcVrM4Lr2HNFyXv",
+            "timestamp": 1651672649,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_01699_3uo4mhtkVpcVrM4Lr2HNFyXv/1651672649.jpeg?s=7f0182ef94189f70acd3d115ab0468058009aead",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5914205415-lego-21062-fontana-di-trevi",
+      "promoted": false,
+      "photo": {
+        "id": 23977119120,
+        "image_no": 1,
+        "width": 800,
+        "height": 600,
+        "dominant_color": "#B3ADA2",
+        "dominant_color_opaque": "#E8E6E3",
+        "url": "https://images1.vinted.net/t/04_024bc_96xhext7Cp4Sw6rcidVkaR36/f800/1741107527.jpeg?s=ebb7892803e7e3a35486df5d157971a6221b2c93",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_024bc_96xhext7Cp4Sw6rcidVkaR36/70x100/1741107527.jpeg?s=e9eccc5e1813927b624475e87133e13e0a39e1dd",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_024bc_96xhext7Cp4Sw6rcidVkaR36/150x210/1741107527.jpeg?s=2102bc501c39100aff77884f18e380aeb1f78473",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_024bc_96xhext7Cp4Sw6rcidVkaR36/310x430/1741107527.jpeg?s=0f0018929696bc5ad4b925e00f7f3a8a0b60d39a",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_024bc_96xhext7Cp4Sw6rcidVkaR36/f800/1741107527.jpeg?s=ebb7892803e7e3a35486df5d157971a6221b2c93",
+            "width": 428,
+            "height": 321,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_024bc_96xhext7Cp4Sw6rcidVkaR36/f800/1741107527.jpeg?s=ebb7892803e7e3a35486df5d157971a6221b2c93",
+            "width": 624,
+            "height": 468,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_024bc_96xhext7Cp4Sw6rcidVkaR36/f800/1741107527.jpeg?s=ebb7892803e7e3a35486df5d157971a6221b2c93",
+            "width": 364,
+            "height": 273,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_024bc_96xhext7Cp4Sw6rcidVkaR36",
+          "timestamp": 1741107527,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_024bc_96xhext7Cp4Sw6rcidVkaR36/1741107527.jpeg?s=c28ce2095acdfba1efcc8487b5876a8105d2d2df",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 24,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "7.7",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "147.7",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego 21062 Fontana di Trevi, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 140,00 €, 147,70 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 3.8760666847229,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5985582876,
+      "title": "Lego 21062 La fontaine de Trevi",
+      "price": {
+        "amount": "125.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5985582876-lego-21062-la-fontaine-de-trevi",
+      "user": {
+        "id": 66759143,
+        "login": "14a22j",
+        "profile_url": "https://www.vinted.fr/member/66759143-14a22j",
+        "photo": {
+          "id": 64885438,
+          "width": 670,
+          "height": 446,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/01_02506_54CB23AprEGnsUktXvsAkByE/f800/1629356493.jpeg?s=38c6774adde299a5d0ee5155917289c9f90e27f8",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/01_02506_54CB23AprEGnsUktXvsAkByE/310x310/1629356493.jpeg?s=34c9213a01a0fc1aec658ebb3f284cb6721efc74",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/01_02506_54CB23AprEGnsUktXvsAkByE/150x150/1629356493.jpeg?s=d7bd38aa688b30942f42345745a8ad76771df5fa",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/01_02506_54CB23AprEGnsUktXvsAkByE/100x100/1629356493.jpeg?s=bf6e5aad09ce13c0958e39760c6becbe45af514c",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/01_02506_54CB23AprEGnsUktXvsAkByE/50x50/1629356493.jpeg?s=98b0eaf3ea847aed46c394553f92a17adb0d9c69",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/01_02506_54CB23AprEGnsUktXvsAkByE/20x20/1629356493.jpeg?s=f61fbfca4fbd946e1b113e9d010cc66cd1d6cfa8",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "01_02506_54CB23AprEGnsUktXvsAkByE",
+            "timestamp": 1629356493,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/01_02506_54CB23AprEGnsUktXvsAkByE/1629356493.jpeg?s=b043768df558d868a3edc0e984c70c63488f5b49",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5985582876-lego-21062-la-fontaine-de-trevi",
+      "promoted": false,
+      "photo": {
+        "id": 24273884040,
+        "image_no": 1,
+        "width": 450,
+        "height": 800,
+        "dominant_color": "#857E7F",
+        "dominant_color_opaque": "#DAD8D9",
+        "url": "https://images1.vinted.net/t/02_00081_y714CnK7bTxmSeNy8qTXvoa6/f800/1742215251.jpeg?s=62359ab78fb0d7e98d4433dfc5f79d4d6fb89121",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/02_00081_y714CnK7bTxmSeNy8qTXvoa6/70x100/1742215251.jpeg?s=7c861aea0d670937bdfe31cba8ca7fcc7a848d38",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/02_00081_y714CnK7bTxmSeNy8qTXvoa6/150x210/1742215251.jpeg?s=4e1a778c3147999fb38b9724ee0954c7acd9dbdd",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/02_00081_y714CnK7bTxmSeNy8qTXvoa6/310x430/1742215251.jpeg?s=3679df384136a1998d0f8b0063aa769e1ee20ca6",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/02_00081_y714CnK7bTxmSeNy8qTXvoa6/f800/1742215251.jpeg?s=62359ab78fb0d7e98d4433dfc5f79d4d6fb89121",
+            "width": 240,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/02_00081_y714CnK7bTxmSeNy8qTXvoa6/f800/1742215251.jpeg?s=62359ab78fb0d7e98d4433dfc5f79d4d6fb89121",
+            "width": 351,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/02_00081_y714CnK7bTxmSeNy8qTXvoa6/f800/1742215251.jpeg?s=62359ab78fb0d7e98d4433dfc5f79d4d6fb89121",
+            "width": 204,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "02_00081_y714CnK7bTxmSeNy8qTXvoa6",
+          "timestamp": 1742215251,
+          "orientation": 0
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/02_00081_y714CnK7bTxmSeNy8qTXvoa6/1742215251.jpeg?s=6baf5ccf6c5be8e3d10597a037e2fd9fd3b0c428",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 3,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "6.95",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "131.95",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Très bon état",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego 21062 La fontaine de Trevi, marque: LEGO, état: Très bon état, taille: Taille unique, 125,00 €, 131,95 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 3.636205673217773,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5913620659,
+      "title": "Lego fontana di trevi",
+      "price": {
+        "amount": "169.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5913620659-lego-fontana-di-trevi",
+      "user": {
+        "id": 202413263,
+        "login": "ichigoson",
+        "profile_url": "https://www.vinted.fr/member/202413263-ichigoson",
+        "photo": null,
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5913620659-lego-fontana-di-trevi",
+      "promoted": false,
+      "photo": {
+        "id": 23974662613,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#A8A697",
+        "dominant_color_opaque": "#E5E4E0",
+        "url": "https://images1.vinted.net/t/04_02372_xozKixiKCm2CLrkNx3zd6B4Z/f800/1741101959.jpeg?s=1ec8ef35014f3eeafd33a1399dac29b44c7935a7",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_02372_xozKixiKCm2CLrkNx3zd6B4Z/70x100/1741101959.jpeg?s=e8e4a7bf20e9e78e5330a7eaa0afa2efa68e76d4",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_02372_xozKixiKCm2CLrkNx3zd6B4Z/150x210/1741101959.jpeg?s=79a2f81a2438e4efe68fec404c3c8248b8aa8ce4",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_02372_xozKixiKCm2CLrkNx3zd6B4Z/310x430/1741101959.jpeg?s=dfdfa746ad11bbcb00c6be18625456329da2968d",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_02372_xozKixiKCm2CLrkNx3zd6B4Z/f800/1741101959.jpeg?s=1ec8ef35014f3eeafd33a1399dac29b44c7935a7",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_02372_xozKixiKCm2CLrkNx3zd6B4Z/f800/1741101959.jpeg?s=1ec8ef35014f3eeafd33a1399dac29b44c7935a7",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_02372_xozKixiKCm2CLrkNx3zd6B4Z/f800/1741101959.jpeg?s=1ec8ef35014f3eeafd33a1399dac29b44c7935a7",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_02372_xozKixiKCm2CLrkNx3zd6B4Z",
+          "timestamp": 1741101959,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_02372_xozKixiKCm2CLrkNx3zd6B4Z/1741101959.jpeg?s=b677729179dd819bdb6943ed23570b4a425945b6",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 8,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "9.15",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "178.15",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Prématuré, jusqu'à 44cm",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Prématuré, jusqu'à 44cm",
+        "accessibility_label": "Lego fontana di trevi, marque: LEGO, état: Neuf avec étiquette, taille: Prématuré, jusqu'à 44cm, 169,00 €, 178,15 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 3.162447929382324,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5919920025,
+      "title": "Lego Fontana di Trevi 21062",
+      "price": {
+        "amount": "160.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5919920025-lego-fontana-di-trevi-21062",
+      "user": {
+        "id": 244988152,
+        "login": "vc22m",
+        "profile_url": "https://www.vinted.fr/member/244988152-vc22m",
+        "photo": {
+          "id": 220890197,
+          "width": 96,
+          "height": 96,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/04_0015e_kir7ybzTQj6u1FxTRa7ZbCSj/f800/1733237260.jpeg?s=b8beef9dd4e2d20fac2ae06ba2bbb4586f96794c",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/04_0015e_kir7ybzTQj6u1FxTRa7ZbCSj/310x310/1733237260.jpeg?s=3d31f55b7953fbee00faf4511e8e3a8e2a2a8501",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/04_0015e_kir7ybzTQj6u1FxTRa7ZbCSj/150x150/1733237260.jpeg?s=8a0156a22f6822ecf2dc31c7fb9b56880d2c03b0",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/04_0015e_kir7ybzTQj6u1FxTRa7ZbCSj/100x100/1733237260.jpeg?s=bfa6cf0b5c040169c656f2b4ae15ba03cdbc9ab7",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/04_0015e_kir7ybzTQj6u1FxTRa7ZbCSj/50x50/1733237260.jpeg?s=ace099f49627f8682e69b678fc65b3a2d3e245bf",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/04_0015e_kir7ybzTQj6u1FxTRa7ZbCSj/20x20/1733237260.jpeg?s=6a7c9f7b07434d47649c02e709eb35a438325395",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "04_0015e_kir7ybzTQj6u1FxTRa7ZbCSj",
+            "timestamp": 1733237260,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/04_0015e_kir7ybzTQj6u1FxTRa7ZbCSj/1733237260.jpeg?s=c3e6fafd5f0060c978d227e7262bfaf515960bb7",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5919920025-lego-fontana-di-trevi-21062",
+      "promoted": false,
+      "photo": {
+        "id": 24000981002,
+        "image_no": 1,
+        "width": 800,
+        "height": 682,
+        "dominant_color": "#817F78",
+        "dominant_color_opaque": "#D9D9D7",
+        "url": "https://images1.vinted.net/t/03_02577_t4cDTa6r9B2ewiggxdfYG3mV/f800/1741200437.jpeg?s=bf1feb925525a7627d04c181f10246f6cf1ec29f",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/03_02577_t4cDTa6r9B2ewiggxdfYG3mV/70x100/1741200437.jpeg?s=4da2fad4979801e410b230d9df6a93a7b2739898",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/03_02577_t4cDTa6r9B2ewiggxdfYG3mV/150x210/1741200437.jpeg?s=8063f34f4763ecbff0a5ec1995f9a5c40d30080c",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/03_02577_t4cDTa6r9B2ewiggxdfYG3mV/310x430/1741200437.jpeg?s=bc80cff82c717a91d2bfa4c1c73de61e24109946",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/03_02577_t4cDTa6r9B2ewiggxdfYG3mV/f800/1741200437.jpeg?s=bf1feb925525a7627d04c181f10246f6cf1ec29f",
+            "width": 428,
+            "height": 365,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/03_02577_t4cDTa6r9B2ewiggxdfYG3mV/f800/1741200437.jpeg?s=bf1feb925525a7627d04c181f10246f6cf1ec29f",
+            "width": 624,
+            "height": 532,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/03_02577_t4cDTa6r9B2ewiggxdfYG3mV/f800/1741200437.jpeg?s=bf1feb925525a7627d04c181f10246f6cf1ec29f",
+            "width": 364,
+            "height": 310,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "03_02577_t4cDTa6r9B2ewiggxdfYG3mV",
+          "timestamp": 1741200437,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/03_02577_t4cDTa6r9B2ewiggxdfYG3mV/1741200437.jpeg?s=fef1390d110a5d169df29d2b8d84218335031894",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 6,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "8.7",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "168.7",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "M",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "M",
+        "accessibility_label": "Lego Fontana di Trevi 21062, marque: LEGO, état: Neuf avec étiquette, taille: M, 160,00 €, 168,70 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 2.438869953155518,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5918280712,
+      "title": "Lego fontana trevi autografato dal designer",
+      "price": {
+        "amount": "290.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5918280712-lego-fontana-trevi-autografato-dal-designer",
+      "user": {
+        "id": 49963003,
+        "login": "luca280380",
+        "profile_url": "https://www.vinted.fr/member/49963003-luca280380",
+        "photo": {
+          "id": 45562555,
+          "width": 512,
+          "height": 512,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_00714_FQe9WQjz1v2Zj56gRBp3t87g/f800/1610619209.jpeg?s=7d33f09d8133f547e7cff0debde7c13e16ebbcc6",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_00714_FQe9WQjz1v2Zj56gRBp3t87g/310x310/1610619209.jpeg?s=9cd45690d64cddcb092d79e3a1fd71c793c1a0b9",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_00714_FQe9WQjz1v2Zj56gRBp3t87g/150x150/1610619209.jpeg?s=c1410815e7c789039d76753dcfe053b5b60c616c",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_00714_FQe9WQjz1v2Zj56gRBp3t87g/100x100/1610619209.jpeg?s=2e52ee7663c55734d591e21dddf8e0e430e02df6",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_00714_FQe9WQjz1v2Zj56gRBp3t87g/50x50/1610619209.jpeg?s=e0806179817b0bf42d8a2518bac92fe85283c6c8",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_00714_FQe9WQjz1v2Zj56gRBp3t87g/20x20/1610619209.jpeg?s=cde773a56347eba73c68fcd49e7a8d9bde5b89ae",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_00714_FQe9WQjz1v2Zj56gRBp3t87g",
+            "timestamp": 1610619209,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_00714_FQe9WQjz1v2Zj56gRBp3t87g/1610619209.jpeg?s=b1e2b83a4add694eef3bfcacc10dcfb8984fd5cd",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5918280712-lego-fontana-trevi-autografato-dal-designer",
+      "promoted": false,
+      "photo": {
+        "id": 23994093530,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#768182",
+        "dominant_color_opaque": "#D6D9DA",
+        "url": "https://images1.vinted.net/t/01_00129_TsQYDGf4FvquJLVsprHacE3u/f800/1741184364.jpeg?s=2ce642c523cb59b6dd945dc65f4f74fce7b44c35",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/01_00129_TsQYDGf4FvquJLVsprHacE3u/70x100/1741184364.jpeg?s=40d2baf2eabd7f72014106c99c99257c4c8b7495",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/01_00129_TsQYDGf4FvquJLVsprHacE3u/150x210/1741184364.jpeg?s=1edf81ebfc7b9568f378e273723919d64ef819a5",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/01_00129_TsQYDGf4FvquJLVsprHacE3u/310x430/1741184364.jpeg?s=318f3d09d537ba1037f24f3b8897a27cfaa99b8a",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/01_00129_TsQYDGf4FvquJLVsprHacE3u/f800/1741184364.jpeg?s=2ce642c523cb59b6dd945dc65f4f74fce7b44c35",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/01_00129_TsQYDGf4FvquJLVsprHacE3u/f800/1741184364.jpeg?s=2ce642c523cb59b6dd945dc65f4f74fce7b44c35",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/01_00129_TsQYDGf4FvquJLVsprHacE3u/f800/1741184364.jpeg?s=2ce642c523cb59b6dd945dc65f4f74fce7b44c35",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "01_00129_TsQYDGf4FvquJLVsprHacE3u",
+          "timestamp": 1741184364,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/01_00129_TsQYDGf4FvquJLVsprHacE3u/1741184364.jpeg?s=b0930ed2e1862a39b3780dd5cbbd69f66d50154b",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 5,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "15.2",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "305.2",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Neuf avec étiquette",
+        "accessibility_label": "Lego fontana trevi autografato dal designer, marque: LEGO, état: Neuf avec étiquette, 290,00 €, 305,20 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 2.286095142364502,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5917289433,
+      "title": "Fontana di Trevi Lego 21062",
+      "price": {
+        "amount": "162.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5917289433-fontana-di-trevi-lego-21062",
+      "user": {
+        "id": 232699637,
+        "login": "rinnovoilguardaroba",
+        "profile_url": "https://www.vinted.fr/member/232699637-rinnovoilguardaroba",
+        "photo": null,
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5917289433-fontana-di-trevi-lego-21062",
+      "promoted": false,
+      "photo": {
+        "id": 23989996141,
+        "image_no": 1,
+        "width": 800,
+        "height": 539,
+        "dominant_color": "#A39080",
+        "dominant_color_opaque": "#E3DED9",
+        "url": "https://images1.vinted.net/t/04_01622_RxWHvZmoiFbBUVw5iQo2uSXc/f800/1741174730.jpeg?s=acd3ac94b432b6d7e0358f758cea070e2531e003",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_01622_RxWHvZmoiFbBUVw5iQo2uSXc/70x100/1741174730.jpeg?s=7da420bca0d6481fe2940608d4f42fc059dd3d2d",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_01622_RxWHvZmoiFbBUVw5iQo2uSXc/150x210/1741174730.jpeg?s=dfcab7c6d1bf0519e68083d47f1332c080e404e1",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_01622_RxWHvZmoiFbBUVw5iQo2uSXc/310x430/1741174730.jpeg?s=79f62a07018b6fcf3112815ae1db7eb1d4207139",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_01622_RxWHvZmoiFbBUVw5iQo2uSXc/f800/1741174730.jpeg?s=acd3ac94b432b6d7e0358f758cea070e2531e003",
+            "width": 428,
+            "height": 288,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_01622_RxWHvZmoiFbBUVw5iQo2uSXc/f800/1741174730.jpeg?s=acd3ac94b432b6d7e0358f758cea070e2531e003",
+            "width": 624,
+            "height": 420,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_01622_RxWHvZmoiFbBUVw5iQo2uSXc/f800/1741174730.jpeg?s=acd3ac94b432b6d7e0358f758cea070e2531e003",
+            "width": 364,
+            "height": 245,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_01622_RxWHvZmoiFbBUVw5iQo2uSXc",
+          "timestamp": 1741174730,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_01622_RxWHvZmoiFbBUVw5iQo2uSXc/1741174730.jpeg?s=3e0088d612ca44a1ef4cc1e7ca49ee0fa0a24761",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 3,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "8.8",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "170.8",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Fontana di Trevi Lego 21062, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 162,00 €, 170,80 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 2.282756805419922,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5927927042,
+      "title": "Moneta lego",
+      "price": {
+        "amount": "60.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5927927042-moneta-lego",
+      "user": {
+        "id": 49963003,
+        "login": "luca280380",
+        "profile_url": "https://www.vinted.fr/member/49963003-luca280380",
+        "photo": {
+          "id": 45562555,
+          "width": 512,
+          "height": 512,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_00714_FQe9WQjz1v2Zj56gRBp3t87g/f800/1610619209.jpeg?s=7d33f09d8133f547e7cff0debde7c13e16ebbcc6",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_00714_FQe9WQjz1v2Zj56gRBp3t87g/310x310/1610619209.jpeg?s=9cd45690d64cddcb092d79e3a1fd71c793c1a0b9",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_00714_FQe9WQjz1v2Zj56gRBp3t87g/150x150/1610619209.jpeg?s=c1410815e7c789039d76753dcfe053b5b60c616c",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_00714_FQe9WQjz1v2Zj56gRBp3t87g/100x100/1610619209.jpeg?s=2e52ee7663c55734d591e21dddf8e0e430e02df6",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_00714_FQe9WQjz1v2Zj56gRBp3t87g/50x50/1610619209.jpeg?s=e0806179817b0bf42d8a2518bac92fe85283c6c8",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_00714_FQe9WQjz1v2Zj56gRBp3t87g/20x20/1610619209.jpeg?s=cde773a56347eba73c68fcd49e7a8d9bde5b89ae",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_00714_FQe9WQjz1v2Zj56gRBp3t87g",
+            "timestamp": 1610619209,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_00714_FQe9WQjz1v2Zj56gRBp3t87g/1610619209.jpeg?s=b1e2b83a4add694eef3bfcacc10dcfb8984fd5cd",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5927927042-moneta-lego",
+      "promoted": false,
+      "photo": {
+        "id": 24034395188,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#6F5B46",
+        "dominant_color_opaque": "#D4CEC8",
+        "url": "https://images1.vinted.net/t/04_01c33_giMq5YJ9yyooVmHm1NNcYJno/f800/1741356521.jpeg?s=2db11e1a379b2f715930ab0179556113679e4781",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_01c33_giMq5YJ9yyooVmHm1NNcYJno/70x100/1741356521.jpeg?s=e3164918feb7f8061f2ea56dd622c131f390201c",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_01c33_giMq5YJ9yyooVmHm1NNcYJno/150x210/1741356521.jpeg?s=284ed6bd29558fbf611255bf23c94c09e1b5d11c",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_01c33_giMq5YJ9yyooVmHm1NNcYJno/310x430/1741356521.jpeg?s=6fcb86f28234431e2d58cdb2bf696f31cdc2399f",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_01c33_giMq5YJ9yyooVmHm1NNcYJno/f800/1741356521.jpeg?s=2db11e1a379b2f715930ab0179556113679e4781",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_01c33_giMq5YJ9yyooVmHm1NNcYJno/f800/1741356521.jpeg?s=2db11e1a379b2f715930ab0179556113679e4781",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_01c33_giMq5YJ9yyooVmHm1NNcYJno/f800/1741356521.jpeg?s=2db11e1a379b2f715930ab0179556113679e4781",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_01c33_giMq5YJ9yyooVmHm1NNcYJno",
+          "timestamp": 1741356521,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_01c33_giMq5YJ9yyooVmHm1NNcYJno/1741356521.jpeg?s=6a272bd575a655a139aae315d75a77a673a5c40e",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 2,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "3.7",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "63.7",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Neuf avec étiquette",
+        "accessibility_label": "Moneta lego, marque: LEGO, état: Neuf avec étiquette, 60,00 €, 63,70 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 1.810903072357178,
+        "matched_queries": []
+      }
+    }
+  ],
+  "dominant_brand": {
+    "id": 89162,
+    "title": "LEGO",
+    "slug": "lego",
+    "favourite_count": 186427,
+    "pretty_favourite_count": "186.4K",
+    "item_count": 2176267,
+    "pretty_item_count": "2.2M",
+    "is_visible_in_listings": true,
+    "requires_authenticity_check": false,
+    "is_luxury": false,
+    "is_hvf": false,
+    "path": "/brand/89162-lego",
+    "url": "https://www.vinted.fr/brand/89162-lego",
+    "is_favourite": false
+  },
+  "search_tracking_params": {
+    "search_correlation_id": "c6830d33-5dd3-4fce-8d77-23c3836272e6",
+    "search_session_id": "a1562672-8cc1-41bd-ad63-82e7fd01634e",
+    "global_search_session_id": "f3adf3ea-5eac-46b4-8f10-a11f20a403d4"
+  },
+  "pagination": {
+    "current_page": 1,
+    "total_pages": 1,
+    "total_entries": 9,
+    "per_page": 96,
+    "time": 1742225015
+  },
+  "code": 0,
+  "setId": "21062"
+}

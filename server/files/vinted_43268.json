@@ -1,0 +1,474 @@
+{
+  "items": [
+    {
+      "id": 5969355430,
+      "title": "Lego Disney",
+      "price": {
+        "amount": "80.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5969355430-lego-disney",
+      "user": {
+        "id": 259397595,
+        "login": "mandy.spies",
+        "profile_url": "https://www.vinted.fr/member/259397595-mandyspies",
+        "photo": {
+          "id": 234283713,
+          "width": 800,
+          "height": 600,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/04_019b6_noR2CtAzbmqZuDD1C3Hga2hB/f800/1741737733.jpeg?s=772e37608ba91ae0d621acca184284fe1bce9cdd",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/04_019b6_noR2CtAzbmqZuDD1C3Hga2hB/310x310/1741737733.jpeg?s=fde489c00d1d5780b993a280433ca7b963a4d68b",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/04_019b6_noR2CtAzbmqZuDD1C3Hga2hB/150x150/1741737733.jpeg?s=6341ef0e1a03c4b8f99c317b86a3dd6d01b48b48",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/04_019b6_noR2CtAzbmqZuDD1C3Hga2hB/100x100/1741737733.jpeg?s=6eb9705f9c697f3c62e76d052c929abf488cdb78",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/04_019b6_noR2CtAzbmqZuDD1C3Hga2hB/50x50/1741737733.jpeg?s=4648a39eafbce47979e014a66ab5ac823410d6e3",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/04_019b6_noR2CtAzbmqZuDD1C3Hga2hB/20x20/1741737733.jpeg?s=efb4d8bd8b26be090fab78edf7c32c7c036cf8ba",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "04_019b6_noR2CtAzbmqZuDD1C3Hga2hB",
+            "timestamp": 1741737733,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/04_019b6_noR2CtAzbmqZuDD1C3Hga2hB/1741737733.jpeg?s=9b8fdcb4cac547caf6fd88bb3219352c8f2bc90a",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5969355430-lego-disney",
+      "promoted": false,
+      "photo": {
+        "id": 24206862271,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#A99891",
+        "dominant_color_opaque": "#E5E0DE",
+        "url": "https://images1.vinted.net/t/04_010be_gVzRLexi3PrFhD2wucysjqYR/f800/1741989866.jpeg?s=c92987df9fb78eb66be03766e03d2a9037c652e9",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_010be_gVzRLexi3PrFhD2wucysjqYR/70x100/1741989866.jpeg?s=9f17b573a9dbcfb23b7ff874faae807a87f5d5f8",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_010be_gVzRLexi3PrFhD2wucysjqYR/150x210/1741989866.jpeg?s=b491217f345db89a32d079adf16d663cdbf87872",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_010be_gVzRLexi3PrFhD2wucysjqYR/310x430/1741989866.jpeg?s=e1fc54023b5c7a1487edc84d5519634d2e4c0c32",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_010be_gVzRLexi3PrFhD2wucysjqYR/f800/1741989866.jpeg?s=c92987df9fb78eb66be03766e03d2a9037c652e9",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_010be_gVzRLexi3PrFhD2wucysjqYR/f800/1741989866.jpeg?s=c92987df9fb78eb66be03766e03d2a9037c652e9",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_010be_gVzRLexi3PrFhD2wucysjqYR/f800/1741989866.jpeg?s=c92987df9fb78eb66be03766e03d2a9037c652e9",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_010be_gVzRLexi3PrFhD2wucysjqYR",
+          "timestamp": 1741989866,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_010be_gVzRLexi3PrFhD2wucysjqYR/1741989866.jpeg?s=2dab91f515860053c410d37e99ecb03781cb425b",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 30,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "4.7",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "84.7",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego Disney, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 80,00 €, 84,70 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 38.193314,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5967705388,
+      "title": "Lego disney 43268 lilo & stitch beach house SANS figurines",
+      "price": {
+        "amount": "50.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5967705388-lego-disney-43268-lilo-stitch-beach-house-sans-figurines",
+      "user": {
+        "id": 32072587,
+        "login": "pedro181818",
+        "profile_url": "https://www.vinted.fr/member/32072587-pedro181818",
+        "photo": {
+          "id": 66259267,
+          "width": 600,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/03_01e8a_xXpsLFhnJDtTaga2VSnU2zPf/f800/1630785055.jpeg?s=7ad8c14a4fd9d64cf07b2b9ad684f80b1ed2dfd1",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/03_01e8a_xXpsLFhnJDtTaga2VSnU2zPf/310x310/1630785055.jpeg?s=9362bb58aa67325ec63100c9ecf7a3d5763ba140",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/03_01e8a_xXpsLFhnJDtTaga2VSnU2zPf/150x150/1630785055.jpeg?s=b409459d2bc7d1f67660604ce38d4965899a1d70",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/03_01e8a_xXpsLFhnJDtTaga2VSnU2zPf/100x100/1630785055.jpeg?s=9a037ebe7c221416b7690d2e8e677035d8567252",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/03_01e8a_xXpsLFhnJDtTaga2VSnU2zPf/50x50/1630785055.jpeg?s=6dd006a99dd1b06354098eac5eaaeff3bfe1ceb5",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/03_01e8a_xXpsLFhnJDtTaga2VSnU2zPf/20x20/1630785055.jpeg?s=fe87f86336d940c5be908c084dcb255122ff758a",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "03_01e8a_xXpsLFhnJDtTaga2VSnU2zPf",
+            "timestamp": 1630785055,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/03_01e8a_xXpsLFhnJDtTaga2VSnU2zPf/1630785055.jpeg?s=619417010654f0cc6797e9b5faafeaef213b10c8",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5967705388-lego-disney-43268-lilo-stitch-beach-house-sans-figurines",
+      "promoted": false,
+      "photo": {
+        "id": 24199867595,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#A38584",
+        "dominant_color_opaque": "#E3DADA",
+        "url": "https://images1.vinted.net/t/01_00d4c_4NiZepsSyonEdvDcZJ9r8Yrr/f800/1741969065.jpeg?s=a77648f45e6bc89052b72c0991668828d4f73c94",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/01_00d4c_4NiZepsSyonEdvDcZJ9r8Yrr/70x100/1741969065.jpeg?s=4f5ad2daebde09685c64b55dcd8abd48bb38913d",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/01_00d4c_4NiZepsSyonEdvDcZJ9r8Yrr/150x210/1741969065.jpeg?s=758eed39fb0204ebc70c3c98d934ed1c20b88436",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/01_00d4c_4NiZepsSyonEdvDcZJ9r8Yrr/310x430/1741969065.jpeg?s=81365f16e0a66dc2312e5ec8e14c6a8eb3a794e8",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/01_00d4c_4NiZepsSyonEdvDcZJ9r8Yrr/f800/1741969065.jpeg?s=a77648f45e6bc89052b72c0991668828d4f73c94",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/01_00d4c_4NiZepsSyonEdvDcZJ9r8Yrr/f800/1741969065.jpeg?s=a77648f45e6bc89052b72c0991668828d4f73c94",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/01_00d4c_4NiZepsSyonEdvDcZJ9r8Yrr/f800/1741969065.jpeg?s=a77648f45e6bc89052b72c0991668828d4f73c94",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "01_00d4c_4NiZepsSyonEdvDcZJ9r8Yrr",
+          "timestamp": 1741969065,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/01_00d4c_4NiZepsSyonEdvDcZJ9r8Yrr/1741969065.jpeg?s=d00707962f1eb6b9f6af0619f2a9c21280695c60",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 13,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "3.2",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "53.2",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "7 ans / 122 cm",
+      "content_source": "search",
+      "status": "Très bon état",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "7 ans / 122 cm",
+        "accessibility_label": "Lego disney 43268 lilo & stitch beach house SANS figurines, marque: LEGO, état: Très bon état, taille: 7 ans / 122 cm, 50,00 €, 53,20 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 38.14832,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5915177613,
+      "title": "Lego Disney la maison de plage de lilo et stitch 43268 neuf scellé,",
+      "price": {
+        "amount": "87.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5915177613-lego-disney-la-maison-de-plage-de-lilo-et-stitch-43268-neuf-scelle",
+      "user": {
+        "id": 226402605,
+        "login": "djklbc17",
+        "profile_url": "https://www.vinted.fr/member/226402605-djklbc17",
+        "photo": null,
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5915177613-lego-disney-la-maison-de-plage-de-lilo-et-stitch-43268-neuf-scelle",
+      "promoted": false,
+      "photo": {
+        "id": 23981216050,
+        "image_no": 1,
+        "width": 800,
+        "height": 600,
+        "dominant_color": "#786B5A",
+        "dominant_color_opaque": "#D7D3CE",
+        "url": "https://images1.vinted.net/t/02_01a79_zZNyZQNSxq8CDEhezYiHYBtr/f800/1741118132.jpeg?s=4e07d434e4fdd258f58b6d733af320542e95674a",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/02_01a79_zZNyZQNSxq8CDEhezYiHYBtr/70x100/1741118132.jpeg?s=74a244193c4c4714e368827765fa7614bf100064",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/02_01a79_zZNyZQNSxq8CDEhezYiHYBtr/150x210/1741118132.jpeg?s=08c090f249294ca2aab6e2e43ab43b5924dea4c4",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/02_01a79_zZNyZQNSxq8CDEhezYiHYBtr/310x430/1741118132.jpeg?s=a9e3d88407e2cc02163eb1e0e0cbc50f3c1613ab",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/02_01a79_zZNyZQNSxq8CDEhezYiHYBtr/f800/1741118132.jpeg?s=4e07d434e4fdd258f58b6d733af320542e95674a",
+            "width": 428,
+            "height": 321,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/02_01a79_zZNyZQNSxq8CDEhezYiHYBtr/f800/1741118132.jpeg?s=4e07d434e4fdd258f58b6d733af320542e95674a",
+            "width": 624,
+            "height": 468,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/02_01a79_zZNyZQNSxq8CDEhezYiHYBtr/f800/1741118132.jpeg?s=4e07d434e4fdd258f58b6d733af320542e95674a",
+            "width": 364,
+            "height": 273,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "02_01a79_zZNyZQNSxq8CDEhezYiHYBtr",
+          "timestamp": 1741118132,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/02_01a79_zZNyZQNSxq8CDEhezYiHYBtr/1741118132.jpeg?s=9226ceb784367b375900626e6ba867e398590d5a",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 17,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "5.05",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "92.05",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Prématuré, jusqu'à 44cm",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Prématuré, jusqu'à 44cm",
+        "accessibility_label": "Lego Disney la maison de plage de lilo et stitch 43268 neuf scellé,, marque: LEGO, état: Neuf avec étiquette, taille: Prématuré, jusqu'à 44cm, 87,00 €, 92,05 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 37.409943,
+        "matched_queries": []
+      }
+    }
+  ],
+  "dominant_brand": {
+    "id": 89162,
+    "title": "LEGO",
+    "slug": "lego",
+    "favourite_count": 186427,
+    "pretty_favourite_count": "186.4K",
+    "item_count": 2176267,
+    "pretty_item_count": "2.2M",
+    "is_visible_in_listings": true,
+    "requires_authenticity_check": false,
+    "is_luxury": false,
+    "is_hvf": false,
+    "path": "/brand/89162-lego",
+    "url": "https://www.vinted.fr/brand/89162-lego",
+    "is_favourite": false
+  },
+  "search_tracking_params": {
+    "search_correlation_id": "dca57c48-2661-44a8-8173-0ee3d64e2bca",
+    "search_session_id": "9f7a6aa2-112f-4be4-915c-3161942a827f",
+    "global_search_session_id": "b4e05916-79ef-4822-844a-131ae6305efb"
+  },
+  "pagination": {
+    "current_page": 1,
+    "total_pages": 1,
+    "total_entries": 3,
+    "per_page": 96,
+    "time": 1742225013
+  },
+  "code": 0,
+  "setId": "43268"
+}

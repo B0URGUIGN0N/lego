@@ -1,0 +1,4104 @@
+{
+  "items": [
+    {
+      "id": 5116967589,
+      "title": "🏤 Boîte Vide - Lego - 21060 - Himeji Castle : Japan",
+      "price": {
+        "amount": "5.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5116967589-boite-vide-lego-21060-himeji-castle-japan",
+      "user": {
+        "id": 18011786,
+        "login": "djar-djar-binks",
+        "profile_url": "https://www.vinted.fr/member/18011786-djar-djar-binks",
+        "photo": {
+          "id": 10831781,
+          "width": 721,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_00c5d_scbxmBkvRVGkyMpC2gsivFTD/f800/1605243447.jpeg?s=8c4a6125d3efa9b8a45b844df1a081664dc3c81d",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_00c5d_scbxmBkvRVGkyMpC2gsivFTD/310x310/1605243447.jpeg?s=8f950aa7a72f9466adb4f546e46aa09fe8bd882c",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_00c5d_scbxmBkvRVGkyMpC2gsivFTD/150x150/1605243447.jpeg?s=2f899d3d5e891bd73782396d09628fcbdef3f81a",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_00c5d_scbxmBkvRVGkyMpC2gsivFTD/100x100/1605243447.jpeg?s=4fa86de0cb54175bf9bba75d2f053c05bdc3b79b",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_00c5d_scbxmBkvRVGkyMpC2gsivFTD/50x50/1605243447.jpeg?s=e5ac6011ec330ef083b8253fe4eafdce384dba26",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_00c5d_scbxmBkvRVGkyMpC2gsivFTD/20x20/1605243447.jpeg?s=7ed3a07d1fc2ee79e72b04e1cba1eccbad6c0812",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_00c5d_scbxmBkvRVGkyMpC2gsivFTD",
+            "timestamp": 1605243447,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_00c5d_scbxmBkvRVGkyMpC2gsivFTD/1605243447.jpeg?s=54192d3c0527338770ae53c9ed748f97a19c5969",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5116967589-boite-vide-lego-21060-himeji-castle-japan",
+      "promoted": false,
+      "photo": {
+        "id": 20720131208,
+        "image_no": 1,
+        "width": 800,
+        "height": 692,
+        "dominant_color": "#9A9499",
+        "dominant_color_opaque": "#E1DFE0",
+        "url": "https://images1.vinted.net/t/01_0023b_e8CC9L4Gi8P6uD9Y6NEHk2xn/f800/1727449695.jpeg?s=cae82b7d023fa70972715e50d49946b2b1aebea5",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/01_0023b_e8CC9L4Gi8P6uD9Y6NEHk2xn/70x100/1727449695.jpeg?s=8acf55aa5a6658d2a2747b212f420e36c8fca421",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/01_0023b_e8CC9L4Gi8P6uD9Y6NEHk2xn/150x210/1727449695.jpeg?s=86fbc4d3fdeb6b9aabca98e938776f3644df61c8",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/01_0023b_e8CC9L4Gi8P6uD9Y6NEHk2xn/310x430/1727449695.jpeg?s=52055a024af3d16a886f4d33dd1bbe85564d4acd",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/01_0023b_e8CC9L4Gi8P6uD9Y6NEHk2xn/f800/1727449695.jpeg?s=cae82b7d023fa70972715e50d49946b2b1aebea5",
+            "width": 428,
+            "height": 370,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/01_0023b_e8CC9L4Gi8P6uD9Y6NEHk2xn/f800/1727449695.jpeg?s=cae82b7d023fa70972715e50d49946b2b1aebea5",
+            "width": 624,
+            "height": 540,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/01_0023b_e8CC9L4Gi8P6uD9Y6NEHk2xn/f800/1727449695.jpeg?s=cae82b7d023fa70972715e50d49946b2b1aebea5",
+            "width": 364,
+            "height": 315,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "01_0023b_e8CC9L4Gi8P6uD9Y6NEHk2xn",
+          "timestamp": 1727449695,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/01_0023b_e8CC9L4Gi8P6uD9Y6NEHk2xn/1727449695.jpeg?s=2c9ec6d173174522d5f0cc07e4395bd3736d2a9f",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 17,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "0.95",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "5.95",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Très bon état",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "🏤 Boîte Vide - Lego - 21060 - Himeji Castle : Japan, marque: LEGO, état: Très bon état, taille: Taille unique, 5,00 €, 5,95 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 5.83540153503418,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5660603810,
+      "title": "Notice lego 21060  Château Himeji",
+      "price": {
+        "amount": "10.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5660603810-notice-lego-21060-chateau-himeji",
+      "user": {
+        "id": 21768268,
+        "login": "kine86",
+        "profile_url": "https://www.vinted.fr/member/21768268-kine86",
+        "photo": {
+          "id": 32227183,
+          "width": 600,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/01_024a3_U9q9g1YWVA1HzvDdVz7zoGoj/f800/1594237849.jpeg?s=c6df94b069b31546374eff154c5abb124489c88a",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/01_024a3_U9q9g1YWVA1HzvDdVz7zoGoj/310x310/1594237849.jpeg?s=ca262dc98dffe7309b3b9abcbc049587f1a9044a",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/01_024a3_U9q9g1YWVA1HzvDdVz7zoGoj/150x150/1594237849.jpeg?s=b148242391fd355eb7c2ec3b74ce309f258b7461",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/01_024a3_U9q9g1YWVA1HzvDdVz7zoGoj/100x100/1594237849.jpeg?s=f9695707805c247e0b1b68fec8ebb3c15768db86",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/01_024a3_U9q9g1YWVA1HzvDdVz7zoGoj/50x50/1594237849.jpeg?s=f5325c3be72d2f158cf119ef24112b03ff59dcad",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/01_024a3_U9q9g1YWVA1HzvDdVz7zoGoj/20x20/1594237849.jpeg?s=c8a927b11c1a68e5ff2016c0761a53bb6fd7b811",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "01_024a3_U9q9g1YWVA1HzvDdVz7zoGoj",
+            "timestamp": 1594237849,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/01_024a3_U9q9g1YWVA1HzvDdVz7zoGoj/1594237849.jpeg?s=c747099cff5432d0cf4d9423efa06cf70d457a0d",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5660603810-notice-lego-21060-chateau-himeji",
+      "promoted": false,
+      "photo": {
+        "id": 22927071014,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#767268",
+        "dominant_color_opaque": "#D6D5D2",
+        "url": "https://images1.vinted.net/t/04_01011_nwidmBZaJRv8hRJHWACeU8b3/f800/1737021622.jpeg?s=c9d912f4f986c5614cfae0fe9b09cf30779013aa",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_01011_nwidmBZaJRv8hRJHWACeU8b3/70x100/1737021622.jpeg?s=413172f1cfbbe7d24f03d3561378aafec8f4c12f",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_01011_nwidmBZaJRv8hRJHWACeU8b3/150x210/1737021622.jpeg?s=2b00cfb14dcdb37a3d20a8e93ee0a654410a6fd3",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_01011_nwidmBZaJRv8hRJHWACeU8b3/310x430/1737021622.jpeg?s=99126c44dc0207d8e58d7174a147f9673e036c3d",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_01011_nwidmBZaJRv8hRJHWACeU8b3/f800/1737021622.jpeg?s=c9d912f4f986c5614cfae0fe9b09cf30779013aa",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_01011_nwidmBZaJRv8hRJHWACeU8b3/f800/1737021622.jpeg?s=c9d912f4f986c5614cfae0fe9b09cf30779013aa",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_01011_nwidmBZaJRv8hRJHWACeU8b3/f800/1737021622.jpeg?s=c9d912f4f986c5614cfae0fe9b09cf30779013aa",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_01011_nwidmBZaJRv8hRJHWACeU8b3",
+          "timestamp": 1737021622,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_01011_nwidmBZaJRv8hRJHWACeU8b3/1737021622.jpeg?s=a5109e1e882e2656adfe40fd3c694c2e40345f60",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 0,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "1.2",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "11.2",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Très bon état",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Notice lego 21060  Château Himeji, marque: LEGO, état: Très bon état, taille: Taille unique, 10,00 €, 11,20 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 5.495139122009277,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5963084706,
+      "title": "Lego Castello di Himeji",
+      "price": {
+        "amount": "139.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5963084706-lego-castello-di-himeji",
+      "user": {
+        "id": 55939998,
+        "login": "alymiriam",
+        "profile_url": "https://www.vinted.fr/member/55939998-alymiriam",
+        "photo": {
+          "id": 124933391,
+          "width": 640,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_00304_doEcYFbb9Wg7uLY8cgCLVJKC/f800/1673780126.jpeg?s=bf002a13de8702d49b0c9f4e18a14c57ba818a6c",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_00304_doEcYFbb9Wg7uLY8cgCLVJKC/310x310/1673780126.jpeg?s=a098fdb1bf6db63b0ad252fe8a915c99f9aa94c0",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_00304_doEcYFbb9Wg7uLY8cgCLVJKC/150x150/1673780126.jpeg?s=66cbb2b15a0c9a5f60bef4599327a2410a3cbb00",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_00304_doEcYFbb9Wg7uLY8cgCLVJKC/100x100/1673780126.jpeg?s=4fd8b3342162e5ab3e741660983defabc87e36b6",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_00304_doEcYFbb9Wg7uLY8cgCLVJKC/50x50/1673780126.jpeg?s=9de17ea2af332bf5ad4a56543db1fb31fe703131",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_00304_doEcYFbb9Wg7uLY8cgCLVJKC/20x20/1673780126.jpeg?s=7a8f72286e27d318b502c4b54632214a2c26c5d6",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_00304_doEcYFbb9Wg7uLY8cgCLVJKC",
+            "timestamp": 1673780126,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_00304_doEcYFbb9Wg7uLY8cgCLVJKC/1673780126.jpeg?s=97f33dbf0018c97da341cb30e93a79bd0a99042a",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5963084706-lego-castello-di-himeji",
+      "promoted": false,
+      "photo": {
+        "id": 24180490715,
+        "image_no": 1,
+        "width": 800,
+        "height": 600,
+        "dominant_color": "#A28869",
+        "dominant_color_opaque": "#E3DBD2",
+        "url": "https://images1.vinted.net/t/04_02144_SncdSLF8tDWAqV7PjZgGSPFF/f800/1741887271.jpeg?s=576cc3aa50387d344c36bcaf059f1e34316e5775",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_02144_SncdSLF8tDWAqV7PjZgGSPFF/70x100/1741887271.jpeg?s=00561ba1308534d91884c9b1784822207c787a19",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_02144_SncdSLF8tDWAqV7PjZgGSPFF/150x210/1741887271.jpeg?s=8198e5531b8c072dd0639a96791a6fd234c61c32",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_02144_SncdSLF8tDWAqV7PjZgGSPFF/310x430/1741887271.jpeg?s=092891babd5632d93e7d377971f990c45e968c5c",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_02144_SncdSLF8tDWAqV7PjZgGSPFF/f800/1741887271.jpeg?s=576cc3aa50387d344c36bcaf059f1e34316e5775",
+            "width": 428,
+            "height": 321,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_02144_SncdSLF8tDWAqV7PjZgGSPFF/f800/1741887271.jpeg?s=576cc3aa50387d344c36bcaf059f1e34316e5775",
+            "width": 624,
+            "height": 468,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_02144_SncdSLF8tDWAqV7PjZgGSPFF/f800/1741887271.jpeg?s=576cc3aa50387d344c36bcaf059f1e34316e5775",
+            "width": 364,
+            "height": 273,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_02144_SncdSLF8tDWAqV7PjZgGSPFF",
+          "timestamp": 1741887271,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_02144_SncdSLF8tDWAqV7PjZgGSPFF/1741887271.jpeg?s=8c81fdcf9e0564e2251aa0f35215b99cda1afb32",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 14,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "7.65",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "146.65",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego Castello di Himeji, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 139,00 €, 146,65 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 4.262380123138428,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5941638825,
+      "title": "Lego «  Château d'Himeji »",
+      "price": {
+        "amount": "105.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5941638825-lego-chateau-dhimeji",
+      "user": {
+        "id": 151205279,
+        "login": "lestrucsdetot",
+        "profile_url": "https://www.vinted.fr/member/151205279-lestrucsdetot",
+        "photo": {
+          "id": 147361580,
+          "width": 450,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/01_01ff5_m9oNwgq15mMuGFJc9EYYYCQu/f800/1688323461.jpeg?s=737dfa8b8a6d31ee9b6fee30025032e220a55947",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/01_01ff5_m9oNwgq15mMuGFJc9EYYYCQu/310x310/1688323461.jpeg?s=b5f507e887e996541629054ee627d0e963c31ae6",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/01_01ff5_m9oNwgq15mMuGFJc9EYYYCQu/150x150/1688323461.jpeg?s=764ec2852a750fae394376f6fc7226cb86a8cd3b",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/01_01ff5_m9oNwgq15mMuGFJc9EYYYCQu/100x100/1688323461.jpeg?s=2167175569db37ffbe0906dbed7d1711be04bfa6",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/01_01ff5_m9oNwgq15mMuGFJc9EYYYCQu/50x50/1688323461.jpeg?s=e5bf3e8505039e669889cd263fd9814de249ebc5",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/01_01ff5_m9oNwgq15mMuGFJc9EYYYCQu/20x20/1688323461.jpeg?s=6e9cac570c3426cb1c9cc2090e1149249a685311",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "01_01ff5_m9oNwgq15mMuGFJc9EYYYCQu",
+            "timestamp": 1688323461,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/01_01ff5_m9oNwgq15mMuGFJc9EYYYCQu/1688323461.jpeg?s=c0e4967205a4c586832b7f4635bf9ba44f6618ed",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5941638825-lego-chateau-dhimeji",
+      "promoted": false,
+      "photo": {
+        "id": 24091801897,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#7D776D",
+        "dominant_color_opaque": "#D8D6D3",
+        "url": "https://images1.vinted.net/t/04_01549_JFUrKB2WAv6EVXKiuFjHNpv3/f800/1741544470.jpeg?s=9d7c5bdcaa2a7d41d7379f41f7a8048fa4e01715",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_01549_JFUrKB2WAv6EVXKiuFjHNpv3/70x100/1741544470.jpeg?s=98eed9ced2f390ad503876efc03aab38b571b938",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_01549_JFUrKB2WAv6EVXKiuFjHNpv3/150x210/1741544470.jpeg?s=39fd7a6f5388a0ac88537a497ab1909106908f60",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_01549_JFUrKB2WAv6EVXKiuFjHNpv3/310x430/1741544470.jpeg?s=af6afb04ec9c7439ec1096b4c24ee0e889a12227",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_01549_JFUrKB2WAv6EVXKiuFjHNpv3/f800/1741544470.jpeg?s=9d7c5bdcaa2a7d41d7379f41f7a8048fa4e01715",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_01549_JFUrKB2WAv6EVXKiuFjHNpv3/f800/1741544470.jpeg?s=9d7c5bdcaa2a7d41d7379f41f7a8048fa4e01715",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_01549_JFUrKB2WAv6EVXKiuFjHNpv3/f800/1741544470.jpeg?s=9d7c5bdcaa2a7d41d7379f41f7a8048fa4e01715",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_01549_JFUrKB2WAv6EVXKiuFjHNpv3",
+          "timestamp": 1741544470,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_01549_JFUrKB2WAv6EVXKiuFjHNpv3/1741544470.jpeg?s=c1b8917a795f3c3910ce2d008f6b77b4999dabf2",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 12,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "5.95",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "110.95",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "M",
+      "content_source": "search",
+      "status": "Très bon état",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "M",
+        "accessibility_label": "Lego «  Château d'Himeji », marque: LEGO, état: Très bon état, taille: M, 105,00 €, 110,95 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 4.234878063201904,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5975323795,
+      "title": "Lego architecture 21060 Himeji castle",
+      "price": {
+        "amount": "95.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5975323795-lego-architecture-21060-himeji-castle",
+      "user": {
+        "id": 81164488,
+        "login": "anouk_schoenmakers",
+        "profile_url": "https://www.vinted.fr/member/81164488-anoukschoenmakers",
+        "photo": {
+          "id": 202574091,
+          "width": 800,
+          "height": 600,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_012fd_obptWgjAUhY1s5HSkJYDDhiL/f800/1722773120.jpeg?s=87ad6dea1cfc1a7d67cc3372eb087e41f579eccb",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_012fd_obptWgjAUhY1s5HSkJYDDhiL/310x310/1722773120.jpeg?s=383c463a914ab565212a3bf3d555aa7e8b679bf8",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_012fd_obptWgjAUhY1s5HSkJYDDhiL/150x150/1722773120.jpeg?s=a963aa87007b8313d2eda83b89eb65931a6a47c4",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_012fd_obptWgjAUhY1s5HSkJYDDhiL/100x100/1722773120.jpeg?s=a873cd5a18054269d2e035edb06c6f3f0e56e043",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_012fd_obptWgjAUhY1s5HSkJYDDhiL/50x50/1722773120.jpeg?s=1aa95ebb8ac277f14015bafc8b57aa1dca0c35b0",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_012fd_obptWgjAUhY1s5HSkJYDDhiL/20x20/1722773120.jpeg?s=318f56da21c05c1f17caf8e2e7a63c877d0e552b",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_012fd_obptWgjAUhY1s5HSkJYDDhiL",
+            "timestamp": 1722773120,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_012fd_obptWgjAUhY1s5HSkJYDDhiL/1722773120.jpeg?s=0e3e3c2bb1d71e27404a7b1bec736a32b387e663",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5975323795-lego-architecture-21060-himeji-castle",
+      "promoted": false,
+      "photo": {
+        "id": 24231800687,
+        "image_no": 1,
+        "width": 800,
+        "height": 600,
+        "dominant_color": "#726552",
+        "dominant_color_opaque": "#D5D1CB",
+        "url": "https://images1.vinted.net/t/04_01cfc_WQeKDduXq89uh9o1gzgrVdU6/f800/1742071314.jpeg?s=87687e25d839eebdd6d1f8654c7824e5044e145b",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_01cfc_WQeKDduXq89uh9o1gzgrVdU6/70x100/1742071314.jpeg?s=d9fe307b2c6eefb7d5adc626548db795c1292881",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_01cfc_WQeKDduXq89uh9o1gzgrVdU6/150x210/1742071314.jpeg?s=ffea55eba0622805c8ee21aeb7c0709d89bf4700",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_01cfc_WQeKDduXq89uh9o1gzgrVdU6/310x430/1742071314.jpeg?s=680f8578a557b83d37f317d12f6695f3937de6bb",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_01cfc_WQeKDduXq89uh9o1gzgrVdU6/f800/1742071314.jpeg?s=87687e25d839eebdd6d1f8654c7824e5044e145b",
+            "width": 428,
+            "height": 321,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_01cfc_WQeKDduXq89uh9o1gzgrVdU6/f800/1742071314.jpeg?s=87687e25d839eebdd6d1f8654c7824e5044e145b",
+            "width": 624,
+            "height": 468,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_01cfc_WQeKDduXq89uh9o1gzgrVdU6/f800/1742071314.jpeg?s=87687e25d839eebdd6d1f8654c7824e5044e145b",
+            "width": 364,
+            "height": 273,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_01cfc_WQeKDduXq89uh9o1gzgrVdU6",
+          "timestamp": 1742071314,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_01cfc_WQeKDduXq89uh9o1gzgrVdU6/1742071314.jpeg?s=29b84823f9f0aacd7086904cc1ff8ff2d6c8b239",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 17,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "5.45",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "100.45",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Très bon état",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego architecture 21060 Himeji castle, marque: LEGO, état: Très bon état, taille: Taille unique, 95,00 €, 100,45 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 4.14311695098877,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5897656588,
+      "title": "Lego 21060",
+      "price": {
+        "amount": "120.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5897656588-lego-21060",
+      "user": {
+        "id": 28649,
+        "login": "trinity07",
+        "profile_url": "https://www.vinted.fr/member/28649-trinity07",
+        "photo": {
+          "id": 1591260,
+          "width": 525,
+          "height": 700,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_00c14_RKQJ1CeVn8P48sNq6YquTKgp/f800/1605201984.jpeg?s=40a01dcf9e3d7d776b6d033b6fe89c1438615c24",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_00c14_RKQJ1CeVn8P48sNq6YquTKgp/310x310/1605201984.jpeg?s=f849cc8ff743826987f0c6fb797ffc8bd6dbaee3",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_00c14_RKQJ1CeVn8P48sNq6YquTKgp/150x150/1605201984.jpeg?s=ae6598406408776314bd41c57fb8a3d4d1188d83",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_00c14_RKQJ1CeVn8P48sNq6YquTKgp/100x100/1605201984.jpeg?s=160f028268e8a6fbcbc7137725b57edea36d8b23",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_00c14_RKQJ1CeVn8P48sNq6YquTKgp/50x50/1605201984.jpeg?s=f4b297cc5f71614ca976d34f5d2ae2f536aa8692",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_00c14_RKQJ1CeVn8P48sNq6YquTKgp/20x20/1605201984.jpeg?s=7bb853446605b0582912e1d166f0dd33d8b6e1a4",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_00c14_RKQJ1CeVn8P48sNq6YquTKgp",
+            "timestamp": 1605201984,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_00c14_RKQJ1CeVn8P48sNq6YquTKgp/1605201984.jpeg?s=aae138a00005c0a82cc91b48c6fbee16473080c1",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5897656588-lego-21060",
+      "promoted": false,
+      "photo": {
+        "id": 23908328186,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#7E7A75",
+        "dominant_color_opaque": "#D8D7D6",
+        "url": "https://images1.vinted.net/t/04_009ed_EcGy5ok6eCYLhYnh1nWSG344/f800/1740850298.jpeg?s=83eacd239617a3ece9e08061189f80b5c5bd55f8",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_009ed_EcGy5ok6eCYLhYnh1nWSG344/70x100/1740850298.jpeg?s=40e1ab5209623b47822dfdbd41af168f7d7c7f83",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_009ed_EcGy5ok6eCYLhYnh1nWSG344/150x210/1740850298.jpeg?s=92f07290104190b3e441c4dd2ad4e962ea9fabff",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_009ed_EcGy5ok6eCYLhYnh1nWSG344/310x430/1740850298.jpeg?s=2bce82ab0874d33be881366b1c53a2b1f3038f51",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_009ed_EcGy5ok6eCYLhYnh1nWSG344/f800/1740850298.jpeg?s=83eacd239617a3ece9e08061189f80b5c5bd55f8",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_009ed_EcGy5ok6eCYLhYnh1nWSG344/f800/1740850298.jpeg?s=83eacd239617a3ece9e08061189f80b5c5bd55f8",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_009ed_EcGy5ok6eCYLhYnh1nWSG344/f800/1740850298.jpeg?s=83eacd239617a3ece9e08061189f80b5c5bd55f8",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_009ed_EcGy5ok6eCYLhYnh1nWSG344",
+          "timestamp": 1740850298,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_009ed_EcGy5ok6eCYLhYnh1nWSG344/1740850298.jpeg?s=01af1844b8de46cff3545e8d9d5f0ed378fc2c29",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 23,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "6.7",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "126.7",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Prématuré, jusqu'à 44cm",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Prématuré, jusqu'à 44cm",
+        "accessibility_label": "Lego 21060, marque: LEGO, état: Neuf avec étiquette, taille: Prématuré, jusqu'à 44cm, 120,00 €, 126,70 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 3.293555974960327,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5809893603,
+      "title": "21060 LEGO Architecture Himeji Castle",
+      "price": {
+        "amount": "115.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5809893603-21060-lego-architecture-himeji-castle",
+      "user": {
+        "id": 249693154,
+        "login": "d4n385",
+        "profile_url": "https://www.vinted.fr/member/249693154-d4n385",
+        "photo": {
+          "id": 226990568,
+          "width": 800,
+          "height": 600,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/04_00d5e_tYy4YLb5x8iEef5nQXQ4SDzE/f800/1737368414.jpeg?s=a43760bca8cdf808bfa328493ae949e998cd6be6",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/04_00d5e_tYy4YLb5x8iEef5nQXQ4SDzE/310x310/1737368414.jpeg?s=b71512e62c10a6f7ed95bc2664af364d532edeaa",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/04_00d5e_tYy4YLb5x8iEef5nQXQ4SDzE/150x150/1737368414.jpeg?s=ae6dbfddaf9e912b0fca7d5395648283595af221",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/04_00d5e_tYy4YLb5x8iEef5nQXQ4SDzE/100x100/1737368414.jpeg?s=d9aa0f2a8dbb073bdeda0e3878ffba1b4d90d000",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/04_00d5e_tYy4YLb5x8iEef5nQXQ4SDzE/50x50/1737368414.jpeg?s=6367a8eb3774e9017f56d1a6ae899099823d5e24",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/04_00d5e_tYy4YLb5x8iEef5nQXQ4SDzE/20x20/1737368414.jpeg?s=b26018fa84a9757d8a38d2bc68ec646d2438f5af",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "04_00d5e_tYy4YLb5x8iEef5nQXQ4SDzE",
+            "timestamp": 1737368414,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/04_00d5e_tYy4YLb5x8iEef5nQXQ4SDzE/1737368414.jpeg?s=a5211929a6aee2e075e24720bf707735481ec797",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5809893603-21060-lego-architecture-himeji-castle",
+      "promoted": false,
+      "photo": {
+        "id": 23543322042,
+        "image_no": 1,
+        "width": 800,
+        "height": 541,
+        "dominant_color": "#767270",
+        "dominant_color_opaque": "#D6D5D4",
+        "url": "https://images1.vinted.net/t/02_004fc_M71CkCxUrcQGKeefxoS2B4DE/f800/1739447025.jpeg?s=51ad9c01c0513814370ecc939f02443e576dedb8",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/02_004fc_M71CkCxUrcQGKeefxoS2B4DE/70x100/1739447025.jpeg?s=958b30fff6846adacde67da20d731ea446bb1feb",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/02_004fc_M71CkCxUrcQGKeefxoS2B4DE/150x210/1739447025.jpeg?s=45bc27747466403a0c4d59085122ded9655d816f",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/02_004fc_M71CkCxUrcQGKeefxoS2B4DE/310x430/1739447025.jpeg?s=b7f443c23e849a2ce7260e794ff1b7b776f306c5",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/02_004fc_M71CkCxUrcQGKeefxoS2B4DE/f800/1739447025.jpeg?s=51ad9c01c0513814370ecc939f02443e576dedb8",
+            "width": 428,
+            "height": 289,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/02_004fc_M71CkCxUrcQGKeefxoS2B4DE/f800/1739447025.jpeg?s=51ad9c01c0513814370ecc939f02443e576dedb8",
+            "width": 624,
+            "height": 422,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/02_004fc_M71CkCxUrcQGKeefxoS2B4DE/f800/1739447025.jpeg?s=51ad9c01c0513814370ecc939f02443e576dedb8",
+            "width": 364,
+            "height": 246,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "02_004fc_M71CkCxUrcQGKeefxoS2B4DE",
+          "timestamp": 1739447025,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/02_004fc_M71CkCxUrcQGKeefxoS2B4DE/1739447025.jpeg?s=7bdc518114707d77f4a94292496ad66fe429c7de",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 13,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "6.45",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "121.45",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Neuf avec étiquette",
+        "accessibility_label": "21060 LEGO Architecture Himeji Castle, marque: LEGO, état: Neuf avec étiquette, 115,00 €, 121,45 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 3.086148262023926,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5780196577,
+      "title": "LEGO Architecture Le château d'Himeji",
+      "price": {
+        "amount": "129.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5780196577-lego-architecture-le-chateau-dhimeji",
+      "user": {
+        "id": 52578937,
+        "login": "brickhead29200",
+        "profile_url": "https://www.vinted.fr/member/52578937-brickhead29200",
+        "photo": {
+          "id": 60509569,
+          "width": 800,
+          "height": 533,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/03_02293_NfNu757xynsFAYcCKz5FdMuT/f800/1623012494.jpeg?s=17ac455eddf7406c4249d032927822972fb24f22",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/03_02293_NfNu757xynsFAYcCKz5FdMuT/310x310/1623012494.jpeg?s=fce50a9e066d4099c4c0f5e33c611b3cb6a98e59",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/03_02293_NfNu757xynsFAYcCKz5FdMuT/150x150/1623012494.jpeg?s=8836033a0a8d65e15ae7d592613dedc12eaab7fe",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/03_02293_NfNu757xynsFAYcCKz5FdMuT/100x100/1623012494.jpeg?s=5e79f62300280c5a0786bba6decefba39688de63",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/03_02293_NfNu757xynsFAYcCKz5FdMuT/50x50/1623012494.jpeg?s=3f03bd567203ac209e96f3479d70d04c07012ae9",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/03_02293_NfNu757xynsFAYcCKz5FdMuT/20x20/1623012494.jpeg?s=c3a5d9f4242e426eb072d0145cb19ab3b6f18de1",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "03_02293_NfNu757xynsFAYcCKz5FdMuT",
+            "timestamp": 1623012494,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/03_02293_NfNu757xynsFAYcCKz5FdMuT/1623012494.jpeg?s=903be59b3192f02b809fa9deab11f1bf815ccbd3",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5780196577-lego-architecture-le-chateau-dhimeji",
+      "promoted": false,
+      "photo": {
+        "id": 23420859121,
+        "image_no": 1,
+        "width": 800,
+        "height": 789,
+        "dominant_color": "#967F6D",
+        "dominant_color_opaque": "#E0D9D3",
+        "url": "https://images1.vinted.net/t/01_0159e_6x8puFn4nSqHJqLoTKqVNQkL/f800/1738970143.jpeg?s=5f1a2a159b6a868d41988b33a7a658a7cf557764",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/01_0159e_6x8puFn4nSqHJqLoTKqVNQkL/70x100/1738970143.jpeg?s=475383f46f30458d8143e56548134a1a19738c37",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/01_0159e_6x8puFn4nSqHJqLoTKqVNQkL/150x210/1738970143.jpeg?s=212b4394e01275e117c5f091f39e615b9b780c26",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/01_0159e_6x8puFn4nSqHJqLoTKqVNQkL/310x430/1738970143.jpeg?s=2f6248273b01b88cbb8cb7f47039c0406c558a98",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/01_0159e_6x8puFn4nSqHJqLoTKqVNQkL/f800/1738970143.jpeg?s=5f1a2a159b6a868d41988b33a7a658a7cf557764",
+            "width": 428,
+            "height": 422,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/01_0159e_6x8puFn4nSqHJqLoTKqVNQkL/f800/1738970143.jpeg?s=5f1a2a159b6a868d41988b33a7a658a7cf557764",
+            "width": 624,
+            "height": 615,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/01_0159e_6x8puFn4nSqHJqLoTKqVNQkL/f800/1738970143.jpeg?s=5f1a2a159b6a868d41988b33a7a658a7cf557764",
+            "width": 364,
+            "height": 358,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "01_0159e_6x8puFn4nSqHJqLoTKqVNQkL",
+          "timestamp": 1738970143,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/01_0159e_6x8puFn4nSqHJqLoTKqVNQkL/1738970143.jpeg?s=7beb002cc85825fda6570cd7727fe58238d07825",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 26,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "7.15",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "136.15",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "LEGO Architecture Le château d'Himeji, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 129,00 €, 136,15 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 2.831310272216797,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5843553129,
+      "title": "Lego 21060",
+      "price": {
+        "amount": "159.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5843553129-lego-21060",
+      "user": {
+        "id": 243485426,
+        "login": "gabrin81",
+        "profile_url": "https://www.vinted.fr/member/243485426-gabrin81",
+        "photo": {
+          "id": 223692439,
+          "width": 450,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_00cf2_t2PAVq8gvbHBTwfn5ctFha2Y/f800/1735307302.jpeg?s=5bf804bd9a341f9f6af4b6042bedf0f4ddf944db",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_00cf2_t2PAVq8gvbHBTwfn5ctFha2Y/310x310/1735307302.jpeg?s=0c3d9380522d46d50550faef34d88d58f7b1825b",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_00cf2_t2PAVq8gvbHBTwfn5ctFha2Y/150x150/1735307302.jpeg?s=488422528b2da241b75569e4901e722a1ebcfaff",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_00cf2_t2PAVq8gvbHBTwfn5ctFha2Y/100x100/1735307302.jpeg?s=1550394e72b77cb4f2b95ef6f804b015e30b7417",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_00cf2_t2PAVq8gvbHBTwfn5ctFha2Y/50x50/1735307302.jpeg?s=cdf61670ad17e775e46c30227a5cf9651687735c",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_00cf2_t2PAVq8gvbHBTwfn5ctFha2Y/20x20/1735307302.jpeg?s=021378db9d7941a68e477fab17343dc659197ebf",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_00cf2_t2PAVq8gvbHBTwfn5ctFha2Y",
+            "timestamp": 1735307302,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_00cf2_t2PAVq8gvbHBTwfn5ctFha2Y/1735307302.jpeg?s=d9c95268b9e7ed831e4365129d6e21a468e7049d",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5843553129-lego-21060",
+      "promoted": false,
+      "photo": {
+        "id": 23683083305,
+        "image_no": 1,
+        "width": 800,
+        "height": 600,
+        "dominant_color": "#777074",
+        "dominant_color_opaque": "#D6D4D5",
+        "url": "https://images1.vinted.net/t/04_008a2_GcxmkD8L44CBecesV2CPcNzw/f800/1739979820.jpeg?s=3416ccea70b18fdd856da4ef00026354e77a641b",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_008a2_GcxmkD8L44CBecesV2CPcNzw/70x100/1739979820.jpeg?s=4096a3fa411e8ec2d93e4fa384017d7a633cf7f8",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_008a2_GcxmkD8L44CBecesV2CPcNzw/150x210/1739979820.jpeg?s=6f53b0b1f7704c4c96554e849c76f3e4326c22a3",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_008a2_GcxmkD8L44CBecesV2CPcNzw/310x430/1739979820.jpeg?s=2fcace4917d01db7019d3801c91b1f4e84fe402a",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_008a2_GcxmkD8L44CBecesV2CPcNzw/f800/1739979820.jpeg?s=3416ccea70b18fdd856da4ef00026354e77a641b",
+            "width": 428,
+            "height": 321,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_008a2_GcxmkD8L44CBecesV2CPcNzw/f800/1739979820.jpeg?s=3416ccea70b18fdd856da4ef00026354e77a641b",
+            "width": 624,
+            "height": 468,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_008a2_GcxmkD8L44CBecesV2CPcNzw/f800/1739979820.jpeg?s=3416ccea70b18fdd856da4ef00026354e77a641b",
+            "width": 364,
+            "height": 273,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_008a2_GcxmkD8L44CBecesV2CPcNzw",
+          "timestamp": 1739979820,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_008a2_GcxmkD8L44CBecesV2CPcNzw/1739979820.jpeg?s=fcb199a104394acc4f742bf5ab0f7b207317e61f",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 75,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "8.65",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "167.65",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego 21060, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 159,00 €, 167,65 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 2.830594062805176,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5970165765,
+      "title": "LEGO Architecture Kasteel Himeji - 21060 Nieuw in doos !",
+      "price": {
+        "amount": "119.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5970165765-lego-architecture-kasteel-himeji-21060-nieuw-in-doos",
+      "user": {
+        "id": 243940476,
+        "login": "rewi5",
+        "profile_url": "https://www.vinted.fr/member/243940476-rewi5",
+        "photo": null,
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5970165765-lego-architecture-kasteel-himeji-21060-nieuw-in-doos",
+      "promoted": false,
+      "photo": {
+        "id": 24210317409,
+        "image_no": 1,
+        "width": 800,
+        "height": 369,
+        "dominant_color": "#6E6042",
+        "dominant_color_opaque": "#D4CFC6",
+        "url": "https://images1.vinted.net/t/03_01012_sc882RHmCv9zRNbE5qkz3xuu/f800/1742029643.jpeg?s=6fd01d9fb5bf9b341faa8397460799f034d58fff",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/03_01012_sc882RHmCv9zRNbE5qkz3xuu/70x100/1742029643.jpeg?s=10814a8f1422b1f6c77fd06ffbcbfc17d7b8b10f",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/03_01012_sc882RHmCv9zRNbE5qkz3xuu/150x210/1742029643.jpeg?s=51f1138b17eab4617bf4e006c35a5aedd063631c",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/03_01012_sc882RHmCv9zRNbE5qkz3xuu/310x430/1742029643.jpeg?s=171683e9642620a474180978fc8725a402f3518b",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/03_01012_sc882RHmCv9zRNbE5qkz3xuu/f800/1742029643.jpeg?s=6fd01d9fb5bf9b341faa8397460799f034d58fff",
+            "width": 428,
+            "height": 197,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/03_01012_sc882RHmCv9zRNbE5qkz3xuu/f800/1742029643.jpeg?s=6fd01d9fb5bf9b341faa8397460799f034d58fff",
+            "width": 624,
+            "height": 287,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/03_01012_sc882RHmCv9zRNbE5qkz3xuu/f800/1742029643.jpeg?s=6fd01d9fb5bf9b341faa8397460799f034d58fff",
+            "width": 364,
+            "height": 167,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "03_01012_sc882RHmCv9zRNbE5qkz3xuu",
+          "timestamp": 1742029643,
+          "orientation": 0
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/03_01012_sc882RHmCv9zRNbE5qkz3xuu/1742029643.jpeg?s=be68549e615c6b81fb74013d1aeb0e2ba6e731ed",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 7,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "6.65",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "125.65",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "XXL",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "XXL",
+        "accessibility_label": "LEGO Architecture Kasteel Himeji - 21060 Nieuw in doos !, marque: LEGO, état: Neuf avec étiquette, taille: XXL, 119,00 €, 125,65 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 2.781220436096191,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5652335205,
+      "title": "Lego Himeji castle",
+      "price": {
+        "amount": "100.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5652335205-lego-himeji-castle",
+      "user": {
+        "id": 45135246,
+        "login": "thomasbazard51100",
+        "profile_url": "https://www.vinted.fr/member/45135246-thomasbazard51100",
+        "photo": {
+          "id": 170439196,
+          "width": 370,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_0029c_bYvyT4ZU85KGcPpGCjCEqktZ/f800/1701367424.jpeg?s=56800aa03ac74a7e15c1c91afee32ea1984b5070",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_0029c_bYvyT4ZU85KGcPpGCjCEqktZ/310x310/1701367424.jpeg?s=5f80eedc4f86c4acf77badb99059221b8ca55f6e",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_0029c_bYvyT4ZU85KGcPpGCjCEqktZ/150x150/1701367424.jpeg?s=d1de91c7a4e79935e94c9351fb5c7db436214cca",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_0029c_bYvyT4ZU85KGcPpGCjCEqktZ/100x100/1701367424.jpeg?s=6925226eb9c181658850d831d15ef3b8c28405e4",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_0029c_bYvyT4ZU85KGcPpGCjCEqktZ/50x50/1701367424.jpeg?s=84827b5bc48c1919d35a5f8284dd52144840253d",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_0029c_bYvyT4ZU85KGcPpGCjCEqktZ/20x20/1701367424.jpeg?s=16841ade8f752765ffab166c83ba05733d49999c",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_0029c_bYvyT4ZU85KGcPpGCjCEqktZ",
+            "timestamp": 1701367424,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_0029c_bYvyT4ZU85KGcPpGCjCEqktZ/1701367424.jpeg?s=c7da7b99b96c5aa6e4755b4b0887f64e9f292d58",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5652335205-lego-himeji-castle",
+      "promoted": false,
+      "photo": {
+        "id": 22893223563,
+        "image_no": 1,
+        "width": 800,
+        "height": 600,
+        "dominant_color": "#8E8775",
+        "dominant_color_opaque": "#DDDBD6",
+        "url": "https://images1.vinted.net/t/03_025db_XBMZJH5bvUNVJ6pNXg7kefEC/f800/1736862148.jpeg?s=fdff02bbd9276e1a5b4adf893a51f83e7d3fadfc",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/03_025db_XBMZJH5bvUNVJ6pNXg7kefEC/70x100/1736862148.jpeg?s=957d3bbdf0c8df195abcfc88710ed4d5d4a23937",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/03_025db_XBMZJH5bvUNVJ6pNXg7kefEC/150x210/1736862148.jpeg?s=7d8ae04fa9ef2eb5ec530421ca2b035ffbd15fbf",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/03_025db_XBMZJH5bvUNVJ6pNXg7kefEC/310x430/1736862148.jpeg?s=ae9ca95205ed822cf4e9344d1e093b0770d0e671",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/03_025db_XBMZJH5bvUNVJ6pNXg7kefEC/f800/1736862148.jpeg?s=fdff02bbd9276e1a5b4adf893a51f83e7d3fadfc",
+            "width": 428,
+            "height": 321,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/03_025db_XBMZJH5bvUNVJ6pNXg7kefEC/f800/1736862148.jpeg?s=fdff02bbd9276e1a5b4adf893a51f83e7d3fadfc",
+            "width": 624,
+            "height": 468,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/03_025db_XBMZJH5bvUNVJ6pNXg7kefEC/f800/1736862148.jpeg?s=fdff02bbd9276e1a5b4adf893a51f83e7d3fadfc",
+            "width": 364,
+            "height": 273,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "03_025db_XBMZJH5bvUNVJ6pNXg7kefEC",
+          "timestamp": 1736862148,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/03_025db_XBMZJH5bvUNVJ6pNXg7kefEC/1736862148.jpeg?s=efebcca765dd5dc4c2ee4686744bbb7ed1c7caa2",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 15,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "5.7",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "105.7",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Très bon état",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego Himeji castle, marque: LEGO, état: Très bon état, taille: Taille unique, 100,00 €, 105,70 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 2.722588539123535,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5724131782,
+      "title": "Lego 21060 himeji castle",
+      "price": {
+        "amount": "100.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5724131782-lego-21060-himeji-castle",
+      "user": {
+        "id": 199161005,
+        "login": "joaorebe",
+        "profile_url": "https://www.vinted.fr/member/199161005-joaorebe",
+        "photo": {
+          "id": 188603485,
+          "width": 96,
+          "height": 96,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_015a4_Bygk7S6kVwyeSms7zFhCw2tY/f800/1713184996.jpeg?s=7e366dc2d02326426ab07b50c3006d6686a42872",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_015a4_Bygk7S6kVwyeSms7zFhCw2tY/310x310/1713184996.jpeg?s=ab0792a259feb9507f1cc616a8c9b9e94e30aa72",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_015a4_Bygk7S6kVwyeSms7zFhCw2tY/150x150/1713184996.jpeg?s=18f31a9ac056fac50b8cdc00e7f558fa94c6f087",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_015a4_Bygk7S6kVwyeSms7zFhCw2tY/100x100/1713184996.jpeg?s=b86394f2bfdc72b985bc24a54545549d52d140d0",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_015a4_Bygk7S6kVwyeSms7zFhCw2tY/50x50/1713184996.jpeg?s=8fd0de540735cbed038f49b82c91fc423ba38824",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_015a4_Bygk7S6kVwyeSms7zFhCw2tY/20x20/1713184996.jpeg?s=30b6a4cc87bcdbb96972f3f421916d83db8733bf",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_015a4_Bygk7S6kVwyeSms7zFhCw2tY",
+            "timestamp": 1713184996,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_015a4_Bygk7S6kVwyeSms7zFhCw2tY/1713184996.jpeg?s=42a80adf23256b8f390a69d865bc281a84196762",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5724131782-lego-21060-himeji-castle",
+      "promoted": false,
+      "photo": {
+        "id": 23187777656,
+        "image_no": 1,
+        "width": 800,
+        "height": 600,
+        "dominant_color": "#A6A294",
+        "dominant_color_opaque": "#E4E3DF",
+        "url": "https://images1.vinted.net/t/04_01d72_ZSuE1AP2gMKWiF2xueKKPLD6/f800/1738021756.jpeg?s=94d9faaea66e470f0184833217bfcd00e2aa7323",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_01d72_ZSuE1AP2gMKWiF2xueKKPLD6/70x100/1738021756.jpeg?s=ba12ff3cc1ff20cedeed1866978b271e8d7f327c",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_01d72_ZSuE1AP2gMKWiF2xueKKPLD6/150x210/1738021756.jpeg?s=84369329cf695bc69cce6aa0047f8bc8724ed6b9",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_01d72_ZSuE1AP2gMKWiF2xueKKPLD6/310x430/1738021756.jpeg?s=587d0dc2e25c3c9691768edf0369097de532e27b",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_01d72_ZSuE1AP2gMKWiF2xueKKPLD6/f800/1738021756.jpeg?s=94d9faaea66e470f0184833217bfcd00e2aa7323",
+            "width": 428,
+            "height": 321,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_01d72_ZSuE1AP2gMKWiF2xueKKPLD6/f800/1738021756.jpeg?s=94d9faaea66e470f0184833217bfcd00e2aa7323",
+            "width": 624,
+            "height": 468,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_01d72_ZSuE1AP2gMKWiF2xueKKPLD6/f800/1738021756.jpeg?s=94d9faaea66e470f0184833217bfcd00e2aa7323",
+            "width": 364,
+            "height": 273,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_01d72_ZSuE1AP2gMKWiF2xueKKPLD6",
+          "timestamp": 1738021756,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_01d72_ZSuE1AP2gMKWiF2xueKKPLD6/1738021756.jpeg?s=1363554033e180d4c0bf07cfacfac11f5912f9fe",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 9,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "5.7",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "105.7",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "7 ans / 122 cm",
+      "content_source": "search",
+      "status": "Très bon état",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "7 ans / 122 cm",
+        "accessibility_label": "Lego 21060 himeji castle, marque: LEGO, état: Très bon état, taille: 7 ans / 122 cm, 100,00 €, 105,70 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 2.592938661575317,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5821407397,
+      "title": "Lego 21060 Himeji Castle",
+      "price": {
+        "amount": "129.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5821407397-lego-21060-himeji-castle",
+      "user": {
+        "id": 174034787,
+        "login": "sabrinella28",
+        "profile_url": "https://www.vinted.fr/member/174034787-sabrinella28",
+        "photo": {
+          "id": 212625741,
+          "width": 533,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_01423_xDm9DNDB8LNqMHtrq5owgLY8/f800/1728415495.jpeg?s=5b009cf53c4f43b7411927dbaeaf34aeaabe4209",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_01423_xDm9DNDB8LNqMHtrq5owgLY8/310x310/1728415495.jpeg?s=c55a53f4d3a30a276de9c09b25285549486bfcc6",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_01423_xDm9DNDB8LNqMHtrq5owgLY8/150x150/1728415495.jpeg?s=4b1521d6bc36778dc1b21773dd24ee141d82f5c8",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_01423_xDm9DNDB8LNqMHtrq5owgLY8/100x100/1728415495.jpeg?s=8af9f77b275fb6f6f436e116372725fb1c05b012",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_01423_xDm9DNDB8LNqMHtrq5owgLY8/50x50/1728415495.jpeg?s=2bdfb19213e7c42a50990b539d1d5e11aab02a74",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_01423_xDm9DNDB8LNqMHtrq5owgLY8/20x20/1728415495.jpeg?s=24b006a9c79873cef5431524456ee2afb8f94259",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_01423_xDm9DNDB8LNqMHtrq5owgLY8",
+            "timestamp": 1728415495,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_01423_xDm9DNDB8LNqMHtrq5owgLY8/1728415495.jpeg?s=b338fdcea163bbf8a6dc7678b266fa97f9a6244e",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5821407397-lego-21060-himeji-castle",
+      "promoted": false,
+      "photo": {
+        "id": 23591850785,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#7B7776",
+        "dominant_color_opaque": "#D7D6D6",
+        "url": "https://images1.vinted.net/t/01_0107b_82WW2NvDLXA27HgdTpuJN4k1/f800/1739641737.jpeg?s=9432fd2d9827b8f6a2ff95a27e41f118f0de3f26",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/01_0107b_82WW2NvDLXA27HgdTpuJN4k1/70x100/1739641737.jpeg?s=5c3f8c14cb831c547b73332bd0975f7a37de0970",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/01_0107b_82WW2NvDLXA27HgdTpuJN4k1/150x210/1739641737.jpeg?s=457fdff947aa4e0cd2f73cf22cf95789aab4c1e8",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/01_0107b_82WW2NvDLXA27HgdTpuJN4k1/310x430/1739641737.jpeg?s=4d34fe93dcc31b4ac8d63cda64d7cf5bfa8ab125",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/01_0107b_82WW2NvDLXA27HgdTpuJN4k1/f800/1739641737.jpeg?s=9432fd2d9827b8f6a2ff95a27e41f118f0de3f26",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/01_0107b_82WW2NvDLXA27HgdTpuJN4k1/f800/1739641737.jpeg?s=9432fd2d9827b8f6a2ff95a27e41f118f0de3f26",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/01_0107b_82WW2NvDLXA27HgdTpuJN4k1/f800/1739641737.jpeg?s=9432fd2d9827b8f6a2ff95a27e41f118f0de3f26",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "01_0107b_82WW2NvDLXA27HgdTpuJN4k1",
+          "timestamp": 1739641737,
+          "orientation": 0
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/01_0107b_82WW2NvDLXA27HgdTpuJN4k1/1739641737.jpeg?s=94d7aa0d51d903f480595ca4be2e8a08e33ac0c8",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 29,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "7.15",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "136.15",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Neuf avec étiquette",
+        "accessibility_label": "Lego 21060 Himeji Castle, marque: LEGO, état: Neuf avec étiquette, 129,00 €, 136,15 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 2.448102474212646,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5660146825,
+      "title": "Lego Kasteel Himeji (21060)",
+      "price": {
+        "amount": "117.5",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5660146825-lego-kasteel-himeji-21060",
+      "user": {
+        "id": 77340172,
+        "login": "hillev1",
+        "profile_url": "https://www.vinted.fr/member/77340172-hillev1",
+        "photo": null,
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5660146825-lego-kasteel-himeji-21060",
+      "promoted": false,
+      "photo": {
+        "id": 22925203717,
+        "image_no": 1,
+        "width": 800,
+        "height": 604,
+        "dominant_color": "#787B7C",
+        "dominant_color_opaque": "#D7D7D8",
+        "url": "https://images1.vinted.net/t/04_01d0c_RkvZgNJQ8JZfQ5J3gCnd6r5U/f800/1737013064.jpeg?s=6833dd1f325ce666786fa809862fb98b19835137",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_01d0c_RkvZgNJQ8JZfQ5J3gCnd6r5U/70x100/1737013064.jpeg?s=e17718731c7398363e8b9565fcfb1eb2e8fa9821",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_01d0c_RkvZgNJQ8JZfQ5J3gCnd6r5U/150x210/1737013064.jpeg?s=d2d8352e115280fe1f7db4e5165c8617bbed5a01",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_01d0c_RkvZgNJQ8JZfQ5J3gCnd6r5U/310x430/1737013064.jpeg?s=f6b1286d31082d08e43e31d5d39e7b75c37bdbc8",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_01d0c_RkvZgNJQ8JZfQ5J3gCnd6r5U/f800/1737013064.jpeg?s=6833dd1f325ce666786fa809862fb98b19835137",
+            "width": 428,
+            "height": 323,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_01d0c_RkvZgNJQ8JZfQ5J3gCnd6r5U/f800/1737013064.jpeg?s=6833dd1f325ce666786fa809862fb98b19835137",
+            "width": 624,
+            "height": 471,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_01d0c_RkvZgNJQ8JZfQ5J3gCnd6r5U/f800/1737013064.jpeg?s=6833dd1f325ce666786fa809862fb98b19835137",
+            "width": 364,
+            "height": 275,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_01d0c_RkvZgNJQ8JZfQ5J3gCnd6r5U",
+          "timestamp": 1737013064,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_01d0c_RkvZgNJQ8JZfQ5J3gCnd6r5U/1737013064.jpeg?s=3eb424144b85e8a199e7a2acec2c052a4e32305e",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 20,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "6.58",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "124.08",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf sans étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego Kasteel Himeji (21060), marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 117,50 €, 124,08 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 2.375648498535156,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5735699721,
+      "title": "Lego 21060 Himeji Castle",
+      "price": {
+        "amount": "125.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5735699721-lego-21060-himeji-castle",
+      "user": {
+        "id": 36532217,
+        "login": "kikedu",
+        "profile_url": "https://www.vinted.fr/member/36532217-kikedu",
+        "photo": {
+          "id": 227212046,
+          "width": 800,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/01_0092e_diqQvnoZNwHv3wQMf37NWv1x/f800/1737490589.jpeg?s=1559e6eb7c870737382b69bf381cb3c3dab85d45",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/01_0092e_diqQvnoZNwHv3wQMf37NWv1x/310x310/1737490589.jpeg?s=dc5ddad16952c9410f7d84e102bde58725c2057e",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/01_0092e_diqQvnoZNwHv3wQMf37NWv1x/150x150/1737490589.jpeg?s=af11a3179b9719b83c67e678c631dc35b3bdab18",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/01_0092e_diqQvnoZNwHv3wQMf37NWv1x/100x100/1737490589.jpeg?s=a78e553be27765e01c6a7f5a1fc7d111e0f14fdd",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/01_0092e_diqQvnoZNwHv3wQMf37NWv1x/50x50/1737490589.jpeg?s=8b9fa98c23a0ac49a1f7bc373974e0af39d98dd7",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/01_0092e_diqQvnoZNwHv3wQMf37NWv1x/20x20/1737490589.jpeg?s=6c2e4e27cb8a7bb84ebf96a6af3e74597614c515",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "01_0092e_diqQvnoZNwHv3wQMf37NWv1x",
+            "timestamp": 1737490589,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/01_0092e_diqQvnoZNwHv3wQMf37NWv1x/1737490589.jpeg?s=5d56de6092b1fc0933609b05fc59ef2b0ff30f4c",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5735699721-lego-21060-himeji-castle",
+      "promoted": false,
+      "photo": {
+        "id": 23235589997,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#7C6245",
+        "dominant_color_opaque": "#D8D0C7",
+        "url": "https://images1.vinted.net/t/01_015a5_NdBWqG5kERr69fvHiXQQrwtN/f800/1738240613.jpeg?s=0bcef623d00cf878294e703b82cdbd4c1b1cc941",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/01_015a5_NdBWqG5kERr69fvHiXQQrwtN/70x100/1738240613.jpeg?s=ee936657337fd2f0c8f0fab6514c06553814bad5",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/01_015a5_NdBWqG5kERr69fvHiXQQrwtN/150x210/1738240613.jpeg?s=425df52669eb96f5ab7cd84069ec0e0088a83384",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/01_015a5_NdBWqG5kERr69fvHiXQQrwtN/310x430/1738240613.jpeg?s=c331ade2f4e49f16a2f6a929afbdfbac1211d9c9",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/01_015a5_NdBWqG5kERr69fvHiXQQrwtN/f800/1738240613.jpeg?s=0bcef623d00cf878294e703b82cdbd4c1b1cc941",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/01_015a5_NdBWqG5kERr69fvHiXQQrwtN/f800/1738240613.jpeg?s=0bcef623d00cf878294e703b82cdbd4c1b1cc941",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/01_015a5_NdBWqG5kERr69fvHiXQQrwtN/f800/1738240613.jpeg?s=0bcef623d00cf878294e703b82cdbd4c1b1cc941",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "01_015a5_NdBWqG5kERr69fvHiXQQrwtN",
+          "timestamp": 1738240613,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/01_015a5_NdBWqG5kERr69fvHiXQQrwtN/1738240613.jpeg?s=f83e63498d8d4e12cfa214276c42e8ffcfb1acd6",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 4,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "6.95",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "131.95",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf sans étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego 21060 Himeji Castle, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 125,00 €, 131,95 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 2.004442691802979,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5448127569,
+      "title": "Lego himeji set 21060",
+      "price": {
+        "amount": "135.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5448127569-lego-himeji-set-21060",
+      "user": {
+        "id": 181718284,
+        "login": "chiaracoc82",
+        "profile_url": "https://www.vinted.fr/member/181718284-chiaracoc82",
+        "photo": null,
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5448127569-lego-himeji-set-21060",
+      "promoted": false,
+      "photo": {
+        "id": 22055705857,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#98917E",
+        "dominant_color_opaque": "#E0DED8",
+        "url": "https://images1.vinted.net/t/01_01ac2_1J6TGieXhRU6Vfb7a2oC5Nxv/f800/1732658714.jpeg?s=7b58a3773739a0f5063a557eaeb9a59e8116a3f1",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/01_01ac2_1J6TGieXhRU6Vfb7a2oC5Nxv/70x100/1732658714.jpeg?s=65418467023177409ac859ac9f214fb3d2ff7d19",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/01_01ac2_1J6TGieXhRU6Vfb7a2oC5Nxv/150x210/1732658714.jpeg?s=d986b7282fac993217d852be9f58a356a47989bc",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/01_01ac2_1J6TGieXhRU6Vfb7a2oC5Nxv/310x430/1732658714.jpeg?s=1217fa93a55546ece1d5822dc5ef34fb595949ae",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/01_01ac2_1J6TGieXhRU6Vfb7a2oC5Nxv/f800/1732658714.jpeg?s=7b58a3773739a0f5063a557eaeb9a59e8116a3f1",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/01_01ac2_1J6TGieXhRU6Vfb7a2oC5Nxv/f800/1732658714.jpeg?s=7b58a3773739a0f5063a557eaeb9a59e8116a3f1",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/01_01ac2_1J6TGieXhRU6Vfb7a2oC5Nxv/f800/1732658714.jpeg?s=7b58a3773739a0f5063a557eaeb9a59e8116a3f1",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "01_01ac2_1J6TGieXhRU6Vfb7a2oC5Nxv",
+          "timestamp": 1732658714,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/01_01ac2_1J6TGieXhRU6Vfb7a2oC5Nxv/1732658714.jpeg?s=8a522cafae4ce9f0a7673df57d5d7df87a572998",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 5,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "7.45",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "142.45",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "L",
+      "content_source": "search",
+      "status": "Neuf sans étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "L",
+        "accessibility_label": "Lego himeji set 21060, marque: LEGO, état: Neuf sans étiquette, taille: L, 135,00 €, 142,45 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 1.934425830841064,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5805773742,
+      "title": "Lego 21060",
+      "price": {
+        "amount": "120.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5805773742-lego-21060",
+      "user": {
+        "id": 207131350,
+        "login": "matthieu26150",
+        "profile_url": "https://www.vinted.fr/member/207131350-matthieu26150",
+        "photo": {
+          "id": 193881212,
+          "width": 96,
+          "height": 96,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_00b15_f5xmahocyqNytgefJg4irGbC/f800/1716545692.jpeg?s=deef4ac75a77e4d05ffd3084bb90281801dab89f",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_00b15_f5xmahocyqNytgefJg4irGbC/310x310/1716545692.jpeg?s=1f9a9fe9d062cd0d61edd202892815b99fb0f022",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_00b15_f5xmahocyqNytgefJg4irGbC/150x150/1716545692.jpeg?s=bdb37046dcff93a27259a401726e26cf82b2838d",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_00b15_f5xmahocyqNytgefJg4irGbC/100x100/1716545692.jpeg?s=2bce2a8ed42f705d071c796c34ff6311e3c40941",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_00b15_f5xmahocyqNytgefJg4irGbC/50x50/1716545692.jpeg?s=d5f4f4f05e5859ad1275d33d02a3b7091d34ac55",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_00b15_f5xmahocyqNytgefJg4irGbC/20x20/1716545692.jpeg?s=6599b34bd02725e1eb034211711fd3202c973a7c",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_00b15_f5xmahocyqNytgefJg4irGbC",
+            "timestamp": 1716545692,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_00b15_f5xmahocyqNytgefJg4irGbC/1716545692.jpeg?s=31fd7ef40e7f877be984a7058bccb724b2ded01f",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5805773742-lego-21060",
+      "promoted": false,
+      "photo": {
+        "id": 23526262856,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#7B7C76",
+        "dominant_color_opaque": "#D7D8D6",
+        "url": "https://images1.vinted.net/t/04_00b9c_w95ixtzso4MJK4Xt8KAxYwge/f800/1739368379.jpeg?s=c24357014a0544ca9df4e7d4208aaab06b0aa177",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_00b9c_w95ixtzso4MJK4Xt8KAxYwge/70x100/1739368379.jpeg?s=45aa513dd4ec41b4db931ddd0a806726026b7e86",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_00b9c_w95ixtzso4MJK4Xt8KAxYwge/150x210/1739368379.jpeg?s=9b1f521d424e80259f246089831cd5c0a0cb7241",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_00b9c_w95ixtzso4MJK4Xt8KAxYwge/310x430/1739368379.jpeg?s=eea1f356f26d05aedf8310d640fc6f2a8f2ddf7e",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_00b9c_w95ixtzso4MJK4Xt8KAxYwge/f800/1739368379.jpeg?s=c24357014a0544ca9df4e7d4208aaab06b0aa177",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_00b9c_w95ixtzso4MJK4Xt8KAxYwge/f800/1739368379.jpeg?s=c24357014a0544ca9df4e7d4208aaab06b0aa177",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_00b9c_w95ixtzso4MJK4Xt8KAxYwge/f800/1739368379.jpeg?s=c24357014a0544ca9df4e7d4208aaab06b0aa177",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_00b9c_w95ixtzso4MJK4Xt8KAxYwge",
+          "timestamp": 1739368379,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_00b9c_w95ixtzso4MJK4Xt8KAxYwge/1739368379.jpeg?s=18642d922c508f59fb44a491a225ce055eb01d95",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 5,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "6.7",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "126.7",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego 21060, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 120,00 €, 126,70 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 1.863193511962891,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5971009778,
+      "title": "LEGO Himeji Castle 21060",
+      "price": {
+        "amount": "130.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5971009778-lego-himeji-castle-21060",
+      "user": {
+        "id": 175971636,
+        "login": "alessio202272",
+        "profile_url": "https://www.vinted.fr/member/175971636-alessio202272",
+        "photo": {
+          "id": 209487604,
+          "width": 451,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_018b6_4NPRz2wWUqUNAJuodSaa69WS/f800/1726845631.jpeg?s=4bcb373c5d318d6d781f219405abf8f65a103c85",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_018b6_4NPRz2wWUqUNAJuodSaa69WS/310x310/1726845631.jpeg?s=866eef34693e3df99727009cc51a8cb890dfb893",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_018b6_4NPRz2wWUqUNAJuodSaa69WS/150x150/1726845631.jpeg?s=c612ad9ea94ddd11542ce8862f7794afb26712e8",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_018b6_4NPRz2wWUqUNAJuodSaa69WS/100x100/1726845631.jpeg?s=339a7d8ea33bd5e87ff2ed6aae3da41b766e6b9d",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_018b6_4NPRz2wWUqUNAJuodSaa69WS/50x50/1726845631.jpeg?s=c63e198677108949e37eaef8523d4788edcd5555",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_018b6_4NPRz2wWUqUNAJuodSaa69WS/20x20/1726845631.jpeg?s=86bfaee8b0b34b5f870db48675e9e6415651460d",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_018b6_4NPRz2wWUqUNAJuodSaa69WS",
+            "timestamp": 1726845631,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_018b6_4NPRz2wWUqUNAJuodSaa69WS/1726845631.jpeg?s=7e4e9c7e23be2c475cc57b293c3e59926c7ab47b",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5971009778-lego-himeji-castle-21060",
+      "promoted": false,
+      "photo": {
+        "id": 24213866923,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#4D443A",
+        "dominant_color_opaque": "#CAC7C4",
+        "url": "https://images1.vinted.net/t/04_016e6_raXBsRxPWpyt2896mPgf2Hvw/f800/1742036717.jpeg?s=0d146b3eab075d52f376ce86886647dc7c0f85f0",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_016e6_raXBsRxPWpyt2896mPgf2Hvw/70x100/1742036717.jpeg?s=fcc81522b988bfcd6c3954145e1c2f8ce36b42df",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_016e6_raXBsRxPWpyt2896mPgf2Hvw/150x210/1742036717.jpeg?s=e7d594eb005286a4ab5ec224a7fbe8fd408aca9f",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_016e6_raXBsRxPWpyt2896mPgf2Hvw/310x430/1742036717.jpeg?s=d20b6a27f854690884cf6508ce34fda7c2ff8165",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_016e6_raXBsRxPWpyt2896mPgf2Hvw/f800/1742036717.jpeg?s=0d146b3eab075d52f376ce86886647dc7c0f85f0",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_016e6_raXBsRxPWpyt2896mPgf2Hvw/f800/1742036717.jpeg?s=0d146b3eab075d52f376ce86886647dc7c0f85f0",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_016e6_raXBsRxPWpyt2896mPgf2Hvw/f800/1742036717.jpeg?s=0d146b3eab075d52f376ce86886647dc7c0f85f0",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_016e6_raXBsRxPWpyt2896mPgf2Hvw",
+          "timestamp": 1742036717,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_016e6_raXBsRxPWpyt2896mPgf2Hvw/1742036717.jpeg?s=a5ee9713a7ec0f10d1be9bfe66ae809d0dfc59f9",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 1,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "7.2",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "137.2",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "LEGO Himeji Castle 21060, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 130,00 €, 137,20 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 1.811705112457275,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5810516374,
+      "title": "21060 LEGO Architecture Himeji Castle",
+      "price": {
+        "amount": "135.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5810516374-21060-lego-architecture-himeji-castle",
+      "user": {
+        "id": 49973388,
+        "login": "chef1986",
+        "profile_url": "https://www.vinted.fr/member/49973388-chef1986",
+        "photo": {
+          "id": 140114565,
+          "width": 793,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/01_021d4_94K85DSdk2XNJDrWWKhcGpj8/f800/1683316010.jpeg?s=194cf7eee7e1bbd1eab3965f469fac9b13fb1413",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/01_021d4_94K85DSdk2XNJDrWWKhcGpj8/310x310/1683316010.jpeg?s=0f3b43b6755039aac74faa7af770f7abacea487a",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/01_021d4_94K85DSdk2XNJDrWWKhcGpj8/150x150/1683316010.jpeg?s=f0d38817d9d176112699988979212211129b2d0b",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/01_021d4_94K85DSdk2XNJDrWWKhcGpj8/100x100/1683316010.jpeg?s=dded53dc93a069b66e02339552caa83e9c612429",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/01_021d4_94K85DSdk2XNJDrWWKhcGpj8/50x50/1683316010.jpeg?s=f949d65a563e32511baad8a027fcb5e33684dd28",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/01_021d4_94K85DSdk2XNJDrWWKhcGpj8/20x20/1683316010.jpeg?s=2e85654e38abc4a97284cbabf3ab16b65063e9f7",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "01_021d4_94K85DSdk2XNJDrWWKhcGpj8",
+            "timestamp": 1683316010,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/01_021d4_94K85DSdk2XNJDrWWKhcGpj8/1683316010.jpeg?s=eddb1f2e862e4bc58e40cb013545a7eb09efbf57",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5810516374-21060-lego-architecture-himeji-castle",
+      "promoted": false,
+      "photo": {
+        "id": 23545899616,
+        "image_no": 1,
+        "width": 450,
+        "height": 800,
+        "dominant_color": "#786D5F",
+        "dominant_color_opaque": "#D7D3CF",
+        "url": "https://images1.vinted.net/t/04_02050_E1kcGNVXr13nJDCNfAc4Kv2r/f800/1739453669.jpeg?s=f74438711289fcca6f44532ff16378645f5b1a84",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_02050_E1kcGNVXr13nJDCNfAc4Kv2r/70x100/1739453669.jpeg?s=bf9806fff57445744da36804159b39250470f50d",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_02050_E1kcGNVXr13nJDCNfAc4Kv2r/150x210/1739453669.jpeg?s=3038c0d6cd005242aa9a49c59df3f47313b524a2",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_02050_E1kcGNVXr13nJDCNfAc4Kv2r/310x430/1739453669.jpeg?s=4922e083cabb28f0b19c9d567d127488b2ad6393",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_02050_E1kcGNVXr13nJDCNfAc4Kv2r/f800/1739453669.jpeg?s=f74438711289fcca6f44532ff16378645f5b1a84",
+            "width": 240,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_02050_E1kcGNVXr13nJDCNfAc4Kv2r/f800/1739453669.jpeg?s=f74438711289fcca6f44532ff16378645f5b1a84",
+            "width": 351,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_02050_E1kcGNVXr13nJDCNfAc4Kv2r/f800/1739453669.jpeg?s=f74438711289fcca6f44532ff16378645f5b1a84",
+            "width": 204,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_02050_E1kcGNVXr13nJDCNfAc4Kv2r",
+          "timestamp": 1739453669,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_02050_E1kcGNVXr13nJDCNfAc4Kv2r/1739453669.jpeg?s=5d70ab21020d8905c4403596e3682fa5b6da3fe4",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 13,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "7.45",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "142.45",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf sans étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "21060 LEGO Architecture Himeji Castle, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 135,00 €, 142,45 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 1.727506160736084,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5253782841,
+      "title": "75342 Lego The Clone Wars Republic Fighter Tank",
+      "price": {
+        "amount": "51.99",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5253782841-75342-lego-the-clone-wars-republic-fighter-tank",
+      "user": {
+        "id": 70408673,
+        "login": "tom591976",
+        "profile_url": "https://www.vinted.fr/member/70408673-tom591976",
+        "photo": {
+          "id": 69015752,
+          "width": 96,
+          "height": 96,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_01dbc_ZfmZxhtHdU5JWN7en1aRRPDg/f800/1633522049.jpeg?s=75ec374306ff8ecf53633d6c56dc829dec485eea",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_01dbc_ZfmZxhtHdU5JWN7en1aRRPDg/310x310/1633522049.jpeg?s=02dec09c953041e3b7533d6bce86c5ee2aff99b4",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_01dbc_ZfmZxhtHdU5JWN7en1aRRPDg/150x150/1633522049.jpeg?s=040ab25261563c2c1ef9440ac3eb8dabe815cbf1",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_01dbc_ZfmZxhtHdU5JWN7en1aRRPDg/100x100/1633522049.jpeg?s=4d483b7c77cffee646dd04b2be28e79f27f23139",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_01dbc_ZfmZxhtHdU5JWN7en1aRRPDg/50x50/1633522049.jpeg?s=cd5b4e795770ecb2b961db3a93cf8c96a084ad29",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_01dbc_ZfmZxhtHdU5JWN7en1aRRPDg/20x20/1633522049.jpeg?s=a2b419efa323e52355a56d0a3e95735324b98f16",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_01dbc_ZfmZxhtHdU5JWN7en1aRRPDg",
+            "timestamp": 1633522049,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_01dbc_ZfmZxhtHdU5JWN7en1aRRPDg/1633522049.jpeg?s=1d6072d173dcea55d5ddee307eeea268472d362e",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5253782841-75342-lego-the-clone-wars-republic-fighter-tank",
+      "promoted": false,
+      "photo": {
+        "id": 21266028080,
+        "image_no": 1,
+        "width": 800,
+        "height": 388,
+        "dominant_color": "#87807A",
+        "dominant_color_opaque": "#DBD9D7",
+        "url": "https://images1.vinted.net/t/03_0002f_neFX6Ek3wzprxTfwfvCtShxQ/f800/1729502639.jpeg?s=4f44a5582b089eade83db8f1bb0fc8430f898055",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/03_0002f_neFX6Ek3wzprxTfwfvCtShxQ/70x100/1729502639.jpeg?s=f8cb2e278e76f69f96110fff7b409e3c0d121fb5",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/03_0002f_neFX6Ek3wzprxTfwfvCtShxQ/150x210/1729502639.jpeg?s=fc8ed07e74804769a02ebbf21ae8da4c905bded9",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/03_0002f_neFX6Ek3wzprxTfwfvCtShxQ/310x430/1729502639.jpeg?s=d23b1ba173819f05810b6dfae051e629463c0581",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/03_0002f_neFX6Ek3wzprxTfwfvCtShxQ/f800/1729502639.jpeg?s=4f44a5582b089eade83db8f1bb0fc8430f898055",
+            "width": 428,
+            "height": 207,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/03_0002f_neFX6Ek3wzprxTfwfvCtShxQ/f800/1729502639.jpeg?s=4f44a5582b089eade83db8f1bb0fc8430f898055",
+            "width": 624,
+            "height": 303,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/03_0002f_neFX6Ek3wzprxTfwfvCtShxQ/f800/1729502639.jpeg?s=4f44a5582b089eade83db8f1bb0fc8430f898055",
+            "width": 364,
+            "height": 176,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "03_0002f_neFX6Ek3wzprxTfwfvCtShxQ",
+          "timestamp": 1729502639,
+          "orientation": 0
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/03_0002f_neFX6Ek3wzprxTfwfvCtShxQ/1729502639.jpeg?s=ad99fb3611beb1cbbf5b98a606b2278943c8c518",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 7,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "3.3",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "55.29",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "75342 Lego The Clone Wars Republic Fighter Tank, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 51,99 €, 55,29 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 1.66918420791626,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5437424798,
+      "title": "LEGO Architecture 21060 Castelo Himeji",
+      "price": {
+        "amount": "145.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5437424798-lego-architecture-21060-castelo-himeji",
+      "user": {
+        "id": 174861285,
+        "login": "jmalmendra",
+        "profile_url": "https://www.vinted.fr/member/174861285-jmalmendra",
+        "photo": {
+          "id": 202392578,
+          "width": 600,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_010e9_Aj6S957wvsnMaU6n89ctL8Mb/f800/1722618553.jpeg?s=590334179b24741283919f0f13430e56d676bd87",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_010e9_Aj6S957wvsnMaU6n89ctL8Mb/310x310/1722618553.jpeg?s=5a92db820deaf18de58f6411aadd9ddbc07cb1eb",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_010e9_Aj6S957wvsnMaU6n89ctL8Mb/150x150/1722618553.jpeg?s=84c1f0f78e6da4306f883109eca3f790639c1695",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_010e9_Aj6S957wvsnMaU6n89ctL8Mb/100x100/1722618553.jpeg?s=b51d6258a667db2f02edeb31f81e728f7cbf9806",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_010e9_Aj6S957wvsnMaU6n89ctL8Mb/50x50/1722618553.jpeg?s=07921e10fb86cd2d9d088604c881c45e49736834",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_010e9_Aj6S957wvsnMaU6n89ctL8Mb/20x20/1722618553.jpeg?s=0f800764feea40cb266b85914632232fc7ea2265",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_010e9_Aj6S957wvsnMaU6n89ctL8Mb",
+            "timestamp": 1722618553,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_010e9_Aj6S957wvsnMaU6n89ctL8Mb/1722618553.jpeg?s=e7bfaba7bc782091ac08f297b14d02cc23c22602",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5437424798-lego-architecture-21060-castelo-himeji",
+      "promoted": false,
+      "photo": {
+        "id": 22011954251,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#8B715A",
+        "dominant_color_opaque": "#DCD4CE",
+        "url": "https://images1.vinted.net/t/02_02638_fCC3GYTLvnuogY29eB9qYMo9/f800/1732473767.jpeg?s=cb655930fc64d120c35b13f25e22567c2279a8f4",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/02_02638_fCC3GYTLvnuogY29eB9qYMo9/70x100/1732473767.jpeg?s=5bfbacbaf443d39e21aff3a84514a55510cc1050",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/02_02638_fCC3GYTLvnuogY29eB9qYMo9/150x210/1732473767.jpeg?s=e3ca71ff2c1525cac702c3f7567253801e70c988",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/02_02638_fCC3GYTLvnuogY29eB9qYMo9/310x430/1732473767.jpeg?s=3499fdcc5b5e6de993dd1d4553834ea7c8803c5d",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/02_02638_fCC3GYTLvnuogY29eB9qYMo9/f800/1732473767.jpeg?s=cb655930fc64d120c35b13f25e22567c2279a8f4",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/02_02638_fCC3GYTLvnuogY29eB9qYMo9/f800/1732473767.jpeg?s=cb655930fc64d120c35b13f25e22567c2279a8f4",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/02_02638_fCC3GYTLvnuogY29eB9qYMo9/f800/1732473767.jpeg?s=cb655930fc64d120c35b13f25e22567c2279a8f4",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "02_02638_fCC3GYTLvnuogY29eB9qYMo9",
+          "timestamp": 1732473767,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/02_02638_fCC3GYTLvnuogY29eB9qYMo9/1732473767.jpeg?s=076534a39e67a23801581103f1db3ede88d99e3e",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 31,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "7.95",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "152.95",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "LEGO Architecture 21060 Castelo Himeji, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 145,00 €, 152,95 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 1.567642688751221,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5483026747,
+      "title": "Lego Himeji castle",
+      "price": {
+        "amount": "140.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5483026747-lego-himeji-castle",
+      "user": {
+        "id": 173472438,
+        "login": "linkmeene",
+        "profile_url": "https://www.vinted.fr/member/173472438-linkmeene",
+        "photo": {
+          "id": 178883398,
+          "width": 600,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/03_01d3c_RB73erJXDFfh5P9iBAKSXyNE/f800/1706856722.jpeg?s=5593dc0e9296902a84d93d0118e9998172ce0c36",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/03_01d3c_RB73erJXDFfh5P9iBAKSXyNE/310x310/1706856722.jpeg?s=27048fea54e2f8631ec1997be39b0ae4025303bf",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/03_01d3c_RB73erJXDFfh5P9iBAKSXyNE/150x150/1706856722.jpeg?s=72ca5cd24282aeca962423945a26967920e7d696",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/03_01d3c_RB73erJXDFfh5P9iBAKSXyNE/100x100/1706856722.jpeg?s=46491bd74123030587b2a6467311e4a4aa148730",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/03_01d3c_RB73erJXDFfh5P9iBAKSXyNE/50x50/1706856722.jpeg?s=09d57822c6375857f8d0872813272a75510a46db",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/03_01d3c_RB73erJXDFfh5P9iBAKSXyNE/20x20/1706856722.jpeg?s=ce4819fa37e771ff40c3abdae4d79e506409b1a6",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "03_01d3c_RB73erJXDFfh5P9iBAKSXyNE",
+            "timestamp": 1706856722,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/03_01d3c_RB73erJXDFfh5P9iBAKSXyNE/1706856722.jpeg?s=29b44ea529f575baa36936b93ad95b1064fda7ef",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5483026747-lego-himeji-castle",
+      "promoted": false,
+      "photo": {
+        "id": 22200372459,
+        "image_no": 1,
+        "width": 800,
+        "height": 500,
+        "dominant_color": "#938C78",
+        "dominant_color_opaque": "#DFDDD7",
+        "url": "https://images1.vinted.net/t/04_02630_yg7UHDH4WRwh9vMxRgU3UWnN/f800/1733325149.jpeg?s=87f16c36d00c14f8503218398b0d87a4788504f4",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_02630_yg7UHDH4WRwh9vMxRgU3UWnN/70x100/1733325149.jpeg?s=aecea849368565cad5546edc2ecbad3eb5f1fdbf",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_02630_yg7UHDH4WRwh9vMxRgU3UWnN/150x210/1733325149.jpeg?s=4591c37fb90363f3b0b74bcf63d3fcfd4e162a54",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_02630_yg7UHDH4WRwh9vMxRgU3UWnN/310x430/1733325149.jpeg?s=b8f96e907cc8b9bcb1169acc323158a235b31f35",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_02630_yg7UHDH4WRwh9vMxRgU3UWnN/f800/1733325149.jpeg?s=87f16c36d00c14f8503218398b0d87a4788504f4",
+            "width": 428,
+            "height": 267,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_02630_yg7UHDH4WRwh9vMxRgU3UWnN/f800/1733325149.jpeg?s=87f16c36d00c14f8503218398b0d87a4788504f4",
+            "width": 624,
+            "height": 390,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_02630_yg7UHDH4WRwh9vMxRgU3UWnN/f800/1733325149.jpeg?s=87f16c36d00c14f8503218398b0d87a4788504f4",
+            "width": 364,
+            "height": 227,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_02630_yg7UHDH4WRwh9vMxRgU3UWnN",
+          "timestamp": 1733325149,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_02630_yg7UHDH4WRwh9vMxRgU3UWnN/1733325149.jpeg?s=fb4f6491122bc9d10da0f62896f9f42a827b9b09",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 17,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "7.7",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "147.7",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Neuf avec étiquette",
+        "accessibility_label": "Lego Himeji castle, marque: LEGO, état: Neuf avec étiquette, 140,00 €, 147,70 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 1.02042293548584,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5535709151,
+      "title": "Lego Architecture 'Himeji Castle' 21060",
+      "price": {
+        "amount": "130.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5535709151-lego-architecture-himeji-castle-21060",
+      "user": {
+        "id": 25413927,
+        "login": "ibe_vdb90",
+        "profile_url": "https://www.vinted.fr/member/25413927-ibevdb90",
+        "photo": {
+          "id": 223354129,
+          "width": 450,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/04_02094_kLnzhMesFVHBB64uRCvF58kq/f800/1735028228.jpeg?s=7b6691bcf82883d3f66c55c1090dd05f45b30759",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/04_02094_kLnzhMesFVHBB64uRCvF58kq/310x310/1735028228.jpeg?s=e6899678a4680da60b2d9c6075fbe8991ac98b96",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/04_02094_kLnzhMesFVHBB64uRCvF58kq/150x150/1735028228.jpeg?s=5ba0de594327905d455cef38273bf18f89887048",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/04_02094_kLnzhMesFVHBB64uRCvF58kq/100x100/1735028228.jpeg?s=1d9b72ada6ec37394db1a5651c1e87f9165814a3",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/04_02094_kLnzhMesFVHBB64uRCvF58kq/50x50/1735028228.jpeg?s=62d4d00804691794c0a4af19b52485b75ef096c8",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/04_02094_kLnzhMesFVHBB64uRCvF58kq/20x20/1735028228.jpeg?s=a42ce8a5f245b2e3dfdf7980abe7881c39ad6d29",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "04_02094_kLnzhMesFVHBB64uRCvF58kq",
+            "timestamp": 1735028228,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/04_02094_kLnzhMesFVHBB64uRCvF58kq/1735028228.jpeg?s=6f16ceea97780d72f8fdb4272b44c836eea1813f",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5535709151-lego-architecture-himeji-castle-21060",
+      "promoted": false,
+      "photo": {
+        "id": 22419594141,
+        "image_no": 1,
+        "width": 450,
+        "height": 800,
+        "dominant_color": "#77756E",
+        "dominant_color_opaque": "#D6D6D4",
+        "url": "https://images1.vinted.net/t/04_01681_wFuzQr2LhCzKCCN3N5y3df2S/f800/1734380345.jpeg?s=bd3412c111ec008907319bcbeb478297293297a0",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_01681_wFuzQr2LhCzKCCN3N5y3df2S/70x100/1734380345.jpeg?s=3899d0c5d81da3675476213a5aef32fef71c2350",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_01681_wFuzQr2LhCzKCCN3N5y3df2S/150x210/1734380345.jpeg?s=0e435baf97ed961ad1b3e8eda2cb71f58e7509e4",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_01681_wFuzQr2LhCzKCCN3N5y3df2S/310x430/1734380345.jpeg?s=cf1f0a3604458b7fda015bf8b9fe95a353c7abf9",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_01681_wFuzQr2LhCzKCCN3N5y3df2S/f800/1734380345.jpeg?s=bd3412c111ec008907319bcbeb478297293297a0",
+            "width": 241,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_01681_wFuzQr2LhCzKCCN3N5y3df2S/f800/1734380345.jpeg?s=bd3412c111ec008907319bcbeb478297293297a0",
+            "width": 351,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_01681_wFuzQr2LhCzKCCN3N5y3df2S/f800/1734380345.jpeg?s=bd3412c111ec008907319bcbeb478297293297a0",
+            "width": 204,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_01681_wFuzQr2LhCzKCCN3N5y3df2S",
+          "timestamp": 1734380345,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_01681_wFuzQr2LhCzKCCN3N5y3df2S/1734380345.jpeg?s=7ec4cfd8d2ea9c543ccafa5752222ae295aec8c7",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 4,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "7.2",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "137.2",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Très bon état",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego Architecture 'Himeji Castle' 21060, marque: LEGO, état: Très bon état, taille: Taille unique, 130,00 €, 137,20 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 0.5865001678466797,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5621404067,
+      "title": "Lego Castillo de Himeji",
+      "price": {
+        "amount": "160.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5621404067-lego-castillo-de-himeji",
+      "user": {
+        "id": 249977613,
+        "login": "mavcas",
+        "profile_url": "https://www.vinted.fr/member/249977613-mavcas",
+        "photo": null,
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5621404067-lego-castillo-de-himeji",
+      "promoted": false,
+      "photo": {
+        "id": 22767075665,
+        "image_no": 1,
+        "width": 800,
+        "height": 602,
+        "dominant_color": "#9A9691",
+        "dominant_color_opaque": "#E1E0DE",
+        "url": "https://images1.vinted.net/t/04_00206_vaeAYBmEVjaSuAfR3yZzKHSL/f800/1736348816.jpeg?s=b0f77895471c6b7097e844a3c9a50481f1f35fe8",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_00206_vaeAYBmEVjaSuAfR3yZzKHSL/70x100/1736348816.jpeg?s=45a59142dcbb61dc783f2a17a4b2cd0c14dd1494",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_00206_vaeAYBmEVjaSuAfR3yZzKHSL/150x210/1736348816.jpeg?s=42803c9130d2cc12df1ecee92d902e7ee0d4e1f6",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_00206_vaeAYBmEVjaSuAfR3yZzKHSL/310x430/1736348816.jpeg?s=dfd7d2958b322a55d1c85b8735b20f837074aeb2",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_00206_vaeAYBmEVjaSuAfR3yZzKHSL/f800/1736348816.jpeg?s=b0f77895471c6b7097e844a3c9a50481f1f35fe8",
+            "width": 428,
+            "height": 322,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_00206_vaeAYBmEVjaSuAfR3yZzKHSL/f800/1736348816.jpeg?s=b0f77895471c6b7097e844a3c9a50481f1f35fe8",
+            "width": 624,
+            "height": 469,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_00206_vaeAYBmEVjaSuAfR3yZzKHSL/f800/1736348816.jpeg?s=b0f77895471c6b7097e844a3c9a50481f1f35fe8",
+            "width": 364,
+            "height": 274,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_00206_vaeAYBmEVjaSuAfR3yZzKHSL",
+          "timestamp": 1736348816,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_00206_vaeAYBmEVjaSuAfR3yZzKHSL/1736348816.jpeg?s=6b412e3d9d1e6497e2ffe517c76352de91f99ed3",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 8,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "8.7",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "168.7",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego Castillo de Himeji, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 160,00 €, 168,70 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 0.892582893371582,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 3736763347,
+      "title": "Set 21060",
+      "price": {
+        "amount": "155.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/3736763347-set-21060",
+      "user": {
+        "id": 66655675,
+        "login": "sylviaduarte",
+        "profile_url": "https://www.vinted.fr/member/66655675-sylviaduarte",
+        "photo": {
+          "id": 77380278,
+          "width": 604,
+          "height": 405,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/03_0221a_U87KLfeEY7uxoRLnJZF43Sdq/f800/1641462526.jpeg?s=0155f4e2a604fec086331bea04b48f701c277517",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/03_0221a_U87KLfeEY7uxoRLnJZF43Sdq/310x310/1641462526.jpeg?s=01b7ba52ac660ac991e0bf9faac84640a17363a6",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/03_0221a_U87KLfeEY7uxoRLnJZF43Sdq/150x150/1641462526.jpeg?s=c5822eb528fd60a1e04ccd82832ee11ec65aef97",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/03_0221a_U87KLfeEY7uxoRLnJZF43Sdq/100x100/1641462526.jpeg?s=22a9705b9ddf7fcae80095912b70cd343bd3b26d",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/03_0221a_U87KLfeEY7uxoRLnJZF43Sdq/50x50/1641462526.jpeg?s=867e93d216d33ba86d35b2a9c7c0da5fa503b67e",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/03_0221a_U87KLfeEY7uxoRLnJZF43Sdq/20x20/1641462526.jpeg?s=dc61296a8ac3b7e1b507177bf1d3197110b0de3f",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "03_0221a_U87KLfeEY7uxoRLnJZF43Sdq",
+            "timestamp": 1641462526,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/03_0221a_U87KLfeEY7uxoRLnJZF43Sdq/1641462526.jpeg?s=fcc9a4f20ff17816733418b89618f3c7d7f611b3",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/3736763347-set-21060",
+      "promoted": false,
+      "photo": {
+        "id": 15328099200,
+        "image_no": 1,
+        "width": 800,
+        "height": 600,
+        "dominant_color": "#5F4E44",
+        "dominant_color_opaque": "#CFCAC7",
+        "url": "https://images1.vinted.net/t/01_0027f_CNLjvaKkPYSd4KbyhhnCgNcm/f800/1699563788.jpeg?s=15dcfd4657b3706a0738a29a4b235baf08e22908",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/01_0027f_CNLjvaKkPYSd4KbyhhnCgNcm/70x100/1699563788.jpeg?s=736c975169c9fc7e25e49ca9e0bd09eace12b5ad",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/01_0027f_CNLjvaKkPYSd4KbyhhnCgNcm/150x210/1699563788.jpeg?s=618720d5c52c2cb5c2d57690e900c18187e130b3",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/01_0027f_CNLjvaKkPYSd4KbyhhnCgNcm/310x430/1699563788.jpeg?s=7cfa3a428b4c1dc545ee973d13dbadff0a34a330",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/01_0027f_CNLjvaKkPYSd4KbyhhnCgNcm/f800/1699563788.jpeg?s=15dcfd4657b3706a0738a29a4b235baf08e22908",
+            "width": 428,
+            "height": 321,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/01_0027f_CNLjvaKkPYSd4KbyhhnCgNcm/f800/1699563788.jpeg?s=15dcfd4657b3706a0738a29a4b235baf08e22908",
+            "width": 624,
+            "height": 468,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/01_0027f_CNLjvaKkPYSd4KbyhhnCgNcm/f800/1699563788.jpeg?s=15dcfd4657b3706a0738a29a4b235baf08e22908",
+            "width": 364,
+            "height": 273,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "01_0027f_CNLjvaKkPYSd4KbyhhnCgNcm",
+          "timestamp": 1699563788,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/01_0027f_CNLjvaKkPYSd4KbyhhnCgNcm/1699563788.jpeg?s=b3a3d5458d4ce9a0e61a72d7389a0128fc6d8bf5",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 15,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "8.45",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "163.45",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Set 21060, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 155,00 €, 163,45 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 0.5247864723205566,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5348813892,
+      "title": "Lego Architecture Himeji Castle",
+      "price": {
+        "amount": "132.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5348813892-lego-architecture-himeji-castle",
+      "user": {
+        "id": 73343134,
+        "login": "pedrobrandao76",
+        "profile_url": "https://www.vinted.fr/member/73343134-pedrobrandao76",
+        "photo": {
+          "id": 115125647,
+          "width": 800,
+          "height": 510,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/03_00ee6_K9Uf88hcbBcB1EYXMeVNq4au/f800/1667823290.jpeg?s=d57b99921788d7b6f6a945afaa4a2c15111002b1",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/03_00ee6_K9Uf88hcbBcB1EYXMeVNq4au/310x310/1667823290.jpeg?s=6b2d57fcda2720c1505d1c49c18dd4c4757071e4",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/03_00ee6_K9Uf88hcbBcB1EYXMeVNq4au/150x150/1667823290.jpeg?s=af02114c012c34cbb5d22151a4c0115d25061163",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/03_00ee6_K9Uf88hcbBcB1EYXMeVNq4au/100x100/1667823290.jpeg?s=d6d83599ed2ef28c48dd73cbf8bff3f5e2731f75",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/03_00ee6_K9Uf88hcbBcB1EYXMeVNq4au/50x50/1667823290.jpeg?s=fa820cc5f7e5da5f4a2aa58dc138abc1c0e3cc81",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/03_00ee6_K9Uf88hcbBcB1EYXMeVNq4au/20x20/1667823290.jpeg?s=c02b33651ce8f5618fe3e5f8712a6fdeee723770",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "03_00ee6_K9Uf88hcbBcB1EYXMeVNq4au",
+            "timestamp": 1667823290,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/03_00ee6_K9Uf88hcbBcB1EYXMeVNq4au/1667823290.jpeg?s=7a1b4f55b311dcc9d1992b383cf0c66112dd82d2",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5348813892-lego-architecture-himeji-castle",
+      "promoted": false,
+      "photo": {
+        "id": 21650815437,
+        "image_no": 1,
+        "width": 785,
+        "height": 800,
+        "dominant_color": "#4B4943",
+        "dominant_color_opaque": "#C9C8C7",
+        "url": "https://images1.vinted.net/t/04_0052c_jMeURGWa7vD69zDNnPZVxXVk/f800/1731086997.jpeg?s=7200e85fd860c51e1398d8bf8c3b4dc886af1401",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_0052c_jMeURGWa7vD69zDNnPZVxXVk/70x100/1731086997.jpeg?s=37d1e79bed210366388ab790d649b97a6a1761af",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_0052c_jMeURGWa7vD69zDNnPZVxXVk/150x210/1731086997.jpeg?s=3c48ef7c9be1f8091397e02ed7ceb24c49a29be1",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_0052c_jMeURGWa7vD69zDNnPZVxXVk/310x430/1731086997.jpeg?s=7caefb342c9e9aaa9bd71608d2250a4c4c7b23ea",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_0052c_jMeURGWa7vD69zDNnPZVxXVk/f800/1731086997.jpeg?s=7200e85fd860c51e1398d8bf8c3b4dc886af1401",
+            "width": 419,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_0052c_jMeURGWa7vD69zDNnPZVxXVk/f800/1731086997.jpeg?s=7200e85fd860c51e1398d8bf8c3b4dc886af1401",
+            "width": 612,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_0052c_jMeURGWa7vD69zDNnPZVxXVk/f800/1731086997.jpeg?s=7200e85fd860c51e1398d8bf8c3b4dc886af1401",
+            "width": 357,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_0052c_jMeURGWa7vD69zDNnPZVxXVk",
+          "timestamp": 1731086997,
+          "orientation": 0
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_0052c_jMeURGWa7vD69zDNnPZVxXVk/1731086997.jpeg?s=05e65c4c2423dade23d230a6e6b60b77b737e3d3",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 19,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "7.3",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "139.3",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "24-36 mois / 92 cm",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "24-36 mois / 92 cm",
+        "accessibility_label": "Lego Architecture Himeji Castle, marque: LEGO, état: Neuf avec étiquette, taille: 24-36 mois / 92 cm, 132,00 €, 139,30 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": -0.001370596815831959,
+        "matched_queries": []
+      }
+    }
+  ],
+  "dominant_brand": {
+    "id": 89162,
+    "title": "LEGO",
+    "slug": "lego",
+    "favourite_count": 186427,
+    "pretty_favourite_count": "186.4K",
+    "item_count": 2176267,
+    "pretty_item_count": "2.2M",
+    "is_visible_in_listings": true,
+    "requires_authenticity_check": false,
+    "is_luxury": false,
+    "is_hvf": false,
+    "path": "/brand/89162-lego",
+    "url": "https://www.vinted.fr/brand/89162-lego",
+    "is_favourite": false
+  },
+  "search_tracking_params": {
+    "search_correlation_id": "15cf9985-4584-4f2e-aae9-5628cfb41671",
+    "search_session_id": "599033af-aeee-4d2c-878f-cf38a4220843",
+    "global_search_session_id": "c7fc4cf2-5036-4467-a34e-8a2f997da8da"
+  },
+  "pagination": {
+    "current_page": 1,
+    "total_pages": 1,
+    "total_entries": 26,
+    "per_page": 96,
+    "time": 1742225010
+  },
+  "code": 0,
+  "setId": "21060"
+}

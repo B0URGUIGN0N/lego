@@ -1,0 +1,3939 @@
+{
+  "items": [
+    {
+      "id": 5967503660,
+      "title": "Boîte lego plante plum blossom 10369",
+      "price": {
+        "amount": "2.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5967503660-boite-lego-plante-plum-blossom-10369",
+      "user": {
+        "id": 164179417,
+        "login": "charly.bdiu",
+        "profile_url": "https://www.vinted.fr/member/164179417-charlybdiu",
+        "photo": {
+          "id": 224111603,
+          "width": 600,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/04_00a8c_Nvky6SPfNAGTYbKPRY1qTrPi/f800/1735592352.jpeg?s=c396b22f20c7d4801aee6a4632c013db45b584ae",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/04_00a8c_Nvky6SPfNAGTYbKPRY1qTrPi/310x310/1735592352.jpeg?s=5cd3ae258bff6aa622e76a08c337085c00dedda8",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/04_00a8c_Nvky6SPfNAGTYbKPRY1qTrPi/150x150/1735592352.jpeg?s=aaf76dedfc0b64b98e50f2f9f25d114ad5806444",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/04_00a8c_Nvky6SPfNAGTYbKPRY1qTrPi/100x100/1735592352.jpeg?s=051408ac0e6b3194ae6ffd540eda70c84bb1dbfe",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/04_00a8c_Nvky6SPfNAGTYbKPRY1qTrPi/50x50/1735592352.jpeg?s=3519458f30b00f21d9cb61b6dd45033ac1936109",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/04_00a8c_Nvky6SPfNAGTYbKPRY1qTrPi/20x20/1735592352.jpeg?s=24c2179da3e1d7766206f4c54ea21444928c1dc1",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "04_00a8c_Nvky6SPfNAGTYbKPRY1qTrPi",
+            "timestamp": 1735592352,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/04_00a8c_Nvky6SPfNAGTYbKPRY1qTrPi/1735592352.jpeg?s=12abf81d786af08a7f7689a318e57891e9f9809c",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5967503660-boite-lego-plante-plum-blossom-10369",
+      "promoted": false,
+      "photo": {
+        "id": 24199009505,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#4B313A",
+        "dominant_color_opaque": "#C9C1C4",
+        "url": "https://images1.vinted.net/t/04_0207f_ftHAJNTZftwud5NDpnSntRCB/f800/1741967152.jpeg?s=7e3ea54a0aa1a47f51c78fe09eeb9c7b6ae3bd5e",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_0207f_ftHAJNTZftwud5NDpnSntRCB/70x100/1741967152.jpeg?s=af1315aea63dac6b6f379847278313cbfed7c276",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_0207f_ftHAJNTZftwud5NDpnSntRCB/150x210/1741967152.jpeg?s=6fd15c4e3e1b1fdd80a3a13fc0423b958ee23cf8",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_0207f_ftHAJNTZftwud5NDpnSntRCB/310x430/1741967152.jpeg?s=af1f5686395946ce456cb2bd9ebc9851f04f48dc",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_0207f_ftHAJNTZftwud5NDpnSntRCB/f800/1741967152.jpeg?s=7e3ea54a0aa1a47f51c78fe09eeb9c7b6ae3bd5e",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_0207f_ftHAJNTZftwud5NDpnSntRCB/f800/1741967152.jpeg?s=7e3ea54a0aa1a47f51c78fe09eeb9c7b6ae3bd5e",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_0207f_ftHAJNTZftwud5NDpnSntRCB/f800/1741967152.jpeg?s=7e3ea54a0aa1a47f51c78fe09eeb9c7b6ae3bd5e",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_0207f_ftHAJNTZftwud5NDpnSntRCB",
+          "timestamp": 1741967152,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_0207f_ftHAJNTZftwud5NDpnSntRCB/1741967152.jpeg?s=cf93ad9b7bde3e34291e6c502866bf60d4dd5756",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 3,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "0.8",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "2.8",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Très bon état",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Boîte lego plante plum blossom 10369, marque: LEGO, état: Très bon état, taille: Taille unique, 2,00 €, 2,80 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 6.959075927734375,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5926754486,
+      "title": "Lego 10369 Plum Blossom - Boîte vide",
+      "price": {
+        "amount": "2.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5926754486-lego-10369-plum-blossom-boite-vide",
+      "user": {
+        "id": 30756660,
+        "login": "ekhinox",
+        "profile_url": "https://www.vinted.fr/member/30756660-ekhinox",
+        "photo": {
+          "id": 24218261,
+          "width": 512,
+          "height": 512,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_00e2a_2QVRMpuBfmc2sD72BJEdsn4K/f800/1605247905.jpeg?s=f10c5edc3f310b2e7c4e75857d7f90ff075d7037",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_00e2a_2QVRMpuBfmc2sD72BJEdsn4K/310x310/1605247905.jpeg?s=17db617cc83af4c708d62289d46707c8b7137df8",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_00e2a_2QVRMpuBfmc2sD72BJEdsn4K/150x150/1605247905.jpeg?s=dad850cf57b0af5abdc608117c072ea0fcfe0284",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_00e2a_2QVRMpuBfmc2sD72BJEdsn4K/100x100/1605247905.jpeg?s=277709914f0a94e4f290f3b044729a052268245e",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_00e2a_2QVRMpuBfmc2sD72BJEdsn4K/50x50/1605247905.jpeg?s=318eec1af5a20f90146f2ac2d49a31dcdbacee6d",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_00e2a_2QVRMpuBfmc2sD72BJEdsn4K/20x20/1605247905.jpeg?s=617a02545d98bdc056f3a348546b79e6004b8ec0",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_00e2a_2QVRMpuBfmc2sD72BJEdsn4K",
+            "timestamp": 1605247905,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_00e2a_2QVRMpuBfmc2sD72BJEdsn4K/1605247905.jpeg?s=a0226995941c9879aa76a7ad8c8ccc8dfb9a82b6",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5926754486-lego-10369-plum-blossom-boite-vide",
+      "promoted": false,
+      "photo": {
+        "id": 24029619802,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#564B64",
+        "dominant_color_opaque": "#CCC9D1",
+        "url": "https://images1.vinted.net/t/03_011c7_jzVR8CZ5anv3gnotibx499sJ/f800/1741342558.jpeg?s=4fa1447ba55454eb36da51f2b3af75b67d6e286f",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/03_011c7_jzVR8CZ5anv3gnotibx499sJ/70x100/1741342558.jpeg?s=c7ae4e74dfe848ede9d8983e18bf4de6260360d7",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/03_011c7_jzVR8CZ5anv3gnotibx499sJ/150x210/1741342558.jpeg?s=96892d4feb91c301deb0982fa20f942783a33a0c",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/03_011c7_jzVR8CZ5anv3gnotibx499sJ/310x430/1741342558.jpeg?s=adb29b3badb862127c7c173fca515f6d6456aca0",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/03_011c7_jzVR8CZ5anv3gnotibx499sJ/f800/1741342558.jpeg?s=4fa1447ba55454eb36da51f2b3af75b67d6e286f",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/03_011c7_jzVR8CZ5anv3gnotibx499sJ/f800/1741342558.jpeg?s=4fa1447ba55454eb36da51f2b3af75b67d6e286f",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/03_011c7_jzVR8CZ5anv3gnotibx499sJ/f800/1741342558.jpeg?s=4fa1447ba55454eb36da51f2b3af75b67d6e286f",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "03_011c7_jzVR8CZ5anv3gnotibx499sJ",
+          "timestamp": 1741342558,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/03_011c7_jzVR8CZ5anv3gnotibx499sJ/1741342558.jpeg?s=76ac70f8f31a10e76e6863474d9d62d747c2611f",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 8,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "0.8",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "2.8",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Très bon état",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego 10369 Plum Blossom - Boîte vide, marque: LEGO, état: Très bon état, taille: Taille unique, 2,00 €, 2,80 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 6.597383975982666,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5669072126,
+      "title": "Lego 10369 boîte",
+      "price": {
+        "amount": "2.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5669072126-lego-10369-boite",
+      "user": {
+        "id": 37716982,
+        "login": "stephanie8877",
+        "profile_url": "https://www.vinted.fr/member/37716982-stephanie8877",
+        "photo": {
+          "id": 144376191,
+          "width": 580,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/03_00ac8_BQ8rvRAcuMxTvR3zBCUma8Vx/f800/1686139623.jpeg?s=cc24c10faa7c027a41e45e537207c621777e7c9d",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/03_00ac8_BQ8rvRAcuMxTvR3zBCUma8Vx/310x310/1686139623.jpeg?s=715ae0f41f64c792085d55a444920f2fc298c74b",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/03_00ac8_BQ8rvRAcuMxTvR3zBCUma8Vx/150x150/1686139623.jpeg?s=65252094fe66fc63d1735dfdf6067614b652dea0",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/03_00ac8_BQ8rvRAcuMxTvR3zBCUma8Vx/100x100/1686139623.jpeg?s=4c0a68fc7d36b04756ce0ffe39fec535994b9165",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/03_00ac8_BQ8rvRAcuMxTvR3zBCUma8Vx/50x50/1686139623.jpeg?s=6c0699a5b90ba38c1b2a4646a8c8dc2ec87b4581",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/03_00ac8_BQ8rvRAcuMxTvR3zBCUma8Vx/20x20/1686139623.jpeg?s=3454e1a15e525c50147805932148f19d3c010067",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "03_00ac8_BQ8rvRAcuMxTvR3zBCUma8Vx",
+            "timestamp": 1686139623,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/03_00ac8_BQ8rvRAcuMxTvR3zBCUma8Vx/1686139623.jpeg?s=950df20a2a0a6e1bd188a160c2d90239935cfc56",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5669072126-lego-10369-boite",
+      "promoted": false,
+      "photo": {
+        "id": 22961983807,
+        "image_no": 1,
+        "width": 602,
+        "height": 800,
+        "dominant_color": "#726E7F",
+        "dominant_color_opaque": "#D5D4D9",
+        "url": "https://images1.vinted.net/t/04_01f4e_2fdfW6G5uH2QxSrf3KNJppiU/f800/1737178404.jpeg?s=a146dcc800a932407516a95d6cdc9cc99ca0be5b",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_01f4e_2fdfW6G5uH2QxSrf3KNJppiU/70x100/1737178404.jpeg?s=4ee08a1a8fd0047a450dbcb319e500d08764c07f",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_01f4e_2fdfW6G5uH2QxSrf3KNJppiU/150x210/1737178404.jpeg?s=83fc4a67d3b11777bd2ce577c7b6879397552650",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_01f4e_2fdfW6G5uH2QxSrf3KNJppiU/310x430/1737178404.jpeg?s=242df666ba6fdceb2a6ae365b4cbdec063ecdc55",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_01f4e_2fdfW6G5uH2QxSrf3KNJppiU/f800/1737178404.jpeg?s=a146dcc800a932407516a95d6cdc9cc99ca0be5b",
+            "width": 322,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_01f4e_2fdfW6G5uH2QxSrf3KNJppiU/f800/1737178404.jpeg?s=a146dcc800a932407516a95d6cdc9cc99ca0be5b",
+            "width": 469,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_01f4e_2fdfW6G5uH2QxSrf3KNJppiU/f800/1737178404.jpeg?s=a146dcc800a932407516a95d6cdc9cc99ca0be5b",
+            "width": 274,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_01f4e_2fdfW6G5uH2QxSrf3KNJppiU",
+          "timestamp": 1737178404,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_01f4e_2fdfW6G5uH2QxSrf3KNJppiU/1737178404.jpeg?s=5e66102b30b6945c7f01eec1e84e7b54e4978ee3",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 8,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "0.8",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "2.8",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "16 ans / 176 cm",
+      "content_source": "search",
+      "status": "Très bon état",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "16 ans / 176 cm",
+        "accessibility_label": "Lego 10369 boîte, marque: LEGO, état: Très bon état, taille: 16 ans / 176 cm, 2,00 €, 2,80 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 6.59022045135498,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5660629284,
+      "title": "Notice Lego 10369 Fleurs de prunier",
+      "price": {
+        "amount": "5.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5660629284-notice-lego-10369-fleurs-de-prunier",
+      "user": {
+        "id": 21768268,
+        "login": "kine86",
+        "profile_url": "https://www.vinted.fr/member/21768268-kine86",
+        "photo": {
+          "id": 32227183,
+          "width": 600,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/01_024a3_U9q9g1YWVA1HzvDdVz7zoGoj/f800/1594237849.jpeg?s=c6df94b069b31546374eff154c5abb124489c88a",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/01_024a3_U9q9g1YWVA1HzvDdVz7zoGoj/310x310/1594237849.jpeg?s=ca262dc98dffe7309b3b9abcbc049587f1a9044a",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/01_024a3_U9q9g1YWVA1HzvDdVz7zoGoj/150x150/1594237849.jpeg?s=b148242391fd355eb7c2ec3b74ce309f258b7461",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/01_024a3_U9q9g1YWVA1HzvDdVz7zoGoj/100x100/1594237849.jpeg?s=f9695707805c247e0b1b68fec8ebb3c15768db86",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/01_024a3_U9q9g1YWVA1HzvDdVz7zoGoj/50x50/1594237849.jpeg?s=f5325c3be72d2f158cf119ef24112b03ff59dcad",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/01_024a3_U9q9g1YWVA1HzvDdVz7zoGoj/20x20/1594237849.jpeg?s=c8a927b11c1a68e5ff2016c0761a53bb6fd7b811",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "01_024a3_U9q9g1YWVA1HzvDdVz7zoGoj",
+            "timestamp": 1594237849,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/01_024a3_U9q9g1YWVA1HzvDdVz7zoGoj/1594237849.jpeg?s=c747099cff5432d0cf4d9423efa06cf70d457a0d",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5660629284-notice-lego-10369-fleurs-de-prunier",
+      "promoted": false,
+      "photo": {
+        "id": 22927174724,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#A38D8A",
+        "dominant_color_opaque": "#E3DDDC",
+        "url": "https://images1.vinted.net/t/03_01008_QKMi7eqDZhthe1tYgv3rFxxs/f800/1737021938.jpeg?s=afd9038c6a1a33b476454edde326678a395a6760",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/03_01008_QKMi7eqDZhthe1tYgv3rFxxs/70x100/1737021938.jpeg?s=5e5b040313f161f404a5742354f6f443dfdac1e2",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/03_01008_QKMi7eqDZhthe1tYgv3rFxxs/150x210/1737021938.jpeg?s=e2b034223dea00b6a18a4d0acd021f93a303c0b6",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/03_01008_QKMi7eqDZhthe1tYgv3rFxxs/310x430/1737021938.jpeg?s=a494060fb5862d38d6669cd03c620bd533059a37",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/03_01008_QKMi7eqDZhthe1tYgv3rFxxs/f800/1737021938.jpeg?s=afd9038c6a1a33b476454edde326678a395a6760",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/03_01008_QKMi7eqDZhthe1tYgv3rFxxs/f800/1737021938.jpeg?s=afd9038c6a1a33b476454edde326678a395a6760",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/03_01008_QKMi7eqDZhthe1tYgv3rFxxs/f800/1737021938.jpeg?s=afd9038c6a1a33b476454edde326678a395a6760",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "03_01008_QKMi7eqDZhthe1tYgv3rFxxs",
+          "timestamp": 1737021938,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/03_01008_QKMi7eqDZhthe1tYgv3rFxxs/1737021938.jpeg?s=1ebe6b9187d670f7a216708c672af07c9ef58fea",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 15,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "0.95",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "5.95",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Bon état",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Notice Lego 10369 Fleurs de prunier, marque: LEGO, état: Bon état, taille: Taille unique, 5,00 €, 5,95 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 5.869340896606445,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5975732256,
+      "title": "Lego Botanicals 10369 Les fleurs de prunier",
+      "price": {
+        "amount": "25.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5975732256-lego-botanicals-10369-les-fleurs-de-prunier",
+      "user": {
+        "id": 158446548,
+        "login": "angeli302",
+        "profile_url": "https://www.vinted.fr/member/158446548-angeli302",
+        "photo": {
+          "id": 154271314,
+          "width": 800,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/01_00db6_PMC7v4PGESqjEhsA7vQi286s/f800/1693131884.jpeg?s=d267b5a1e9f1cd6e91e88f3d1cdcbffb7461ee7c",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/01_00db6_PMC7v4PGESqjEhsA7vQi286s/310x310/1693131884.jpeg?s=25b9cfd043d0c35312c491488ec21a1be3e6b79a",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/01_00db6_PMC7v4PGESqjEhsA7vQi286s/150x150/1693131884.jpeg?s=8453c0e01d3d6f1633f9490433d41cd41b49f4df",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/01_00db6_PMC7v4PGESqjEhsA7vQi286s/100x100/1693131884.jpeg?s=7d9689d051bc6eb3c830440394c0175cf1e2af2e",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/01_00db6_PMC7v4PGESqjEhsA7vQi286s/50x50/1693131884.jpeg?s=56e80c866fea616d27c4793468c823b4e30b798d",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/01_00db6_PMC7v4PGESqjEhsA7vQi286s/20x20/1693131884.jpeg?s=50fc301bba78b42b724e6dff3af3c626c8ad1315",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "01_00db6_PMC7v4PGESqjEhsA7vQi286s",
+            "timestamp": 1693131884,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/01_00db6_PMC7v4PGESqjEhsA7vQi286s/1693131884.jpeg?s=0472b7f5fd031a92a51724a9c4f6f79c4259d14d",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5975732256-lego-botanicals-10369-les-fleurs-de-prunier",
+      "promoted": false,
+      "photo": {
+        "id": 24233480284,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#694244",
+        "dominant_color_opaque": "#D2C6C7",
+        "url": "https://images1.vinted.net/t/04_018d6_badHvKfbGNp4wwn7phss9der/f800/1742079437.jpeg?s=25d157fcc959940bd7cb83e03966a3eed6da0fa3",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_018d6_badHvKfbGNp4wwn7phss9der/70x100/1742079437.jpeg?s=f4f4fb58ebb2a585676606101cb743560536e136",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_018d6_badHvKfbGNp4wwn7phss9der/150x210/1742079437.jpeg?s=031ca111bb4e5fde9619c545c4bff35f3bb26801",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_018d6_badHvKfbGNp4wwn7phss9der/310x430/1742079437.jpeg?s=a6537ccf43223fd330f529540455b3bb2bcb6652",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_018d6_badHvKfbGNp4wwn7phss9der/f800/1742079437.jpeg?s=25d157fcc959940bd7cb83e03966a3eed6da0fa3",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_018d6_badHvKfbGNp4wwn7phss9der/f800/1742079437.jpeg?s=25d157fcc959940bd7cb83e03966a3eed6da0fa3",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_018d6_badHvKfbGNp4wwn7phss9der/f800/1742079437.jpeg?s=25d157fcc959940bd7cb83e03966a3eed6da0fa3",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_018d6_badHvKfbGNp4wwn7phss9der",
+          "timestamp": 1742079437,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_018d6_badHvKfbGNp4wwn7phss9der/1742079437.jpeg?s=6e075beba8cbed61de2583fe457f14fbf25fc051",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 40,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "1.95",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "26.95",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego Botanicals 10369 Les fleurs de prunier, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 25,00 €, 26,95 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 5.829619884490967,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5769577592,
+      "title": "Manuel lego 10369",
+      "price": {
+        "amount": "2.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5769577592-manuel-lego-10369",
+      "user": {
+        "id": 22941901,
+        "login": "g6ktoma",
+        "profile_url": "https://www.vinted.fr/member/22941901-g6ktoma",
+        "photo": {
+          "id": 56235552,
+          "width": 600,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/01_01800_ejC1JZKvtoyA6U7HHDCeZcdx/f800/1618866408.jpeg?s=4810a74ec2bb4914e3045d078c031ca22fb1dae1",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/01_01800_ejC1JZKvtoyA6U7HHDCeZcdx/310x310/1618866408.jpeg?s=8b33e172faa3c684c52fd26ce34ea35611250de4",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/01_01800_ejC1JZKvtoyA6U7HHDCeZcdx/150x150/1618866408.jpeg?s=ea29775a200348dfac5f35c2306cbd5360ac3896",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/01_01800_ejC1JZKvtoyA6U7HHDCeZcdx/100x100/1618866408.jpeg?s=4b26db3667046d355d50f4a069eace95261ab965",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/01_01800_ejC1JZKvtoyA6U7HHDCeZcdx/50x50/1618866408.jpeg?s=1d1385a9b9f0b707b9988d2a06b43916d69088a4",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/01_01800_ejC1JZKvtoyA6U7HHDCeZcdx/20x20/1618866408.jpeg?s=8d3b15c516b6613f667a8768f264315788589eb8",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "01_01800_ejC1JZKvtoyA6U7HHDCeZcdx",
+            "timestamp": 1618866408,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/01_01800_ejC1JZKvtoyA6U7HHDCeZcdx/1618866408.jpeg?s=8726d378fadf79867674c7f69867a80533babbdf",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5769577592-manuel-lego-10369",
+      "promoted": false,
+      "photo": {
+        "id": 23376494047,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#9B6857",
+        "dominant_color_opaque": "#E1D2CD",
+        "url": "https://images1.vinted.net/t/03_0004a_xEapcSC3TxSZrv3Sepsy1cPB/f800/1738777271.jpeg?s=e52a3fc3ead293b66d01f79fb9febf555bbe82b7",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/03_0004a_xEapcSC3TxSZrv3Sepsy1cPB/70x100/1738777271.jpeg?s=a990a65ef1573d940384e7048ba11d30609c5e42",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/03_0004a_xEapcSC3TxSZrv3Sepsy1cPB/150x210/1738777271.jpeg?s=e8df04f112e338efe2cccd4dfa6bee594ec5d35a",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/03_0004a_xEapcSC3TxSZrv3Sepsy1cPB/310x430/1738777271.jpeg?s=b01d84bfe578d7443ee6e226d84f03ad2dc80d9f",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/03_0004a_xEapcSC3TxSZrv3Sepsy1cPB/f800/1738777271.jpeg?s=e52a3fc3ead293b66d01f79fb9febf555bbe82b7",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/03_0004a_xEapcSC3TxSZrv3Sepsy1cPB/f800/1738777271.jpeg?s=e52a3fc3ead293b66d01f79fb9febf555bbe82b7",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/03_0004a_xEapcSC3TxSZrv3Sepsy1cPB/f800/1738777271.jpeg?s=e52a3fc3ead293b66d01f79fb9febf555bbe82b7",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "03_0004a_xEapcSC3TxSZrv3Sepsy1cPB",
+          "timestamp": 1738777271,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/03_0004a_xEapcSC3TxSZrv3Sepsy1cPB/1738777271.jpeg?s=b8acef69dea8635fc714a3849bf3c2d9c428169f",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 1,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "0.8",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "2.8",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "9 ans / 134 cm",
+      "content_source": "search",
+      "status": "Neuf sans étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "9 ans / 134 cm",
+        "accessibility_label": "Manuel lego 10369, marque: LEGO, état: Neuf sans étiquette, taille: 9 ans / 134 cm, 2,00 €, 2,80 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 5.792775630950928,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 4943096989,
+      "title": "Lego 10369 - ONLY Box",
+      "price": {
+        "amount": "5.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/4943096989-lego-10369-only-box",
+      "user": {
+        "id": 76588567,
+        "login": "caoce",
+        "profile_url": "https://www.vinted.fr/member/76588567-caoce",
+        "photo": {
+          "id": 140227780,
+          "width": 800,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/03_016fa_RjfzmApvyqwfsxU4RyXJtm9Y/f800/1683398518.jpeg?s=c76490fbcf5e9b8da782a265ca9c89c778c2dfc2",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/03_016fa_RjfzmApvyqwfsxU4RyXJtm9Y/310x310/1683398518.jpeg?s=403b218e4837d4c394e9d977ad7ad323f3f153c5",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/03_016fa_RjfzmApvyqwfsxU4RyXJtm9Y/150x150/1683398518.jpeg?s=8a08dd6b3fb0f38c8445c8046827e6eb076b29cb",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/03_016fa_RjfzmApvyqwfsxU4RyXJtm9Y/100x100/1683398518.jpeg?s=1731fbd1b905a71e9456bfde8d7392adb1798e4d",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/03_016fa_RjfzmApvyqwfsxU4RyXJtm9Y/50x50/1683398518.jpeg?s=2b0fd40704bdb115dc7d7c8e092510f46eaa3015",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/03_016fa_RjfzmApvyqwfsxU4RyXJtm9Y/20x20/1683398518.jpeg?s=06445cabdde7119f22a84ea942f5e467f88c7a6b",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "03_016fa_RjfzmApvyqwfsxU4RyXJtm9Y",
+            "timestamp": 1683398518,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/03_016fa_RjfzmApvyqwfsxU4RyXJtm9Y/1683398518.jpeg?s=ecd0ee37dcbb3cdb1281919003b1e7ca5617bde5",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/4943096989-lego-10369-only-box",
+      "promoted": false,
+      "photo": {
+        "id": 20048568348,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#7C4F48",
+        "dominant_color_opaque": "#D8CAC8",
+        "url": "https://images1.vinted.net/t/02_01c71_e5WAdbfk9YoaTLc3v9Mor1i5/f800/1724687188.jpeg?s=ee9024de44a40d432aebb57a3f019d52c37d521b",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/02_01c71_e5WAdbfk9YoaTLc3v9Mor1i5/70x100/1724687188.jpeg?s=5606887393764175a1d658873e84e29d415bb061",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/02_01c71_e5WAdbfk9YoaTLc3v9Mor1i5/150x210/1724687188.jpeg?s=2b2f6a1ea6c187fe09232c72fc813725bb893dd5",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/02_01c71_e5WAdbfk9YoaTLc3v9Mor1i5/310x430/1724687188.jpeg?s=d8a5e7e9ed2169bf81fc5ac1efc48c158fefaf7a",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/02_01c71_e5WAdbfk9YoaTLc3v9Mor1i5/f800/1724687188.jpeg?s=ee9024de44a40d432aebb57a3f019d52c37d521b",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/02_01c71_e5WAdbfk9YoaTLc3v9Mor1i5/f800/1724687188.jpeg?s=ee9024de44a40d432aebb57a3f019d52c37d521b",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/02_01c71_e5WAdbfk9YoaTLc3v9Mor1i5/f800/1724687188.jpeg?s=ee9024de44a40d432aebb57a3f019d52c37d521b",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "02_01c71_e5WAdbfk9YoaTLc3v9Mor1i5",
+          "timestamp": 1724687188,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/02_01c71_e5WAdbfk9YoaTLc3v9Mor1i5/1724687188.jpeg?s=da69d3a98c7e9a8e6c4f5791761a2f6d997be81a",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 8,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "0.95",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "5.95",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Très bon état",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego 10369 - ONLY Box, marque: LEGO, état: Très bon état, taille: Taille unique, 5,00 €, 5,95 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 5.684358596801758,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5143596008,
+      "title": "Manuel lego botanical 10369",
+      "price": {
+        "amount": "3.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5143596008-manuel-lego-botanical-10369",
+      "user": {
+        "id": 18355275,
+        "login": "jojofrance38",
+        "profile_url": "https://www.vinted.fr/member/18355275-jojofrance38",
+        "photo": {
+          "id": 222019053,
+          "width": 800,
+          "height": 457,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_0192a_g9Ngpxa4BBCAqNpQ7iJ7MctD/f800/1733991574.jpeg?s=7219bbf527f50f4a3a6f3df08a2ee6b7268aeba5",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_0192a_g9Ngpxa4BBCAqNpQ7iJ7MctD/310x310/1733991574.jpeg?s=40d0c16e38616721d5c201381ea9d765d16a52ef",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_0192a_g9Ngpxa4BBCAqNpQ7iJ7MctD/150x150/1733991574.jpeg?s=46f5d87233d5cbbc329644f22905a513222908e9",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_0192a_g9Ngpxa4BBCAqNpQ7iJ7MctD/100x100/1733991574.jpeg?s=51b8c7ce7d4f966517adff520f2006eadf360e39",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_0192a_g9Ngpxa4BBCAqNpQ7iJ7MctD/50x50/1733991574.jpeg?s=26503306682c1e0858b9470a9aea27b9d34f2000",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_0192a_g9Ngpxa4BBCAqNpQ7iJ7MctD/20x20/1733991574.jpeg?s=221dd93129f29e576ade76b087f9612be503e43f",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_0192a_g9Ngpxa4BBCAqNpQ7iJ7MctD",
+            "timestamp": 1733991574,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_0192a_g9Ngpxa4BBCAqNpQ7iJ7MctD/1733991574.jpeg?s=ffbbaa035490d21e4381eada400ed1677ec0ffcd",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5143596008-manuel-lego-botanical-10369",
+      "promoted": false,
+      "photo": {
+        "id": 20824011843,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#8E6966",
+        "dominant_color_opaque": "#DDD2D1",
+        "url": "https://images1.vinted.net/t/02_0123f_w4DAWHBzifV2zKypo6sFqfTV/f800/1727815537.jpeg?s=5a1754f4ec2ad8be58aa1720fb80d1dc5630ca16",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/02_0123f_w4DAWHBzifV2zKypo6sFqfTV/70x100/1727815537.jpeg?s=898ba1f83e563a0e772b215337a37126f16e51b5",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/02_0123f_w4DAWHBzifV2zKypo6sFqfTV/150x210/1727815537.jpeg?s=7995003c96a8fe8e8997d326955b69789f264348",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/02_0123f_w4DAWHBzifV2zKypo6sFqfTV/310x430/1727815537.jpeg?s=d7f52a8bbcf1f9c4afe6fb1d2c9749474064c570",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/02_0123f_w4DAWHBzifV2zKypo6sFqfTV/f800/1727815537.jpeg?s=5a1754f4ec2ad8be58aa1720fb80d1dc5630ca16",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/02_0123f_w4DAWHBzifV2zKypo6sFqfTV/f800/1727815537.jpeg?s=5a1754f4ec2ad8be58aa1720fb80d1dc5630ca16",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/02_0123f_w4DAWHBzifV2zKypo6sFqfTV/f800/1727815537.jpeg?s=5a1754f4ec2ad8be58aa1720fb80d1dc5630ca16",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "02_0123f_w4DAWHBzifV2zKypo6sFqfTV",
+          "timestamp": 1727815537,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/02_0123f_w4DAWHBzifV2zKypo6sFqfTV/1727815537.jpeg?s=6bb31e9d51f65c4b1b3564a1e25e8d3326274bdc",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 5,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "0.85",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "3.85",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Prématuré, jusqu'à 44cm",
+      "content_source": "search",
+      "status": "Très bon état",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Prématuré, jusqu'à 44cm",
+        "accessibility_label": "Manuel lego botanical 10369, marque: LEGO, état: Très bon état, taille: Prématuré, jusqu'à 44cm, 3,00 €, 3,85 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 5.657855033874512,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5830549925,
+      "title": "Scatola VUOTA set Lego 10369",
+      "price": {
+        "amount": "6.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5830549925-scatola-vuota-set-lego-10369",
+      "user": {
+        "id": 185330269,
+        "login": "sonia995l",
+        "profile_url": "https://www.vinted.fr/member/185330269-sonia995l",
+        "photo": {
+          "id": 213579993,
+          "width": 600,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/03_02522_MYCWqrzKWtzrPU8Fnn3QBr8S/f800/1728919718.jpeg?s=c54bd9e9f8f85b5adfd5a00ec57c2b60fee76de9",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/03_02522_MYCWqrzKWtzrPU8Fnn3QBr8S/310x310/1728919718.jpeg?s=0175ec115c934b1580c4fe9a5eb467722fed73b3",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/03_02522_MYCWqrzKWtzrPU8Fnn3QBr8S/150x150/1728919718.jpeg?s=facf7a79b7ab9e73bb7bea2c0892bca9a56239b9",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/03_02522_MYCWqrzKWtzrPU8Fnn3QBr8S/100x100/1728919718.jpeg?s=9fa5aebbd135c509f27d9bbd856770478c0dcc3c",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/03_02522_MYCWqrzKWtzrPU8Fnn3QBr8S/50x50/1728919718.jpeg?s=b094218c2fcec9d1f976b9625b0c4e021566eb00",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/03_02522_MYCWqrzKWtzrPU8Fnn3QBr8S/20x20/1728919718.jpeg?s=6161c2863bcaebf5bf801f9e8b46c40cbced0f13",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "03_02522_MYCWqrzKWtzrPU8Fnn3QBr8S",
+            "timestamp": 1728919718,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/03_02522_MYCWqrzKWtzrPU8Fnn3QBr8S/1728919718.jpeg?s=365292c133732dd589b82bfa02d4c456cc079f8e",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5830549925-scatola-vuota-set-lego-10369",
+      "promoted": false,
+      "photo": {
+        "id": 23629565419,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#845B64",
+        "dominant_color_opaque": "#DACED1",
+        "url": "https://images1.vinted.net/t/03_00e6b_mngid6437cUPGakVNiaa5JgD/f800/1739787425.jpeg?s=dca89bfaa8f0a258914795038c719413f0474238",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/03_00e6b_mngid6437cUPGakVNiaa5JgD/70x100/1739787425.jpeg?s=d8b231ab6aceee72487b3b97819a99cc2d65a769",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/03_00e6b_mngid6437cUPGakVNiaa5JgD/150x210/1739787425.jpeg?s=fd933f3cb2363f856c2411c767b59204dddab134",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/03_00e6b_mngid6437cUPGakVNiaa5JgD/310x430/1739787425.jpeg?s=c2710a6f8e67d5d2f6ceb9ddae0f86626120f630",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/03_00e6b_mngid6437cUPGakVNiaa5JgD/f800/1739787425.jpeg?s=dca89bfaa8f0a258914795038c719413f0474238",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/03_00e6b_mngid6437cUPGakVNiaa5JgD/f800/1739787425.jpeg?s=dca89bfaa8f0a258914795038c719413f0474238",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/03_00e6b_mngid6437cUPGakVNiaa5JgD/f800/1739787425.jpeg?s=dca89bfaa8f0a258914795038c719413f0474238",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "03_00e6b_mngid6437cUPGakVNiaa5JgD",
+          "timestamp": 1739787425,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/03_00e6b_mngid6437cUPGakVNiaa5JgD/1739787425.jpeg?s=eeb0d4b258a808929d6b24ea54ee0286cd03fd4a",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 4,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "1.0",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "7.0",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Très bon état",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Scatola VUOTA set Lego 10369, marque: LEGO, état: Très bon état, taille: Taille unique, 6,00 €, 7,00 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 5.413694381713867,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 4871968646,
+      "title": "Boîte vide Lego Plum Blossom",
+      "price": {
+        "amount": "3.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/4871968646-boite-vide-lego-plum-blossom",
+      "user": {
+        "id": 14491,
+        "login": "mamadu59",
+        "profile_url": "https://www.vinted.fr/member/14491-mamadu59",
+        "photo": {
+          "id": 27084076,
+          "width": 450,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_00e6d_R9815bsPQ2sez1TtCBXHNZxp/f800/1605253311.jpeg?s=79575a4af3b5b986a2b634be465f81d7ef3eec15",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_00e6d_R9815bsPQ2sez1TtCBXHNZxp/310x310/1605253311.jpeg?s=f88c58e608eb1e819ac092f9bcb77133c4a8d1b1",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_00e6d_R9815bsPQ2sez1TtCBXHNZxp/150x150/1605253311.jpeg?s=9a5b840cc173bc1570cf9dbcd2a960a147a906eb",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_00e6d_R9815bsPQ2sez1TtCBXHNZxp/100x100/1605253311.jpeg?s=0e67bbf2bc7431d8ef5db182977bae2440925f2a",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_00e6d_R9815bsPQ2sez1TtCBXHNZxp/50x50/1605253311.jpeg?s=a9866312800985fbe9f3ff2614787c3abf18879f",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_00e6d_R9815bsPQ2sez1TtCBXHNZxp/20x20/1605253311.jpeg?s=475b0a53d03e82dabd2c278d5564fa9b6b8131fc",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_00e6d_R9815bsPQ2sez1TtCBXHNZxp",
+            "timestamp": 1605253311,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_00e6d_R9815bsPQ2sez1TtCBXHNZxp/1605253311.jpeg?s=4d98c867948cb31a4514780e128ff9061fe70ff3",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/4871968646-boite-vide-lego-plum-blossom",
+      "promoted": false,
+      "photo": {
+        "id": 19776953537,
+        "image_no": 1,
+        "width": 800,
+        "height": 600,
+        "dominant_color": "#585B68",
+        "dominant_color_opaque": "#CDCED2",
+        "url": "https://images1.vinted.net/t/02_01de3_V2j5LiEyZcnjwPE7WVC8jH6W/f800/1723312873.jpeg?s=e03db77f4947042ee8f3564e7177181dd2c1fc62",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/02_01de3_V2j5LiEyZcnjwPE7WVC8jH6W/70x100/1723312873.jpeg?s=c5cc20e9143ffa2c02bab18b6b9758cccd8ab0fd",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/02_01de3_V2j5LiEyZcnjwPE7WVC8jH6W/150x210/1723312873.jpeg?s=f31bb976a2afb9c15d2eeb9fcd21a61c9f14c688",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/02_01de3_V2j5LiEyZcnjwPE7WVC8jH6W/310x430/1723312873.jpeg?s=c3296b788e267f579cea6233e7ae17828555f710",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/02_01de3_V2j5LiEyZcnjwPE7WVC8jH6W/f800/1723312873.jpeg?s=e03db77f4947042ee8f3564e7177181dd2c1fc62",
+            "width": 428,
+            "height": 321,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/02_01de3_V2j5LiEyZcnjwPE7WVC8jH6W/f800/1723312873.jpeg?s=e03db77f4947042ee8f3564e7177181dd2c1fc62",
+            "width": 624,
+            "height": 468,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/02_01de3_V2j5LiEyZcnjwPE7WVC8jH6W/f800/1723312873.jpeg?s=e03db77f4947042ee8f3564e7177181dd2c1fc62",
+            "width": 364,
+            "height": 273,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "02_01de3_V2j5LiEyZcnjwPE7WVC8jH6W",
+          "timestamp": 1723312873,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/02_01de3_V2j5LiEyZcnjwPE7WVC8jH6W/1723312873.jpeg?s=97bbd257b83171e1f94ce2f20412b4569f779bf6",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 19,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "0.85",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "3.85",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf sans étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Boîte vide Lego Plum Blossom, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 3,00 €, 3,85 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 5.2427978515625,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5953250026,
+      "title": "Lego 10369 Plum Blossom",
+      "price": {
+        "amount": "23.95",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5953250026-lego-10369-plum-blossom",
+      "user": {
+        "id": 253264987,
+        "login": "gouda2806",
+        "profile_url": "https://www.vinted.fr/member/253264987-gouda2806",
+        "photo": {
+          "id": 228487945,
+          "width": 96,
+          "height": 96,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/04_00c74_ohwggEakaNnKikKNv67Tdxmn/f800/1738316745.jpeg?s=d516d6693c73cfce4733e22579c4c20581d73014",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/04_00c74_ohwggEakaNnKikKNv67Tdxmn/310x310/1738316745.jpeg?s=ca9336935fa2e473edb9e57d0d6a022b17a7f623",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/04_00c74_ohwggEakaNnKikKNv67Tdxmn/150x150/1738316745.jpeg?s=2acdc2b4cb8cfdc51020d2784a01013e15a5e935",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/04_00c74_ohwggEakaNnKikKNv67Tdxmn/100x100/1738316745.jpeg?s=5140ea93bd09b3553e1a1625d34b3bf8d9a2e2f1",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/04_00c74_ohwggEakaNnKikKNv67Tdxmn/50x50/1738316745.jpeg?s=d6812adc9893bbfca57652e0315799b26ea2379f",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/04_00c74_ohwggEakaNnKikKNv67Tdxmn/20x20/1738316745.jpeg?s=34a05b5fa72ac69ec676eb19cbeb7320faab968d",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "04_00c74_ohwggEakaNnKikKNv67Tdxmn",
+            "timestamp": 1738316745,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/04_00c74_ohwggEakaNnKikKNv67Tdxmn/1738316745.jpeg?s=8a9f16b7dc5ea95d1275b559c1eb85b1a120b779",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5953250026-lego-10369-plum-blossom",
+      "promoted": false,
+      "photo": {
+        "id": 24139763740,
+        "image_no": 1,
+        "width": 599,
+        "height": 800,
+        "dominant_color": "#6F4449",
+        "dominant_color_opaque": "#D4C7C8",
+        "url": "https://images1.vinted.net/t/03_00e3c_cuEm9HVrAM8wvzBR2Fr76Gvo/f800/1741725207.jpeg?s=298f3460c2d58d6365e081ad8fbe421eb06ba43e",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/03_00e3c_cuEm9HVrAM8wvzBR2Fr76Gvo/70x100/1741725207.jpeg?s=fc1b74c9db03047ac5d5e8c995e2091df9c50ecf",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/03_00e3c_cuEm9HVrAM8wvzBR2Fr76Gvo/150x210/1741725207.jpeg?s=81bc7821ebdc2e2fa1210c1dfae925a502e3279a",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/03_00e3c_cuEm9HVrAM8wvzBR2Fr76Gvo/310x430/1741725207.jpeg?s=b9529ac0aedb4fa60f04d1a1f9f2f919e1419b51",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/03_00e3c_cuEm9HVrAM8wvzBR2Fr76Gvo/f800/1741725207.jpeg?s=298f3460c2d58d6365e081ad8fbe421eb06ba43e",
+            "width": 320,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/03_00e3c_cuEm9HVrAM8wvzBR2Fr76Gvo/f800/1741725207.jpeg?s=298f3460c2d58d6365e081ad8fbe421eb06ba43e",
+            "width": 467,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/03_00e3c_cuEm9HVrAM8wvzBR2Fr76Gvo/f800/1741725207.jpeg?s=298f3460c2d58d6365e081ad8fbe421eb06ba43e",
+            "width": 272,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "03_00e3c_cuEm9HVrAM8wvzBR2Fr76Gvo",
+          "timestamp": 1741725207,
+          "orientation": 0
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/03_00e3c_cuEm9HVrAM8wvzBR2Fr76Gvo/1741725207.jpeg?s=4ae11d9d2f9cbcd563009ad94eaf3e4915a14d25",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 34,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "1.9",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "25.85",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Prématuré, jusqu'à 44cm",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Prématuré, jusqu'à 44cm",
+        "accessibility_label": "Lego 10369 Plum Blossom, marque: LEGO, état: Neuf avec étiquette, taille: Prématuré, jusqu'à 44cm, 23,95 €, 25,85 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 5.240267753601074,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5894930353,
+      "title": "Lego 10369",
+      "price": {
+        "amount": "23.5",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5894930353-lego-10369",
+      "user": {
+        "id": 141737173,
+        "login": "mdm8124",
+        "profile_url": "https://www.vinted.fr/member/141737173-mdm8124",
+        "photo": null,
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5894930353-lego-10369",
+      "promoted": false,
+      "photo": {
+        "id": 23896866815,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#602920",
+        "dominant_color_opaque": "#CFBFBC",
+        "url": "https://images1.vinted.net/t/03_01847_hcZHbuTACtB3jgkcJ19j6mtM/f800/1740828245.jpeg?s=a7c92bd4482bb5720a2ec4bc58164bcd5c556cf2",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/03_01847_hcZHbuTACtB3jgkcJ19j6mtM/70x100/1740828245.jpeg?s=9e536346da83820ade1e9fc81114475e293fb1b6",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/03_01847_hcZHbuTACtB3jgkcJ19j6mtM/150x210/1740828245.jpeg?s=937e4047eb72b03b96430341db1bc26eba072a5b",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/03_01847_hcZHbuTACtB3jgkcJ19j6mtM/310x430/1740828245.jpeg?s=3cb917fee9a3fcbc173bfbed85ffdd5125e24653",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/03_01847_hcZHbuTACtB3jgkcJ19j6mtM/f800/1740828245.jpeg?s=a7c92bd4482bb5720a2ec4bc58164bcd5c556cf2",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/03_01847_hcZHbuTACtB3jgkcJ19j6mtM/f800/1740828245.jpeg?s=a7c92bd4482bb5720a2ec4bc58164bcd5c556cf2",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/03_01847_hcZHbuTACtB3jgkcJ19j6mtM/f800/1740828245.jpeg?s=a7c92bd4482bb5720a2ec4bc58164bcd5c556cf2",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "03_01847_hcZHbuTACtB3jgkcJ19j6mtM",
+          "timestamp": 1740828245,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/03_01847_hcZHbuTACtB3jgkcJ19j6mtM/1740828245.jpeg?s=b658f57faf3c20cac60f08014f5958a5f83305de",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 22,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "1.88",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "25.38",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego 10369, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 23,50 €, 25,38 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 5.173423767089844,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5665534181,
+      "title": "Scatola Lego Albicocco Giapponese 10369",
+      "price": {
+        "amount": "3.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5665534181-scatola-lego-albicocco-giapponese-10369",
+      "user": {
+        "id": 57332374,
+        "login": "maxb998",
+        "profile_url": "https://www.vinted.fr/member/57332374-maxb998",
+        "photo": {
+          "id": 55097096,
+          "width": 640,
+          "height": 640,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/01_010a9_SjakLJiSToN7z9uTW1NhkTm9/f800/1618067333.jpeg?s=9f4fe81040f2d56396370ff2faa660de0aa8251d",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/01_010a9_SjakLJiSToN7z9uTW1NhkTm9/310x310/1618067333.jpeg?s=64c3f1e24460d2b46b3c09820ab5a27e4bfcd89c",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/01_010a9_SjakLJiSToN7z9uTW1NhkTm9/150x150/1618067333.jpeg?s=a0f7a87757d648f91693868389a799a60997f401",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/01_010a9_SjakLJiSToN7z9uTW1NhkTm9/100x100/1618067333.jpeg?s=86e97842a0df8624f46f322d016f7384dc4199f3",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/01_010a9_SjakLJiSToN7z9uTW1NhkTm9/50x50/1618067333.jpeg?s=6821944b5d6b43283ea96fde87cfc3fdc3191dc9",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/01_010a9_SjakLJiSToN7z9uTW1NhkTm9/20x20/1618067333.jpeg?s=d4a78a14e9c225d576a8551b52b0a50a84ee8736",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "01_010a9_SjakLJiSToN7z9uTW1NhkTm9",
+            "timestamp": 1618067333,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/01_010a9_SjakLJiSToN7z9uTW1NhkTm9/1618067333.jpeg?s=38b7afc30c3725ce42a86cafb8b01e667a9f3d31",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5665534181-scatola-lego-albicocco-giapponese-10369",
+      "promoted": false,
+      "photo": {
+        "id": 22947322033,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#664C47",
+        "dominant_color_opaque": "#D1C9C8",
+        "url": "https://images1.vinted.net/t/01_01834_Y25zCKSP8jTm5r1u2Jqs93dz/f800/1737112433.jpeg?s=3c63fe36bbc8ccc34397e2d7974c0a7e14bfcabc",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/01_01834_Y25zCKSP8jTm5r1u2Jqs93dz/70x100/1737112433.jpeg?s=234c1ace0fc681e49b42f0c1159c6d2d4ee6799a",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/01_01834_Y25zCKSP8jTm5r1u2Jqs93dz/150x210/1737112433.jpeg?s=6d9fbec27ce8698659bb4d5ab5f2c04873d40da4",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/01_01834_Y25zCKSP8jTm5r1u2Jqs93dz/310x430/1737112433.jpeg?s=8538cd45218eef2ee9642d8370628bc79292ebe9",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/01_01834_Y25zCKSP8jTm5r1u2Jqs93dz/f800/1737112433.jpeg?s=3c63fe36bbc8ccc34397e2d7974c0a7e14bfcabc",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/01_01834_Y25zCKSP8jTm5r1u2Jqs93dz/f800/1737112433.jpeg?s=3c63fe36bbc8ccc34397e2d7974c0a7e14bfcabc",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/01_01834_Y25zCKSP8jTm5r1u2Jqs93dz/f800/1737112433.jpeg?s=3c63fe36bbc8ccc34397e2d7974c0a7e14bfcabc",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "01_01834_Y25zCKSP8jTm5r1u2Jqs93dz",
+          "timestamp": 1737112433,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/01_01834_Y25zCKSP8jTm5r1u2Jqs93dz/1737112433.jpeg?s=b2bcc066d49a57576a248387a74dc07d300f2aea",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 1,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "0.85",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "3.85",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Très bon état",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Scatola Lego Albicocco Giapponese 10369, marque: LEGO, état: Très bon état, taille: Taille unique, 3,00 €, 3,85 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 5.019889354705811,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5711614292,
+      "title": "Lego Solo scatole  “plum blossom e chrysanthemum” fiori flowers codice 10369 e 10368",
+      "price": {
+        "amount": "4.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5711614292-lego-solo-scatole-plum-blossom-e-chrysanthemum-fiori-flowers-codice-10369-e-10368",
+      "user": {
+        "id": 55560234,
+        "login": "carm314",
+        "profile_url": "https://www.vinted.fr/member/55560234-carm314",
+        "photo": {
+          "id": 52067311,
+          "width": 512,
+          "height": 512,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_01047_jtQHBgA3RG2bqbS4Tnv48jdB/f800/1615824728.jpeg?s=b14bb6bc90a7300212f99a3bca9fb8f6b15b5323",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_01047_jtQHBgA3RG2bqbS4Tnv48jdB/310x310/1615824728.jpeg?s=6f9cf655607cd1fabafb4b6b5b3933e3a0e5ba29",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_01047_jtQHBgA3RG2bqbS4Tnv48jdB/150x150/1615824728.jpeg?s=04e6b6d1530f1022dd99fb5e12c9f9123ca032d2",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_01047_jtQHBgA3RG2bqbS4Tnv48jdB/100x100/1615824728.jpeg?s=3ab025c1fd0255ee38b8c2c5096a0317e3efb446",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_01047_jtQHBgA3RG2bqbS4Tnv48jdB/50x50/1615824728.jpeg?s=9c742e3232e6c781895cd75ed736c9cf132caf1c",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_01047_jtQHBgA3RG2bqbS4Tnv48jdB/20x20/1615824728.jpeg?s=53c5aac9b342d4ddbd9baa74e44f6f833c32169e",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_01047_jtQHBgA3RG2bqbS4Tnv48jdB",
+            "timestamp": 1615824728,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_01047_jtQHBgA3RG2bqbS4Tnv48jdB/1615824728.jpeg?s=976f325535e82748b0b2f297f03edcb36682f5e2",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5711614292-lego-solo-scatole-plum-blossom-e-chrysanthemum-fiori-flowers-codice-10369-e-10368",
+      "promoted": false,
+      "photo": {
+        "id": 23136549163,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#736961",
+        "dominant_color_opaque": "#D5D2D0",
+        "url": "https://images1.vinted.net/t/04_0191d_Mq8tkL1hDj6BUbWynw1vodvM/f800/1737846515.jpeg?s=b1eb205173f31a7f7a8ea551acbe4809bebf622c",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_0191d_Mq8tkL1hDj6BUbWynw1vodvM/70x100/1737846515.jpeg?s=622da772f9ebab3a09163c1e9d80eff7530f238d",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_0191d_Mq8tkL1hDj6BUbWynw1vodvM/150x210/1737846515.jpeg?s=966fcb0e9ccc66bfcb7814dab0f18d2623c9f993",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_0191d_Mq8tkL1hDj6BUbWynw1vodvM/310x430/1737846515.jpeg?s=9a765852e57b29620b67337a0079d29b62442291",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_0191d_Mq8tkL1hDj6BUbWynw1vodvM/f800/1737846515.jpeg?s=b1eb205173f31a7f7a8ea551acbe4809bebf622c",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_0191d_Mq8tkL1hDj6BUbWynw1vodvM/f800/1737846515.jpeg?s=b1eb205173f31a7f7a8ea551acbe4809bebf622c",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_0191d_Mq8tkL1hDj6BUbWynw1vodvM/f800/1737846515.jpeg?s=b1eb205173f31a7f7a8ea551acbe4809bebf622c",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_0191d_Mq8tkL1hDj6BUbWynw1vodvM",
+          "timestamp": 1737846515,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_0191d_Mq8tkL1hDj6BUbWynw1vodvM/1737846515.jpeg?s=3d022ff76ed0567e21aa60d0a5c7a301df1d4a91",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 22,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "0.9",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "4.9",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "16 ans / 176 cm",
+      "content_source": "search",
+      "status": "Neuf sans étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "16 ans / 176 cm",
+        "accessibility_label": "Lego Solo scatole  “plum blossom e chrysanthemum” fiori flowers codice 10369 e 10368, marque: LEGO, état: Neuf sans étiquette, taille: 16 ans / 176 cm, 4,00 €, 4,90 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 5.013859748840332,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5979556824,
+      "title": "LEGO 10369 Plum Blossom 🌺 Botanical Collection",
+      "price": {
+        "amount": "23.9",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5979556824-lego-10369-plum-blossom-botanical-collection",
+      "user": {
+        "id": 160501236,
+        "login": "makinaspt",
+        "profile_url": "https://www.vinted.fr/member/160501236-makinaspt",
+        "photo": {
+          "id": 156281094,
+          "width": 96,
+          "height": 96,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/03_01e14_AThLRbr2CXQVKkbdEvamusN7/f800/1694211461.jpeg?s=2ee1c40a5908cf4ee484bfae325b48eb9fb3f966",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/03_01e14_AThLRbr2CXQVKkbdEvamusN7/310x310/1694211461.jpeg?s=4ccfc16d8272609fb3cc3c8b15b1b81eac74407e",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/03_01e14_AThLRbr2CXQVKkbdEvamusN7/150x150/1694211461.jpeg?s=c359af341c9fd28fa596907a010c0e652260091d",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/03_01e14_AThLRbr2CXQVKkbdEvamusN7/100x100/1694211461.jpeg?s=2cd3b236ed9a3717a45d60103cde842f4c860567",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/03_01e14_AThLRbr2CXQVKkbdEvamusN7/50x50/1694211461.jpeg?s=e970f32473a34adc28978b78a379091eb9629e8c",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/03_01e14_AThLRbr2CXQVKkbdEvamusN7/20x20/1694211461.jpeg?s=ca66ad0c962a13458f5a7b2f8ea8c0950f108501",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "03_01e14_AThLRbr2CXQVKkbdEvamusN7",
+            "timestamp": 1694211461,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/03_01e14_AThLRbr2CXQVKkbdEvamusN7/1694211461.jpeg?s=14993bc17393a98245488bb2dcaf65cf79ffb78a",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5979556824-lego-10369-plum-blossom-botanical-collection",
+      "promoted": false,
+      "photo": {
+        "id": 24249288441,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#755960",
+        "dominant_color_opaque": "#D6CDCF",
+        "url": "https://images1.vinted.net/t/04_01afb_FPQgFTcxdpS6drUxdgwCW9bF/f800/1742134563.jpeg?s=f46843669c515337c2cc30f6709b50da41a8da11",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_01afb_FPQgFTcxdpS6drUxdgwCW9bF/70x100/1742134563.jpeg?s=1007edb067ceb19eab33aad541791fd466a964d3",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_01afb_FPQgFTcxdpS6drUxdgwCW9bF/150x210/1742134563.jpeg?s=fd4d04d22bf5e9a34c27e5ed3ba57ee534d6a3fa",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_01afb_FPQgFTcxdpS6drUxdgwCW9bF/310x430/1742134563.jpeg?s=beab62c206e5d412730d0e0f02ea4a880173e9e0",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_01afb_FPQgFTcxdpS6drUxdgwCW9bF/f800/1742134563.jpeg?s=f46843669c515337c2cc30f6709b50da41a8da11",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_01afb_FPQgFTcxdpS6drUxdgwCW9bF/f800/1742134563.jpeg?s=f46843669c515337c2cc30f6709b50da41a8da11",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_01afb_FPQgFTcxdpS6drUxdgwCW9bF/f800/1742134563.jpeg?s=f46843669c515337c2cc30f6709b50da41a8da11",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_01afb_FPQgFTcxdpS6drUxdgwCW9bF",
+          "timestamp": 1742134563,
+          "orientation": 0
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_01afb_FPQgFTcxdpS6drUxdgwCW9bF/1742134563.jpeg?s=c17c3d5d8a5ded9144d1b5299495713eb544e506",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 37,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "1.9",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "25.8",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Très bon état",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "LEGO 10369 Plum Blossom 🌺 Botanical Collection, marque: LEGO, état: Très bon état, taille: Taille unique, 23,90 €, 25,80 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 4.894923686981201,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5857133041,
+      "title": "Lego albicocco",
+      "price": {
+        "amount": "30.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5857133041-lego-albicocco",
+      "user": {
+        "id": 51158463,
+        "login": "giulia_closet",
+        "profile_url": "https://www.vinted.fr/member/51158463-giuliacloset",
+        "photo": {
+          "id": 164613910,
+          "width": 800,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/03_01288_9xKuBnANLwJ9qeC7KhqprWSj/f800/1698622852.jpeg?s=86d6daf3248694f097982271e39231e43352e37c",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/03_01288_9xKuBnANLwJ9qeC7KhqprWSj/310x310/1698622852.jpeg?s=afb734e7030aee9e559e2ce1a5cbf6a8568d13c2",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/03_01288_9xKuBnANLwJ9qeC7KhqprWSj/150x150/1698622852.jpeg?s=bcf6db9df98c289ccf08aaae0249987de6eac53c",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/03_01288_9xKuBnANLwJ9qeC7KhqprWSj/100x100/1698622852.jpeg?s=7383707ef38256818da339b3a360dfa760b56ec1",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/03_01288_9xKuBnANLwJ9qeC7KhqprWSj/50x50/1698622852.jpeg?s=8f4e5b9f678ac05187e777980d83a84412ba22f5",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/03_01288_9xKuBnANLwJ9qeC7KhqprWSj/20x20/1698622852.jpeg?s=fb72592fa5dc56a05e6fe721a6b1cd6beb3a1c30",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "03_01288_9xKuBnANLwJ9qeC7KhqprWSj",
+            "timestamp": 1698622852,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/03_01288_9xKuBnANLwJ9qeC7KhqprWSj/1698622852.jpeg?s=a00094dc7520228abedc62455d554b1916b11a28",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5857133041-lego-albicocco",
+      "promoted": false,
+      "photo": {
+        "id": 23739689481,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#623C38",
+        "dominant_color_opaque": "#D0C5C3",
+        "url": "https://images1.vinted.net/t/04_0162d_bFBEUQKjBG83Mi5oe87PgubP/f800/1740223116.jpeg?s=385186850259fbd5da93d16d0026577fac1d9efa",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_0162d_bFBEUQKjBG83Mi5oe87PgubP/70x100/1740223116.jpeg?s=e298e7a251add7bba90b1f763bc1749920d236ac",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_0162d_bFBEUQKjBG83Mi5oe87PgubP/150x210/1740223116.jpeg?s=f287abd9e25e055130d13354f3cb55d9b8b7b97a",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_0162d_bFBEUQKjBG83Mi5oe87PgubP/310x430/1740223116.jpeg?s=ca4855471334ca3ecc2f9e7438b2b1329eb9f271",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_0162d_bFBEUQKjBG83Mi5oe87PgubP/f800/1740223116.jpeg?s=385186850259fbd5da93d16d0026577fac1d9efa",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_0162d_bFBEUQKjBG83Mi5oe87PgubP/f800/1740223116.jpeg?s=385186850259fbd5da93d16d0026577fac1d9efa",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_0162d_bFBEUQKjBG83Mi5oe87PgubP/f800/1740223116.jpeg?s=385186850259fbd5da93d16d0026577fac1d9efa",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_0162d_bFBEUQKjBG83Mi5oe87PgubP",
+          "timestamp": 1740223116,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_0162d_bFBEUQKjBG83Mi5oe87PgubP/1740223116.jpeg?s=d67ebd62869521daeb18b24da66e0ab29bf1df95",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 125,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "2.2",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "32.2",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "16 ans / 176 cm",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "16 ans / 176 cm",
+        "accessibility_label": "Lego albicocco, marque: LEGO, état: Neuf avec étiquette, taille: 16 ans / 176 cm, 30,00 €, 32,20 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 4.648238182067871,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5934650075,
+      "title": "Lego 10369",
+      "price": {
+        "amount": "25.49",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5934650075-lego-10369",
+      "user": {
+        "id": 224889800,
+        "login": "ravivaient",
+        "profile_url": "https://www.vinted.fr/member/224889800-ravivaient",
+        "photo": {
+          "id": 231154076,
+          "width": 800,
+          "height": 600,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/01_0213a_GxtZLb6ZfdRzdQEwzdP8HkBo/f800/1739952718.jpeg?s=20c9222e18302492ea5ba10f799a0b455df1ce3a",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/01_0213a_GxtZLb6ZfdRzdQEwzdP8HkBo/310x310/1739952718.jpeg?s=d2389f291d1ff8db514b0bf7c21bf932b8f55978",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/01_0213a_GxtZLb6ZfdRzdQEwzdP8HkBo/150x150/1739952718.jpeg?s=445510c89bedb0e67663b6827172091c5637e1f5",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/01_0213a_GxtZLb6ZfdRzdQEwzdP8HkBo/100x100/1739952718.jpeg?s=f037cb23b489b080333921807d0820db0de8946b",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/01_0213a_GxtZLb6ZfdRzdQEwzdP8HkBo/50x50/1739952718.jpeg?s=21e868ad02f78ccc23c4fe57d09fb0508c61922a",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/01_0213a_GxtZLb6ZfdRzdQEwzdP8HkBo/20x20/1739952718.jpeg?s=e93537326533d91e306f1646198cf310f5be97ad",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "01_0213a_GxtZLb6ZfdRzdQEwzdP8HkBo",
+            "timestamp": 1739952718,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/01_0213a_GxtZLb6ZfdRzdQEwzdP8HkBo/1739952718.jpeg?s=b14310ed212078adf5b4deed785c3c24e05e08eb",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5934650075-lego-10369",
+      "promoted": false,
+      "photo": {
+        "id": 24062899430,
+        "image_no": 1,
+        "width": 800,
+        "height": 600,
+        "dominant_color": "#82484B",
+        "dominant_color_opaque": "#DAC8C9",
+        "url": "https://images1.vinted.net/t/01_00905_Fq8fPmiGDFggoDofZ7YkZAUg/f800/r3/1741456490.jpeg?s=978ce5a3d6b893cd46d61c80899ae2d68071dd81",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/01_00905_Fq8fPmiGDFggoDofZ7YkZAUg/70x100/r3/1741456490.jpeg?s=89db2594f6e0e3c4dbb7c002402a2af00e086ba4",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/01_00905_Fq8fPmiGDFggoDofZ7YkZAUg/150x210/r3/1741456490.jpeg?s=70d01bc5597b7097ed396f9f852e0900681deaea",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/01_00905_Fq8fPmiGDFggoDofZ7YkZAUg/310x430/r3/1741456490.jpeg?s=558f925d1bfb8517c3828d1d6c14c503ec3953e4",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/01_00905_Fq8fPmiGDFggoDofZ7YkZAUg/f800/r3/1741456490.jpeg?s=978ce5a3d6b893cd46d61c80899ae2d68071dd81",
+            "width": 428,
+            "height": 321,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/01_00905_Fq8fPmiGDFggoDofZ7YkZAUg/f800/r3/1741456490.jpeg?s=978ce5a3d6b893cd46d61c80899ae2d68071dd81",
+            "width": 624,
+            "height": 468,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/01_00905_Fq8fPmiGDFggoDofZ7YkZAUg/f800/r3/1741456490.jpeg?s=978ce5a3d6b893cd46d61c80899ae2d68071dd81",
+            "width": 364,
+            "height": 273,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "01_00905_Fq8fPmiGDFggoDofZ7YkZAUg",
+          "timestamp": 1741456490,
+          "orientation": 3
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/01_00905_Fq8fPmiGDFggoDofZ7YkZAUg/r3/1741456490.jpeg?s=d0148d395d71aeade5a9062f441258a48d599e9b",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 5,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "1.97",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "27.46",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf sans étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego 10369, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 25,49 €, 27,46 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 4.003688812255859,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5887308797,
+      "title": "LEGO Botanique lot 4 sets",
+      "price": {
+        "amount": "100.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5887308797-lego-botanique-lot-4-sets",
+      "user": {
+        "id": 33389323,
+        "login": "manganokamisama",
+        "profile_url": "https://www.vinted.fr/member/33389323-manganokamisama",
+        "photo": {
+          "id": 26442568,
+          "width": 225,
+          "height": 225,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_008c9_9XLR4Pm3kWinoDfRu2xHupKe/f800/1605256839.jpeg?s=7a79c6ff62af3a1f345f6b928cc3674e4fecd833",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_008c9_9XLR4Pm3kWinoDfRu2xHupKe/310x310/1605256839.jpeg?s=062e48e3dcfc687505a47f6006104afa5dd1a66b",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_008c9_9XLR4Pm3kWinoDfRu2xHupKe/150x150/1605256839.jpeg?s=75e0336a18ce9117e9ac67fcee97eb65c2e16acb",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_008c9_9XLR4Pm3kWinoDfRu2xHupKe/100x100/1605256839.jpeg?s=07d2d9502ae02153200a8d4749fa5ebbd9ba368c",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_008c9_9XLR4Pm3kWinoDfRu2xHupKe/50x50/1605256839.jpeg?s=f592d1a15ff31007f855e70f3b0385bdd42b8056",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_008c9_9XLR4Pm3kWinoDfRu2xHupKe/20x20/1605256839.jpeg?s=6171387cb0a16c015fc19218458081ef7452e069",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_008c9_9XLR4Pm3kWinoDfRu2xHupKe",
+            "timestamp": 1605256839,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_008c9_9XLR4Pm3kWinoDfRu2xHupKe/1605256839.jpeg?s=7cc696d97679ba4ed9cba8d71acf2a462b31858e",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5887308797-lego-botanique-lot-4-sets",
+      "promoted": false,
+      "photo": {
+        "id": 23864619008,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#61514D",
+        "dominant_color_opaque": "#D0CBCA",
+        "url": "https://images1.vinted.net/t/02_00aa4_wuu1qHEQTTEii5z6amY2Bcaq/f800/1740674687.jpeg?s=284a5829618e8c1e5d27997ce627afea747be453",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/02_00aa4_wuu1qHEQTTEii5z6amY2Bcaq/70x100/1740674687.jpeg?s=c05e56880192ac86499c19724114f2541ac2b8c0",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/02_00aa4_wuu1qHEQTTEii5z6amY2Bcaq/150x210/1740674687.jpeg?s=d2ddafc035d4685bcac00c4203264e0cac49b024",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/02_00aa4_wuu1qHEQTTEii5z6amY2Bcaq/310x430/1740674687.jpeg?s=d02e28087ee3c7a014f91e81c4ddcef430d37aca",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/02_00aa4_wuu1qHEQTTEii5z6amY2Bcaq/f800/1740674687.jpeg?s=284a5829618e8c1e5d27997ce627afea747be453",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/02_00aa4_wuu1qHEQTTEii5z6amY2Bcaq/f800/1740674687.jpeg?s=284a5829618e8c1e5d27997ce627afea747be453",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/02_00aa4_wuu1qHEQTTEii5z6amY2Bcaq/f800/1740674687.jpeg?s=284a5829618e8c1e5d27997ce627afea747be453",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "02_00aa4_wuu1qHEQTTEii5z6amY2Bcaq",
+          "timestamp": 1740674687,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/02_00aa4_wuu1qHEQTTEii5z6amY2Bcaq/1740674687.jpeg?s=3eaf640e71e4c96d0f6415fef85d2c5eb3e1880f",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 68,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "5.7",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "105.7",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "XXL",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "XXL",
+        "accessibility_label": "LEGO Botanique lot 4 sets, marque: LEGO, état: Neuf avec étiquette, taille: XXL, 100,00 €, 105,70 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 3.438317775726318,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5963578873,
+      "title": "2 new Lego sets",
+      "price": {
+        "amount": "40.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5963578873-2-new-lego-sets",
+      "user": {
+        "id": 30193197,
+        "login": "ludmilla4404",
+        "profile_url": "https://www.vinted.fr/member/30193197-ludmilla4404",
+        "photo": {
+          "id": 58358927,
+          "width": 389,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/03_00d3b_YCfW34C8TSCJAHaww3vks5DJ/f800/1620728186.jpeg?s=6d6052281b2b6b4a9bbb2371001f72ae50cbc626",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/03_00d3b_YCfW34C8TSCJAHaww3vks5DJ/310x310/1620728186.jpeg?s=a79600a5ecacd4b2563dfbca8ee20179d30ec485",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/03_00d3b_YCfW34C8TSCJAHaww3vks5DJ/150x150/1620728186.jpeg?s=9209ce2b19215e080b31dde8cf48e4b107149795",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/03_00d3b_YCfW34C8TSCJAHaww3vks5DJ/100x100/1620728186.jpeg?s=a6b1478b01a36a8c2388529261d7a18c54d26f54",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/03_00d3b_YCfW34C8TSCJAHaww3vks5DJ/50x50/1620728186.jpeg?s=ca49d0eee5f00ad1abb5fc602fcddc34f10eb14a",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/03_00d3b_YCfW34C8TSCJAHaww3vks5DJ/20x20/1620728186.jpeg?s=525b8e910c9554f7b8813a78cf11c05bfb29a1df",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "03_00d3b_YCfW34C8TSCJAHaww3vks5DJ",
+            "timestamp": 1620728186,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/03_00d3b_YCfW34C8TSCJAHaww3vks5DJ/1620728186.jpeg?s=f59d48e46f9008d7b7b77eea0f7498f459dbccfa",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5963578873-2-new-lego-sets",
+      "promoted": false,
+      "photo": {
+        "id": 24182575620,
+        "image_no": 1,
+        "width": 800,
+        "height": 360,
+        "dominant_color": "#6C6158",
+        "dominant_color_opaque": "#D3D0CD",
+        "url": "https://images1.vinted.net/t/03_02500_gnBAmzkdPSRjAVAtVbkPGJBR/f800/1741892584.jpeg?s=853c6057edcdcb41a30a3234f7c3406bc3f5b01d",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/03_02500_gnBAmzkdPSRjAVAtVbkPGJBR/70x100/1741892584.jpeg?s=bf0f574fa5080dd12655fb58756871d03f3307c4",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/03_02500_gnBAmzkdPSRjAVAtVbkPGJBR/150x210/1741892584.jpeg?s=384e67ba52f67650d928c2c72ffd2460cc69ec10",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/03_02500_gnBAmzkdPSRjAVAtVbkPGJBR/310x430/1741892584.jpeg?s=2bb77f05022390ef01d07b79d0dbf3404accea7b",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/03_02500_gnBAmzkdPSRjAVAtVbkPGJBR/f800/1741892584.jpeg?s=853c6057edcdcb41a30a3234f7c3406bc3f5b01d",
+            "width": 428,
+            "height": 192,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/03_02500_gnBAmzkdPSRjAVAtVbkPGJBR/f800/1741892584.jpeg?s=853c6057edcdcb41a30a3234f7c3406bc3f5b01d",
+            "width": 624,
+            "height": 281,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/03_02500_gnBAmzkdPSRjAVAtVbkPGJBR/f800/1741892584.jpeg?s=853c6057edcdcb41a30a3234f7c3406bc3f5b01d",
+            "width": 364,
+            "height": 164,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "03_02500_gnBAmzkdPSRjAVAtVbkPGJBR",
+          "timestamp": 1741892584,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/03_02500_gnBAmzkdPSRjAVAtVbkPGJBR/1741892584.jpeg?s=17ebefbb5bb7fc973b7dd2c487833a79800fae66",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 11,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "2.7",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "42.7",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "16 ans / 176 cm",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "16 ans / 176 cm",
+        "accessibility_label": "2 new Lego sets, marque: LEGO, état: Neuf avec étiquette, taille: 16 ans / 176 cm, 40,00 €, 42,70 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 3.343108654022217,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5785616036,
+      "title": "Lego Duplo Zoo Lkw groß Baby Löwe Tierarzt",
+      "price": {
+        "amount": "10.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5785616036-lego-duplo-zoo-lkw-gross-baby-lowe-tierarzt",
+      "user": {
+        "id": 43922631,
+        "login": "jana.kaz",
+        "profile_url": "https://www.vinted.fr/member/43922631-janakaz",
+        "photo": {
+          "id": 38967524,
+          "width": 800,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_00787_hP5tdtjrN8rviD77gheGwubT/f800/1605170473.jpeg?s=32f04dd64a3af783e89ac5b1424a8d53f09af3db",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_00787_hP5tdtjrN8rviD77gheGwubT/310x310/1605170473.jpeg?s=d5e5f0ad3ebe3768f3d0585a7e41edddfc2b1648",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_00787_hP5tdtjrN8rviD77gheGwubT/150x150/1605170473.jpeg?s=031741104ad405bdf7898ab27f151c9961645cbe",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_00787_hP5tdtjrN8rviD77gheGwubT/100x100/1605170473.jpeg?s=3cfa4bed51eab56b229f9f9b5fd83f42f6267374",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_00787_hP5tdtjrN8rviD77gheGwubT/50x50/1605170473.jpeg?s=8a81722e565bd1f6ca5b42519fffc02241a1031b",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_00787_hP5tdtjrN8rviD77gheGwubT/20x20/1605170473.jpeg?s=32f52ecfc0c04a461435e9704a073506b6f89d5e",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_00787_hP5tdtjrN8rviD77gheGwubT",
+            "timestamp": 1605170473,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_00787_hP5tdtjrN8rviD77gheGwubT/1605170473.jpeg?s=d81e4b5c8331109c26d38748ff82d9abf5ef3feb",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5785616036-lego-duplo-zoo-lkw-gross-baby-lowe-tierarzt",
+      "promoted": false,
+      "photo": {
+        "id": 23443466422,
+        "image_no": 1,
+        "width": 800,
+        "height": 600,
+        "dominant_color": "#4F654E",
+        "dominant_color_opaque": "#CAD1CA",
+        "url": "https://images1.vinted.net/t/04_00ad7_VjNKMXPmPvT2FbjJz15bDie4/f800/1739048550.jpeg?s=6b056173198092b8a424629e659e4fd1e0ad5e18",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_00ad7_VjNKMXPmPvT2FbjJz15bDie4/70x100/1739048550.jpeg?s=a78149e06897344a99dab9da5e6d97463574bd7b",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_00ad7_VjNKMXPmPvT2FbjJz15bDie4/150x210/1739048550.jpeg?s=a1b0125325ce14029496fd87557c14f1baa725de",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_00ad7_VjNKMXPmPvT2FbjJz15bDie4/310x430/1739048550.jpeg?s=e1b64c98bb0f710429788eb40e61a0a69d0a04c8",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_00ad7_VjNKMXPmPvT2FbjJz15bDie4/f800/1739048550.jpeg?s=6b056173198092b8a424629e659e4fd1e0ad5e18",
+            "width": 428,
+            "height": 321,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_00ad7_VjNKMXPmPvT2FbjJz15bDie4/f800/1739048550.jpeg?s=6b056173198092b8a424629e659e4fd1e0ad5e18",
+            "width": 624,
+            "height": 468,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_00ad7_VjNKMXPmPvT2FbjJz15bDie4/f800/1739048550.jpeg?s=6b056173198092b8a424629e659e4fd1e0ad5e18",
+            "width": 364,
+            "height": 273,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_00ad7_VjNKMXPmPvT2FbjJz15bDie4",
+          "timestamp": 1739048550,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_00ad7_VjNKMXPmPvT2FbjJz15bDie4/1739048550.jpeg?s=2fa66fc38be670070eb14901d8ff59b5970034f4",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 7,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "1.2",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "11.2",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "18-24 mois / 86 cm",
+      "content_source": "search",
+      "status": "Très bon état",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "18-24 mois / 86 cm",
+        "accessibility_label": "Lego Duplo Zoo Lkw groß Baby Löwe Tierarzt, marque: LEGO, état: Très bon état, taille: 18-24 mois / 86 cm, 10,00 €, 11,20 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 3.267688512802124,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5906575610,
+      "title": "Lego 10369 Plum Blossom",
+      "price": {
+        "amount": "40.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5906575610-lego-10369-plum-blossom",
+      "user": {
+        "id": 215577666,
+        "login": "chrstphhcs",
+        "profile_url": "https://www.vinted.fr/member/215577666-chrstphhcs",
+        "photo": {
+          "id": 201486167,
+          "width": 600,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/03_019a5_CnPGZyY1UCyWweKRGP5LTfJx/f800/1721928259.jpeg?s=3f5c6d71572b959ca036d4bcf868af3b775df3cb",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/03_019a5_CnPGZyY1UCyWweKRGP5LTfJx/310x310/1721928259.jpeg?s=706f5d7dd6cbf3c1c2782f931199b50764e51fe4",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/03_019a5_CnPGZyY1UCyWweKRGP5LTfJx/150x150/1721928259.jpeg?s=52bb558bcb191dddabd3dd8f01bb969aed701cef",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/03_019a5_CnPGZyY1UCyWweKRGP5LTfJx/100x100/1721928259.jpeg?s=316cc8177c8f75685dad0937fa14c264bae9fe88",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/03_019a5_CnPGZyY1UCyWweKRGP5LTfJx/50x50/1721928259.jpeg?s=915fdf37ec49839eedaeaaf679dc3ce353d4c6ba",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/03_019a5_CnPGZyY1UCyWweKRGP5LTfJx/20x20/1721928259.jpeg?s=4123a572c59d88e83c92e78312bcdc6b44a703e5",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "03_019a5_CnPGZyY1UCyWweKRGP5LTfJx",
+            "timestamp": 1721928259,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/03_019a5_CnPGZyY1UCyWweKRGP5LTfJx/1721928259.jpeg?s=854d19d46e2e39cb020b195371f1af5e986a7f8c",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5906575610-lego-10369-plum-blossom",
+      "promoted": false,
+      "photo": {
+        "id": 23945407914,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#643347",
+        "dominant_color_opaque": "#D1C2C8",
+        "url": "https://images1.vinted.net/t/01_012b3_LABxGo8FWgY3QFbrnVF3ETma/f800/1740996525.jpeg?s=01c027bf326f5b2f631c7675d996a831c10aeda8",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/01_012b3_LABxGo8FWgY3QFbrnVF3ETma/70x100/1740996525.jpeg?s=8a838029e32f2e4b288e4191ddd29779b2b34022",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/01_012b3_LABxGo8FWgY3QFbrnVF3ETma/150x210/1740996525.jpeg?s=c07ee601a2b953ad59b7c7f6878d5e47e8c63c26",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/01_012b3_LABxGo8FWgY3QFbrnVF3ETma/310x430/1740996525.jpeg?s=d7e0b8073d1f7d3b7c2d59cef4d83f71d70a266a",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/01_012b3_LABxGo8FWgY3QFbrnVF3ETma/f800/1740996525.jpeg?s=01c027bf326f5b2f631c7675d996a831c10aeda8",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/01_012b3_LABxGo8FWgY3QFbrnVF3ETma/f800/1740996525.jpeg?s=01c027bf326f5b2f631c7675d996a831c10aeda8",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/01_012b3_LABxGo8FWgY3QFbrnVF3ETma/f800/1740996525.jpeg?s=01c027bf326f5b2f631c7675d996a831c10aeda8",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "01_012b3_LABxGo8FWgY3QFbrnVF3ETma",
+          "timestamp": 1740996525,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/01_012b3_LABxGo8FWgY3QFbrnVF3ETma/1740996525.jpeg?s=a45f6171a7da74f868f3b5cfb77c31a5e2b7327d",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 7,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "2.7",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "42.7",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "16 ans / 176 cm",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "16 ans / 176 cm",
+        "accessibility_label": "Lego 10369 Plum Blossom, marque: LEGO, état: Neuf avec étiquette, taille: 16 ans / 176 cm, 40,00 €, 42,70 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 2.999966621398926,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5717365324,
+      "title": "3x Lego Botanicals 10343, 10344, 10369",
+      "price": {
+        "amount": "90.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5717365324-3x-lego-botanicals-10343-10344-10369",
+      "user": {
+        "id": 56548303,
+        "login": "happyclothes15",
+        "profile_url": "https://www.vinted.fr/member/56548303-happyclothes15",
+        "photo": {
+          "id": 175648197,
+          "width": 516,
+          "height": 762,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/01_01695_YLZXiwAZdMCLJ4CzZKDET3b9/f800/1704807754.jpeg?s=bbb941d9c575bc82918863b4ec9dc6aab0dd37ea",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/01_01695_YLZXiwAZdMCLJ4CzZKDET3b9/310x310/1704807754.jpeg?s=c975795cf3f730a1050c1faedbc5635a4cc17d35",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/01_01695_YLZXiwAZdMCLJ4CzZKDET3b9/150x150/1704807754.jpeg?s=85bdc307eb22f071a6dbb6433aa1a590e86585fd",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/01_01695_YLZXiwAZdMCLJ4CzZKDET3b9/100x100/1704807754.jpeg?s=6be66ef9124fae62489fd84a26fb4681c8e867c8",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/01_01695_YLZXiwAZdMCLJ4CzZKDET3b9/50x50/1704807754.jpeg?s=8af6abeebac5595266f80f6c7180c79e10bb3a04",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/01_01695_YLZXiwAZdMCLJ4CzZKDET3b9/20x20/1704807754.jpeg?s=9caa3c0f246b5fc973dffb6dd87dba529c1d49f9",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "01_01695_YLZXiwAZdMCLJ4CzZKDET3b9",
+            "timestamp": 1704807754,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/01_01695_YLZXiwAZdMCLJ4CzZKDET3b9/1704807754.jpeg?s=7588e5daeb26e42daaa088394fccd3c399c86830",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5717365324-3x-lego-botanicals-10343-10344-10369",
+      "promoted": false,
+      "photo": {
+        "id": 23160146118,
+        "image_no": 1,
+        "width": 800,
+        "height": 375,
+        "dominant_color": "#5D5C5A",
+        "dominant_color_opaque": "#CECECE",
+        "url": "https://images1.vinted.net/t/04_0260c_Bh6MMozGzxC7XiQex6YhN5b6/f800/1737915632.jpeg?s=4b260ea65f5de3b920955839d898a3990a7a8044",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_0260c_Bh6MMozGzxC7XiQex6YhN5b6/70x100/1737915632.jpeg?s=292c3bce372b3ea712b6b1124cb9cbc1e939e50d",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_0260c_Bh6MMozGzxC7XiQex6YhN5b6/150x210/1737915632.jpeg?s=f3a1f5836d1642f364137791b803493dc1d5f1fd",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_0260c_Bh6MMozGzxC7XiQex6YhN5b6/310x430/1737915632.jpeg?s=be08749af07b63c74e5201223b770fc57045a66c",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_0260c_Bh6MMozGzxC7XiQex6YhN5b6/f800/1737915632.jpeg?s=4b260ea65f5de3b920955839d898a3990a7a8044",
+            "width": 428,
+            "height": 200,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_0260c_Bh6MMozGzxC7XiQex6YhN5b6/f800/1737915632.jpeg?s=4b260ea65f5de3b920955839d898a3990a7a8044",
+            "width": 624,
+            "height": 292,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_0260c_Bh6MMozGzxC7XiQex6YhN5b6/f800/1737915632.jpeg?s=4b260ea65f5de3b920955839d898a3990a7a8044",
+            "width": 364,
+            "height": 170,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_0260c_Bh6MMozGzxC7XiQex6YhN5b6",
+          "timestamp": 1737915632,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_0260c_Bh6MMozGzxC7XiQex6YhN5b6/1737915632.jpeg?s=7064133630682f56b5d0a90af65d852d07f4c898",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 6,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "5.2",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "95.2",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf sans étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "3x Lego Botanicals 10343, 10344, 10369, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 90,00 €, 95,20 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 2.373038768768311,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5860666402,
+      "title": "Lego botanicals 10343 / 10369",
+      "price": {
+        "amount": "60.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5860666402-lego-botanicals-10343-10369",
+      "user": {
+        "id": 68862319,
+        "login": "legotoni",
+        "profile_url": "https://www.vinted.fr/member/68862319-legotoni",
+        "photo": {
+          "id": 172241513,
+          "width": 600,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/01_01ede_BXnRujG4ZxRyxtawsZL4R8Jv/f800/1702237023.jpeg?s=d061c1f478aa8831ca3e1cec1360c33961604221",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/01_01ede_BXnRujG4ZxRyxtawsZL4R8Jv/310x310/1702237023.jpeg?s=01a6f3e2d192e89dacca8e9bc047e147e56134e7",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/01_01ede_BXnRujG4ZxRyxtawsZL4R8Jv/150x150/1702237023.jpeg?s=c337a834284a8ac2fa25166782cf0f5423ea7e39",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/01_01ede_BXnRujG4ZxRyxtawsZL4R8Jv/100x100/1702237023.jpeg?s=162e6b78a4bda74f4d677159107d8cf7645e81d4",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/01_01ede_BXnRujG4ZxRyxtawsZL4R8Jv/50x50/1702237023.jpeg?s=8c08422d241a4e76702d672af461ff8aeae85907",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/01_01ede_BXnRujG4ZxRyxtawsZL4R8Jv/20x20/1702237023.jpeg?s=b42ecd401bceceff6a9bc06acb1d862beaf7cb4e",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "01_01ede_BXnRujG4ZxRyxtawsZL4R8Jv",
+            "timestamp": 1702237023,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/01_01ede_BXnRujG4ZxRyxtawsZL4R8Jv/1702237023.jpeg?s=11ee3664e4fc06e0b8bb235626910c0e34635b03",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5860666402-lego-botanicals-10343-10369",
+      "promoted": false,
+      "photo": {
+        "id": 23754434856,
+        "image_no": 1,
+        "width": 800,
+        "height": 800,
+        "dominant_color": "#4D392D",
+        "dominant_color_opaque": "#CAC4C0",
+        "url": "https://images1.vinted.net/t/04_017a0_zu9hxWoVn5E2ia3rNcr9jAWE/f800/1740251508.jpeg?s=0a3390f30d552e8593a44af116e5c0baeb886a6d",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_017a0_zu9hxWoVn5E2ia3rNcr9jAWE/70x100/1740251508.jpeg?s=91ed39fd43620e57b181b8d593649ed4b2f41470",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_017a0_zu9hxWoVn5E2ia3rNcr9jAWE/150x210/1740251508.jpeg?s=89fc5d855a8e987e0d6670b4ceeaaf287b64e418",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_017a0_zu9hxWoVn5E2ia3rNcr9jAWE/310x430/1740251508.jpeg?s=b6b5dc99ea81621268ec6b002a41194d44ea0c40",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_017a0_zu9hxWoVn5E2ia3rNcr9jAWE/f800/1740251508.jpeg?s=0a3390f30d552e8593a44af116e5c0baeb886a6d",
+            "width": 428,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_017a0_zu9hxWoVn5E2ia3rNcr9jAWE/f800/1740251508.jpeg?s=0a3390f30d552e8593a44af116e5c0baeb886a6d",
+            "width": 624,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_017a0_zu9hxWoVn5E2ia3rNcr9jAWE/f800/1740251508.jpeg?s=0a3390f30d552e8593a44af116e5c0baeb886a6d",
+            "width": 364,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_017a0_zu9hxWoVn5E2ia3rNcr9jAWE",
+          "timestamp": 1740251508,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_017a0_zu9hxWoVn5E2ia3rNcr9jAWE/1740251508.jpeg?s=1cc77530ce5d9aad11323208ec19051a44673994",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 6,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "3.7",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "63.7",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Très bon état",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "Lego botanicals 10343 / 10369, marque: LEGO, état: Très bon état, taille: Taille unique, 60,00 €, 63,70 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 2.159562110900879,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5772731012,
+      "title": "4x Lego Botanicals 10343, 10344, 10368, 10369",
+      "price": {
+        "amount": "111.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5772731012-4x-lego-botanicals-10343-10344-10368-10369",
+      "user": {
+        "id": 56548303,
+        "login": "happyclothes15",
+        "profile_url": "https://www.vinted.fr/member/56548303-happyclothes15",
+        "photo": {
+          "id": 175648197,
+          "width": 516,
+          "height": 762,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/01_01695_YLZXiwAZdMCLJ4CzZKDET3b9/f800/1704807754.jpeg?s=bbb941d9c575bc82918863b4ec9dc6aab0dd37ea",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/01_01695_YLZXiwAZdMCLJ4CzZKDET3b9/310x310/1704807754.jpeg?s=c975795cf3f730a1050c1faedbc5635a4cc17d35",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/01_01695_YLZXiwAZdMCLJ4CzZKDET3b9/150x150/1704807754.jpeg?s=85bdc307eb22f071a6dbb6433aa1a590e86585fd",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/01_01695_YLZXiwAZdMCLJ4CzZKDET3b9/100x100/1704807754.jpeg?s=6be66ef9124fae62489fd84a26fb4681c8e867c8",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/01_01695_YLZXiwAZdMCLJ4CzZKDET3b9/50x50/1704807754.jpeg?s=8af6abeebac5595266f80f6c7180c79e10bb3a04",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/01_01695_YLZXiwAZdMCLJ4CzZKDET3b9/20x20/1704807754.jpeg?s=9caa3c0f246b5fc973dffb6dd87dba529c1d49f9",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "01_01695_YLZXiwAZdMCLJ4CzZKDET3b9",
+            "timestamp": 1704807754,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/01_01695_YLZXiwAZdMCLJ4CzZKDET3b9/1704807754.jpeg?s=7588e5daeb26e42daaa088394fccd3c399c86830",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5772731012-4x-lego-botanicals-10343-10344-10368-10369",
+      "promoted": false,
+      "photo": {
+        "id": 23389607795,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#645451",
+        "dominant_color_opaque": "#D1CCCB",
+        "url": "https://images1.vinted.net/t/04_01bdb_VtU17H5VBTxMSWDB8PsrSrjJ/f800/1738847120.jpeg?s=745ac64fa4f8737f73e93f8379abbcd823249086",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_01bdb_VtU17H5VBTxMSWDB8PsrSrjJ/70x100/1738847120.jpeg?s=01d833950cae419c07d337f66c6895fc35d5613a",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_01bdb_VtU17H5VBTxMSWDB8PsrSrjJ/150x210/1738847120.jpeg?s=c07aa387e1030c4c7a1f1368d203441670532bd3",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_01bdb_VtU17H5VBTxMSWDB8PsrSrjJ/310x430/1738847120.jpeg?s=a1fc844f7428f46dd43b28711f6a3456ef8eeeea",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_01bdb_VtU17H5VBTxMSWDB8PsrSrjJ/f800/1738847120.jpeg?s=745ac64fa4f8737f73e93f8379abbcd823249086",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_01bdb_VtU17H5VBTxMSWDB8PsrSrjJ/f800/1738847120.jpeg?s=745ac64fa4f8737f73e93f8379abbcd823249086",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_01bdb_VtU17H5VBTxMSWDB8PsrSrjJ/f800/1738847120.jpeg?s=745ac64fa4f8737f73e93f8379abbcd823249086",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_01bdb_VtU17H5VBTxMSWDB8PsrSrjJ",
+          "timestamp": 1738847120,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_01bdb_VtU17H5VBTxMSWDB8PsrSrjJ/1738847120.jpeg?s=97a10e516a71184dbca4b11c2d441e105385e45c",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 28,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "6.25",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "117.25",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf sans étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique",
+        "accessibility_label": "4x Lego Botanicals 10343, 10344, 10368, 10369, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 111,00 €, 117,25 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 2.111237049102783,
+        "matched_queries": []
+      }
+    }
+  ],
+  "dominant_brand": {
+    "id": 89162,
+    "title": "LEGO",
+    "slug": "lego",
+    "favourite_count": 186427,
+    "pretty_favourite_count": "186.4K",
+    "item_count": 2176267,
+    "pretty_item_count": "2.2M",
+    "is_visible_in_listings": true,
+    "requires_authenticity_check": false,
+    "is_luxury": false,
+    "is_hvf": false,
+    "path": "/brand/89162-lego",
+    "url": "https://www.vinted.fr/brand/89162-lego",
+    "is_favourite": false
+  },
+  "search_tracking_params": {
+    "search_correlation_id": "27aa33c2-28c3-4c72-bb18-f6e9f0c04c3b",
+    "search_session_id": "264274aa-9499-46db-bc6a-533f2a7b5457",
+    "global_search_session_id": "845766f1-1754-46f7-8aab-5b8fa32ae813"
+  },
+  "pagination": {
+    "current_page": 1,
+    "total_pages": 1,
+    "total_entries": 24,
+    "per_page": 96,
+    "time": 1742225014
+  },
+  "code": 0,
+  "setId": "10369"
+}
