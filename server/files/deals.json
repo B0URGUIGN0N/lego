@@ -1,226 +1,218 @@
 [
   {
-    "title": "Lego Ninjago, Le Film : Le Jeu Vidéo sur Nintendo Switch (Code dans la boite)",
-    "link": "https://www.dealabs.com/bons-plans/lego-ninjago-le-film-le-jeu-video-code-in-a-box-switch-3021012",
-    "price": 14.9,
-    "previousPrice": 17.9,
-    "discount": 17,
+    "title": "Jeu Lego Bricktales sur Nintendo Switch (Dématérialisé)",
+    "link": "https://www.dealabs.com/bons-plans/lego-bricktales-sur-nintendo-switch-dematerialise-3030481",
+    "price": 5.99,
+    "previousPrice": 29.99,
+    "discount": 80,
+    "temperature": 36.78,
     "setId": "Error"
   },
   {
-    "title": "LEGO Architecture 21060 - Le Château d'Himeji",
-    "link": "https://www.dealabs.com/bons-plans/lego-architecture-le-chateau-dhimeji-21060-3020975",
-    "price": 103.92,
-    "previousPrice": 129.99,
-    "discount": 20,
-    "setId": "21060"
+    "title": "Jeu de construction Lego Technic La Moto Ducati Panigale V4 S - 42202",
+    "link": "https://www.dealabs.com/bons-plans/lego-technic-42202-moto-ducati-panigale-v4-s-3030476",
+    "price": 137.71,
+    "previousPrice": 199.99,
+    "discount": 31,
+    "temperature": 16.63,
+    "setId": "42202"
   },
   {
-    "title": "LEGO Star Wars 75375 - Millennium Falcon, 921 pièces",
-    "link": "https://www.dealabs.com/bons-plans/lego-star-wars-millennium-falcon-921-pieces-75375-3020935",
-    "price": 53.44,
-    "previousPrice": 63.93,
-    "discount": 16,
-    "setId": "75375"
-  },
-  {
-    "title": "Lego City 60464 Voitures de Course de F1 Williams Racing et Haas F1 (Via 4,5€ sur la Carte de Fidélité)",
-    "link": "https://www.dealabs.com/bons-plans/lego-city-60464-voitures-de-course-de-f1-williams-racing-et-haas-f1-3020534",
-    "price": 13.49,
-    "previousPrice": 17.99,
-    "discount": 25,
-    "setId": "60464"
-  },
-  {
-    "title": "Lego City 60443 Arrêt au Stand de F1 avec Voiture Ferrari (Via 6,75€ sur la Carte de Fidélité)",
-    "link": "https://www.dealabs.com/bons-plans/lego-city-60443-arret-au-stand-de-f1-avec-voiture-ferrari-3020532",
-    "price": 20.24,
-    "previousPrice": 22.85,
+    "title": "Lego Star Wars 75192 Le Faucon Millenium",
+    "link": "https://www.dealabs.com/bons-plans/lego-75192-star-wars-faucon-millenium-3030365",
+    "price": 681.07,
+    "previousPrice": 768.96,
     "discount": 11,
-    "setId": "60443"
+    "temperature": 80.68,
+    "setId": "75192"
   },
   {
-    "title": "Jeu de construction Lego Moi, Moche et Méchant (75580) - Les Minions et la Voiture-Banane",
-    "link": "https://www.dealabs.com/bons-plans/lego-moi-moche-et-mechant-4-les-minions-et-la-voiture-banane-75580-3020492",
-    "price": 17.5,
-    "previousPrice": 22.03,
-    "discount": 21,
-    "setId": "75580"
+    "title": "Lego Creator 3-en-1 31164 Le Robot de l’Espace - Se transforme en Chien ou en fusée",
+    "link": "https://www.dealabs.com/bons-plans/lego-creator-3-en-1-le-robot-de-lespace-se-transforme-en-chien-ou-en-fusee-31164-3030291",
+    "price": 15.03,
+    "previousPrice": 22.81,
+    "discount": 34,
+    "temperature": 36.52,
+    "setId": "31164"
   },
   {
-    "title": "Jeu de construction Lego Marvel (76214) - Black Panther : La Guerre sur l’Eau",
-    "link": "https://www.dealabs.com/bons-plans/lego-marvel-black-panther-la-guerre-sur-leau-545-pieces-5-minifigurines-76214-3020459",
-    "price": 44.99,
-    "previousPrice": 89.99,
-    "discount": 50,
-    "setId": "76214"
-  },
-  {
-    "title": "Lego Disney - La Maison sur la Plage de Lilo et Stitch, 834 pièces, 5 minifigurines (43268)",
-    "link": "https://www.dealabs.com/bons-plans/la-maison-sur-la-plage-de-lilo-et-stitch-lego-disney-43268-834-pieces-5-minifigurines-3020369",
-    "price": 62.9,
-    "previousPrice": 89.99,
-    "discount": 30,
-    "setId": "43268"
-  },
-  {
-    "title": "Jeu de construction Lego Disney (43268) - La Maison sur la Plage de Lilo et Stitch",
-    "link": "https://www.dealabs.com/bons-plans/lego-disney-la-maison-sur-la-plage-de-lilo-et-stitch-3020360",
-    "price": 70.48,
-    "previousPrice": 87.52,
-    "discount": 19,
-    "setId": "43268"
-  },
-  {
-    "title": "LEGO Technic - Camion benne, 462 pièces (42203)",
-    "link": "https://www.dealabs.com/bons-plans/camion-benne-lego-technic-42203-462-pieces-3020350",
-    "price": 37.3,
-    "previousPrice": 48.6,
-    "discount": 23,
-    "setId": "42203"
-  },
-  {
-    "title": "Jeu de construction Lego Disney 43272 Vaiana 2 Coq Heihei",
-    "link": "https://www.dealabs.com/bons-plans/lego-disney-vaiana-2-heihei-3020341",
-    "price": 30.24,
-    "previousPrice": 38.98,
-    "discount": 22,
-    "setId": "43272"
-  },
-  {
-    "title": "LEGO Speed Champions 76923 - Lamborghini Lambo V12 Vision GT Super Car",
-    "link": "https://www.dealabs.com/bons-plans/lamborghini-lambo-v12-vision-gt-super-car-lego-speed-champions-76923-3020290",
-    "price": 19.21,
-    "previousPrice": 21.76,
+    "title": "Lego Creator 3-en-1 31172 Le Tourne-Disque et ses Fleurs",
+    "link": "https://www.dealabs.com/bons-plans/lego-creator-3-en-1-le-tourne-disque-et-ses-fleurs-31172-3030285",
+    "price": 26.49,
+    "previousPrice": 29.98,
     "discount": 12,
-    "setId": "76923"
+    "temperature": 7.03,
+    "setId": "31172"
   },
   {
-    "title": "LEGO Ninjago 71829 - Le Dragon Vert de la forêt de Lloyd",
-    "link": "https://www.dealabs.com/bons-plans/lego-ninjago-le-dragon-vert-de-la-foret-de-lloyd-71829-3020285",
-    "price": 14.94,
-    "previousPrice": 17.72,
-    "discount": 16,
-    "setId": "71829"
+    "title": "Lego Icons 10330 McLaren MP4/4 et Ayrton Senn",
+    "link": "https://www.dealabs.com/bons-plans/lego-icons-mclaren-mp44-et-ayrton-senna-10330-3030283",
+    "price": 51.33,
+    "previousPrice": 65.77,
+    "discount": 22,
+    "temperature": 86.54,
+    "setId": "10330"
   },
   {
-    "title": "LEGO Icons 10369 - Les fleurs de prunier",
-    "link": "https://www.dealabs.com/bons-plans/les-fleurs-de-prunier-lego-icons-10369-3020280",
-    "price": 21.78,
-    "previousPrice": 25.62,
-    "discount": 15,
-    "setId": "10369"
+    "title": "La chaumière d’Asha LEGO Disney (43231), 509 pièces, 3 minifigurines",
+    "link": "https://www.dealabs.com/bons-plans/la-chaumiere-dasha-lego-disney-43231-509-pieces-3-minifigurines-3030157",
+    "price": 26.06,
+    "previousPrice": 37.71,
+    "discount": 31,
+    "temperature": 23.01,
+    "setId": "43231"
   },
   {
-    "title": "Jeu de construction Lego Star Wars (75375) - Un Nouvel Espoir Millenium Falcon",
-    "link": "https://www.dealabs.com/bons-plans/jeu-de-construction-lego-star-wars-faucon-millenium-3020216",
-    "price": 59.99,
-    "previousPrice": 66.99,
+    "title": "Jeu de construction Lego 77092 The Legend of Zelda Vénérable arbre Mojo 2-en-1, 2500 pièces, 4 mini figurines",
+    "link": "https://www.dealabs.com/bons-plans/lego-the-legend-of-zelda-venerable-arbre-mojo-2-en-1-3030061",
+    "price": 270.99,
+    "previousPrice": 299.99,
     "discount": 10,
+    "temperature": -30.49,
+    "setId": "77092"
+  },
+  {
+    "title": "10€ offerts dés 60€ : ex : 31141 - LEGO Creator - La Grand-rue",
+    "link": "https://www.dealabs.com/bons-plans/10eur-offerts-des-60eur-ex-31141-lego-creator-la-grand-rue-3029939",
+    "price": 87.99,
+    "previousPrice": 139.99,
+    "discount": 37,
+    "temperature": 53.77,
+    "setId": "31141"
+  },
+  {
+    "title": "Sélection de Lego en réduction - Ex : LEGO Star Wars (754029) - Le chasseur ARC-170 (Frontaliers Belgique - via coupon)",
+    "link": "https://www.dealabs.com/bons-plans/selection-de-lego-en-reduction-via-coupon-ex-lego-star-wars-75402-le-chasseur-arc-170-3029702",
+    "price": 44.99,
+    "previousPrice": 59.99,
+    "discount": 25,
+    "temperature": -38.86,
+    "setId": "Error"
+  },
+  {
+    "title": "LEGO Architecture 21058 La Grande Pyramide de Gizeh (Frontalier Belgique)",
+    "link": "https://www.dealabs.com/bons-plans/lego-architecture-21058-la-grande-pyramide-de-gizeh-3029539",
+    "price": 104.85,
+    "previousPrice": 139,
+    "discount": 25,
+    "temperature": 34.77,
+    "setId": "21058"
+  },
+  {
+    "title": "Jeu de construction Lego Star Wars (75394) - Destroyer stellaire de classe Impérial (Frontalier Belgique, via coupon)",
+    "link": "https://www.dealabs.com/bons-plans/lego-star-wars-le-destroyer-stellaire-de-classe-imperial-75394-3029346",
+    "price": 138.19,
+    "previousPrice": 169.99,
+    "discount": 19,
+    "temperature": 17.41,
+    "setId": "75394"
+  },
+  {
+    "title": "LEGO Ideas 21355 - L'évolution des STEM",
+    "link": "https://www.dealabs.com/bons-plans/lego-ideas-21355-levolution-des-stem-3029291",
+    "price": 69.99,
+    "previousPrice": 79.99,
+    "discount": 13,
+    "temperature": 8.96,
+    "setId": "21355"
+  },
+  {
+    "title": "Lego Marvel Super Heroes sur PS4",
+    "link": "https://www.dealabs.com/bons-plans/lego-marvel-super-heroes-sur-ps4-3029088",
+    "price": 9.9,
+    "previousPrice": 14.9,
+    "discount": 34,
+    "temperature": 47.02,
+    "setId": "Error"
+  },
+  {
+    "title": "Lego City Undercover sur PS4",
+    "link": "https://www.dealabs.com/bons-plans/lego-city-undercover-sur-ps4-3029082",
+    "price": 9.9,
+    "previousPrice": 14.9,
+    "discount": 34,
+    "temperature": 47.11,
+    "setId": "Error"
+  },
+  {
+    "title": "Jeu de construction Lego Harry Potter 76440: Le Tournoi des Trois Sorciers : l’arrivée (frontaliers Belgique)",
+    "link": "https://www.dealabs.com/bons-plans/lego-harry-potter-le-tournoi-des-trois-sorciers-larrivee-76440-frontaliers-belgique-3029023",
+    "price": 109,
+    "previousPrice": 139.99,
+    "discount": 22,
+    "temperature": -15.84,
+    "setId": "76440"
+  },
+  {
+    "title": "LEGO Star Wars - Millennium Falcon (75375)",
+    "link": "https://www.dealabs.com/bons-plans/lego-star-wars-millennium-falcon-3028954",
+    "price": 66.68,
+    "previousPrice": 67.99,
+    "discount": 2,
+    "temperature": -64.58,
     "setId": "75375"
   },
   {
-    "title": "Jeu de construction LEGO Disney - La Chaumière de Blanche-Neige et des Sept Nains - 2228 pièces, 10 minifigurines (43242)",
-    "link": "https://www.dealabs.com/bons-plans/lego-disney-la-chaumiere-de-blanche-neige-et-des-sept-nains-2228-pieces-10-minifigurines-43242-3020118",
-    "price": 186.9,
-    "previousPrice": 219.99,
-    "discount": 15,
-    "setId": "43242"
+    "title": "LEGO Art - La Voie lactée (31212)",
+    "link": "https://www.dealabs.com/bons-plans/lego-art-la-voie-lactee-3028952",
+    "price": 159.99,
+    "previousPrice": 168.99,
+    "discount": 5,
+    "temperature": 20.94,
+    "setId": "31212"
   },
   {
-    "title": "Jeu de construction Lego Architecture 21062 - La fontaine de Trevi",
-    "link": "https://www.dealabs.com/bons-plans/lego-architecture-21062-la-fontaine-de-trevi-remise-au-panier-3019923",
-    "price": 125.99,
-    "previousPrice": 139.99,
-    "discount": 10,
-    "setId": "21062"
+    "title": "LEGO Technic - Fast and Furious Toyota Supra MK4 (42204)",
+    "link": "https://www.dealabs.com/bons-plans/lego-technic-fast-and-furious-toyota-supra-mk4-3028951",
+    "price": 50.15,
+    "previousPrice": 59.99,
+    "discount": 16,
+    "temperature": -28.74,
+    "setId": "42204"
   },
   {
-    "title": "Jeu de construction Lego Disney 43272 Vaiana 2 Coq Heihei",
-    "link": "https://www.dealabs.com/bons-plans/lego-disney-43272-vaiana-2-coq-heihei-3019877",
+    "title": "LEGO Technic - Le bolide Bugatti (42151)",
+    "link": "https://www.dealabs.com/bons-plans/lego-42151-technic-le-bolide-bugatti-3028950",
     "price": 36.99,
     "previousPrice": 39.99,
     "discount": 8,
-    "setId": "43272"
+    "temperature": -32.59,
+    "setId": "42151"
   },
   {
-    "title": "25% de Réduction sur une Sélection LEGO Ninjago & Disney Princess - Ex: LEGO 43252 Le pot de fleurs de Vaiana (Frontaliers Belgique)",
-    "link": "https://www.dealabs.com/bons-plans/25-sur-une-selection-lego-ninjago-disney-princess-ex-lego-disney-princess-le-pot-de-fleurs-de-vaiana-43252-619p-frontaliers-belgique-3019729",
-    "price": 33.72,
-    "previousPrice": 44.99,
-    "discount": 25,
-    "setId": "43252"
+    "title": "LEGO Harry Potter 76419 - Le château et le domaine de Poudlard, 2660 pièces, 1 minifigurine",
+    "link": "https://www.dealabs.com/bons-plans/lego-harry-potter-76419-le-chateau-et-le-domaine-de-poudlard-2660-pieces-1-minifigurine-3028762",
+    "price": 114,
+    "previousPrice": 129,
+    "discount": 12,
+    "temperature": 65.23,
+    "setId": "76419"
   },
   {
-    "title": "Lego Marvel Spider-Man (76178) - Le Daily Bugle (3772 pièces, 25 minifigurines) - misterbricks.nl",
-    "link": "https://www.dealabs.com/bons-plans/lego-marvel-spider-man-76178-le-daily-bugle-3772-pieces-25-minifigurines-3019696",
-    "price": 296.53,
-    "previousPrice": 349.99,
-    "discount": 15,
-    "setId": "76178"
+    "title": "Jouet Lego Art Love 31214",
+    "link": "https://www.dealabs.com/bons-plans/lego-art-31214-love-3028742",
+    "price": 52.12,
+    "previousPrice": 72.66,
+    "discount": 28,
+    "temperature": -41.42,
+    "setId": "31214"
   },
   {
-    "title": "Lego Harry Potter 71043 Le Château de Poudlard (6020 pièces, 4 figurines, 27 micro-figurines)",
-    "link": "https://www.dealabs.com/bons-plans/lego-harry-potter-71043-le-chateau-de-poudlard-6020-pieces-4-minifigurines-et-27-micro-figurines-3019608",
-    "price": 349.57,
-    "previousPrice": 462.43,
-    "discount": 24,
-    "setId": "71043"
+    "title": "Jeu de construction Lego Art 31214 LOVE - (Frontaliers Belgique)",
+    "link": "https://www.dealabs.com/bons-plans/lego-art-love-31214-frontaliers-belgique-3028333",
+    "price": 49.91,
+    "previousPrice": 79.99,
+    "discount": 38,
+    "temperature": -60.48,
+    "setId": "31214"
   },
   {
-    "title": "Jeu de construction Lego Technic (42198) - L’Avion de Brousse",
-    "link": "https://www.dealabs.com/bons-plans/lego-technic-lavion-de-brousse-42198-3019585",
-    "price": 20.68,
-    "previousPrice": 25.56,
-    "discount": 19,
-    "setId": "42198"
-  },
-  {
-    "title": "Jeu de construction Lego City (60373) - Le Bateau de Sauvetage des Pompiers",
-    "link": "https://www.dealabs.com/bons-plans/lego-60373-city-le-bateau-de-sauvetage-des-pompiers-3019565",
-    "price": 13.99,
-    "previousPrice": 14.66,
-    "discount": 5,
-    "setId": "60373"
-  },
-  {
-    "title": "Lego Minecraft 21269 L’Expédition dans la Mine du Tatou",
-    "link": "https://www.dealabs.com/bons-plans/lego-minecraft-lexpedition-dans-la-mine-du-tatou-21269-3019528",
-    "price": 22.81,
-    "previousPrice": 26.7,
-    "discount": 15,
-    "setId": "21269"
-  },
-  {
-    "title": "Jeu de construction LEGO Creator 3-en-1 Le Chat Joueur - Se transforme en Chien ou en Pigeon - 31163",
-    "link": "https://www.dealabs.com/bons-plans/lego-creator-3-en-1-le-chat-joueur-se-transforme-en-chien-ou-en-pigeon-31163-3019486",
-    "price": 17.48,
-    "previousPrice": 22.26,
-    "discount": 21,
-    "setId": "31163"
-  },
-  {
-    "title": "Lego Icons 10327 Dune Atreides Royal Ornithopter (+2,24€ en Rakuten Point)",
-    "link": "https://www.dealabs.com/bons-plans/lego-icons-dune-atreides-royal-ornithopter-10327-224eur-credites-3019478",
-    "price": 111.99,
-    "previousPrice": 129.99,
-    "discount": 14,
-    "setId": "10327"
-  },
-  {
-    "title": "Lego Botanicals 40460 Les Roses",
-    "link": "https://www.dealabs.com/bons-plans/lego-botanicals-les-roses-40460-3019455",
-    "price": 8.98,
-    "previousPrice": 12.66,
-    "discount": 29,
-    "setId": "40460"
-  },
-  {
-    "title": "Lego Creator 3-en-1 31164 Le Robot de l’Espace - Se transforme en Chien ou en Fusée",
-    "link": "https://www.dealabs.com/bons-plans/lego-creator-3-en-1-le-robot-de-lespace-se-transforme-en-chien-ou-en-fusee-31164-3019379",
-    "price": 18.55,
-    "previousPrice": 22.99,
-    "discount": 19,
-    "setId": "31164"
+    "title": "Jeu de construction Lego Creator 31161: Le dragon médiéval - (Frontaliers Belgique)",
+    "link": "https://www.dealabs.com/bons-plans/le-dragon-medieval-lego-creator-31161-frontaliers-belgique-3028332",
+    "price": 40.99,
+    "previousPrice": 59.99,
+    "discount": 32,
+    "temperature": -59.47,
+    "setId": "31161"
   }
 ]

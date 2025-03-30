@@ -44,7 +44,7 @@ async function main() {
     console.error('Error processing deals.json:', error);
   }
 
-  // Scan for files starting with "vinted_" and insert their data.
+  // Scan for files starting with "Vdeals_" and insert their data.
   try {
     // Define the "files" directory.
     const filesDir = path.resolve('.', 'files');
@@ -52,9 +52,9 @@ async function main() {
     // Read the files from the "files" folder.
     const files = await readdir(filesDir);
   
-    // Filter only the JSON files that start with "vinted_".
+    // Filter only the JSON files that start with "Vdeals_".
     const vintedFiles = files.filter(
-      (file) => file.startsWith('vinted_') && file.endsWith('.json')
+      (file) => file.startsWith('Vdeals_') && file.endsWith('.json')
     );
   
     const vintedCollection = db.collection('vintedDeals');

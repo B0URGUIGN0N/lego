@@ -41,7 +41,7 @@ module.exports.scrape = async url => {
           .attr('data-vue2');
 
         let data;
-        let price = null, previousPrice = null, discount = null, title = null;
+        let price = null, previousPrice = null, discount = null, title = null, temperature = false;
 
         if (vueData) {
           try {
@@ -54,6 +54,7 @@ module.exports.scrape = async url => {
             price = thread?.price || null;
             previousPrice = thread?.nextBestPrice || null;
             discount = previousPrice && price ? Math.round(((previousPrice - price) / previousPrice) * 100) : null;
+            temperature = thread?.temperature || false; // Extract temperature property
 
           } catch (err) {
             console.error('❌ Error parsing JSON:', err);
@@ -79,6 +80,7 @@ module.exports.scrape = async url => {
           price,
           previousPrice,
           discount,
+          temperature,  
           setId,  // add the new property here
         };
       })
