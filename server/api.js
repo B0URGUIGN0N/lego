@@ -90,13 +90,13 @@ connectToDatabase().then(async ({ db, client }) => {
   app.get('/sales/search', async (req, res) => {
     try {
       const limit = parseInt(req.query.limit) || 12; 
-      const saleId = req.query.setId || null; 
+      const id = req.query.id || null; 
       const sortPrice = req.query.sortPrice || 'asc'; 
   
       let query = {};
   
-      if (saleId) {
-        query.setId = saleId; 
+      if (id) {
+        query.id = id; 
       }
   
       let sort = {};
@@ -109,7 +109,7 @@ connectToDatabase().then(async ({ db, client }) => {
         sort = { price: 1 }; // default to ascending order
       }
   
-      const sales = await db.collection('sales')
+      const sales = await db.collection('vintedDeals')
           .find(query)
           .sort(sort)
           .limit(limit)
