@@ -36,27 +36,31 @@ connectToDatabase().then(async ({ db, client }) => {
   });
 
   app.get('/deals/search', async (req, res) => {
+    console.log('Query parameters:', req.query);
     try {
       const limit = parseInt(req.query.limit) || 12; 
       const maxPrice = req.query.price ? parseFloat(req.query.price) : null; 
-      const dateFilter = req.query.date ? parseInt(req.query.date) : null; 
       const filterBy = req.query.filterBy || null; 
-      const saleId = req.query.id || null; 
+      const setId = req.query.setId || null; 
   
       let query = {};
   
-      if (saleId) {
-        query.id = saleId; 
+      if (setId) {
+        query.setId = setId; 
       }
       if (maxPrice) {
         query.price = { $lte: maxPrice }; 
       }
   
-      let sort = { price: 1 }; 
+      let sort = { price: 1 }; // default to sorting by price in ascending order
       if (filterBy === "best-discount") {
         sort = { discount: -1 }; 
       } else if (filterBy === "hottest") {
         sort = { temperature: -1 }; 
+      } else if (req.query.sortPrice === 'asc') {
+        sort = { price: 1 };
+      } else if (req.query.sortPrice === 'desc') {
+        sort = { price: -1 };
       }
   
       const deals = await db.collection('deals')
