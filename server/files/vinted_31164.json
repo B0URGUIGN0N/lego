@@ -1,0 +1,844 @@
+{
+  "items": [
+    {
+      "id": 6051470592,
+      "title": "Lego 3 en 1 creator 31164 neuf et scellé",
+      "price": {
+        "amount": "20.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/6051470592-lego-3-en-1-creator-31164-neuf-et-scelle",
+      "user": {
+        "id": 25162791,
+        "login": "gigi020708",
+        "profile_url": "https://www.vinted.fr/member/25162791-gigi020708",
+        "photo": {
+          "id": 237208124,
+          "width": 600,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/04_009cf_QpreafVgWbpB1m9W2FEoBgJv/f800/1743325463.jpeg?s=63df4bcaf217b8710be7d6ec37f40495a53b1af5",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/04_009cf_QpreafVgWbpB1m9W2FEoBgJv/310x310/1743325463.jpeg?s=310607a1b67425747162f3ad5118d4d62c1bfea6",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/04_009cf_QpreafVgWbpB1m9W2FEoBgJv/150x150/1743325463.jpeg?s=a64c75f473b18fe5ae674524c2a348ca1cc84c7a",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/04_009cf_QpreafVgWbpB1m9W2FEoBgJv/100x100/1743325463.jpeg?s=d75054dc79962467b40fcb9df1dd69d4464c40ee",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/04_009cf_QpreafVgWbpB1m9W2FEoBgJv/50x50/1743325463.jpeg?s=681af1ac9fa1a4814dbb60f02918e8460566b778",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/04_009cf_QpreafVgWbpB1m9W2FEoBgJv/20x20/1743325463.jpeg?s=c219dd277bfbc44967c5299f5861f22d9e390b61",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "04_009cf_QpreafVgWbpB1m9W2FEoBgJv",
+            "timestamp": 1743325463,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/04_009cf_QpreafVgWbpB1m9W2FEoBgJv/1743325463.jpeg?s=390a4488b841435243be6c8bba2f898af0e6112d",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/6051470592-lego-3-en-1-creator-31164-neuf-et-scelle",
+      "promoted": false,
+      "photo": {
+        "id": 24548617386,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#908085",
+        "dominant_color_opaque": "#DED9DA",
+        "url": "https://images1.vinted.net/t/04_007dd_mxUeGEsUanDXdbLDRqZtDSmL/f800/1743244737.jpeg?s=10dfbd8d400823429d8f7af14a2934657a88b641",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_007dd_mxUeGEsUanDXdbLDRqZtDSmL/70x100/1743244737.jpeg?s=9bbd007534c1848d75cc774afd617256769a65b6",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_007dd_mxUeGEsUanDXdbLDRqZtDSmL/150x210/1743244737.jpeg?s=5308615d46941986279a27c29029cccf781dbe24",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_007dd_mxUeGEsUanDXdbLDRqZtDSmL/310x430/1743244737.jpeg?s=a7d6a0abd6c85ebe6b4172febb67d97e52ce367d",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_007dd_mxUeGEsUanDXdbLDRqZtDSmL/f800/1743244737.jpeg?s=10dfbd8d400823429d8f7af14a2934657a88b641",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_007dd_mxUeGEsUanDXdbLDRqZtDSmL/f800/1743244737.jpeg?s=10dfbd8d400823429d8f7af14a2934657a88b641",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_007dd_mxUeGEsUanDXdbLDRqZtDSmL/f800/1743244737.jpeg?s=10dfbd8d400823429d8f7af14a2934657a88b641",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_007dd_mxUeGEsUanDXdbLDRqZtDSmL",
+          "timestamp": 1743244737,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_007dd_mxUeGEsUanDXdbLDRqZtDSmL/1743244737.jpeg?s=88815f98c5ccbb22de77a43bc3adddf1915056f8",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 6,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "1.7",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "21.7",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique · Neuf avec étiquette",
+        "accessibility_label": "Lego 3 en 1 creator 31164 neuf et scellé, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 20,00 €, 21,70 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 4.81484317779541,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5891832323,
+      "title": "Lego 31164",
+      "price": {
+        "amount": "15.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5891832323-lego-31164",
+      "user": {
+        "id": 136306854,
+        "login": "raquel123345",
+        "profile_url": "https://www.vinted.fr/member/136306854-raquel123345",
+        "photo": {
+          "id": 219541325,
+          "width": 450,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/04_01668_PshsBhT9Bc9rtET5DdGQypsz/f800/1732394523.jpeg?s=d07f43441891036d0f798709d061b2c291662ebe",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/04_01668_PshsBhT9Bc9rtET5DdGQypsz/310x310/1732394523.jpeg?s=732c55a04b8ae4f6ea00339486d000fc7c8696a3",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/04_01668_PshsBhT9Bc9rtET5DdGQypsz/150x150/1732394523.jpeg?s=9f89d50e88e3de3af6a1145dcc91d2e3ac6b2b59",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/04_01668_PshsBhT9Bc9rtET5DdGQypsz/100x100/1732394523.jpeg?s=fd23b1843636a2bda68eec4521c059cc4bb3a74a",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/04_01668_PshsBhT9Bc9rtET5DdGQypsz/50x50/1732394523.jpeg?s=ca933c8fa34d594d6ec193acdb9aee102e27abae",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/04_01668_PshsBhT9Bc9rtET5DdGQypsz/20x20/1732394523.jpeg?s=7573669cd9f05cc3a2834d1070003ac751da4a3b",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "04_01668_PshsBhT9Bc9rtET5DdGQypsz",
+            "timestamp": 1732394523,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/04_01668_PshsBhT9Bc9rtET5DdGQypsz/1732394523.jpeg?s=ca0748b099ca467c9a7437a3da758b93fb876193",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5891832323-lego-31164",
+      "promoted": false,
+      "photo": {
+        "id": 23883664366,
+        "image_no": 1,
+        "width": 800,
+        "height": 594,
+        "dominant_color": "#564F5D",
+        "dominant_color_opaque": "#CCCACE",
+        "url": "https://images1.vinted.net/t/04_02641_Fe2ukJ3HCa5SaS18Zy8AQUFy/f800/1740759260.jpeg?s=92b24bb597fc7e296e17793b911077b3e97d7859",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_02641_Fe2ukJ3HCa5SaS18Zy8AQUFy/70x100/1740759260.jpeg?s=b31181922f773f63529b44d48b48368dfd488a8e",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_02641_Fe2ukJ3HCa5SaS18Zy8AQUFy/150x210/1740759260.jpeg?s=d2bbe544258fa072d7267cc274eba7873e85499d",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_02641_Fe2ukJ3HCa5SaS18Zy8AQUFy/310x430/1740759260.jpeg?s=4d8a31a9a76bf1304ab1b93fd0554c91dfeed90a",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_02641_Fe2ukJ3HCa5SaS18Zy8AQUFy/f800/1740759260.jpeg?s=92b24bb597fc7e296e17793b911077b3e97d7859",
+            "width": 428,
+            "height": 317,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_02641_Fe2ukJ3HCa5SaS18Zy8AQUFy/f800/1740759260.jpeg?s=92b24bb597fc7e296e17793b911077b3e97d7859",
+            "width": 623,
+            "height": 463,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_02641_Fe2ukJ3HCa5SaS18Zy8AQUFy/f800/1740759260.jpeg?s=92b24bb597fc7e296e17793b911077b3e97d7859",
+            "width": 364,
+            "height": 270,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_02641_Fe2ukJ3HCa5SaS18Zy8AQUFy",
+          "timestamp": 1740759260,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_02641_Fe2ukJ3HCa5SaS18Zy8AQUFy/1740759260.jpeg?s=8ee34c66df1d12fd6d111fe97626d6cdc502f925",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 1,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "1.45",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "16.45",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "8 ans / 128 cm",
+      "content_source": "search",
+      "status": "Très bon état",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "8 ans / 128 cm · Très bon état",
+        "accessibility_label": "Lego 31164, marque: LEGO, état: Très bon état, taille: 8 ans / 128 cm, 15,00 €, 16,45 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 4.593554973602295,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 6031433848,
+      "title": "Lego Creator Space 31164",
+      "price": {
+        "amount": "20.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/6031433848-lego-creator-space-31164",
+      "user": {
+        "id": 103843042,
+        "login": "jofu9",
+        "profile_url": "https://www.vinted.fr/member/103843042-jofu9",
+        "photo": {
+          "id": 102219098,
+          "width": 96,
+          "height": 96,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_017af_hzgpxeeLdvSDKabfHjJJFx7U/f800/1660389544.jpeg?s=ce0f301d78b610a2448300fdb791e3e8c34ff91d",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_017af_hzgpxeeLdvSDKabfHjJJFx7U/310x310/1660389544.jpeg?s=1cebb6599004f796e8b32b571fdc37c5446f9d24",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_017af_hzgpxeeLdvSDKabfHjJJFx7U/150x150/1660389544.jpeg?s=5c22604d71b92ae4afb95bb2f36d01364b5a4be1",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_017af_hzgpxeeLdvSDKabfHjJJFx7U/100x100/1660389544.jpeg?s=0ba84031683ded4a9e69deca515e6e954f600545",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_017af_hzgpxeeLdvSDKabfHjJJFx7U/50x50/1660389544.jpeg?s=fac89c1c91714eabe688f30c8f5a95fde4216ffb",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_017af_hzgpxeeLdvSDKabfHjJJFx7U/20x20/1660389544.jpeg?s=af2a99bebdc710ca739fcbe2c080a4a06812a2d9",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_017af_hzgpxeeLdvSDKabfHjJJFx7U",
+            "timestamp": 1660389544,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_017af_hzgpxeeLdvSDKabfHjJJFx7U/1660389544.jpeg?s=85e75016944a2ba3f357f1ada4098c2195324431",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/6031433848-lego-creator-space-31164",
+      "promoted": false,
+      "photo": {
+        "id": 24464530837,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#796D7D",
+        "dominant_color_opaque": "#D7D3D8",
+        "url": "https://images1.vinted.net/t/03_00760_3KDQ6Y6iJzKXCbKTZac4tS5U/f800/1742906756.jpeg?s=408fc463fc657c609ef04d2c7c72f93cdcd88740",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/03_00760_3KDQ6Y6iJzKXCbKTZac4tS5U/70x100/1742906756.jpeg?s=9b5f4320c0a2cdfacfd2c92d27e86622cab87287",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/03_00760_3KDQ6Y6iJzKXCbKTZac4tS5U/150x210/1742906756.jpeg?s=7192231c673089533dbd06d99b716b599e4fbc1b",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/03_00760_3KDQ6Y6iJzKXCbKTZac4tS5U/310x430/1742906756.jpeg?s=a28b3b8fac9345fd7fc744c68a0bcd0c7124f8ba",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/03_00760_3KDQ6Y6iJzKXCbKTZac4tS5U/f800/1742906756.jpeg?s=408fc463fc657c609ef04d2c7c72f93cdcd88740",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/03_00760_3KDQ6Y6iJzKXCbKTZac4tS5U/f800/1742906756.jpeg?s=408fc463fc657c609ef04d2c7c72f93cdcd88740",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/03_00760_3KDQ6Y6iJzKXCbKTZac4tS5U/f800/1742906756.jpeg?s=408fc463fc657c609ef04d2c7c72f93cdcd88740",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "03_00760_3KDQ6Y6iJzKXCbKTZac4tS5U",
+          "timestamp": 1742906756,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/03_00760_3KDQ6Y6iJzKXCbKTZac4tS5U/1742906756.jpeg?s=bc4fc966cc9085dd12eea94f6c7159ed16f3c6cf",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 3,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "1.7",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "21.7",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "8 ans / 128 cm",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "8 ans / 128 cm · Neuf avec étiquette",
+        "accessibility_label": "Lego Creator Space 31164, marque: LEGO, état: Neuf avec étiquette, taille: 8 ans / 128 cm, 20,00 €, 21,70 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 4.246926307678223,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5741532585,
+      "title": "Ser LEGO 31164 (novidade)",
+      "price": {
+        "amount": "25.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5741532585-ser-lego-31164-novidade",
+      "user": {
+        "id": 147683038,
+        "login": "urban_drip",
+        "profile_url": "https://www.vinted.fr/member/147683038-urbandrip",
+        "photo": {
+          "id": 228531629,
+          "width": 800,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/04_01f72_cNnGwd9kh6XXgnoNJacqfwcu/f800/1738340296.jpeg?s=b29bc4b861cc36327db2de2c4af5f9e9ac8ee84f",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/04_01f72_cNnGwd9kh6XXgnoNJacqfwcu/310x310/1738340296.jpeg?s=2f0fa045460ef359cb81fcbe21e68bf5ed65fdac",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/04_01f72_cNnGwd9kh6XXgnoNJacqfwcu/150x150/1738340296.jpeg?s=65316869c8f73a524879c962512469776765b777",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/04_01f72_cNnGwd9kh6XXgnoNJacqfwcu/100x100/1738340296.jpeg?s=a29439479f1d840afd91d3687ef4859c557849f8",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/04_01f72_cNnGwd9kh6XXgnoNJacqfwcu/50x50/1738340296.jpeg?s=d3d2ba8d03634c042f4785fffb3acd6f55a23992",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/04_01f72_cNnGwd9kh6XXgnoNJacqfwcu/20x20/1738340296.jpeg?s=42786aefbf4729eb6594e3e22b985623945da761",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "04_01f72_cNnGwd9kh6XXgnoNJacqfwcu",
+            "timestamp": 1738340296,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/04_01f72_cNnGwd9kh6XXgnoNJacqfwcu/1738340296.jpeg?s=43577743571a87ca16b9f104578461594851a898",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5741532585-ser-lego-31164-novidade",
+      "promoted": false,
+      "photo": {
+        "id": 23259905592,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#635355",
+        "dominant_color_opaque": "#D0CBCC",
+        "url": "https://images1.vinted.net/t/04_02334_5uhqBiRoUrpz6atJQTpGDw15/f800/1738339189.jpeg?s=d2405c983f27c48ca50289697a3f132ebdf34c6e",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_02334_5uhqBiRoUrpz6atJQTpGDw15/70x100/1738339189.jpeg?s=2a6be7f3940313fd33c6369573e6611d0afd15d1",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_02334_5uhqBiRoUrpz6atJQTpGDw15/150x210/1738339189.jpeg?s=0d43f1974354cd24f8805a51cdca638310031270",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_02334_5uhqBiRoUrpz6atJQTpGDw15/310x430/1738339189.jpeg?s=812e43bcc7e597e07791f5534e5f6efac051781c",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_02334_5uhqBiRoUrpz6atJQTpGDw15/f800/1738339189.jpeg?s=d2405c983f27c48ca50289697a3f132ebdf34c6e",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_02334_5uhqBiRoUrpz6atJQTpGDw15/f800/1738339189.jpeg?s=d2405c983f27c48ca50289697a3f132ebdf34c6e",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_02334_5uhqBiRoUrpz6atJQTpGDw15/f800/1738339189.jpeg?s=d2405c983f27c48ca50289697a3f132ebdf34c6e",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_02334_5uhqBiRoUrpz6atJQTpGDw15",
+          "timestamp": 1738339189,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_02334_5uhqBiRoUrpz6atJQTpGDw15/1738339189.jpeg?s=d757d8e27c749f2353a00286cb319099d093e1c7",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 6,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "1.95",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "26.95",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "8 ans / 128 cm",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "8 ans / 128 cm · Neuf avec étiquette",
+        "accessibility_label": "Ser LEGO 31164 (novidade), marque: LEGO, état: Neuf avec étiquette, taille: 8 ans / 128 cm, 25,00 €, 26,95 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 4.091296195983887,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5916953839,
+      "title": "LEGO Creator 3 in 1 : Ruimterobot : # 31164 ' Sealed ' Brand NEW",
+      "price": {
+        "amount": "22.99",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5916953839-lego-creator-3-in-1-ruimterobot-31164-sealed-brand-new",
+      "user": {
+        "id": 230017099,
+        "login": "tomlegoboy",
+        "profile_url": "https://www.vinted.fr/member/230017099-tomlegoboy",
+        "photo": {
+          "id": 211029681,
+          "width": 800,
+          "height": 600,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_02292_hgLoGVZK5VNmxmseaPtYGd5J/f800/1727627108.jpeg?s=8e39c2d9f9da2fe5f20d84eac6f597a883d14e9e",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_02292_hgLoGVZK5VNmxmseaPtYGd5J/310x310/1727627108.jpeg?s=6546a34cb5d4a249c324fdaec73e060c9c7fd86c",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_02292_hgLoGVZK5VNmxmseaPtYGd5J/150x150/1727627108.jpeg?s=db161ba7fb4fd4aab63b95fe71b3f3fc09897698",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_02292_hgLoGVZK5VNmxmseaPtYGd5J/100x100/1727627108.jpeg?s=7fd0baea6532d642ed484f735dd6c8dc0b796d5e",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_02292_hgLoGVZK5VNmxmseaPtYGd5J/50x50/1727627108.jpeg?s=06bde5b5d29e8e06c4b794edabd5c96689dcc86e",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_02292_hgLoGVZK5VNmxmseaPtYGd5J/20x20/1727627108.jpeg?s=a61f8e1265e6274c943b07ca56669da86a2435f5",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_02292_hgLoGVZK5VNmxmseaPtYGd5J",
+            "timestamp": 1727627108,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_02292_hgLoGVZK5VNmxmseaPtYGd5J/1727627108.jpeg?s=cdc12bad932675d574aa5ca0e4aa76f6ffd62434",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5916953839-lego-creator-3-in-1-ruimterobot-31164-sealed-brand-new",
+      "promoted": false,
+      "photo": {
+        "id": 23988599040,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#7F6A6A",
+        "dominant_color_opaque": "#D9D2D2",
+        "url": "https://images1.vinted.net/t/03_01d7e_BsRim1qVMzLP8bowDbgWctoe/f800/r3/1741173321.jpeg?s=a5029e08a8d634cd4fc96e0bfc3f602b93a7ad86",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/03_01d7e_BsRim1qVMzLP8bowDbgWctoe/70x100/r3/1741173321.jpeg?s=90896a3110c97123bcf9353bb889374d96ef6caa",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/03_01d7e_BsRim1qVMzLP8bowDbgWctoe/150x210/r3/1741173321.jpeg?s=df4c34d77b6450f837b0e553398a1ee7cfdbad15",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/03_01d7e_BsRim1qVMzLP8bowDbgWctoe/310x430/r3/1741173321.jpeg?s=bac2ed9f404f73e6a973c156ac831fef217a1868",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/03_01d7e_BsRim1qVMzLP8bowDbgWctoe/f800/r3/1741173321.jpeg?s=a5029e08a8d634cd4fc96e0bfc3f602b93a7ad86",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/03_01d7e_BsRim1qVMzLP8bowDbgWctoe/f800/r3/1741173321.jpeg?s=a5029e08a8d634cd4fc96e0bfc3f602b93a7ad86",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/03_01d7e_BsRim1qVMzLP8bowDbgWctoe/f800/r3/1741173321.jpeg?s=a5029e08a8d634cd4fc96e0bfc3f602b93a7ad86",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "03_01d7e_BsRim1qVMzLP8bowDbgWctoe",
+          "timestamp": 1741173321,
+          "orientation": 3
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/03_01d7e_BsRim1qVMzLP8bowDbgWctoe/r3/1741173321.jpeg?s=d49631703d518ab7c181a194fd87d3a87afba2c3",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 5,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "1.85",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "24.84",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf sans étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique · Neuf sans étiquette",
+        "accessibility_label": "LEGO Creator 3 in 1 : Ruimterobot : # 31164 ' Sealed ' Brand NEW, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 22,99 €, 24,84 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 3.269912004470825,
+        "matched_queries": []
+      }
+    }
+  ],
+  "dominant_brand": null,
+  "search_tracking_params": {
+    "search_correlation_id": "963867ca-693b-42f8-a1d7-b972c734509d",
+    "search_session_id": "17315881-bb8c-4b5e-8be7-706ae45b30a8",
+    "global_search_session_id": "d1d6af87-8e9b-4d63-8bbf-44c68d54d8d7"
+  },
+  "pagination": {
+    "current_page": 1,
+    "total_pages": 1,
+    "total_entries": 5,
+    "per_page": 96,
+    "time": 1743350967
+  },
+  "code": 0,
+  "setId": "31164"
+}

@@ -5,7 +5,7 @@
     "price": 5.99,
     "previousPrice": 29.99,
     "discount": 80,
-    "temperature": 36.78,
+    "temperature": 46.78,
     "setId": "Error"
   },
   {
@@ -14,7 +14,7 @@
     "price": 137.71,
     "previousPrice": 199.99,
     "discount": 31,
-    "temperature": 16.63,
+    "temperature": 29.23,
     "setId": "42202"
   },
   {
@@ -23,7 +23,7 @@
     "price": 681.07,
     "previousPrice": 768.96,
     "discount": 11,
-    "temperature": 80.68,
+    "temperature": 90.68,
     "setId": "75192"
   },
   {
@@ -32,7 +32,7 @@
     "price": 15.03,
     "previousPrice": 22.81,
     "discount": 34,
-    "temperature": 36.52,
+    "temperature": 38.83,
     "setId": "31164"
   },
   {
@@ -41,7 +41,7 @@
     "price": 26.49,
     "previousPrice": 29.98,
     "discount": 12,
-    "temperature": 7.03,
+    "temperature": 11.03,
     "setId": "31172"
   },
   {
@@ -59,7 +59,7 @@
     "price": 26.06,
     "previousPrice": 37.71,
     "discount": 31,
-    "temperature": 23.01,
+    "temperature": 21.61,
     "setId": "43231"
   },
   {
@@ -77,7 +77,7 @@
     "price": 87.99,
     "previousPrice": 139.99,
     "discount": 37,
-    "temperature": 53.77,
+    "temperature": 57.85,
     "setId": "31141"
   },
   {
@@ -86,7 +86,7 @@
     "price": 44.99,
     "previousPrice": 59.99,
     "discount": 25,
-    "temperature": -38.86,
+    "temperature": -36.86,
     "setId": "Error"
   },
   {
@@ -95,7 +95,7 @@
     "price": 104.85,
     "previousPrice": 139,
     "discount": 25,
-    "temperature": 34.77,
+    "temperature": 36.77,
     "setId": "21058"
   },
   {

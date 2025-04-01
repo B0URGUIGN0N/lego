@@ -41,44 +41,44 @@ connectToDatabase().then(async ({ db, client }) => {
       const maxPrice = req.query.price ? parseFloat(req.query.price) : null; 
       const dateFilter = req.query.date ? parseInt(req.query.date) : null; 
       const filterBy = req.query.filterBy || null; 
+      const saleId = req.query.id || null; 
   
       let query = {};
-
+  
+      if (saleId) {
+        query.id = saleId; 
+      }
       if (maxPrice) {
         query.price = { $lte: maxPrice }; 
       }
-      if (dateFilter) {
-        query.timestamp = { $gte: dateFilter }; 
-      }
-
+  
       let sort = { price: 1 }; 
       if (filterBy === "best-discount") {
         sort = { discount: -1 }; 
-      } else if (filterBy === "most-commented") {
-        sort = { comments: -1 }; 
       } else if (filterBy === "hottest") {
         sort = { temperature: -1 }; 
       }
-
+  
       const deals = await db.collection('deals')
           .find(query)
           .sort(sort)
           .limit(limit)
           .toArray();
-
+  
       res.json(deals);
     } catch (error) {
       console.error("Error while searching deals:", error);
       res.status(500).json({ error: "Server error" });
     }
   });
+  
 
-  app.get('/vintedDeals', async (req, res) => {
+  app.get('/sales', async (req, res) => {
     try {
-      const vintedDeals = await db.collection('vintedDeals').find().toArray();
-      res.json(vintedDeals);
+      const sales = await db.collection('vintedDeals').find().toArray();
+      res.json(sales);
     } catch (error) {
-      console.error("Error while retrieving vintedDeals:", error);
+      console.error("Error while retrieving sales:", error);
       res.status(500).json({ error: "Server error" });
     }
   });
@@ -86,47 +86,38 @@ connectToDatabase().then(async ({ db, client }) => {
   app.get('/sales/search', async (req, res) => {
     try {
       const limit = parseInt(req.query.limit) || 12; 
-      const saleId = req.query.legoSetId || null; 
+      const saleId = req.query.setId || null; 
+      const sortPrice = req.query.sortPrice || 'asc'; 
   
       let query = {};
-
+  
       if (saleId) {
-        query.legoSetId = saleId; 
+        query.setId = saleId; 
       }
-
-      let sort = { price: 1 }; 
-
+  
+      let sort = {};
+  
+      if (sortPrice === 'asc') {
+        sort = { price: 1 }; 
+      } else if (sortPrice === 'desc') {
+        sort = { price: -1 }; 
+      } else {
+        sort = { price: 1 }; // default to ascending order
+      }
+  
       const sales = await db.collection('sales')
           .find(query)
           .sort(sort)
           .limit(limit)
           .toArray();
-
+  
       res.json(sales);
     } catch (error) {
       console.error("Error while searching sales:", error);
       res.status(500).json({ error: "Server error" });
     }
   });
-
-  app.get('/deals/:id', async (req, res) => {
-    try {
-      const dealId = req.params.id;
-      console.log(`Searching for deal with ID: ${dealId}`);
-
-      const deal = await db.collection('deals').findOne({ id: dealId });
-
-      if (!deal) {
-        return res.status(404).json({ error: "Deal not found" });
-      }
-
-      res.json(deal);
-    } catch (error) {
-      console.error("Error while retrieving the deal:", error);
-      res.status(500).json({ error: "Server error" });
-    }
-  });
-
+  
   // Close the MongoDB connection when server is stopped
   process.on('SIGINT', async () => {
     await client.close();

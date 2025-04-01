@@ -1,0 +1,184 @@
+{
+  "items": [
+    {
+      "id": 6035752632,
+      "title": "Lego the evolution of Stem  21355",
+      "price": {
+        "amount": "72.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/6035752632-lego-the-evolution-of-stem-21355",
+      "user": {
+        "id": 42182735,
+        "login": "eszznokra",
+        "profile_url": "https://www.vinted.fr/member/42182735-eszznokra",
+        "photo": {
+          "id": 224768139,
+          "width": 369,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/03_0136a_NrkQzcULnoGkwkDi1KwhqtSY/f800/1736071215.jpeg?s=9546ee6bfe7c8c06f468c9146b289ab280949c08",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/03_0136a_NrkQzcULnoGkwkDi1KwhqtSY/310x310/1736071215.jpeg?s=8ccaff99ed6872606f42c8267fac736b70864f55",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/03_0136a_NrkQzcULnoGkwkDi1KwhqtSY/150x150/1736071215.jpeg?s=eff91848d211d13cfca4b781c3479a30e160767c",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/03_0136a_NrkQzcULnoGkwkDi1KwhqtSY/100x100/1736071215.jpeg?s=906a448a6292f6b24257d8daf17c82e18169c866",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/03_0136a_NrkQzcULnoGkwkDi1KwhqtSY/50x50/1736071215.jpeg?s=e97adf15afc32d83143484f75252b123668052b0",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/03_0136a_NrkQzcULnoGkwkDi1KwhqtSY/20x20/1736071215.jpeg?s=f8a94b15e1a85a33b64c721aad15055facf9a627",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "03_0136a_NrkQzcULnoGkwkDi1KwhqtSY",
+            "timestamp": 1736071215,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/03_0136a_NrkQzcULnoGkwkDi1KwhqtSY/1736071215.jpeg?s=ba19fef85a3d71cdc2e9fc8d275b27e7a5a6ec1d",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/6035752632-lego-the-evolution-of-stem-21355",
+      "promoted": false,
+      "photo": {
+        "id": 24482522547,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#5F423F",
+        "dominant_color_opaque": "#CFC6C5",
+        "url": "https://images1.vinted.net/t/04_01d61_Hy6LFkz93e64zh3DCxeRYHAa/f800/1742982630.jpeg?s=8018d7b43e54d7c83249e8a0eee5d437f157ee74",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_01d61_Hy6LFkz93e64zh3DCxeRYHAa/70x100/1742982630.jpeg?s=8f89d67c87ce406cf19b8e488615fbe97b29f838",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_01d61_Hy6LFkz93e64zh3DCxeRYHAa/150x210/1742982630.jpeg?s=1bae450b3174164589b13f99ae0bc151dc183ee9",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_01d61_Hy6LFkz93e64zh3DCxeRYHAa/310x430/1742982630.jpeg?s=6302b07ea38aef18c6d8b81b2b469d05128b0533",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_01d61_Hy6LFkz93e64zh3DCxeRYHAa/f800/1742982630.jpeg?s=8018d7b43e54d7c83249e8a0eee5d437f157ee74",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_01d61_Hy6LFkz93e64zh3DCxeRYHAa/f800/1742982630.jpeg?s=8018d7b43e54d7c83249e8a0eee5d437f157ee74",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_01d61_Hy6LFkz93e64zh3DCxeRYHAa/f800/1742982630.jpeg?s=8018d7b43e54d7c83249e8a0eee5d437f157ee74",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_01d61_Hy6LFkz93e64zh3DCxeRYHAa",
+          "timestamp": 1742982630,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_01d61_Hy6LFkz93e64zh3DCxeRYHAa/1742982630.jpeg?s=f025a797720f6d54ab47ed0869821392eb1d241f",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 11,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "4.3",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "76.3",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique · Neuf avec étiquette",
+        "accessibility_label": "Lego the evolution of Stem  21355, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 72,00 €, 76,30 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 37.964764,
+        "matched_queries": []
+      }
+    }
+  ],
+  "dominant_brand": null,
+  "search_tracking_params": {
+    "search_correlation_id": "baf3ac77-da7a-48c2-b16e-640c1bc9dbaa",
+    "search_session_id": "b9579786-6779-4094-81ea-e2c348878a8b",
+    "global_search_session_id": "495aac6b-1b8c-4b1d-bca3-e7557953b6ba"
+  },
+  "pagination": {
+    "current_page": 1,
+    "total_pages": 1,
+    "total_entries": 1,
+    "per_page": 96,
+    "time": 1743350971
+  },
+  "code": 0,
+  "setId": "21355"
+}

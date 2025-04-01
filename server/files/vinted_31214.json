@@ -1,0 +1,1229 @@
+{
+  "items": [
+    {
+      "id": 5907423485,
+      "title": "Lego Art 31214 Love",
+      "price": {
+        "amount": "60.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5907423485-lego-art-31214-love",
+      "user": {
+        "id": 249481331,
+        "login": "enyavisser",
+        "profile_url": "https://www.vinted.fr/member/249481331-enyavisser",
+        "photo": {
+          "id": 224880816,
+          "width": 485,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_00be8_dZ8f9RdoCeRueEZfnfFqSJNU/f800/1736108266.jpeg?s=25342d115eb6fc8b2de49fbc3acef277596c1747",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_00be8_dZ8f9RdoCeRueEZfnfFqSJNU/310x310/1736108266.jpeg?s=e0815cab1d35c322190cabe53fef9f928c7c0137",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_00be8_dZ8f9RdoCeRueEZfnfFqSJNU/150x150/1736108266.jpeg?s=2cceb1f1bc8dbd0db30e62c893c561c0ba0b6c4e",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_00be8_dZ8f9RdoCeRueEZfnfFqSJNU/100x100/1736108266.jpeg?s=ddf871336940e3b22733ec749f80c40807767677",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_00be8_dZ8f9RdoCeRueEZfnfFqSJNU/50x50/1736108266.jpeg?s=2f31be3602fac78721fb6efea351e7d0c8692786",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_00be8_dZ8f9RdoCeRueEZfnfFqSJNU/20x20/1736108266.jpeg?s=08980c942185bafaf346ebe5c1b392f48977fd0c",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_00be8_dZ8f9RdoCeRueEZfnfFqSJNU",
+            "timestamp": 1736108266,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_00be8_dZ8f9RdoCeRueEZfnfFqSJNU/1736108266.jpeg?s=188881dc03546c8fdf959a8f3138192a79e27edb",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5907423485-lego-art-31214-love",
+      "promoted": false,
+      "photo": {
+        "id": 23948907815,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#732227",
+        "dominant_color_opaque": "#D5BDBE",
+        "url": "https://images1.vinted.net/t/04_02210_18fNEVJaaL5envbNJSvYiJAB/f800/1741005926.jpeg?s=a79e3c9ebab3f375fe4706801c2b604e37a5a524",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_02210_18fNEVJaaL5envbNJSvYiJAB/70x100/1741005926.jpeg?s=b488418bada8ba081949805b80b919662bb99130",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_02210_18fNEVJaaL5envbNJSvYiJAB/150x210/1741005926.jpeg?s=d84d7876d1c632a91ab50f83bfc634212ebd545f",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_02210_18fNEVJaaL5envbNJSvYiJAB/310x430/1741005926.jpeg?s=95803672d8e8a0e181ed26bda8d1022d265b989b",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_02210_18fNEVJaaL5envbNJSvYiJAB/f800/1741005926.jpeg?s=a79e3c9ebab3f375fe4706801c2b604e37a5a524",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_02210_18fNEVJaaL5envbNJSvYiJAB/f800/1741005926.jpeg?s=a79e3c9ebab3f375fe4706801c2b604e37a5a524",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_02210_18fNEVJaaL5envbNJSvYiJAB/f800/1741005926.jpeg?s=a79e3c9ebab3f375fe4706801c2b604e37a5a524",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_02210_18fNEVJaaL5envbNJSvYiJAB",
+          "timestamp": 1741005926,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_02210_18fNEVJaaL5envbNJSvYiJAB/1741005926.jpeg?s=da0e8e9299ef3aa86b2780b025a894d5700b60a1",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 82,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "3.7",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "63.7",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique · Neuf avec étiquette",
+        "accessibility_label": "Lego Art 31214 Love, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 60,00 €, 63,70 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 5.409999847412109,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 6051703388,
+      "title": "Lego ART Love 31214",
+      "price": {
+        "amount": "65.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/6051703388-lego-art-love-31214",
+      "user": {
+        "id": 254123655,
+        "login": "brickshouse",
+        "profile_url": "https://www.vinted.fr/member/254123655-brickshouse",
+        "photo": {
+          "id": 229309457,
+          "width": 800,
+          "height": 532,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/04_0068c_hcAkLyyguCTHrDuFRbRJriAD/f800/1738831681.jpeg?s=b9babe8d64dc494941e11729306b5666a60c4908",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/04_0068c_hcAkLyyguCTHrDuFRbRJriAD/310x310/1738831681.jpeg?s=d0cd00612c950bc9298c422be98070eba9d501b4",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/04_0068c_hcAkLyyguCTHrDuFRbRJriAD/150x150/1738831681.jpeg?s=f36881d6d4d9a536210e443f0cf52f5fe00fd8fb",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/04_0068c_hcAkLyyguCTHrDuFRbRJriAD/100x100/1738831681.jpeg?s=38f8704651aa60265cd6b636d03dbaf9dd6ef21b",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/04_0068c_hcAkLyyguCTHrDuFRbRJriAD/50x50/1738831681.jpeg?s=afdda3a56e793642541a4589802c3731a3a7364b",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/04_0068c_hcAkLyyguCTHrDuFRbRJriAD/20x20/1738831681.jpeg?s=91f52fc438062fb7de271f52ac36a0cec79d2736",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "04_0068c_hcAkLyyguCTHrDuFRbRJriAD",
+            "timestamp": 1738831681,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/04_0068c_hcAkLyyguCTHrDuFRbRJriAD/1738831681.jpeg?s=6578af76fb6dda0c0c882882e40e65f7eaaef75b",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/6051703388-lego-art-love-31214",
+      "promoted": false,
+      "photo": {
+        "id": 24549603960,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#B4473C",
+        "dominant_color_opaque": "#E9C8C5",
+        "url": "https://images1.vinted.net/t/03_01343_kftPd2KPmyMFLL9KKsvoVFJo/f800/1743246572.jpeg?s=6ea624fbd55f02de794237478039313738e9755d",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/03_01343_kftPd2KPmyMFLL9KKsvoVFJo/70x100/1743246572.jpeg?s=5b6cf0cb03bd984d01e5a0bf8b4cf9ef57415ffe",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/03_01343_kftPd2KPmyMFLL9KKsvoVFJo/150x210/1743246572.jpeg?s=fbfeab6520c693d2b1d525530cd14e1b6725e6ee",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/03_01343_kftPd2KPmyMFLL9KKsvoVFJo/310x430/1743246572.jpeg?s=63685e6d211097a003eca4f9c9f7bdc68645c018",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/03_01343_kftPd2KPmyMFLL9KKsvoVFJo/f800/1743246572.jpeg?s=6ea624fbd55f02de794237478039313738e9755d",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/03_01343_kftPd2KPmyMFLL9KKsvoVFJo/f800/1743246572.jpeg?s=6ea624fbd55f02de794237478039313738e9755d",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/03_01343_kftPd2KPmyMFLL9KKsvoVFJo/f800/1743246572.jpeg?s=6ea624fbd55f02de794237478039313738e9755d",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "03_01343_kftPd2KPmyMFLL9KKsvoVFJo",
+          "timestamp": 1743246572,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/03_01343_kftPd2KPmyMFLL9KKsvoVFJo/1743246572.jpeg?s=6a363067d72f60cc3c26baf5f50a20378a885981",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 19,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "3.95",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "68.95",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique · Neuf avec étiquette",
+        "accessibility_label": "Lego ART Love 31214, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 65,00 €, 68,95 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 4.520033359527588,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5798554916,
+      "title": "Lego 31214 LOVE 3D Art",
+      "price": {
+        "amount": "60.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5798554916-lego-31214-love-3d-art",
+      "user": {
+        "id": 42620787,
+        "login": "frandiazc",
+        "profile_url": "https://www.vinted.fr/member/42620787-frandiazc",
+        "photo": {
+          "id": 37454491,
+          "width": 96,
+          "height": 96,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/01_00874_TreRq3RtX8kW6ouRMEUNnmYV/f800/1603647216.jpeg?s=c6619aeccb69d7ff0b701051c78355afb2647561",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/01_00874_TreRq3RtX8kW6ouRMEUNnmYV/310x310/1603647216.jpeg?s=884b5c921c6597b36df1ca4ffddc1a8e5d289525",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/01_00874_TreRq3RtX8kW6ouRMEUNnmYV/150x150/1603647216.jpeg?s=a200e05e00198fd966b5457696fb3c56974b6c15",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/01_00874_TreRq3RtX8kW6ouRMEUNnmYV/100x100/1603647216.jpeg?s=123371ee6c098430a3b8079b737539f6d1a7b10d",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/01_00874_TreRq3RtX8kW6ouRMEUNnmYV/50x50/1603647216.jpeg?s=1fbd538b9e04a4bacb6a0cbbe399123a1d79a9fc",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/01_00874_TreRq3RtX8kW6ouRMEUNnmYV/20x20/1603647216.jpeg?s=6f7a14e56bc6763040e5cae77897dffb88a1a651",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "01_00874_TreRq3RtX8kW6ouRMEUNnmYV",
+            "timestamp": 1603647216,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/01_00874_TreRq3RtX8kW6ouRMEUNnmYV/1603647216.jpeg?s=93e7c8753c185cb9adcb669e8b062088770e5662",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5798554916-lego-31214-love-3d-art",
+      "promoted": false,
+      "photo": {
+        "id": 23574890680,
+        "image_no": 1,
+        "width": 597,
+        "height": 800,
+        "dominant_color": "#B05B69",
+        "dominant_color_opaque": "#E7CED2",
+        "url": "https://images1.vinted.net/t/04_01683_ELAvGayMgMJ3BaEtKzGRewbb/f800/1739604318.jpeg?s=c5b8c60df930478c3276f9e3eec40930ad077f84",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_01683_ELAvGayMgMJ3BaEtKzGRewbb/70x100/1739604318.jpeg?s=8608772f1e8784a755367b9f0f233ca3861f3ebc",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_01683_ELAvGayMgMJ3BaEtKzGRewbb/150x210/1739604318.jpeg?s=743b14a1ab9133e724420fcabd84f3ae36e56003",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_01683_ELAvGayMgMJ3BaEtKzGRewbb/310x430/1739604318.jpeg?s=4c9db6ad295032d693eeaf9f665d7d6b3292805f",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_01683_ELAvGayMgMJ3BaEtKzGRewbb/f800/1739604318.jpeg?s=c5b8c60df930478c3276f9e3eec40930ad077f84",
+            "width": 319,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_01683_ELAvGayMgMJ3BaEtKzGRewbb/f800/1739604318.jpeg?s=c5b8c60df930478c3276f9e3eec40930ad077f84",
+            "width": 466,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_01683_ELAvGayMgMJ3BaEtKzGRewbb/f800/1739604318.jpeg?s=c5b8c60df930478c3276f9e3eec40930ad077f84",
+            "width": 271,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_01683_ELAvGayMgMJ3BaEtKzGRewbb",
+          "timestamp": 1739604318,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_01683_ELAvGayMgMJ3BaEtKzGRewbb/1739604318.jpeg?s=6211b9db6ab5165bbe1efbed030098b493979152",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 73,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "3.7",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "63.7",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique · Neuf avec étiquette",
+        "accessibility_label": "Lego 31214 LOVE 3D Art, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 60,00 €, 63,70 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 4.326470851898193,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 6040833725,
+      "title": "LEGO 31214 Art Love",
+      "price": {
+        "amount": "65.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/6040833725-lego-31214-art-love",
+      "user": {
+        "id": 241508675,
+        "login": "ferran_l-go",
+        "profile_url": "https://www.vinted.fr/member/241508675-ferranl-go",
+        "photo": {
+          "id": 217840771,
+          "width": 482,
+          "height": 651,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/04_026f2_Wdy5c4GvjFdCfkx4VjYAHsXM/f800/1731408566.jpeg?s=da4e0505445d5e4b96fc469c3738bd0e554bcc8a",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/04_026f2_Wdy5c4GvjFdCfkx4VjYAHsXM/310x310/1731408566.jpeg?s=0138d977122e9eb6f8c795d0f103673e870d0048",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/04_026f2_Wdy5c4GvjFdCfkx4VjYAHsXM/150x150/1731408566.jpeg?s=ce6326e2f856469ab078e5c695e700fcdd1647ca",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/04_026f2_Wdy5c4GvjFdCfkx4VjYAHsXM/100x100/1731408566.jpeg?s=2b1664f4d1a415d9d5bc61df2f4f304ea06b6bc5",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/04_026f2_Wdy5c4GvjFdCfkx4VjYAHsXM/50x50/1731408566.jpeg?s=141207722a36ee83feeb2d4d882311b466db4eea",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/04_026f2_Wdy5c4GvjFdCfkx4VjYAHsXM/20x20/1731408566.jpeg?s=98188ccaf785ca82362fb6cc55ea48277bf9de4d",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "04_026f2_Wdy5c4GvjFdCfkx4VjYAHsXM",
+            "timestamp": 1731408566,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/04_026f2_Wdy5c4GvjFdCfkx4VjYAHsXM/1731408566.jpeg?s=7e682e3220a602ba2cc48e99605d4335e3ea5739",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/6040833725-lego-31214-art-love",
+      "promoted": false,
+      "photo": {
+        "id": 24503645660,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#7F2625",
+        "dominant_color_opaque": "#D9BEBE",
+        "url": "https://images1.vinted.net/t/01_009ab_Juyb6ggapPKJL8Wn9XnhLGWh/f800/1743066124.jpeg?s=10871eb4e0adead0c714d5922bd6874c063c8ac3",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/01_009ab_Juyb6ggapPKJL8Wn9XnhLGWh/70x100/1743066124.jpeg?s=9e79d9d7b4f61dcbae4696b11e2c3c6e9db3753b",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/01_009ab_Juyb6ggapPKJL8Wn9XnhLGWh/150x210/1743066124.jpeg?s=1f0ed91c59b1dbd4e5220fc47bc3d36ecafae6cc",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/01_009ab_Juyb6ggapPKJL8Wn9XnhLGWh/310x430/1743066124.jpeg?s=7486c3600b1dbbebc34f5fcfa9d17b2ee2fdcdcf",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/01_009ab_Juyb6ggapPKJL8Wn9XnhLGWh/f800/1743066124.jpeg?s=10871eb4e0adead0c714d5922bd6874c063c8ac3",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/01_009ab_Juyb6ggapPKJL8Wn9XnhLGWh/f800/1743066124.jpeg?s=10871eb4e0adead0c714d5922bd6874c063c8ac3",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/01_009ab_Juyb6ggapPKJL8Wn9XnhLGWh/f800/1743066124.jpeg?s=10871eb4e0adead0c714d5922bd6874c063c8ac3",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "01_009ab_Juyb6ggapPKJL8Wn9XnhLGWh",
+          "timestamp": 1743066124,
+          "orientation": 0
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/01_009ab_Juyb6ggapPKJL8Wn9XnhLGWh/1743066124.jpeg?s=6e0ef64a75528d9e8c686950bea53c2b29d04dda",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 12,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "3.95",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "68.95",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique · Neuf avec étiquette",
+        "accessibility_label": "LEGO 31214 Art Love, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 65,00 €, 68,95 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 3.836148023605347,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 6043583132,
+      "title": "Lego Art 31214",
+      "price": {
+        "amount": "75.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/6043583132-lego-art-31214",
+      "user": {
+        "id": 253311990,
+        "login": "keyvibeshop",
+        "profile_url": "https://www.vinted.fr/member/253311990-keyvibeshop",
+        "photo": {
+          "id": 228601572,
+          "width": 800,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/04_02491_JesZjrKME4se8h8VtwrZr617/f800/1738400245.jpeg?s=492b6fc1fe1182fe42020603f0971f613e94bdb1",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/04_02491_JesZjrKME4se8h8VtwrZr617/310x310/1738400245.jpeg?s=87302cf909541ce1a002d4650dec8a26d7e0f2a9",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/04_02491_JesZjrKME4se8h8VtwrZr617/150x150/1738400245.jpeg?s=547b3d1b3893a9c5213b8966ebaf9849c119e667",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/04_02491_JesZjrKME4se8h8VtwrZr617/100x100/1738400245.jpeg?s=d771491babafef607ec791d8e1eacbf378ff0a6b",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/04_02491_JesZjrKME4se8h8VtwrZr617/50x50/1738400245.jpeg?s=e389865afca38b9c606abe2bef5b717fc599cc29",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/04_02491_JesZjrKME4se8h8VtwrZr617/20x20/1738400245.jpeg?s=27618852989c00c3d5d298c04511b03c8bd50c85",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "04_02491_JesZjrKME4se8h8VtwrZr617",
+            "timestamp": 1738400245,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/04_02491_JesZjrKME4se8h8VtwrZr617/1738400245.jpeg?s=7005c48b4dc5cf001d37e113de3fe47b34467df8",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/6043583132-lego-art-31214",
+      "promoted": false,
+      "photo": {
+        "id": 24515126839,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#7B4240",
+        "dominant_color_opaque": "#D7C6C6",
+        "url": "https://images1.vinted.net/t/04_02412_Ay5jPGx3M56WZyWJFY52r5g4/f800/1743094621.jpeg?s=3e070edd52766b6dd0bc33134746765d57dd54b7",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_02412_Ay5jPGx3M56WZyWJFY52r5g4/70x100/1743094621.jpeg?s=ed8b3ff0c2acf7cda02a86bba0b21454344f2c66",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_02412_Ay5jPGx3M56WZyWJFY52r5g4/150x210/1743094621.jpeg?s=66f8bc7b06fe04c3dfcb4a439efb28c25e64b3f5",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_02412_Ay5jPGx3M56WZyWJFY52r5g4/310x430/1743094621.jpeg?s=a8ed00b7365878bca92c89470e365d71f93a335e",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_02412_Ay5jPGx3M56WZyWJFY52r5g4/f800/1743094621.jpeg?s=3e070edd52766b6dd0bc33134746765d57dd54b7",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_02412_Ay5jPGx3M56WZyWJFY52r5g4/f800/1743094621.jpeg?s=3e070edd52766b6dd0bc33134746765d57dd54b7",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_02412_Ay5jPGx3M56WZyWJFY52r5g4/f800/1743094621.jpeg?s=3e070edd52766b6dd0bc33134746765d57dd54b7",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_02412_Ay5jPGx3M56WZyWJFY52r5g4",
+          "timestamp": 1743094621,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_02412_Ay5jPGx3M56WZyWJFY52r5g4/1743094621.jpeg?s=5423e593fd7405c13bbd21259b87cc2c157516ae",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 4,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "4.45",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "79.45",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Neuf avec étiquette",
+        "accessibility_label": "Lego Art 31214, marque: LEGO, état: Neuf avec étiquette, 75,00 €, 79,45 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 1.652999877929688,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5779544970,
+      "title": "Lego 31214 LOVE art",
+      "price": {
+        "amount": "70.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5779544970-lego-31214-love-art",
+      "user": {
+        "id": 151588940,
+        "login": "philippe.miranda",
+        "profile_url": "https://www.vinted.fr/member/151588940-philippemiranda",
+        "photo": null,
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5779544970-lego-31214-love-art",
+      "promoted": false,
+      "photo": {
+        "id": 23418147372,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#883C30",
+        "dominant_color_opaque": "#DBC5C1",
+        "url": "https://images1.vinted.net/t/03_01ddf_aYJFYzmV36kPgdfULe5qgnTM/f800/1738957324.jpeg?s=d680a32bd6bdf26a0f195773720c7ec201669d14",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/03_01ddf_aYJFYzmV36kPgdfULe5qgnTM/70x100/1738957324.jpeg?s=42aade67e438f93a01f8bec8287f16424049cedb",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/03_01ddf_aYJFYzmV36kPgdfULe5qgnTM/150x210/1738957324.jpeg?s=d61eba8e2260d1462dd0452877e8851634915998",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/03_01ddf_aYJFYzmV36kPgdfULe5qgnTM/310x430/1738957324.jpeg?s=96b12e7bfe0cc8e2605c49d73d9add45cb7a70e1",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/03_01ddf_aYJFYzmV36kPgdfULe5qgnTM/f800/1738957324.jpeg?s=d680a32bd6bdf26a0f195773720c7ec201669d14",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/03_01ddf_aYJFYzmV36kPgdfULe5qgnTM/f800/1738957324.jpeg?s=d680a32bd6bdf26a0f195773720c7ec201669d14",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/03_01ddf_aYJFYzmV36kPgdfULe5qgnTM/f800/1738957324.jpeg?s=d680a32bd6bdf26a0f195773720c7ec201669d14",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "03_01ddf_aYJFYzmV36kPgdfULe5qgnTM",
+          "timestamp": 1738957324,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/03_01ddf_aYJFYzmV36kPgdfULe5qgnTM/1738957324.jpeg?s=06f1424f722b096ce30d93249d683cf38721bb35",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 27,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "4.2",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "74.2",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "3 ans / 98 cm",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "3 ans / 98 cm · Neuf avec étiquette",
+        "accessibility_label": "Lego 31214 LOVE art, marque: LEGO, état: Neuf avec étiquette, taille: 3 ans / 98 cm, 70,00 €, 74,20 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": -0.009400632232427597,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5505178758,
+      "title": "Lego 31214 Mona Lisa",
+      "price": {
+        "amount": "80.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5505178758-lego-31214-mona-lisa",
+      "user": {
+        "id": 145830321,
+        "login": "mappamondo81",
+        "profile_url": "https://www.vinted.fr/member/145830321-mappamondo81",
+        "photo": null,
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5505178758-lego-31214-mona-lisa",
+      "promoted": false,
+      "photo": {
+        "id": 22292430869,
+        "image_no": 1,
+        "width": 602,
+        "height": 800,
+        "dominant_color": "#62594C",
+        "dominant_color_opaque": "#D0CDC9",
+        "url": "https://images1.vinted.net/t/02_01353_fRZKb38QYni3DJngtSLpUgCR/f800/1733749340.jpeg?s=604f965bc1228e179bce05fb8ae2d0dd4b220fb4",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/02_01353_fRZKb38QYni3DJngtSLpUgCR/70x100/1733749340.jpeg?s=0cb5d517dd7360352d94d61cda47bca6df9c3cca",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/02_01353_fRZKb38QYni3DJngtSLpUgCR/150x210/1733749340.jpeg?s=c82a8c6296ed031b8bc04f5249cbc38bd12961de",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/02_01353_fRZKb38QYni3DJngtSLpUgCR/310x430/1733749340.jpeg?s=032bfea294f71a1ccc4f061faec00dd782808be3",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/02_01353_fRZKb38QYni3DJngtSLpUgCR/f800/1733749340.jpeg?s=604f965bc1228e179bce05fb8ae2d0dd4b220fb4",
+            "width": 322,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/02_01353_fRZKb38QYni3DJngtSLpUgCR/f800/1733749340.jpeg?s=604f965bc1228e179bce05fb8ae2d0dd4b220fb4",
+            "width": 469,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/02_01353_fRZKb38QYni3DJngtSLpUgCR/f800/1733749340.jpeg?s=604f965bc1228e179bce05fb8ae2d0dd4b220fb4",
+            "width": 274,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "02_01353_fRZKb38QYni3DJngtSLpUgCR",
+          "timestamp": 1733749340,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/02_01353_fRZKb38QYni3DJngtSLpUgCR/1733749340.jpeg?s=66ace7947a47e98c83d8dccf91b515f2c3083bf1",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 21,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "4.7",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "84.7",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Neuf avec étiquette",
+        "accessibility_label": "Lego 31214 Mona Lisa, marque: LEGO, état: Neuf avec étiquette, 80,00 €, 84,70 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": -0.03161720931529999,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5900603316,
+      "title": "🎨 For Sale: LEGO Set 31214 - LOVE (Brand New in Box) 🎨",
+      "price": {
+        "amount": "69.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5900603316-for-sale-lego-set-31214-love-brand-new-in-box",
+      "user": {
+        "id": 85433582,
+        "login": "ta-games",
+        "profile_url": "https://www.vinted.fr/member/85433582-ta-games",
+        "photo": {
+          "id": 126032203,
+          "width": 800,
+          "height": 577,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/01_010ff_Ku8s65JvqedjTpMsYUE8ZL5G/f800/1674482047.jpeg?s=e433b1d4722caeb3498f6631c59abe5307508c74",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/01_010ff_Ku8s65JvqedjTpMsYUE8ZL5G/310x310/1674482047.jpeg?s=e07f2b91e6e3d72a1d9239cf54319ab98399d0e4",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/01_010ff_Ku8s65JvqedjTpMsYUE8ZL5G/150x150/1674482047.jpeg?s=265421ee54e7e1e10ffa5a89f7987ac0474b36b2",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/01_010ff_Ku8s65JvqedjTpMsYUE8ZL5G/100x100/1674482047.jpeg?s=2fa1d24e420278a4afc8b3963850e21ac8cfb862",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/01_010ff_Ku8s65JvqedjTpMsYUE8ZL5G/50x50/1674482047.jpeg?s=c16cced465c702877edf968bfd60169d0e161907",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/01_010ff_Ku8s65JvqedjTpMsYUE8ZL5G/20x20/1674482047.jpeg?s=ecbf29a13019f86a05bf1293cf2a6a73672c8958",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "01_010ff_Ku8s65JvqedjTpMsYUE8ZL5G",
+            "timestamp": 1674482047,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/01_010ff_Ku8s65JvqedjTpMsYUE8ZL5G/1674482047.jpeg?s=6418bd599a21837addb2ff6bf6d65c2a487a9190",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5900603316-for-sale-lego-set-31214-love-brand-new-in-box",
+      "promoted": false,
+      "photo": {
+        "id": 23920690492,
+        "image_no": 1,
+        "width": 800,
+        "height": 800,
+        "dominant_color": "#7D3A39",
+        "dominant_color_opaque": "#D8C4C4",
+        "url": "https://images1.vinted.net/t/02_017e4_WeTb1mweGCK1Z2UY56pzD84i/f800/1740914467.jpeg?s=bc02d61d92aa9b747502f09ec8e212cc12f87a87",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/02_017e4_WeTb1mweGCK1Z2UY56pzD84i/70x100/1740914467.jpeg?s=e615bec851ebf1152904af5c53154f2e05cb620a",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/02_017e4_WeTb1mweGCK1Z2UY56pzD84i/150x210/1740914467.jpeg?s=3c85ad2de87422af7128dc883ea8ce9aefeb34c0",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/02_017e4_WeTb1mweGCK1Z2UY56pzD84i/310x430/1740914467.jpeg?s=635258f4ccfe12110fa4ec59ff9cbc80e8130bd1",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/02_017e4_WeTb1mweGCK1Z2UY56pzD84i/f800/1740914467.jpeg?s=bc02d61d92aa9b747502f09ec8e212cc12f87a87",
+            "width": 428,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/02_017e4_WeTb1mweGCK1Z2UY56pzD84i/f800/1740914467.jpeg?s=bc02d61d92aa9b747502f09ec8e212cc12f87a87",
+            "width": 624,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/02_017e4_WeTb1mweGCK1Z2UY56pzD84i/f800/1740914467.jpeg?s=bc02d61d92aa9b747502f09ec8e212cc12f87a87",
+            "width": 364,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "02_017e4_WeTb1mweGCK1Z2UY56pzD84i",
+          "timestamp": 1740914467,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/02_017e4_WeTb1mweGCK1Z2UY56pzD84i/1740914467.jpeg?s=2441813d37e723c770142d007fcd094258eaeee1",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 13,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "4.15",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "73.15",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf sans étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique · Neuf sans étiquette",
+        "accessibility_label": "🎨 For Sale: LEGO Set 31214 - LOVE (Brand New in Box) 🎨, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 69,00 €, 73,15 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": -0.05348554626107216,
+        "matched_queries": []
+      }
+    }
+  ],
+  "dominant_brand": null,
+  "search_tracking_params": {
+    "search_correlation_id": "33d64bc9-4bee-4546-a47a-e760121aa458",
+    "search_session_id": "755fda11-6e3f-4711-8a9b-2d3267a1ee4b",
+    "global_search_session_id": "696b6bc7-ffe7-4e44-aebc-ac51d7fb9391"
+  },
+  "pagination": {
+    "current_page": 1,
+    "total_pages": 1,
+    "total_entries": 8,
+    "per_page": 96,
+    "time": 1743350975
+  },
+  "code": 0,
+  "setId": "31214"
+}

@@ -1,0 +1,2054 @@
+{
+  "items": [
+    {
+      "id": 6029387494,
+      "title": "Lego 42202 Ducati Panigale V4 S",
+      "price": {
+        "amount": "139.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/6029387494-lego-42202-ducati-panigale-v4-s",
+      "user": {
+        "id": 40278324,
+        "login": "kandyto99",
+        "profile_url": "https://www.vinted.fr/member/40278324-kandyto99",
+        "photo": {
+          "id": 110339557,
+          "width": 600,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/03_0103e_RUJgmKuAQAp4qdc4z1nKWrye/f800/1665276572.jpeg?s=565546cbc498428d2acb6a7bda70a83f91bc1dea",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/03_0103e_RUJgmKuAQAp4qdc4z1nKWrye/310x310/1665276572.jpeg?s=8ec0d408efadb4fc2f26261af5b3751060b2aca3",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/03_0103e_RUJgmKuAQAp4qdc4z1nKWrye/150x150/1665276572.jpeg?s=084e10615d5b664d90b1c2f865d40f0e5a4c3aae",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/03_0103e_RUJgmKuAQAp4qdc4z1nKWrye/100x100/1665276572.jpeg?s=41d627a8b1afad4289ecf1bc2522a0fe9eda5681",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/03_0103e_RUJgmKuAQAp4qdc4z1nKWrye/50x50/1665276572.jpeg?s=f5525f2d695a407ddf9b243d7d4bbd14ab2131fe",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/03_0103e_RUJgmKuAQAp4qdc4z1nKWrye/20x20/1665276572.jpeg?s=96ce2ae5621e8306452b1325bf53b9e408c05c61",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "03_0103e_RUJgmKuAQAp4qdc4z1nKWrye",
+            "timestamp": 1665276572,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/03_0103e_RUJgmKuAQAp4qdc4z1nKWrye/1665276572.jpeg?s=a2c7a4cecf4dcd8160c6917b00e9a6138cd92965",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/6029387494-lego-42202-ducati-panigale-v4-s",
+      "promoted": false,
+      "photo": {
+        "id": 24456013012,
+        "image_no": 1,
+        "width": 800,
+        "height": 602,
+        "dominant_color": "#6A4946",
+        "dominant_color_opaque": "#D2C8C8",
+        "url": "https://images1.vinted.net/t/04_0153a_itEejo2rq2cYsqmmRyVJrSrx/f800/1742854314.jpeg?s=0eb0e0d45455c76efb0232d1f0d58ae015aa1e40",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_0153a_itEejo2rq2cYsqmmRyVJrSrx/70x100/1742854314.jpeg?s=576cbbeaa0468214044852f3dc50cba2c7d5b047",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_0153a_itEejo2rq2cYsqmmRyVJrSrx/150x210/1742854314.jpeg?s=0685a556961a84fa9fb92622b3b2d2bcca8af20e",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_0153a_itEejo2rq2cYsqmmRyVJrSrx/310x430/1742854314.jpeg?s=6b48cb56800414a13c20ee1dc8920feaefb26ad1",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_0153a_itEejo2rq2cYsqmmRyVJrSrx/f800/1742854314.jpeg?s=0eb0e0d45455c76efb0232d1f0d58ae015aa1e40",
+            "width": 428,
+            "height": 322,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_0153a_itEejo2rq2cYsqmmRyVJrSrx/f800/1742854314.jpeg?s=0eb0e0d45455c76efb0232d1f0d58ae015aa1e40",
+            "width": 624,
+            "height": 469,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_0153a_itEejo2rq2cYsqmmRyVJrSrx/f800/1742854314.jpeg?s=0eb0e0d45455c76efb0232d1f0d58ae015aa1e40",
+            "width": 364,
+            "height": 274,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_0153a_itEejo2rq2cYsqmmRyVJrSrx",
+          "timestamp": 1742854314,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_0153a_itEejo2rq2cYsqmmRyVJrSrx/1742854314.jpeg?s=238e7ac5fdfa5e87590c8165f363984809f3d6ec",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 23,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "7.65",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "146.65",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique · Neuf avec étiquette",
+        "accessibility_label": "Lego 42202 Ducati Panigale V4 S, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 139,00 €, 146,65 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 4.164312362670898,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5968222238,
+      "title": "Lego Technic Neuf panigale v4S",
+      "price": {
+        "amount": "147.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5968222238-lego-technic-neuf-panigale-v4s",
+      "user": {
+        "id": 21874073,
+        "login": "gisselmann",
+        "profile_url": "https://www.vinted.fr/member/21874073-gisselmann",
+        "photo": {
+          "id": 89336003,
+          "width": 345,
+          "height": 345,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/01_00681_7prMkP37e4Rrn9zkk6hzotQg/f800/1652129590.jpeg?s=9fa4c7199a982c25d263ebc3e0d8a113e0b1d04c",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/01_00681_7prMkP37e4Rrn9zkk6hzotQg/310x310/1652129590.jpeg?s=c0f8f2e7ded90ca3ea51e0f3c90927e0fa51ef2a",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/01_00681_7prMkP37e4Rrn9zkk6hzotQg/150x150/1652129590.jpeg?s=427658372add7bc9eee82604b7845472a4288abb",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/01_00681_7prMkP37e4Rrn9zkk6hzotQg/100x100/1652129590.jpeg?s=83e95118c6efaca79e9280fe1ca7de3387d620be",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/01_00681_7prMkP37e4Rrn9zkk6hzotQg/50x50/1652129590.jpeg?s=b9fe4fe84ae9dc07a6bccc3513a5f90764891060",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/01_00681_7prMkP37e4Rrn9zkk6hzotQg/20x20/1652129590.jpeg?s=82f09914fdf66d946fafe3961087b701afafd844",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "01_00681_7prMkP37e4Rrn9zkk6hzotQg",
+            "timestamp": 1652129590,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/01_00681_7prMkP37e4Rrn9zkk6hzotQg/1652129590.jpeg?s=62ca88c690b8b020a85be69e2551c9b2c0f042b4",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5968222238-lego-technic-neuf-panigale-v4s",
+      "promoted": false,
+      "photo": {
+        "id": 24202077421,
+        "image_no": 1,
+        "width": 800,
+        "height": 600,
+        "dominant_color": "#885156",
+        "dominant_color_opaque": "#DBCBCC",
+        "url": "https://images1.vinted.net/t/04_02066_hyayexpQcoUCu13qfN3Zbbu3/f800/1741974037.jpeg?s=eeabd038fd39893fb14960e13cee7f3e42320fd8",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_02066_hyayexpQcoUCu13qfN3Zbbu3/70x100/1741974037.jpeg?s=7ee19c3d0b726fa3e29cedf82f38c2f1c73484ca",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_02066_hyayexpQcoUCu13qfN3Zbbu3/150x210/1741974037.jpeg?s=ba071a90fcaadb7e65cf514455f73e0bb57ce04b",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_02066_hyayexpQcoUCu13qfN3Zbbu3/310x430/1741974037.jpeg?s=27d0d6f78417ed32bb4b5e7d4924400e4781e74a",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_02066_hyayexpQcoUCu13qfN3Zbbu3/f800/1741974037.jpeg?s=eeabd038fd39893fb14960e13cee7f3e42320fd8",
+            "width": 428,
+            "height": 321,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_02066_hyayexpQcoUCu13qfN3Zbbu3/f800/1741974037.jpeg?s=eeabd038fd39893fb14960e13cee7f3e42320fd8",
+            "width": 624,
+            "height": 468,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_02066_hyayexpQcoUCu13qfN3Zbbu3/f800/1741974037.jpeg?s=eeabd038fd39893fb14960e13cee7f3e42320fd8",
+            "width": 364,
+            "height": 273,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_02066_hyayexpQcoUCu13qfN3Zbbu3",
+          "timestamp": 1741974037,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_02066_hyayexpQcoUCu13qfN3Zbbu3/1741974037.jpeg?s=cfedf3e05a74c00c3be5b86c79ab512fbb7451e9",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 38,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "8.05",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "155.05",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique · Neuf avec étiquette",
+        "accessibility_label": "Lego Technic Neuf panigale v4S, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 147,00 €, 155,05 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 3.414658784866333,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5963101558,
+      "title": "Lego Technic #42202 - La Moto Ducati Panigale V4 S",
+      "price": {
+        "amount": "150.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5963101558-lego-technic-42202-la-moto-ducati-panigale-v4-s",
+      "user": {
+        "id": 64569287,
+        "login": "julien-44360",
+        "profile_url": "https://www.vinted.fr/member/64569287-julien-44360",
+        "photo": {
+          "id": 234142755,
+          "width": 800,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/03_01277_YNU3iM4eDMbFvdhsff4y49j8/f800/1741682707.jpeg?s=4fca5d3f7a333ba95f7a14211987fd0fcce8f49b",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/03_01277_YNU3iM4eDMbFvdhsff4y49j8/310x310/1741682707.jpeg?s=2a24e257f55dd666e5d34db58a2558805eb66815",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/03_01277_YNU3iM4eDMbFvdhsff4y49j8/150x150/1741682707.jpeg?s=3b023fa432a697cd3ed96ea21a927c43f427264e",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/03_01277_YNU3iM4eDMbFvdhsff4y49j8/100x100/1741682707.jpeg?s=1e6410666b39e9f028926d0de628b3b4c5013636",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/03_01277_YNU3iM4eDMbFvdhsff4y49j8/50x50/1741682707.jpeg?s=acc23203d5c9c0c5fce464077a3bc998eda7d4d3",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/03_01277_YNU3iM4eDMbFvdhsff4y49j8/20x20/1741682707.jpeg?s=2765abea1bbe3b818d4a195bca222bae5a039813",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "03_01277_YNU3iM4eDMbFvdhsff4y49j8",
+            "timestamp": 1741682707,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/03_01277_YNU3iM4eDMbFvdhsff4y49j8/1741682707.jpeg?s=84a83459f4953552edbd8b0d5581fb6623365ebf",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5963101558-lego-technic-42202-la-moto-ducati-panigale-v4-s",
+      "promoted": false,
+      "photo": {
+        "id": 24180562329,
+        "image_no": 1,
+        "width": 800,
+        "height": 600,
+        "dominant_color": "#882E29",
+        "dominant_color_opaque": "#DBC0BF",
+        "url": "https://images1.vinted.net/t/04_009c4_8idXgeMf11aEb19EhAGhHjr8/f800/1741887433.jpeg?s=d5d63ceb4f29ec29c987ac286d038e400590abd9",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_009c4_8idXgeMf11aEb19EhAGhHjr8/70x100/1741887433.jpeg?s=f410989b83a98aa0a0afe121b25c3d0d09ef6241",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_009c4_8idXgeMf11aEb19EhAGhHjr8/150x210/1741887433.jpeg?s=b46dea172ddee2f4da56cffe684cee4c6b24e9bb",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_009c4_8idXgeMf11aEb19EhAGhHjr8/310x430/1741887433.jpeg?s=0e9b977586f050ebbba8ca8d052d7e479deeecff",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_009c4_8idXgeMf11aEb19EhAGhHjr8/f800/1741887433.jpeg?s=d5d63ceb4f29ec29c987ac286d038e400590abd9",
+            "width": 428,
+            "height": 321,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_009c4_8idXgeMf11aEb19EhAGhHjr8/f800/1741887433.jpeg?s=d5d63ceb4f29ec29c987ac286d038e400590abd9",
+            "width": 624,
+            "height": 468,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_009c4_8idXgeMf11aEb19EhAGhHjr8/f800/1741887433.jpeg?s=d5d63ceb4f29ec29c987ac286d038e400590abd9",
+            "width": 364,
+            "height": 273,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_009c4_8idXgeMf11aEb19EhAGhHjr8",
+          "timestamp": 1741887433,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_009c4_8idXgeMf11aEb19EhAGhHjr8/1741887433.jpeg?s=7cdc5a0bd9bc98b7fd4392e3aa649aa6bbe968f3",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 43,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "8.2",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "158.2",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique · Neuf avec étiquette",
+        "accessibility_label": "Lego Technic #42202 - La Moto Ducati Panigale V4 S, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 150,00 €, 158,20 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 2.514536142349243,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 6048235512,
+      "title": "Lego 42202 Ducati Panigale V4 S Bellissima!",
+      "price": {
+        "amount": "185.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/6048235512-lego-42202-ducati-panigale-v4-s-bellissima",
+      "user": {
+        "id": 50939011,
+        "login": "solobari29",
+        "profile_url": "https://www.vinted.fr/member/50939011-solobari29",
+        "photo": {
+          "id": 46843724,
+          "width": 800,
+          "height": 600,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_00cd9_NmADSbKmJVfwoPp7G4mhYZqt/f800/1611507552.jpeg?s=cf8ab9980835ebe428efd3f4495159511ebd0f77",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_00cd9_NmADSbKmJVfwoPp7G4mhYZqt/310x310/1611507552.jpeg?s=de666c942d569879764954ad9e5949d8549ef138",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_00cd9_NmADSbKmJVfwoPp7G4mhYZqt/150x150/1611507552.jpeg?s=bf452e843c47ddb11ab26f10cafa337104d152ce",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_00cd9_NmADSbKmJVfwoPp7G4mhYZqt/100x100/1611507552.jpeg?s=b43d322e50bef7b5877368540bf3773d7d6d91a4",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_00cd9_NmADSbKmJVfwoPp7G4mhYZqt/50x50/1611507552.jpeg?s=26cbf9f3dabf3bdd78c7529170d6f83b593cc82c",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_00cd9_NmADSbKmJVfwoPp7G4mhYZqt/20x20/1611507552.jpeg?s=88e101aba6b694bd3e0e9bc4bfe77314a1fe6ec0",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_00cd9_NmADSbKmJVfwoPp7G4mhYZqt",
+            "timestamp": 1611507552,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_00cd9_NmADSbKmJVfwoPp7G4mhYZqt/1611507552.jpeg?s=570c9f9754b8a0c72a9f60b0be686df46278aa8d",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/6048235512-lego-42202-ducati-panigale-v4-s-bellissima",
+      "promoted": false,
+      "photo": {
+        "id": 24534791632,
+        "image_no": 1,
+        "width": 766,
+        "height": 800,
+        "dominant_color": "#714930",
+        "dominant_color_opaque": "#D4C8C1",
+        "url": "https://images1.vinted.net/t/04_00fe5_jaVqhFt6xi6heoVbSnezTi7z/f800/1743177400.jpeg?s=ec9a46de0ff8d69d92a22111946a37e8f6f3207e",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_00fe5_jaVqhFt6xi6heoVbSnezTi7z/70x100/1743177400.jpeg?s=acc395fb11acd9874b5b23bca11325c2a1110c3e",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_00fe5_jaVqhFt6xi6heoVbSnezTi7z/150x210/1743177400.jpeg?s=3b6ed2ebbea361147dec4a8b3ee12be7f02c0877",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_00fe5_jaVqhFt6xi6heoVbSnezTi7z/310x430/1743177400.jpeg?s=8d25f4bc23343da6e16be23ea114ee82aec48153",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_00fe5_jaVqhFt6xi6heoVbSnezTi7z/f800/1743177400.jpeg?s=ec9a46de0ff8d69d92a22111946a37e8f6f3207e",
+            "width": 410,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_00fe5_jaVqhFt6xi6heoVbSnezTi7z/f800/1743177400.jpeg?s=ec9a46de0ff8d69d92a22111946a37e8f6f3207e",
+            "width": 597,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_00fe5_jaVqhFt6xi6heoVbSnezTi7z/f800/1743177400.jpeg?s=ec9a46de0ff8d69d92a22111946a37e8f6f3207e",
+            "width": 348,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_00fe5_jaVqhFt6xi6heoVbSnezTi7z",
+          "timestamp": 1743177400,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_00fe5_jaVqhFt6xi6heoVbSnezTi7z/1743177400.jpeg?s=bf93fe39797b09801639ea32798a2eacb3259dab",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 7,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "9.95",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "194.95",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique · Neuf avec étiquette",
+        "accessibility_label": "Lego 42202 Ducati Panigale V4 S Bellissima!, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 185,00 €, 194,95 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 1.370445251464844,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5999519028,
+      "title": "Lego technic 42202 Moto Ducati panigale V4S neuf",
+      "price": {
+        "amount": "159.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5999519028-lego-technic-42202-moto-ducati-panigale-v4s-neuf",
+      "user": {
+        "id": 19604671,
+        "login": "montassiercathy",
+        "profile_url": "https://www.vinted.fr/member/19604671-montassiercathy",
+        "photo": {
+          "id": 57105502,
+          "width": 800,
+          "height": 600,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/01_0112b_vb5ZqFByDujnMC4CYvVUdNsk/f800/1619599525.jpeg?s=c42aa5d022c9fcc5d9baf829a02398d1bf5757ff",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/01_0112b_vb5ZqFByDujnMC4CYvVUdNsk/310x310/1619599525.jpeg?s=44c30979524c0dd58aa26c8dc3b9edc6b706c7a8",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/01_0112b_vb5ZqFByDujnMC4CYvVUdNsk/150x150/1619599525.jpeg?s=4a90207d598bad68c4dc0c3825d2262694b5972f",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/01_0112b_vb5ZqFByDujnMC4CYvVUdNsk/100x100/1619599525.jpeg?s=c5b0d6582a3dd72a0e871a55f26f5d4063413774",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/01_0112b_vb5ZqFByDujnMC4CYvVUdNsk/50x50/1619599525.jpeg?s=46531863e642dab0c610fc45fe644c45d4ba3738",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/01_0112b_vb5ZqFByDujnMC4CYvVUdNsk/20x20/1619599525.jpeg?s=5e0c71d84881bc450986d8fa9661c233a3082cca",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "01_0112b_vb5ZqFByDujnMC4CYvVUdNsk",
+            "timestamp": 1619599525,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/01_0112b_vb5ZqFByDujnMC4CYvVUdNsk/1619599525.jpeg?s=4f88f9d6bf30a29d840e094e2cad0eaf731d4177",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5999519028-lego-technic-42202-moto-ducati-panigale-v4s-neuf",
+      "promoted": false,
+      "photo": {
+        "id": 24331852409,
+        "image_no": 1,
+        "width": 800,
+        "height": 600,
+        "dominant_color": "#856451",
+        "dominant_color_opaque": "#DAD1CB",
+        "url": "https://images1.vinted.net/t/02_0014f_fcPHim2oEbtDNrUyS7v9VfHz/f800/1742418726.jpeg?s=0d0689990e04ee8574f7f5e203d5724f024de057",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/02_0014f_fcPHim2oEbtDNrUyS7v9VfHz/70x100/1742418726.jpeg?s=33b564243d1b0d94f71b0a16dd94330a607f297d",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/02_0014f_fcPHim2oEbtDNrUyS7v9VfHz/150x210/1742418726.jpeg?s=9ae01bf4bf028dd3bf97a9b6f429637c36175d6f",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/02_0014f_fcPHim2oEbtDNrUyS7v9VfHz/310x430/1742418726.jpeg?s=c4573e2074053d262ada6160fab7a342e95dfd74",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/02_0014f_fcPHim2oEbtDNrUyS7v9VfHz/f800/1742418726.jpeg?s=0d0689990e04ee8574f7f5e203d5724f024de057",
+            "width": 428,
+            "height": 321,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/02_0014f_fcPHim2oEbtDNrUyS7v9VfHz/f800/1742418726.jpeg?s=0d0689990e04ee8574f7f5e203d5724f024de057",
+            "width": 624,
+            "height": 468,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/02_0014f_fcPHim2oEbtDNrUyS7v9VfHz/f800/1742418726.jpeg?s=0d0689990e04ee8574f7f5e203d5724f024de057",
+            "width": 364,
+            "height": 273,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "02_0014f_fcPHim2oEbtDNrUyS7v9VfHz",
+          "timestamp": 1742418726,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/02_0014f_fcPHim2oEbtDNrUyS7v9VfHz/1742418726.jpeg?s=c24a7a16575981a51158e5078b7f2a57ce47c78c",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 18,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "8.65",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "167.65",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "16 ans / 176 cm",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "16 ans / 176 cm · Neuf avec étiquette",
+        "accessibility_label": "Lego technic 42202 Moto Ducati panigale V4S neuf, marque: LEGO, état: Neuf avec étiquette, taille: 16 ans / 176 cm, 159,00 €, 167,65 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 1.211955308914185,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 6060552279,
+      "title": "LEGO 42202 Technic - Moto Ducati Panigale V4 S neuf scellé",
+      "price": {
+        "amount": "149.9",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/6060552279-lego-42202-technic-moto-ducati-panigale-v4-s-neuf-scelle",
+      "user": {
+        "id": 128987850,
+        "login": "madysonromeo",
+        "profile_url": "https://www.vinted.fr/member/128987850-madysonromeo",
+        "photo": {
+          "id": 125412396,
+          "width": 96,
+          "height": 96,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/01_016a9_MCnD5jJopW5FUFKipjCbXDzs/f800/1674058231.jpeg?s=8f558e9524e84ee9f3daba43501a196926be3f66",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/01_016a9_MCnD5jJopW5FUFKipjCbXDzs/310x310/1674058231.jpeg?s=e946c911768f69a63cc2c86fc05f66a037e559b5",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/01_016a9_MCnD5jJopW5FUFKipjCbXDzs/150x150/1674058231.jpeg?s=5d6b3f1be0c981dcbf996dfb7157d5d6e0f98b5b",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/01_016a9_MCnD5jJopW5FUFKipjCbXDzs/100x100/1674058231.jpeg?s=e68d123b1d5ddc038250db69358ea1ceddc6d705",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/01_016a9_MCnD5jJopW5FUFKipjCbXDzs/50x50/1674058231.jpeg?s=f7ac9052e7776661e178c131761731b478c6243d",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/01_016a9_MCnD5jJopW5FUFKipjCbXDzs/20x20/1674058231.jpeg?s=2c86b91ed599ce869d524de49a9b5852fb1813d5",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "01_016a9_MCnD5jJopW5FUFKipjCbXDzs",
+            "timestamp": 1674058231,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/01_016a9_MCnD5jJopW5FUFKipjCbXDzs/1674058231.jpeg?s=53fbf20d8d9578e4bbcd8094a0abe4a426f571ad",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/6060552279-lego-42202-technic-moto-ducati-panigale-v4-s-neuf-scelle",
+      "promoted": false,
+      "photo": {
+        "id": 24586315323,
+        "image_no": 1,
+        "width": 786,
+        "height": 568,
+        "dominant_color": "#774E50",
+        "dominant_color_opaque": "#D6CACB",
+        "url": "https://images1.vinted.net/t/04_004dc_knPSaH8aUqabKaAtJ43EqLLb/f800/1743350080.jpeg?s=14e0dfeec76c3f34cb5d360415d409953b8b0c1a",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_004dc_knPSaH8aUqabKaAtJ43EqLLb/70x100/1743350080.jpeg?s=7010ce22a312651d43e7151326b99da2e19a02a7",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_004dc_knPSaH8aUqabKaAtJ43EqLLb/150x210/1743350080.jpeg?s=9d9a51284680349ce13357a89332b951c4b9c84b",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_004dc_knPSaH8aUqabKaAtJ43EqLLb/310x430/1743350080.jpeg?s=9d80ad7e84d7fd0d9a14cf1a3a60cad491c1205a",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_004dc_knPSaH8aUqabKaAtJ43EqLLb/f800/1743350080.jpeg?s=14e0dfeec76c3f34cb5d360415d409953b8b0c1a",
+            "width": 428,
+            "height": 309,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_004dc_knPSaH8aUqabKaAtJ43EqLLb/f800/1743350080.jpeg?s=14e0dfeec76c3f34cb5d360415d409953b8b0c1a",
+            "width": 624,
+            "height": 450,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_004dc_knPSaH8aUqabKaAtJ43EqLLb/f800/1743350080.jpeg?s=14e0dfeec76c3f34cb5d360415d409953b8b0c1a",
+            "width": 364,
+            "height": 263,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_004dc_knPSaH8aUqabKaAtJ43EqLLb",
+          "timestamp": 1743350080,
+          "orientation": 0
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_004dc_knPSaH8aUqabKaAtJ43EqLLb/1743350080.jpeg?s=5d2c780a28d69305ba38cb3e9ca6b7eb3aec6c4e",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 1,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "8.2",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "158.1",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Prématuré, jusqu'à 44cm",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Prématuré, jusqu'à 44cm · Neuf avec étiquette",
+        "accessibility_label": "LEGO 42202 Technic - Moto Ducati Panigale V4 S neuf scellé, marque: LEGO, état: Neuf avec étiquette, taille: Prématuré, jusqu'à 44cm, 149,90 €, 158,10 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": -0.009774767793715,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5863472729,
+      "title": "Lego Motocicletta Ducati Panigale V4 S set 42202",
+      "price": {
+        "amount": "158.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5863472729-lego-motocicletta-ducati-panigale-v4-s-set-42202",
+      "user": {
+        "id": 181718284,
+        "login": "chiaracoc82",
+        "profile_url": "https://www.vinted.fr/member/181718284-chiaracoc82",
+        "photo": null,
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5863472729-lego-motocicletta-ducati-panigale-v4-s-set-42202",
+      "promoted": false,
+      "photo": {
+        "id": 23766150374,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#7B5245",
+        "dominant_color_opaque": "#D7CBC7",
+        "url": "https://images1.vinted.net/t/04_00b41_XMEXv8GPcB39AuYEB6zJekon/f800/1740311922.jpeg?s=fceb5773be5414ed0c1f678b4e245152f15e70e8",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_00b41_XMEXv8GPcB39AuYEB6zJekon/70x100/1740311922.jpeg?s=02c16282ab8a0375591d0761ed60293d06fdbd3a",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_00b41_XMEXv8GPcB39AuYEB6zJekon/150x210/1740311922.jpeg?s=55796470f7f47b3cebb68440201bf76b4c940474",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_00b41_XMEXv8GPcB39AuYEB6zJekon/310x430/1740311922.jpeg?s=75ba4b16e17f529e20ed345ca87fc4b482d326fe",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_00b41_XMEXv8GPcB39AuYEB6zJekon/f800/1740311922.jpeg?s=fceb5773be5414ed0c1f678b4e245152f15e70e8",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_00b41_XMEXv8GPcB39AuYEB6zJekon/f800/1740311922.jpeg?s=fceb5773be5414ed0c1f678b4e245152f15e70e8",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_00b41_XMEXv8GPcB39AuYEB6zJekon/f800/1740311922.jpeg?s=fceb5773be5414ed0c1f678b4e245152f15e70e8",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_00b41_XMEXv8GPcB39AuYEB6zJekon",
+          "timestamp": 1740311922,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_00b41_XMEXv8GPcB39AuYEB6zJekon/1740311922.jpeg?s=29f696d99d8e4a36f064c538f156f650e459b283",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 41,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "8.6",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "166.6",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "L",
+      "content_source": "search",
+      "status": "Neuf sans étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "L · Neuf sans étiquette",
+        "accessibility_label": "Lego Motocicletta Ducati Panigale V4 S set 42202, marque: LEGO, état: Neuf sans étiquette, taille: L, 158,00 €, 166,60 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": -0.01962924189865589,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5970774300,
+      "title": "Moto Lego Technic Ducati Panigale V4 S - 42202",
+      "price": {
+        "amount": "160.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5970774300-moto-lego-technic-ducati-panigale-v4-s-42202",
+      "user": {
+        "id": 62370200,
+        "login": "antoinebte",
+        "profile_url": "https://www.vinted.fr/member/62370200-antoinebte",
+        "photo": {
+          "id": 214693555,
+          "width": 800,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/03_01b89_qNo7vFkyRJBtJ1A8BAwqPbnx/f800/1729514815.jpeg?s=9cd3ba80afdb2fc5f6d805b6608de1c54a5bb56f",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/03_01b89_qNo7vFkyRJBtJ1A8BAwqPbnx/310x310/1729514815.jpeg?s=08ff78f86ca61811695b238ef5772ffe135ae5f5",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/03_01b89_qNo7vFkyRJBtJ1A8BAwqPbnx/150x150/1729514815.jpeg?s=d9559efc8c5a6cb9eea3859eb1a5cce7177eb8f0",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/03_01b89_qNo7vFkyRJBtJ1A8BAwqPbnx/100x100/1729514815.jpeg?s=521033019b8bac3149663781fc6b39fda90a931d",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/03_01b89_qNo7vFkyRJBtJ1A8BAwqPbnx/50x50/1729514815.jpeg?s=7b3e1a6a45fedd4b32cd0c029743b025f2459a66",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/03_01b89_qNo7vFkyRJBtJ1A8BAwqPbnx/20x20/1729514815.jpeg?s=7c7d9e932a40090db6b9905e59cb4afa804cf4ec",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "03_01b89_qNo7vFkyRJBtJ1A8BAwqPbnx",
+            "timestamp": 1729514815,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/03_01b89_qNo7vFkyRJBtJ1A8BAwqPbnx/1729514815.jpeg?s=64fa2d44deb8a902050013a2f5dbc3c9c256a831",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5970774300-moto-lego-technic-ducati-panigale-v4-s-42202",
+      "promoted": false,
+      "photo": {
+        "id": 24212875027,
+        "image_no": 1,
+        "width": 800,
+        "height": 579,
+        "dominant_color": "#782D28",
+        "dominant_color_opaque": "#D7C0BF",
+        "url": "https://images1.vinted.net/t/04_00c99_k9BxtBtLirjCXwdxqiuoGUFu/f800/1742034949.jpeg?s=c24bfa1cfac9d0866958a2fbfc9ecae1a6d96f24",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_00c99_k9BxtBtLirjCXwdxqiuoGUFu/70x100/1742034949.jpeg?s=a469b30af2aa5703321771b3dc77b40a1b9d74cd",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_00c99_k9BxtBtLirjCXwdxqiuoGUFu/150x210/1742034949.jpeg?s=0d912c8fdad2449d4ae6a5bf6e0fb60a5d73fa44",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_00c99_k9BxtBtLirjCXwdxqiuoGUFu/310x430/1742034949.jpeg?s=46ba0f5c7007e795d33da622a1b9a20a53dfc775",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_00c99_k9BxtBtLirjCXwdxqiuoGUFu/f800/1742034949.jpeg?s=c24bfa1cfac9d0866958a2fbfc9ecae1a6d96f24",
+            "width": 428,
+            "height": 309,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_00c99_k9BxtBtLirjCXwdxqiuoGUFu/f800/1742034949.jpeg?s=c24bfa1cfac9d0866958a2fbfc9ecae1a6d96f24",
+            "width": 624,
+            "height": 451,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_00c99_k9BxtBtLirjCXwdxqiuoGUFu/f800/1742034949.jpeg?s=c24bfa1cfac9d0866958a2fbfc9ecae1a6d96f24",
+            "width": 364,
+            "height": 263,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_00c99_k9BxtBtLirjCXwdxqiuoGUFu",
+          "timestamp": 1742034949,
+          "orientation": 0
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_00c99_k9BxtBtLirjCXwdxqiuoGUFu/1742034949.jpeg?s=eb1fa2227a279a5b304c00beb16c64f8d29514a3",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 15,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "8.7",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "168.7",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique · Neuf avec étiquette",
+        "accessibility_label": "Moto Lego Technic Ducati Panigale V4 S - 42202, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 160,00 €, 168,70 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": -0.02515389584004879,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5857464572,
+      "title": "Lego 42202 Ducati Panigali",
+      "price": {
+        "amount": "160.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5857464572-lego-42202-ducati-panigali",
+      "user": {
+        "id": 199161005,
+        "login": "joaorebe",
+        "profile_url": "https://www.vinted.fr/member/199161005-joaorebe",
+        "photo": {
+          "id": 188603485,
+          "width": 96,
+          "height": 96,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_015a4_Bygk7S6kVwyeSms7zFhCw2tY/f800/1713184996.jpeg?s=7e366dc2d02326426ab07b50c3006d6686a42872",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_015a4_Bygk7S6kVwyeSms7zFhCw2tY/310x310/1713184996.jpeg?s=ab0792a259feb9507f1cc616a8c9b9e94e30aa72",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_015a4_Bygk7S6kVwyeSms7zFhCw2tY/150x150/1713184996.jpeg?s=18f31a9ac056fac50b8cdc00e7f558fa94c6f087",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_015a4_Bygk7S6kVwyeSms7zFhCw2tY/100x100/1713184996.jpeg?s=b86394f2bfdc72b985bc24a54545549d52d140d0",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_015a4_Bygk7S6kVwyeSms7zFhCw2tY/50x50/1713184996.jpeg?s=8fd0de540735cbed038f49b82c91fc423ba38824",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_015a4_Bygk7S6kVwyeSms7zFhCw2tY/20x20/1713184996.jpeg?s=30b6a4cc87bcdbb96972f3f421916d83db8733bf",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_015a4_Bygk7S6kVwyeSms7zFhCw2tY",
+            "timestamp": 1713184996,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_015a4_Bygk7S6kVwyeSms7zFhCw2tY/1713184996.jpeg?s=42a80adf23256b8f390a69d865bc281a84196762",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5857464572-lego-42202-ducati-panigali",
+      "promoted": false,
+      "photo": {
+        "id": 23741085089,
+        "image_no": 1,
+        "width": 800,
+        "height": 600,
+        "dominant_color": "#8A6C5B",
+        "dominant_color_opaque": "#DCD3CE",
+        "url": "https://images1.vinted.net/t/04_01190_t1KQutRLce1Xm9pbdGqN3662/f800/1740225807.jpeg?s=a03ed8deb91944fa4d04e9947b6181f0ae52a4cb",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_01190_t1KQutRLce1Xm9pbdGqN3662/70x100/1740225807.jpeg?s=2d66924213a9731f29cd88b0e3574872e43ac0be",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_01190_t1KQutRLce1Xm9pbdGqN3662/150x210/1740225807.jpeg?s=5a9ca4b5be0437a33fb966436da820b4b926b5e5",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_01190_t1KQutRLce1Xm9pbdGqN3662/310x430/1740225807.jpeg?s=3c89922fb2a76e8aca2029a132f94c9c4a86f544",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_01190_t1KQutRLce1Xm9pbdGqN3662/f800/1740225807.jpeg?s=a03ed8deb91944fa4d04e9947b6181f0ae52a4cb",
+            "width": 428,
+            "height": 321,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_01190_t1KQutRLce1Xm9pbdGqN3662/f800/1740225807.jpeg?s=a03ed8deb91944fa4d04e9947b6181f0ae52a4cb",
+            "width": 624,
+            "height": 468,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_01190_t1KQutRLce1Xm9pbdGqN3662/f800/1740225807.jpeg?s=a03ed8deb91944fa4d04e9947b6181f0ae52a4cb",
+            "width": 364,
+            "height": 273,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_01190_t1KQutRLce1Xm9pbdGqN3662",
+          "timestamp": 1740225807,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_01190_t1KQutRLce1Xm9pbdGqN3662/1740225807.jpeg?s=c2d52aaa96467b28e3fbd1e9d9182fe033bfe4e7",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 20,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "8.7",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "168.7",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "7 ans / 122 cm",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "7 ans / 122 cm · Neuf avec étiquette",
+        "accessibility_label": "Lego 42202 Ducati Panigali, marque: LEGO, état: Neuf avec étiquette, taille: 7 ans / 122 cm, 160,00 €, 168,70 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": -0.04700974375009537,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5824317456,
+      "title": "Lego Motocicletta Ducati Panigale V4 S set 42202",
+      "price": {
+        "amount": "160.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5824317456-lego-motocicletta-ducati-panigale-v4-s-set-42202",
+      "user": {
+        "id": 176737061,
+        "login": "alberto081888",
+        "profile_url": "https://www.vinted.fr/member/176737061-alberto081888",
+        "photo": null,
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5824317456-lego-motocicletta-ducati-panigale-v4-s-set-42202",
+      "promoted": false,
+      "photo": {
+        "id": 23604008826,
+        "image_no": 1,
+        "width": 800,
+        "height": 600,
+        "dominant_color": "#60362E",
+        "dominant_color_opaque": "#CFC3C0",
+        "url": "https://images1.vinted.net/t/04_01a41_ow4rDLLPd3qWmKkZs8Yo1WsJ/f800/1739705537.jpeg?s=13d34a0873ebf80c38cf0f01f82770475bcf318a",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_01a41_ow4rDLLPd3qWmKkZs8Yo1WsJ/70x100/1739705537.jpeg?s=52a8462ed2dda1f1f8d90c0f1883190b661ce577",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_01a41_ow4rDLLPd3qWmKkZs8Yo1WsJ/150x210/1739705537.jpeg?s=9308403a2cb173275b8ced246ea73c0703aeca29",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_01a41_ow4rDLLPd3qWmKkZs8Yo1WsJ/310x430/1739705537.jpeg?s=c1421b8381ec2d3448c7fbc72f66e37c9ca0d830",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_01a41_ow4rDLLPd3qWmKkZs8Yo1WsJ/f800/1739705537.jpeg?s=13d34a0873ebf80c38cf0f01f82770475bcf318a",
+            "width": 428,
+            "height": 321,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_01a41_ow4rDLLPd3qWmKkZs8Yo1WsJ/f800/1739705537.jpeg?s=13d34a0873ebf80c38cf0f01f82770475bcf318a",
+            "width": 624,
+            "height": 468,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_01a41_ow4rDLLPd3qWmKkZs8Yo1WsJ/f800/1739705537.jpeg?s=13d34a0873ebf80c38cf0f01f82770475bcf318a",
+            "width": 364,
+            "height": 273,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_01a41_ow4rDLLPd3qWmKkZs8Yo1WsJ",
+          "timestamp": 1739705537,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_01a41_ow4rDLLPd3qWmKkZs8Yo1WsJ/1739705537.jpeg?s=53d668e34e4cf75969e1bb5bbf355be33e66c647",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 26,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "8.7",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "168.7",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "L",
+      "content_source": "search",
+      "status": "Neuf sans étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "L · Neuf sans étiquette",
+        "accessibility_label": "Lego Motocicletta Ducati Panigale V4 S set 42202, marque: LEGO, état: Neuf sans étiquette, taille: L, 160,00 €, 168,70 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": -0.04955942183732986,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5843427221,
+      "title": "Lego 42202",
+      "price": {
+        "amount": "199.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5843427221-lego-42202",
+      "user": {
+        "id": 243485426,
+        "login": "gabrin81",
+        "profile_url": "https://www.vinted.fr/member/243485426-gabrin81",
+        "photo": {
+          "id": 223692439,
+          "width": 450,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_00cf2_t2PAVq8gvbHBTwfn5ctFha2Y/f800/1735307302.jpeg?s=5bf804bd9a341f9f6af4b6042bedf0f4ddf944db",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_00cf2_t2PAVq8gvbHBTwfn5ctFha2Y/310x310/1735307302.jpeg?s=0c3d9380522d46d50550faef34d88d58f7b1825b",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_00cf2_t2PAVq8gvbHBTwfn5ctFha2Y/150x150/1735307302.jpeg?s=488422528b2da241b75569e4901e722a1ebcfaff",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_00cf2_t2PAVq8gvbHBTwfn5ctFha2Y/100x100/1735307302.jpeg?s=1550394e72b77cb4f2b95ef6f804b015e30b7417",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_00cf2_t2PAVq8gvbHBTwfn5ctFha2Y/50x50/1735307302.jpeg?s=cdf61670ad17e775e46c30227a5cf9651687735c",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_00cf2_t2PAVq8gvbHBTwfn5ctFha2Y/20x20/1735307302.jpeg?s=021378db9d7941a68e477fab17343dc659197ebf",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_00cf2_t2PAVq8gvbHBTwfn5ctFha2Y",
+            "timestamp": 1735307302,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_00cf2_t2PAVq8gvbHBTwfn5ctFha2Y/1735307302.jpeg?s=d9c95268b9e7ed831e4365129d6e21a468e7049d",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5843427221-lego-42202",
+      "promoted": false,
+      "photo": {
+        "id": 23682564185,
+        "image_no": 1,
+        "width": 800,
+        "height": 600,
+        "dominant_color": "#714355",
+        "dominant_color_opaque": "#D4C7CC",
+        "url": "https://images1.vinted.net/t/04_003a5_og3RH8dwdiMUfvU2i1Lr9B46/f800/1739978770.jpeg?s=b1db35419b7592e5c86706ad47b9d6ba3b8d8855",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_003a5_og3RH8dwdiMUfvU2i1Lr9B46/70x100/1739978770.jpeg?s=4c7bd850ee1d22beb04b233ddcd1075533c4f09b",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_003a5_og3RH8dwdiMUfvU2i1Lr9B46/150x210/1739978770.jpeg?s=a42987f55fa6239b8f73180bc3036fa0ffae2f98",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_003a5_og3RH8dwdiMUfvU2i1Lr9B46/310x430/1739978770.jpeg?s=662908f8c6a69245f517bc46e38d106359785534",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_003a5_og3RH8dwdiMUfvU2i1Lr9B46/f800/1739978770.jpeg?s=b1db35419b7592e5c86706ad47b9d6ba3b8d8855",
+            "width": 428,
+            "height": 321,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_003a5_og3RH8dwdiMUfvU2i1Lr9B46/f800/1739978770.jpeg?s=b1db35419b7592e5c86706ad47b9d6ba3b8d8855",
+            "width": 624,
+            "height": 468,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_003a5_og3RH8dwdiMUfvU2i1Lr9B46/f800/1739978770.jpeg?s=b1db35419b7592e5c86706ad47b9d6ba3b8d8855",
+            "width": 364,
+            "height": 273,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_003a5_og3RH8dwdiMUfvU2i1Lr9B46",
+          "timestamp": 1739978770,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_003a5_og3RH8dwdiMUfvU2i1Lr9B46/1739978770.jpeg?s=e653d61f907d9068ee2ec744978b559b476b8c0e",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 33,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "10.65",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "209.65",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique · Neuf avec étiquette",
+        "accessibility_label": "Lego 42202, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 199,00 €, 209,65 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": -0.06647219508886337,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5739682259,
+      "title": "Vendo lego 42202 ducati panigale v4 misb",
+      "price": {
+        "amount": "160.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5739682259-vendo-lego-42202-ducati-panigale-v4-misb",
+      "user": {
+        "id": 168210263,
+        "login": "marcopazz98",
+        "profile_url": "https://www.vinted.fr/member/168210263-marcopazz98",
+        "photo": {
+          "id": 163728102,
+          "width": 96,
+          "height": 96,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/01_01ae2_GvcMjn8fpttrveqNyyyYTvKG/f800/1698168432.jpeg?s=4e6747302418a7e01d621ac9a9b208df461422eb",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/01_01ae2_GvcMjn8fpttrveqNyyyYTvKG/310x310/1698168432.jpeg?s=bff8a3e67a30d3e93968412e32717a223ab890f6",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/01_01ae2_GvcMjn8fpttrveqNyyyYTvKG/150x150/1698168432.jpeg?s=e89d19825de5539b4e0a7002c0b439adbcec6b19",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/01_01ae2_GvcMjn8fpttrveqNyyyYTvKG/100x100/1698168432.jpeg?s=299337cadedb571cf13a921b15dd8f457834396b",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/01_01ae2_GvcMjn8fpttrveqNyyyYTvKG/50x50/1698168432.jpeg?s=956c064f0a2036bdfbb27a94e36266c16c0d11cf",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/01_01ae2_GvcMjn8fpttrveqNyyyYTvKG/20x20/1698168432.jpeg?s=a074645025a7a4d75881afe28e8ab42c6ca55d9d",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "01_01ae2_GvcMjn8fpttrveqNyyyYTvKG",
+            "timestamp": 1698168432,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/01_01ae2_GvcMjn8fpttrveqNyyyYTvKG/1698168432.jpeg?s=22469f8b4ee80f11451f05d0bf0fe9ae392cf19e",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5739682259-vendo-lego-42202-ducati-panigale-v4-misb",
+      "promoted": false,
+      "photo": {
+        "id": 23252157001,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#76432F",
+        "dominant_color_opaque": "#D6C7C1",
+        "url": "https://images1.vinted.net/t/04_0138c_UofoU7EYZPgehDCPjbKdu5YG/f800/1738319683.jpeg?s=58f5654d7f68e4768304ed7c53312fa05b9abf65",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_0138c_UofoU7EYZPgehDCPjbKdu5YG/70x100/1738319683.jpeg?s=090984bd326098312e10ce9049b74a5bd3a7a28f",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_0138c_UofoU7EYZPgehDCPjbKdu5YG/150x210/1738319683.jpeg?s=9b29d957341b35b907390b760759288d76a3c35e",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_0138c_UofoU7EYZPgehDCPjbKdu5YG/310x430/1738319683.jpeg?s=ecae6c741438a26e1853fd341be65cb701fa5767",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_0138c_UofoU7EYZPgehDCPjbKdu5YG/f800/1738319683.jpeg?s=58f5654d7f68e4768304ed7c53312fa05b9abf65",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_0138c_UofoU7EYZPgehDCPjbKdu5YG/f800/1738319683.jpeg?s=58f5654d7f68e4768304ed7c53312fa05b9abf65",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_0138c_UofoU7EYZPgehDCPjbKdu5YG/f800/1738319683.jpeg?s=58f5654d7f68e4768304ed7c53312fa05b9abf65",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_0138c_UofoU7EYZPgehDCPjbKdu5YG",
+          "timestamp": 1738319683,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_0138c_UofoU7EYZPgehDCPjbKdu5YG/1738319683.jpeg?s=8362c36fbd2fe0dfe088a3a969bd3d95de43c47d",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 53,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "8.7",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "168.7",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique · Neuf avec étiquette",
+        "accessibility_label": "Vendo lego 42202 ducati panigale v4 misb, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 160,00 €, 168,70 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": -0.07219985872507095,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5719531204,
+      "title": "Lego 42130 BMW M 1000 RR Nuovo s sigillato",
+      "price": {
+        "amount": "190.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5719531204-lego-42130-bmw-m-1000-rr-nuovo-s-sigillato",
+      "user": {
+        "id": 116888856,
+        "login": "beppe1414",
+        "profile_url": "https://www.vinted.fr/member/116888856-beppe1414",
+        "photo": {
+          "id": 113624888,
+          "width": 96,
+          "height": 96,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/03_007d7_w8wnjkWJY2JkPfiGQTB8JrCu/f800/1666983257.jpeg?s=4e35ba4568c15338494c5691704ead0c7a828902",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/03_007d7_w8wnjkWJY2JkPfiGQTB8JrCu/310x310/1666983257.jpeg?s=36b516f716e8216ddb659ea9e02550ccbeb8f698",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/03_007d7_w8wnjkWJY2JkPfiGQTB8JrCu/150x150/1666983257.jpeg?s=b17b83be085221b8b1519ce873d950e968dfa3bb",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/03_007d7_w8wnjkWJY2JkPfiGQTB8JrCu/100x100/1666983257.jpeg?s=047e4c5d0b846f870b8c304a6a29a3e14b570563",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/03_007d7_w8wnjkWJY2JkPfiGQTB8JrCu/50x50/1666983257.jpeg?s=ff966fd47bc87dba14e9af1ecf75430f100cf182",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/03_007d7_w8wnjkWJY2JkPfiGQTB8JrCu/20x20/1666983257.jpeg?s=82096704599094fe09bfa0bf0d816a4e3cd5810e",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "03_007d7_w8wnjkWJY2JkPfiGQTB8JrCu",
+            "timestamp": 1666983257,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/03_007d7_w8wnjkWJY2JkPfiGQTB8JrCu/1666983257.jpeg?s=5563f10d8df76ba55015f36ad7892a2673463c09",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5719531204-lego-42130-bmw-m-1000-rr-nuovo-s-sigillato",
+      "promoted": false,
+      "photo": {
+        "id": 23168922547,
+        "image_no": 1,
+        "width": 800,
+        "height": 600,
+        "dominant_color": "#403935",
+        "dominant_color_opaque": "#C6C4C2",
+        "url": "https://images1.vinted.net/t/04_01db1_xBsazjUt5PGXESftQeRJDFFh/f800/1737971598.jpeg?s=32e2a56c8c51b38bdb841c44181ec84f63d49e40",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_01db1_xBsazjUt5PGXESftQeRJDFFh/70x100/1737971598.jpeg?s=063346245f6bc9797458b84d1a7e252e5b08c280",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_01db1_xBsazjUt5PGXESftQeRJDFFh/150x210/1737971598.jpeg?s=035a02991eef3c2646dee77f685de02a872903c3",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_01db1_xBsazjUt5PGXESftQeRJDFFh/310x430/1737971598.jpeg?s=e2e0226a7aedf6c4f88b4901af9da4845bfbcedc",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_01db1_xBsazjUt5PGXESftQeRJDFFh/f800/1737971598.jpeg?s=32e2a56c8c51b38bdb841c44181ec84f63d49e40",
+            "width": 428,
+            "height": 321,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_01db1_xBsazjUt5PGXESftQeRJDFFh/f800/1737971598.jpeg?s=32e2a56c8c51b38bdb841c44181ec84f63d49e40",
+            "width": 624,
+            "height": 468,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_01db1_xBsazjUt5PGXESftQeRJDFFh/f800/1737971598.jpeg?s=32e2a56c8c51b38bdb841c44181ec84f63d49e40",
+            "width": 364,
+            "height": 273,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_01db1_xBsazjUt5PGXESftQeRJDFFh",
+          "timestamp": 1737971598,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_01db1_xBsazjUt5PGXESftQeRJDFFh/1737971598.jpeg?s=c23310c5bf9ef51e58df29b53a1398c43bfce3c7",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 2,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "10.2",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "200.2",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique · Neuf avec étiquette",
+        "accessibility_label": "Lego 42130 BMW M 1000 RR Nuovo s sigillato, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 190,00 €, 200,20 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": -0.1361913532018661,
+        "matched_queries": []
+      }
+    }
+  ],
+  "dominant_brand": null,
+  "search_tracking_params": {
+    "search_correlation_id": "12f9fcfa-3e2c-41ef-843a-0a323ee6b22b",
+    "search_session_id": "f6808726-91a9-49bb-9e6c-4054f87b6e58",
+    "global_search_session_id": "90b7e8e2-1ce3-4d24-9eec-58d25de595c1"
+  },
+  "pagination": {
+    "current_page": 1,
+    "total_pages": 1,
+    "total_entries": 13,
+    "per_page": 96,
+    "time": 1743350966
+  },
+  "code": 0,
+  "setId": "42202"
+}

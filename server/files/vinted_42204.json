@@ -1,0 +1,459 @@
+{
+  "items": [
+    {
+      "id": 6057192994,
+      "title": "Lego Technic 42204 Fast and Furious neuf",
+      "price": {
+        "amount": "59.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/6057192994-lego-technic-42204-fast-and-furious-neuf",
+      "user": {
+        "id": 17963703,
+        "login": "peuron22",
+        "profile_url": "https://www.vinted.fr/member/17963703-peuron22",
+        "photo": null,
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/6057192994-lego-technic-42204-fast-and-furious-neuf",
+      "promoted": false,
+      "photo": {
+        "id": 24572554900,
+        "image_no": 1,
+        "width": 450,
+        "height": 800,
+        "dominant_color": "#9D7D6A",
+        "dominant_color_opaque": "#E2D8D2",
+        "url": "https://images1.vinted.net/t/04_02597_w9fmYdbWEVHGrjnJz9Xi7RoD/f800/1743328389.jpeg?s=1221884494fb52f59e3fb2c475082b9d44d0375e",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_02597_w9fmYdbWEVHGrjnJz9Xi7RoD/70x100/1743328389.jpeg?s=54e8025b1add8950818396ff7ec1d29b58f9487a",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_02597_w9fmYdbWEVHGrjnJz9Xi7RoD/150x210/1743328389.jpeg?s=4620a8c4f41ec1af956dacf6946ec3883463c495",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_02597_w9fmYdbWEVHGrjnJz9Xi7RoD/310x430/1743328389.jpeg?s=51ea8467f43b733685352af84ae9852be26bc21c",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_02597_w9fmYdbWEVHGrjnJz9Xi7RoD/f800/1743328389.jpeg?s=1221884494fb52f59e3fb2c475082b9d44d0375e",
+            "width": 240,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_02597_w9fmYdbWEVHGrjnJz9Xi7RoD/f800/1743328389.jpeg?s=1221884494fb52f59e3fb2c475082b9d44d0375e",
+            "width": 351,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_02597_w9fmYdbWEVHGrjnJz9Xi7RoD/f800/1743328389.jpeg?s=1221884494fb52f59e3fb2c475082b9d44d0375e",
+            "width": 204,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_02597_w9fmYdbWEVHGrjnJz9Xi7RoD",
+          "timestamp": 1743328389,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_02597_w9fmYdbWEVHGrjnJz9Xi7RoD/1743328389.jpeg?s=a49da309bbb0b5ef43257ddfc860b4711525ed6b",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 10,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "3.65",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "62.65",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique · Neuf avec étiquette",
+        "accessibility_label": "Lego Technic 42204 Fast and Furious neuf, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 59,00 €, 62,65 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 38.48932,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5875517148,
+      "title": "Neuf - Lego 42151",
+      "price": {
+        "amount": "34.9",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5875517148-neuf-lego-42151",
+      "user": {
+        "id": 252738403,
+        "login": "madeinbrick",
+        "profile_url": "https://www.vinted.fr/member/252738403-madeinbrick",
+        "photo": {
+          "id": 229612162,
+          "width": 600,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/04_00ae7_KnuTjpCFEBLnSU9xFroeki6t/f800/1739024425.jpeg?s=c0183e6f010b78392f6fcbb78830d9a2553b4f73",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/04_00ae7_KnuTjpCFEBLnSU9xFroeki6t/310x310/1739024425.jpeg?s=47ecd7a8c206bdf014e1dcc53be5815f3aee1da2",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/04_00ae7_KnuTjpCFEBLnSU9xFroeki6t/150x150/1739024425.jpeg?s=87f406991ffe4b086e189771e0d0e2c2a6a69e7b",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/04_00ae7_KnuTjpCFEBLnSU9xFroeki6t/100x100/1739024425.jpeg?s=805139cd386644b20708bb383aa510e7996f4be8",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/04_00ae7_KnuTjpCFEBLnSU9xFroeki6t/50x50/1739024425.jpeg?s=f64ffa2b236eb522efd155b5ceecaf3653b8cd80",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/04_00ae7_KnuTjpCFEBLnSU9xFroeki6t/20x20/1739024425.jpeg?s=8dbbbb69eccf3d79cdba7d40dbd1832482bbde94",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "04_00ae7_KnuTjpCFEBLnSU9xFroeki6t",
+            "timestamp": 1739024425,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/04_00ae7_KnuTjpCFEBLnSU9xFroeki6t/1739024425.jpeg?s=e1c7485fb27f7dca448f97d609396d7bf0532674",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5875517148-neuf-lego-42151",
+      "promoted": false,
+      "photo": {
+        "id": 23815643106,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#787460",
+        "dominant_color_opaque": "#D7D5CF",
+        "url": "https://images1.vinted.net/t/04_0239d_T5pvjyeHYMLKjgSS6Cv5vtFv/f800/1740485960.jpeg?s=66e5b185d27796ebabc0569f435c964ea8c5805e",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_0239d_T5pvjyeHYMLKjgSS6Cv5vtFv/70x100/1740485960.jpeg?s=7f0956a3b254d3f52360df630697e00d7dc7a2e9",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_0239d_T5pvjyeHYMLKjgSS6Cv5vtFv/150x210/1740485960.jpeg?s=74ffee26cf7e6f4b4d1a4b22bfa60f2674ddf57e",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_0239d_T5pvjyeHYMLKjgSS6Cv5vtFv/310x430/1740485960.jpeg?s=24833ad24cccd466edd610a3d1a3400e89da2baf",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_0239d_T5pvjyeHYMLKjgSS6Cv5vtFv/f800/1740485960.jpeg?s=66e5b185d27796ebabc0569f435c964ea8c5805e",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_0239d_T5pvjyeHYMLKjgSS6Cv5vtFv/f800/1740485960.jpeg?s=66e5b185d27796ebabc0569f435c964ea8c5805e",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_0239d_T5pvjyeHYMLKjgSS6Cv5vtFv/f800/1740485960.jpeg?s=66e5b185d27796ebabc0569f435c964ea8c5805e",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_0239d_T5pvjyeHYMLKjgSS6Cv5vtFv",
+          "timestamp": 1740485960,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_0239d_T5pvjyeHYMLKjgSS6Cv5vtFv/1740485960.jpeg?s=d078edbe6f7c8472859b838ae10fe421e86f32fc",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 6,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "2.45",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "37.35",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique · Neuf avec étiquette",
+        "accessibility_label": "Neuf - Lego 42151, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 34,90 €, 37,35 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 37.284077,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5906171747,
+      "title": "Lego 42204 Toyota Supra fast and furious",
+      "price": {
+        "amount": "67.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5906171747-lego-42204-toyota-supra-fast-and-furious",
+      "user": {
+        "id": 191080546,
+        "login": "robber88",
+        "profile_url": "https://www.vinted.fr/member/191080546-robber88",
+        "photo": {
+          "id": 182850446,
+          "width": 225,
+          "height": 225,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_01e5f_Xye3FsAECjjfdqA41xyH1LFk/f800/1709580380.jpeg?s=903d8aa8ec4cb58e538eeba75bbaaf3ab977ff01",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_01e5f_Xye3FsAECjjfdqA41xyH1LFk/310x310/1709580380.jpeg?s=d9618b4c119ce6ac71a242b812358eda96bbcae8",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_01e5f_Xye3FsAECjjfdqA41xyH1LFk/150x150/1709580380.jpeg?s=d9b390c1d30420b5b31c149d779d8c5ca54d69da",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_01e5f_Xye3FsAECjjfdqA41xyH1LFk/100x100/1709580380.jpeg?s=f95eddca2bf8ee287b852758630b1aba35c9f067",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_01e5f_Xye3FsAECjjfdqA41xyH1LFk/50x50/1709580380.jpeg?s=d86f81c9df9b5442578ea1ad5d3147f8609ee7bb",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_01e5f_Xye3FsAECjjfdqA41xyH1LFk/20x20/1709580380.jpeg?s=b76d6159c898b8614debc2638986bdfc892c9e88",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_01e5f_Xye3FsAECjjfdqA41xyH1LFk",
+            "timestamp": 1709580380,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_01e5f_Xye3FsAECjjfdqA41xyH1LFk/1709580380.jpeg?s=e23eb0cb690d9bc67a42194e44fe42decadca08d",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5906171747-lego-42204-toyota-supra-fast-and-furious",
+      "promoted": false,
+      "photo": {
+        "id": 23943747679,
+        "image_no": 1,
+        "width": 800,
+        "height": 613,
+        "dominant_color": "#A48B59",
+        "dominant_color_opaque": "#E4DCCD",
+        "url": "https://images1.vinted.net/t/04_00b54_z66MZpFKNqH7MqwrqLRWi8m6/f800/1740991358.jpeg?s=27b09b4b030088fe522658fd10a85e96625bca06",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_00b54_z66MZpFKNqH7MqwrqLRWi8m6/70x100/1740991358.jpeg?s=e3d17151ae29c53d135e47c331f0baa28c294644",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_00b54_z66MZpFKNqH7MqwrqLRWi8m6/150x210/1740991358.jpeg?s=5b7e0ed6d4a53d3ea89bb37fd2b8b7c379407a7a",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_00b54_z66MZpFKNqH7MqwrqLRWi8m6/310x430/1740991358.jpeg?s=5777c5d347c05ea51f6346d1e20c03615ee2cbca",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_00b54_z66MZpFKNqH7MqwrqLRWi8m6/f800/1740991358.jpeg?s=27b09b4b030088fe522658fd10a85e96625bca06",
+            "width": 428,
+            "height": 328,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_00b54_z66MZpFKNqH7MqwrqLRWi8m6/f800/1740991358.jpeg?s=27b09b4b030088fe522658fd10a85e96625bca06",
+            "width": 624,
+            "height": 478,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_00b54_z66MZpFKNqH7MqwrqLRWi8m6/f800/1740991358.jpeg?s=27b09b4b030088fe522658fd10a85e96625bca06",
+            "width": 364,
+            "height": 279,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_00b54_z66MZpFKNqH7MqwrqLRWi8m6",
+          "timestamp": 1740991358,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_00b54_z66MZpFKNqH7MqwrqLRWi8m6/1740991358.jpeg?s=4ed15259071e9583b4e547d53bd7e0c5e1daa915",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 7,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "4.05",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "71.05",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "8 ans / 128 cm",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "8 ans / 128 cm · Neuf avec étiquette",
+        "accessibility_label": "Lego 42204 Toyota Supra fast and furious, marque: LEGO, état: Neuf avec étiquette, taille: 8 ans / 128 cm, 67,00 €, 71,05 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 37.051403,
+        "matched_queries": []
+      }
+    }
+  ],
+  "dominant_brand": null,
+  "search_tracking_params": {
+    "search_correlation_id": "feec1bba-7725-4ad1-af71-30578a856995",
+    "search_session_id": "286fb1a7-00a6-48b3-860d-9e9d0957b83c",
+    "global_search_session_id": "d63711e6-351f-4110-960a-93868a13cc98"
+  },
+  "pagination": {
+    "current_page": 1,
+    "total_pages": 1,
+    "total_entries": 3,
+    "per_page": 96,
+    "time": 1743350973
+  },
+  "code": 0,
+  "setId": "42204"
+}

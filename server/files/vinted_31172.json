@@ -1,0 +1,184 @@
+{
+  "items": [
+    {
+      "id": 6027663633,
+      "title": "Lego Creator Excluisve Limited Edition 31172: Record Player with Flowers",
+      "price": {
+        "amount": "35.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/6027663633-lego-creator-excluisve-limited-edition-31172-record-player-with-flowers",
+      "user": {
+        "id": 42556868,
+        "login": "frandelajungla_56",
+        "profile_url": "https://www.vinted.fr/member/42556868-frandelajungla56",
+        "photo": {
+          "id": 37445896,
+          "width": 800,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/01_0085f_hLc6aAmmnZuxeLngwoPk85Nh/f800/1603641539.jpeg?s=e8999164dbde338665eb7c0d6fadd1d78df6e2b1",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/01_0085f_hLc6aAmmnZuxeLngwoPk85Nh/310x310/1603641539.jpeg?s=65772fce09c226cca56a02191b1e56fdd75f6c8b",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/01_0085f_hLc6aAmmnZuxeLngwoPk85Nh/150x150/1603641539.jpeg?s=1cc47697864469114e5d25ae85e2e30854f37843",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/01_0085f_hLc6aAmmnZuxeLngwoPk85Nh/100x100/1603641539.jpeg?s=252be388f509dc90ccccd3738080ad32ea37b37c",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/01_0085f_hLc6aAmmnZuxeLngwoPk85Nh/50x50/1603641539.jpeg?s=6c747b3fad6785b1220edbd195fbade4db549180",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/01_0085f_hLc6aAmmnZuxeLngwoPk85Nh/20x20/1603641539.jpeg?s=2e9bb90296ed4d50527f9ab8060b35df260f122b",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "01_0085f_hLc6aAmmnZuxeLngwoPk85Nh",
+            "timestamp": 1603641539,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/01_0085f_hLc6aAmmnZuxeLngwoPk85Nh/1603641539.jpeg?s=ab8182817b1be86dff54656b6658644be69863a0",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/6027663633-lego-creator-excluisve-limited-edition-31172-record-player-with-flowers",
+      "promoted": false,
+      "photo": {
+        "id": 24448881245,
+        "image_no": 1,
+        "width": 800,
+        "height": 800,
+        "dominant_color": "#767267",
+        "dominant_color_opaque": "#D6D5D1",
+        "url": "https://images1.vinted.net/t/04_016d1_85SBL5ziaiDyy8JAFVxmSBXW/f800/r1/1742835583.jpeg?s=f86a03c0c4ce013ad7a21e6b8f793f9cdc30e76b",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_016d1_85SBL5ziaiDyy8JAFVxmSBXW/70x100/r1/1742835583.jpeg?s=66d6aea7d42e722aa76a56678f98f0fbed10978f",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_016d1_85SBL5ziaiDyy8JAFVxmSBXW/150x210/r1/1742835583.jpeg?s=f6b406d1bcd5dd171b44dc88587cdbbea16a5ce9",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_016d1_85SBL5ziaiDyy8JAFVxmSBXW/310x430/r1/1742835583.jpeg?s=2b71c5f3fa8dd20f783b9491c9d8f08c28a9af3b",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_016d1_85SBL5ziaiDyy8JAFVxmSBXW/f800/r1/1742835583.jpeg?s=f86a03c0c4ce013ad7a21e6b8f793f9cdc30e76b",
+            "width": 428,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_016d1_85SBL5ziaiDyy8JAFVxmSBXW/f800/r1/1742835583.jpeg?s=f86a03c0c4ce013ad7a21e6b8f793f9cdc30e76b",
+            "width": 624,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_016d1_85SBL5ziaiDyy8JAFVxmSBXW/f800/r1/1742835583.jpeg?s=f86a03c0c4ce013ad7a21e6b8f793f9cdc30e76b",
+            "width": 364,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_016d1_85SBL5ziaiDyy8JAFVxmSBXW",
+          "timestamp": 1742835583,
+          "orientation": 1
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_016d1_85SBL5ziaiDyy8JAFVxmSBXW/r1/1742835583.jpeg?s=34401af36d6f37f56debc452b147cfa22f6507be",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 40,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "2.45",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "37.45",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique · Neuf avec étiquette",
+        "accessibility_label": "Lego Creator Excluisve Limited Edition 31172: Record Player with Flowers, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 35,00 €, 37,45 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 37.01663,
+        "matched_queries": []
+      }
+    }
+  ],
+  "dominant_brand": null,
+  "search_tracking_params": {
+    "search_correlation_id": "fc672c7e-e151-409a-99e2-626640afd9df",
+    "search_session_id": "9790cee4-edd0-4b5d-a5d3-ab87a964d3d4",
+    "global_search_session_id": "25c29358-f642-4f93-bb39-3c9ae2c49678"
+  },
+  "pagination": {
+    "current_page": 1,
+    "total_pages": 1,
+    "total_entries": 1,
+    "per_page": 96,
+    "time": 1743350968
+  },
+  "code": 0,
+  "setId": "31172"
+}
