@@ -1,0 +1,2274 @@
+{
+  "items": [
+    {
+      "id": 6063492605,
+      "title": "Lego 21347 nieuw sealed vaste prijs!",
+      "price": {
+        "amount": "85.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/6063492605-lego-21347-nieuw-sealed-vaste-prijs",
+      "user": {
+        "id": 46941585,
+        "login": "frankvdjagt",
+        "profile_url": "https://www.vinted.fr/member/46941585-frankvdjagt",
+        "photo": {
+          "id": 219139847,
+          "width": 600,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/04_00758_iYHgUyF98SY9PLnDjZC1PCVs/f800/1732141433.jpeg?s=072b64e63423e1b7b35760f965e8c6ce8634be71",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/04_00758_iYHgUyF98SY9PLnDjZC1PCVs/310x310/1732141433.jpeg?s=976e9361f715fdca4dd30d234f0f3932e5601880",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/04_00758_iYHgUyF98SY9PLnDjZC1PCVs/150x150/1732141433.jpeg?s=1c0448ea7e2b89594fa38db320c54dc74b6fb2f3",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/04_00758_iYHgUyF98SY9PLnDjZC1PCVs/100x100/1732141433.jpeg?s=554574fd6d8c5a1fdff386b30d0a0808df05eee6",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/04_00758_iYHgUyF98SY9PLnDjZC1PCVs/50x50/1732141433.jpeg?s=7ffcecdc45499e98833766ca40112f64c92a80b1",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/04_00758_iYHgUyF98SY9PLnDjZC1PCVs/20x20/1732141433.jpeg?s=39c4cd13a8fcd76018a4fd17f3421b7998911d85",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "04_00758_iYHgUyF98SY9PLnDjZC1PCVs",
+            "timestamp": 1732141433,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/04_00758_iYHgUyF98SY9PLnDjZC1PCVs/1732141433.jpeg?s=62e857b294e42d1f004b42dad054f843e794b7e6",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/6063492605-lego-21347-nieuw-sealed-vaste-prijs",
+      "promoted": false,
+      "photo": {
+        "id": 24598389341,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#CB5750",
+        "dominant_color_opaque": "#EFCDCB",
+        "url": "https://images1.vinted.net/t/04_018bf_EfAFxSg1BwLUE6i8wj2oaLHc/f800/1743407896.jpeg?s=d7fbdac27c8353ce553a2380de99ea9920d5eb73",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_018bf_EfAFxSg1BwLUE6i8wj2oaLHc/70x100/1743407896.jpeg?s=352f7be28e0715225b5160fb9a39f9eaca989828",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_018bf_EfAFxSg1BwLUE6i8wj2oaLHc/150x210/1743407896.jpeg?s=7354de8c83a89410225fda0b15359b6213329e75",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_018bf_EfAFxSg1BwLUE6i8wj2oaLHc/310x430/1743407896.jpeg?s=74709ea2df3068cc190eff304f582a2a1b7e65a1",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_018bf_EfAFxSg1BwLUE6i8wj2oaLHc/f800/1743407896.jpeg?s=d7fbdac27c8353ce553a2380de99ea9920d5eb73",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_018bf_EfAFxSg1BwLUE6i8wj2oaLHc/f800/1743407896.jpeg?s=d7fbdac27c8353ce553a2380de99ea9920d5eb73",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_018bf_EfAFxSg1BwLUE6i8wj2oaLHc/f800/1743407896.jpeg?s=d7fbdac27c8353ce553a2380de99ea9920d5eb73",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_018bf_EfAFxSg1BwLUE6i8wj2oaLHc",
+          "timestamp": 1743407896,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_018bf_EfAFxSg1BwLUE6i8wj2oaLHc/1743407896.jpeg?s=d4705b598818e945ce3ea1cfa9b69d9169df1b92",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 15,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "4.95",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "89.95",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "7 ans / 122 cm",
+      "content_source": "search",
+      "status": "Très bon état",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "7 ans / 122 cm · Très bon état",
+        "accessibility_label": "Lego 21347 nieuw sealed vaste prijs!, marque: LEGO, état: Très bon état, taille: 7 ans / 122 cm, 85,00 €, 89,95 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 3.014078617095947,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 6078775925,
+      "title": "LEGO 21347 Cabina Telefonica NUOVO",
+      "price": {
+        "amount": "84.99",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/6078775925-lego-21347-cabina-telefonica-nuovo",
+      "user": {
+        "id": 54054855,
+        "login": "fabiana202020",
+        "profile_url": "https://www.vinted.fr/member/54054855-fabiana202020",
+        "photo": {
+          "id": 226981447,
+          "width": 565,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/01_0005b_xpAXuKizp1s65rVc8iMLp7vV/f800/1737362782.jpeg?s=dde48a84e4669ad2d42988eae0b30c6319ffbabf",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/01_0005b_xpAXuKizp1s65rVc8iMLp7vV/310x310/1737362782.jpeg?s=279f4e135669eb3584cbac13aeafd246124eef70",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/01_0005b_xpAXuKizp1s65rVc8iMLp7vV/150x150/1737362782.jpeg?s=2371b0e4a2a22ad7519e540fa98d2d79c596b5d9",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/01_0005b_xpAXuKizp1s65rVc8iMLp7vV/100x100/1737362782.jpeg?s=115068cbb580af2940cfc0ce75e49980e22411dd",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/01_0005b_xpAXuKizp1s65rVc8iMLp7vV/50x50/1737362782.jpeg?s=7bf0ce2a07e022a926e1caf046e2082fece4ad04",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/01_0005b_xpAXuKizp1s65rVc8iMLp7vV/20x20/1737362782.jpeg?s=2ad605402082ab6347578faee826e7d4b4a65675",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "01_0005b_xpAXuKizp1s65rVc8iMLp7vV",
+            "timestamp": 1737362782,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/01_0005b_xpAXuKizp1s65rVc8iMLp7vV/1737362782.jpeg?s=cc841282121a269aee108a151cdb73958e640dde",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/6078775925-lego-21347-cabina-telefonica-nuovo",
+      "promoted": false,
+      "photo": {
+        "id": 24661841896,
+        "image_no": 1,
+        "width": 450,
+        "height": 800,
+        "dominant_color": "#A94D50",
+        "dominant_color_opaque": "#E5CACB",
+        "url": "https://images1.vinted.net/t/04_01cef_kNjnE1VBSn5PSJWKcMZ4dwSC/f800/1743621344.jpeg?s=26c24a8750b51a3a76c7ec2974f749ed3945874d",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_01cef_kNjnE1VBSn5PSJWKcMZ4dwSC/70x100/1743621344.jpeg?s=c8318b6a226f437e4597d944f75fafb2a78ed16f",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_01cef_kNjnE1VBSn5PSJWKcMZ4dwSC/150x210/1743621344.jpeg?s=52c5550cf26d0321073c614816d4ce5368fe22dd",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_01cef_kNjnE1VBSn5PSJWKcMZ4dwSC/310x430/1743621344.jpeg?s=13edfe99f3380e4bce3c3355bd636b03bcc41524",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_01cef_kNjnE1VBSn5PSJWKcMZ4dwSC/f800/1743621344.jpeg?s=26c24a8750b51a3a76c7ec2974f749ed3945874d",
+            "width": 240,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_01cef_kNjnE1VBSn5PSJWKcMZ4dwSC/f800/1743621344.jpeg?s=26c24a8750b51a3a76c7ec2974f749ed3945874d",
+            "width": 351,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_01cef_kNjnE1VBSn5PSJWKcMZ4dwSC/f800/1743621344.jpeg?s=26c24a8750b51a3a76c7ec2974f749ed3945874d",
+            "width": 204,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_01cef_kNjnE1VBSn5PSJWKcMZ4dwSC",
+          "timestamp": 1743621344,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_01cef_kNjnE1VBSn5PSJWKcMZ4dwSC/1743621344.jpeg?s=bd9ef33b199a7bafe2169ca024f2bba868df4218",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 18,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "4.95",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "89.94",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique · Neuf avec étiquette",
+        "accessibility_label": "LEGO 21347 Cabina Telefonica NUOVO, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 84,99 €, 89,94 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 3.020391464233398,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 6028785639,
+      "title": "Lego 21347 Cabina Telefonica Londra",
+      "price": {
+        "amount": "95.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/6028785639-lego-21347-cabina-telefonica-londra",
+      "user": {
+        "id": 67446394,
+        "login": "fabiomeanti",
+        "profile_url": "https://www.vinted.fr/member/67446394-fabiomeanti",
+        "photo": {
+          "id": 184926525,
+          "width": 600,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/03_01b25_9jkSoQ2GJhR6DZ9JPSANHFhJ/f800/1710918339.jpeg?s=51a2b563d6028b1462eb082e419c4f0d72859a0c",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/03_01b25_9jkSoQ2GJhR6DZ9JPSANHFhJ/310x310/1710918339.jpeg?s=30955a47bff5a12a343970902dbf6c77629246ca",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/03_01b25_9jkSoQ2GJhR6DZ9JPSANHFhJ/150x150/1710918339.jpeg?s=eb91df2710572660db81ef1839f3955b6ca54ff5",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/03_01b25_9jkSoQ2GJhR6DZ9JPSANHFhJ/100x100/1710918339.jpeg?s=d08972b7c3f2089150b9e9ecdabee0a4d1453c78",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/03_01b25_9jkSoQ2GJhR6DZ9JPSANHFhJ/50x50/1710918339.jpeg?s=90814d25c0ea7a99aa41110a92dfc6386d8ae832",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/03_01b25_9jkSoQ2GJhR6DZ9JPSANHFhJ/20x20/1710918339.jpeg?s=fd2894459f23fac02ec9c5ca503e942eb9f8b8f5",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "03_01b25_9jkSoQ2GJhR6DZ9JPSANHFhJ",
+            "timestamp": 1710918339,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/03_01b25_9jkSoQ2GJhR6DZ9JPSANHFhJ/1710918339.jpeg?s=ef1a50ddeaa6be906000214021e2224c2fba93c8",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/6028785639-lego-21347-cabina-telefonica-londra",
+      "promoted": false,
+      "photo": {
+        "id": 24453545135,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#906764",
+        "dominant_color_opaque": "#DED1D1",
+        "url": "https://images1.vinted.net/t/04_01fe2_srQ64ZTDTTXC2g7WXM8SJR6o/f800/1742846135.jpeg?s=a92aa6ae4d5fd675cd8b2488649aee34a9a4f88b",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_01fe2_srQ64ZTDTTXC2g7WXM8SJR6o/70x100/1742846135.jpeg?s=8f778fa6b4353f1d4fe458b0cfb71a5f9cee96da",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_01fe2_srQ64ZTDTTXC2g7WXM8SJR6o/150x210/1742846135.jpeg?s=1db5f75d8cd7fc21eaadec4c5982307de133a796",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_01fe2_srQ64ZTDTTXC2g7WXM8SJR6o/310x430/1742846135.jpeg?s=bc85537b4f62766885a1ee5ce13c7b44a00f3c13",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_01fe2_srQ64ZTDTTXC2g7WXM8SJR6o/f800/1742846135.jpeg?s=a92aa6ae4d5fd675cd8b2488649aee34a9a4f88b",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_01fe2_srQ64ZTDTTXC2g7WXM8SJR6o/f800/1742846135.jpeg?s=a92aa6ae4d5fd675cd8b2488649aee34a9a4f88b",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_01fe2_srQ64ZTDTTXC2g7WXM8SJR6o/f800/1742846135.jpeg?s=a92aa6ae4d5fd675cd8b2488649aee34a9a4f88b",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_01fe2_srQ64ZTDTTXC2g7WXM8SJR6o",
+          "timestamp": 1742846135,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_01fe2_srQ64ZTDTTXC2g7WXM8SJR6o/1742846135.jpeg?s=3879442c7045068bc0039cfa96bb0b9db8abbbfa",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 17,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "5.45",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "100.45",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Neuf avec étiquette",
+        "accessibility_label": "Lego 21347 Cabina Telefonica Londra, marque: LEGO, état: Neuf avec étiquette, 95,00 €, 100,45 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 2.970352172851562,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 6075980818,
+      "title": "Lego 21347 Cabina telefonica Londra Nuovo",
+      "price": {
+        "amount": "90.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/6075980818-lego-21347-cabina-telefonica-londra-nuovo",
+      "user": {
+        "id": 72582225,
+        "login": "maniele79",
+        "profile_url": "https://www.vinted.fr/member/72582225-maniele79",
+        "photo": {
+          "id": 71369416,
+          "width": 800,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/01_00f2b_Ch8FRrFotEdYb1Cztr8xe52Q/f800/1635599509.jpeg?s=a0e9e7cd4d3da98e511b27e4dbdfbf5eee01e6b6",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/01_00f2b_Ch8FRrFotEdYb1Cztr8xe52Q/310x310/1635599509.jpeg?s=e6e086adbf03f53d4aa84460a395c3e98dbce102",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/01_00f2b_Ch8FRrFotEdYb1Cztr8xe52Q/150x150/1635599509.jpeg?s=d75711ae0e87809cf054654c282805d481dfb5ef",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/01_00f2b_Ch8FRrFotEdYb1Cztr8xe52Q/100x100/1635599509.jpeg?s=ec4c8bf24dfcc737c499c8a4bb6ff1cac0f5ad97",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/01_00f2b_Ch8FRrFotEdYb1Cztr8xe52Q/50x50/1635599509.jpeg?s=4e8c93c394c0c4ef646bd79cfc37eedc65abaa02",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/01_00f2b_Ch8FRrFotEdYb1Cztr8xe52Q/20x20/1635599509.jpeg?s=9c35c4c3458aed0b15146c0c9833039b787b976f",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "01_00f2b_Ch8FRrFotEdYb1Cztr8xe52Q",
+            "timestamp": 1635599509,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/01_00f2b_Ch8FRrFotEdYb1Cztr8xe52Q/1635599509.jpeg?s=746ca16b40673aa66e87fb0debc15242d967d70f",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/6075980818-lego-21347-cabina-telefonica-londra-nuovo",
+      "promoted": false,
+      "photo": {
+        "id": 24650145644,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#84493F",
+        "dominant_color_opaque": "#DAC8C5",
+        "url": "https://images1.vinted.net/t/03_02025_ZcXR1bboZvPPdUAJcfbYmeBP/f800/1743596152.jpeg?s=08b37e4676b204d0472a766ecb567b205d42e2ad",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/03_02025_ZcXR1bboZvPPdUAJcfbYmeBP/70x100/1743596152.jpeg?s=30f7b71b1028241e52fe685428db6aab03ab4818",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/03_02025_ZcXR1bboZvPPdUAJcfbYmeBP/150x210/1743596152.jpeg?s=1268ed997a5dcca8faacae293dab30d9ffccc950",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/03_02025_ZcXR1bboZvPPdUAJcfbYmeBP/310x430/1743596152.jpeg?s=285c504c356b52319da161c7af801329ae05c816",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/03_02025_ZcXR1bboZvPPdUAJcfbYmeBP/f800/1743596152.jpeg?s=08b37e4676b204d0472a766ecb567b205d42e2ad",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/03_02025_ZcXR1bboZvPPdUAJcfbYmeBP/f800/1743596152.jpeg?s=08b37e4676b204d0472a766ecb567b205d42e2ad",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/03_02025_ZcXR1bboZvPPdUAJcfbYmeBP/f800/1743596152.jpeg?s=08b37e4676b204d0472a766ecb567b205d42e2ad",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "03_02025_ZcXR1bboZvPPdUAJcfbYmeBP",
+          "timestamp": 1743596152,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/03_02025_ZcXR1bboZvPPdUAJcfbYmeBP/1743596152.jpeg?s=f63afd28f4f6c24f8a65a100c0d6080b96da41e4",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 11,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "5.2",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "95.2",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique · Neuf avec étiquette",
+        "accessibility_label": "Lego 21347 Cabina telefonica Londra Nuovo, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 90,00 €, 95,20 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 2.904166698455811,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 6073984195,
+      "title": "Lego 21347  Cabine telefónica",
+      "price": {
+        "amount": "84.5",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/6073984195-lego-21347-cabine-telefonica",
+      "user": {
+        "id": 72740650,
+        "login": "berto124",
+        "profile_url": "https://www.vinted.fr/member/72740650-berto124",
+        "photo": {
+          "id": 71537789,
+          "width": 96,
+          "height": 96,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/03_0114f_thZhTLM9nNUZ66ry8qNaHtEb/f800/1635766052.jpeg?s=a7ff7919239167399e2afe789d9b6f649e0701e3",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/03_0114f_thZhTLM9nNUZ66ry8qNaHtEb/310x310/1635766052.jpeg?s=efe373b575c84525bdd2314dc01eeb1eaf6fd08f",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/03_0114f_thZhTLM9nNUZ66ry8qNaHtEb/150x150/1635766052.jpeg?s=421a53989244b4e33909e7262763d3b840fff208",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/03_0114f_thZhTLM9nNUZ66ry8qNaHtEb/100x100/1635766052.jpeg?s=3624b689b774210270231b40b3c1790cdd47bbe0",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/03_0114f_thZhTLM9nNUZ66ry8qNaHtEb/50x50/1635766052.jpeg?s=0f59ca714075328a7518ef0f5395f6b562c022b5",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/03_0114f_thZhTLM9nNUZ66ry8qNaHtEb/20x20/1635766052.jpeg?s=0c0e9667f54a1287caf75bc004a0bbb66f33fcf6",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "03_0114f_thZhTLM9nNUZ66ry8qNaHtEb",
+            "timestamp": 1635766052,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/03_0114f_thZhTLM9nNUZ66ry8qNaHtEb/1635766052.jpeg?s=3c48da60e23fa4c4b7486ce0d187b5d074341ce4",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/6073984195-lego-21347-cabine-telefonica",
+      "promoted": false,
+      "photo": {
+        "id": 24641830753,
+        "image_no": 1,
+        "width": 545,
+        "height": 800,
+        "dominant_color": "#834C3E",
+        "dominant_color_opaque": "#DAC9C5",
+        "url": "https://images1.vinted.net/t/02_02593_n6Mo3bppFRwizAn1rvDWJNii/f800/1743545947.jpeg?s=cc8ef2779172b4189335fef00d139563264441a0",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/02_02593_n6Mo3bppFRwizAn1rvDWJNii/70x100/1743545947.jpeg?s=b45bcfd538aa7d29505b7ce6c6497a59a056bdf2",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/02_02593_n6Mo3bppFRwizAn1rvDWJNii/150x210/1743545947.jpeg?s=c0fbb5c947b4e5c8269c941e9206ee54ce14b32c",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/02_02593_n6Mo3bppFRwizAn1rvDWJNii/310x430/1743545947.jpeg?s=c2e5e6c5bbce16af97985cba6f1f740af3489bce",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/02_02593_n6Mo3bppFRwizAn1rvDWJNii/f800/1743545947.jpeg?s=cc8ef2779172b4189335fef00d139563264441a0",
+            "width": 291,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/02_02593_n6Mo3bppFRwizAn1rvDWJNii/f800/1743545947.jpeg?s=cc8ef2779172b4189335fef00d139563264441a0",
+            "width": 425,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/02_02593_n6Mo3bppFRwizAn1rvDWJNii/f800/1743545947.jpeg?s=cc8ef2779172b4189335fef00d139563264441a0",
+            "width": 248,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "02_02593_n6Mo3bppFRwizAn1rvDWJNii",
+          "timestamp": 1743545947,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/02_02593_n6Mo3bppFRwizAn1rvDWJNii/1743545947.jpeg?s=d076aea604f0044ae754d2e23de7d62706233efc",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 14,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "4.93",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "89.43",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf sans étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique · Neuf sans étiquette",
+        "accessibility_label": "Lego 21347  Cabine telefónica, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 84,50 €, 89,43 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 2.595983505249023,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 6047381923,
+      "title": "Lego Ideas cabina telefonica",
+      "price": {
+        "amount": "94.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/6047381923-lego-ideas-cabina-telefonica",
+      "user": {
+        "id": 170406388,
+        "login": "tommaso.12345678",
+        "profile_url": "https://www.vinted.fr/member/170406388-tommaso12345678",
+        "photo": {
+          "id": 215719928,
+          "width": 450,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/04_02045_Y1FfnRcdu5JpLLAwZxdoR485/f800/1730108809.jpeg?s=5c9614d24578222974ed5ecc5e7dc94beaa338c2",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/04_02045_Y1FfnRcdu5JpLLAwZxdoR485/310x310/1730108809.jpeg?s=4f93fcf425485e24689a211e02ac39f049d4fcce",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/04_02045_Y1FfnRcdu5JpLLAwZxdoR485/150x150/1730108809.jpeg?s=b9f6c184230478251a9ca8f9dc79b14598473556",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/04_02045_Y1FfnRcdu5JpLLAwZxdoR485/100x100/1730108809.jpeg?s=0610ebcb2e10b5b2f732166f861f82a581cee3d5",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/04_02045_Y1FfnRcdu5JpLLAwZxdoR485/50x50/1730108809.jpeg?s=91d4170a0f6564323fd7db5c7e3cae91de408a8f",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/04_02045_Y1FfnRcdu5JpLLAwZxdoR485/20x20/1730108809.jpeg?s=2dcbd15995490d4b7d5334f73337458b78526bfe",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "04_02045_Y1FfnRcdu5JpLLAwZxdoR485",
+            "timestamp": 1730108809,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/04_02045_Y1FfnRcdu5JpLLAwZxdoR485/1730108809.jpeg?s=5a0b56a222797bf408e25485270675a545942377",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/6047381923-lego-ideas-cabina-telefonica",
+      "promoted": false,
+      "photo": {
+        "id": 24531177726,
+        "image_no": 1,
+        "width": 360,
+        "height": 800,
+        "dominant_color": "#80444D",
+        "dominant_color_opaque": "#D9C7CA",
+        "url": "https://images1.vinted.net/t/04_022ab_GokXvZ5k856mU61GE9Vc1VGK/f800/1743168979.jpeg?s=19fa5feb80b3290e3e0aee9d6564d1b9e8236827",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_022ab_GokXvZ5k856mU61GE9Vc1VGK/70x100/1743168979.jpeg?s=19443f1e67131886a978bb459e607649d945b2e0",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_022ab_GokXvZ5k856mU61GE9Vc1VGK/150x210/1743168979.jpeg?s=fdd95f4dcaaa213ad86e81172e0f63601fc33ec3",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_022ab_GokXvZ5k856mU61GE9Vc1VGK/310x430/1743168979.jpeg?s=649878e3f6cdbeba738d147892f6adb366fccd84",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_022ab_GokXvZ5k856mU61GE9Vc1VGK/f800/1743168979.jpeg?s=19fa5feb80b3290e3e0aee9d6564d1b9e8236827",
+            "width": 192,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_022ab_GokXvZ5k856mU61GE9Vc1VGK/f800/1743168979.jpeg?s=19fa5feb80b3290e3e0aee9d6564d1b9e8236827",
+            "width": 281,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_022ab_GokXvZ5k856mU61GE9Vc1VGK/f800/1743168979.jpeg?s=19fa5feb80b3290e3e0aee9d6564d1b9e8236827",
+            "width": 164,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_022ab_GokXvZ5k856mU61GE9Vc1VGK",
+          "timestamp": 1743168979,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_022ab_GokXvZ5k856mU61GE9Vc1VGK/1743168979.jpeg?s=a2f6c303bca6e9cace326696515105c69c9d80fa",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 16,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "5.4",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "99.4",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique · Neuf avec étiquette",
+        "accessibility_label": "Lego Ideas cabina telefonica, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 94,00 €, 99,40 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 2.194251537322998,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5999942884,
+      "title": "Lego 21347",
+      "price": {
+        "amount": "95.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5999942884-lego-21347",
+      "user": {
+        "id": 111496948,
+        "login": "andregaddi",
+        "profile_url": "https://www.vinted.fr/member/111496948-andregaddi",
+        "photo": {
+          "id": 235607906,
+          "width": 800,
+          "height": 600,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/03_00e0f_gmaSmwnw8UrFD7akY45Xtk4t/f800/1742449649.jpeg?s=f58eb2220c459cc4d07d242fde0c8effe2182291",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/03_00e0f_gmaSmwnw8UrFD7akY45Xtk4t/310x310/1742449649.jpeg?s=fce5def98977c86302e1b4bdbc56212f7c66b51c",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/03_00e0f_gmaSmwnw8UrFD7akY45Xtk4t/150x150/1742449649.jpeg?s=8b0293d9636d09f45d3aa2e7aca5d517bfa78917",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/03_00e0f_gmaSmwnw8UrFD7akY45Xtk4t/100x100/1742449649.jpeg?s=f107a9d87d8cf0cf12fa3a7d816cfbb67a05789c",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/03_00e0f_gmaSmwnw8UrFD7akY45Xtk4t/50x50/1742449649.jpeg?s=7fde81a4955bc16bd436d18adea1c46262c937ba",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/03_00e0f_gmaSmwnw8UrFD7akY45Xtk4t/20x20/1742449649.jpeg?s=b179656e914529d8cc83c3b568e3b3031769fde1",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "03_00e0f_gmaSmwnw8UrFD7akY45Xtk4t",
+            "timestamp": 1742449649,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/03_00e0f_gmaSmwnw8UrFD7akY45Xtk4t/1742449649.jpeg?s=8cadfa96d050c219286d6a346c18add417e57611",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5999942884-lego-21347",
+      "promoted": false,
+      "photo": {
+        "id": 24333640325,
+        "image_no": 1,
+        "width": 525,
+        "height": 800,
+        "dominant_color": "#923B2F",
+        "dominant_color_opaque": "#DEC4C1",
+        "url": "https://images1.vinted.net/t/04_021c4_H4KBnEGbE5BbSTzV3ZktmG5E/f800/1742448412.jpeg?s=b04e7a02af95c4c0b7aed34d199cfae90175674e",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_021c4_H4KBnEGbE5BbSTzV3ZktmG5E/70x100/1742448412.jpeg?s=6a941f6c3cad263224edd6678346346b99d1d5b7",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_021c4_H4KBnEGbE5BbSTzV3ZktmG5E/150x210/1742448412.jpeg?s=a7566a2b5df13c954110573bc50e2d25d0cd1a7e",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_021c4_H4KBnEGbE5BbSTzV3ZktmG5E/310x430/1742448412.jpeg?s=1c2ab6a855bfef5ceaa25b08b4f627335a042495",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_021c4_H4KBnEGbE5BbSTzV3ZktmG5E/f800/1742448412.jpeg?s=b04e7a02af95c4c0b7aed34d199cfae90175674e",
+            "width": 280,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_021c4_H4KBnEGbE5BbSTzV3ZktmG5E/f800/1742448412.jpeg?s=b04e7a02af95c4c0b7aed34d199cfae90175674e",
+            "width": 409,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_021c4_H4KBnEGbE5BbSTzV3ZktmG5E/f800/1742448412.jpeg?s=b04e7a02af95c4c0b7aed34d199cfae90175674e",
+            "width": 238,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_021c4_H4KBnEGbE5BbSTzV3ZktmG5E",
+          "timestamp": 1742448412,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_021c4_H4KBnEGbE5BbSTzV3ZktmG5E/1742448412.jpeg?s=5c3764e160c517c34b927c8d87c5b18472b05b0a",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 20,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "5.45",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "100.45",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique · Neuf avec étiquette",
+        "accessibility_label": "Lego 21347, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 95,00 €, 100,45 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 1.649124622344971,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5794500419,
+      "title": "Lego 21347 - Cabine de Londres",
+      "price": {
+        "amount": "105.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5794500419-lego-21347-cabine-de-londres",
+      "user": {
+        "id": 182266998,
+        "login": "mr.bricks.store",
+        "profile_url": "https://www.vinted.fr/member/182266998-mrbricksstore",
+        "photo": {
+          "id": 176136158,
+          "width": 800,
+          "height": 457,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/03_008b4_haYJQ5B6TYHVwiKYDTpnkjtu/f800/1705138129.jpeg?s=4ab443fe32f99f0aca338f4340068bbd6817f416",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/03_008b4_haYJQ5B6TYHVwiKYDTpnkjtu/310x310/1705138129.jpeg?s=07c7667016a248ea2879c872b7036b5a6bb0d8bd",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/03_008b4_haYJQ5B6TYHVwiKYDTpnkjtu/150x150/1705138129.jpeg?s=73426752ee49e00f7e6a28dbdede1aabd2697027",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/03_008b4_haYJQ5B6TYHVwiKYDTpnkjtu/100x100/1705138129.jpeg?s=60b4fddc025bf7e100f3c2c66d4921281915542f",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/03_008b4_haYJQ5B6TYHVwiKYDTpnkjtu/50x50/1705138129.jpeg?s=1fbab8f08d14b26617d713805048a4a1e7373ea3",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/03_008b4_haYJQ5B6TYHVwiKYDTpnkjtu/20x20/1705138129.jpeg?s=ebb08afe78c83c7e3bd2b365f8e33a028bce73e8",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "03_008b4_haYJQ5B6TYHVwiKYDTpnkjtu",
+            "timestamp": 1705138129,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/03_008b4_haYJQ5B6TYHVwiKYDTpnkjtu/1705138129.jpeg?s=aa7cdad862845964f93717331473d72a31fa7bdd",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5794500419-lego-21347-cabine-de-londres",
+      "promoted": false,
+      "photo": {
+        "id": 23479911202,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#AE524C",
+        "dominant_color_opaque": "#E7CBC9",
+        "url": "https://images1.vinted.net/t/03_002db_b1Ch1BDE85CCEap7M4zYYftx/f800/1739186579.jpeg?s=2e49e2a81ab83963d3ec0be1ed3a55d1509d6a1d",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/03_002db_b1Ch1BDE85CCEap7M4zYYftx/70x100/1739186579.jpeg?s=292eac73c98e689e6ade0959cd65d4bc96d0185a",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/03_002db_b1Ch1BDE85CCEap7M4zYYftx/150x210/1739186579.jpeg?s=3e37f8c3b4cba8597d4f7a9c84f8291eddc94861",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/03_002db_b1Ch1BDE85CCEap7M4zYYftx/310x430/1739186579.jpeg?s=d28e16a54001454a508b4e41901d47148d594690",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/03_002db_b1Ch1BDE85CCEap7M4zYYftx/f800/1739186579.jpeg?s=2e49e2a81ab83963d3ec0be1ed3a55d1509d6a1d",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/03_002db_b1Ch1BDE85CCEap7M4zYYftx/f800/1739186579.jpeg?s=2e49e2a81ab83963d3ec0be1ed3a55d1509d6a1d",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/03_002db_b1Ch1BDE85CCEap7M4zYYftx/f800/1739186579.jpeg?s=2e49e2a81ab83963d3ec0be1ed3a55d1509d6a1d",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "03_002db_b1Ch1BDE85CCEap7M4zYYftx",
+          "timestamp": 1739186579,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/03_002db_b1Ch1BDE85CCEap7M4zYYftx/1739186579.jpeg?s=d8db84196300347d1b6ea99d0c9bbaf4a3d257d7",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 20,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "5.95",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "110.95",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique · Neuf avec étiquette",
+        "accessibility_label": "Lego 21347 - Cabine de Londres, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 105,00 €, 110,95 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 0.5588109493255615,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 6084407465,
+      "title": "Lego 21347 Ideas La cabine téléphonique rouge de Londres - boîte neuve et scellée",
+      "price": {
+        "amount": "84.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/6084407465-lego-21347-ideas-la-cabine-telephonique-rouge-de-londres-boite-neuve-et-scellee",
+      "user": {
+        "id": 18831590,
+        "login": "bermille",
+        "profile_url": "https://www.vinted.fr/member/18831590-bermille",
+        "photo": {
+          "id": 72095818,
+          "width": 600,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_01e7a_EAdZjAQAj7ff3TyQM9WfedKT/f800/1636233858.jpeg?s=b4e85df3e14928597aa651cd4adf3fd1e0e36602",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_01e7a_EAdZjAQAj7ff3TyQM9WfedKT/310x310/1636233858.jpeg?s=881bc7a45b710254c521f076bf8f92cd11ad076c",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_01e7a_EAdZjAQAj7ff3TyQM9WfedKT/150x150/1636233858.jpeg?s=b5eedd0e08136e52716de53dd117a309fefd78c3",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_01e7a_EAdZjAQAj7ff3TyQM9WfedKT/100x100/1636233858.jpeg?s=0576d507c965ad15f69993ea733b298a23bea4d1",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_01e7a_EAdZjAQAj7ff3TyQM9WfedKT/50x50/1636233858.jpeg?s=1afdd059dff7638b4a17fa9044dc46a4c4c8bf5a",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_01e7a_EAdZjAQAj7ff3TyQM9WfedKT/20x20/1636233858.jpeg?s=ccdcc4b97444c088402d259b2a91135fea5b8c6e",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_01e7a_EAdZjAQAj7ff3TyQM9WfedKT",
+            "timestamp": 1636233858,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_01e7a_EAdZjAQAj7ff3TyQM9WfedKT/1636233858.jpeg?s=8ed12a12b304b0d5067ce0aa5a05e0f17b923047",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/6084407465-lego-21347-ideas-la-cabine-telephonique-rouge-de-londres-boite-neuve-et-scellee",
+      "promoted": false,
+      "photo": {
+        "id": 24685494218,
+        "image_no": 1,
+        "width": 650,
+        "height": 799,
+        "dominant_color": "#952B28",
+        "dominant_color_opaque": "#DFBFBF",
+        "url": "https://images1.vinted.net/t/01_0025d_xSVZmVMEn1A4DA5uT4VABb6q/f800/1743718155.jpeg?s=7b6f91dbf66348d1fcb635986ca56300578c06a0",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/01_0025d_xSVZmVMEn1A4DA5uT4VABb6q/70x100/1743718155.jpeg?s=05c88468d140b79032f0646b3dd49fbe4462bc38",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/01_0025d_xSVZmVMEn1A4DA5uT4VABb6q/150x210/1743718155.jpeg?s=590c3bcec38a0cdadd62b6dcdef605603dee5c63",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/01_0025d_xSVZmVMEn1A4DA5uT4VABb6q/310x430/1743718155.jpeg?s=e137b45560629fa3247be08ecffd4d23bc0617a6",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/01_0025d_xSVZmVMEn1A4DA5uT4VABb6q/f800/1743718155.jpeg?s=7b6f91dbf66348d1fcb635986ca56300578c06a0",
+            "width": 348,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/01_0025d_xSVZmVMEn1A4DA5uT4VABb6q/f800/1743718155.jpeg?s=7b6f91dbf66348d1fcb635986ca56300578c06a0",
+            "width": 507,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/01_0025d_xSVZmVMEn1A4DA5uT4VABb6q/f800/1743718155.jpeg?s=7b6f91dbf66348d1fcb635986ca56300578c06a0",
+            "width": 296,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "01_0025d_xSVZmVMEn1A4DA5uT4VABb6q",
+          "timestamp": 1743718155,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/01_0025d_xSVZmVMEn1A4DA5uT4VABb6q/1743718155.jpeg?s=f8ede18aa289cadeec2299cdae49f8a425d138a1",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 14,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "4.9",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "88.9",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique · Neuf avec étiquette",
+        "accessibility_label": "Lego 21347 Ideas La cabine téléphonique rouge de Londres - boîte neuve et scellée, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 84,00 €, 88,90 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": -0.002299864310771227,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5656053109,
+      "title": "LEGO lot de notices",
+      "price": {
+        "amount": "10.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5656053109-lego-lot-de-notices",
+      "user": {
+        "id": 20124200,
+        "login": "cednissa",
+        "profile_url": "https://www.vinted.fr/member/20124200-cednissa",
+        "photo": {
+          "id": 13442055,
+          "width": 800,
+          "height": 600,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_0039c_BQZ93uk3RQHfcDrXsPFEwWJ6/f800/1605242143.jpeg?s=eaa637058c9643aba455c2e1acfed52daef9b92e",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_0039c_BQZ93uk3RQHfcDrXsPFEwWJ6/310x310/1605242143.jpeg?s=612cf7de251ea257324a8e741c50e372d459c34a",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_0039c_BQZ93uk3RQHfcDrXsPFEwWJ6/150x150/1605242143.jpeg?s=5536d524588b5539748199218deb4c6d9372113c",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_0039c_BQZ93uk3RQHfcDrXsPFEwWJ6/100x100/1605242143.jpeg?s=0830099105a93db2c0d1c12d8b70743e9f653ac3",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_0039c_BQZ93uk3RQHfcDrXsPFEwWJ6/50x50/1605242143.jpeg?s=3ae4b73b5cea25158c9908e4c549bd8bae124b5f",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_0039c_BQZ93uk3RQHfcDrXsPFEwWJ6/20x20/1605242143.jpeg?s=32462131d3b7ebf8ed68147cea102779284d5bdc",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_0039c_BQZ93uk3RQHfcDrXsPFEwWJ6",
+            "timestamp": 1605242143,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_0039c_BQZ93uk3RQHfcDrXsPFEwWJ6/1605242143.jpeg?s=2cc45d004501a9a631a2ead568306b64434108e5",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5656053109-lego-lot-de-notices",
+      "promoted": false,
+      "photo": {
+        "id": 22908464271,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#B6ACA2",
+        "dominant_color_opaque": "#E9E6E3",
+        "url": "https://images1.vinted.net/t/03_01b39_KsiWCoccta7wNyXGN9Lq4XuF/f800/1737312857.jpeg?s=a07c801def05eb9cd81f42f3e066c787ff8511e9",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/03_01b39_KsiWCoccta7wNyXGN9Lq4XuF/70x100/1737312857.jpeg?s=0e586c3f2d13425b109c627c43fbc6bc7faf686b",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/03_01b39_KsiWCoccta7wNyXGN9Lq4XuF/150x210/1737312857.jpeg?s=067708d29268661271b39e7f1d6266d1066d3298",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/03_01b39_KsiWCoccta7wNyXGN9Lq4XuF/310x430/1737312857.jpeg?s=e13ccc37fcff4f1e1dc82b6a63162d30e8ff3fbd",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/03_01b39_KsiWCoccta7wNyXGN9Lq4XuF/f800/1737312857.jpeg?s=a07c801def05eb9cd81f42f3e066c787ff8511e9",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/03_01b39_KsiWCoccta7wNyXGN9Lq4XuF/f800/1737312857.jpeg?s=a07c801def05eb9cd81f42f3e066c787ff8511e9",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/03_01b39_KsiWCoccta7wNyXGN9Lq4XuF/f800/1737312857.jpeg?s=a07c801def05eb9cd81f42f3e066c787ff8511e9",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "03_01b39_KsiWCoccta7wNyXGN9Lq4XuF",
+          "timestamp": 1737312857,
+          "orientation": 0
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/03_01b39_KsiWCoccta7wNyXGN9Lq4XuF/1737312857.jpeg?s=5b77fec1282a252443ab5dc364f8fb3efa5b2b4b",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 4,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "1.2",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "11.2",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf sans étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique · Neuf sans étiquette",
+        "accessibility_label": "LEGO lot de notices, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 10,00 €, 11,20 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": -0.03233078122138977,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5623742234,
+      "title": "Lego cabina telefónica  21347",
+      "price": {
+        "amount": "99.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5623742234-lego-cabina-telefonica-21347",
+      "user": {
+        "id": 55859104,
+        "login": "vegaa91",
+        "profile_url": "https://www.vinted.fr/member/55859104-vegaa91",
+        "photo": {
+          "id": 68077306,
+          "width": 450,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/01_02047_yPHnxFRnNXKAahiuBGbarTKD/f800/1632664404.jpeg?s=9e005dddd5e8367a31f7927497749c8af61bb5d9",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/01_02047_yPHnxFRnNXKAahiuBGbarTKD/310x310/1632664404.jpeg?s=6da9d73a37ea751d1df2143f5b50efee7ed23c33",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/01_02047_yPHnxFRnNXKAahiuBGbarTKD/150x150/1632664404.jpeg?s=a0abf92cfcd9e28ec67dccdb1e11aa672ef68d32",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/01_02047_yPHnxFRnNXKAahiuBGbarTKD/100x100/1632664404.jpeg?s=e3380839e074d0aa6af9f6e4f85eb3a437402f3f",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/01_02047_yPHnxFRnNXKAahiuBGbarTKD/50x50/1632664404.jpeg?s=73acd44f7160af349cd417e42d23a9d258aa391e",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/01_02047_yPHnxFRnNXKAahiuBGbarTKD/20x20/1632664404.jpeg?s=875f2f43fee80de3d64dcf0ba1d21829b6c93a90",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "01_02047_yPHnxFRnNXKAahiuBGbarTKD",
+            "timestamp": 1632664404,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/01_02047_yPHnxFRnNXKAahiuBGbarTKD/1632664404.jpeg?s=e1adfc6436de9640ee01bd66aa0efc6ebac0bafa",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5623742234-lego-cabina-telefonica-21347",
+      "promoted": false,
+      "photo": {
+        "id": 22776553168,
+        "image_no": 1,
+        "width": 672,
+        "height": 800,
+        "dominant_color": "#9F4638",
+        "dominant_color_opaque": "#E2C8C3",
+        "url": "https://images1.vinted.net/t/04_024a6_Abh9br8aTvSSX3sF2VvAhzvh/f800/1736384582.jpeg?s=274ae485f0cd94c752ee878121d4fff3a2d877dc",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_024a6_Abh9br8aTvSSX3sF2VvAhzvh/70x100/1736384582.jpeg?s=82792674f44720b243c078c97a99e8d178038d61",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_024a6_Abh9br8aTvSSX3sF2VvAhzvh/150x210/1736384582.jpeg?s=8a8ef3f5208cff8e310f8edb21e215804acb839c",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_024a6_Abh9br8aTvSSX3sF2VvAhzvh/310x430/1736384582.jpeg?s=d7da8e5ffafcdb5e0261aca55ab0bc8e8645d049",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_024a6_Abh9br8aTvSSX3sF2VvAhzvh/f800/1736384582.jpeg?s=274ae485f0cd94c752ee878121d4fff3a2d877dc",
+            "width": 359,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_024a6_Abh9br8aTvSSX3sF2VvAhzvh/f800/1736384582.jpeg?s=274ae485f0cd94c752ee878121d4fff3a2d877dc",
+            "width": 524,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_024a6_Abh9br8aTvSSX3sF2VvAhzvh/f800/1736384582.jpeg?s=274ae485f0cd94c752ee878121d4fff3a2d877dc",
+            "width": 305,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_024a6_Abh9br8aTvSSX3sF2VvAhzvh",
+          "timestamp": 1736384582,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_024a6_Abh9br8aTvSSX3sF2VvAhzvh/1736384582.jpeg?s=c61eec2b77b6bbc5b9a6eb18b47b4019989a90e9",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 62,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "5.65",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "104.65",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "12 ans / 152 cm",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "12 ans / 152 cm · Neuf avec étiquette",
+        "accessibility_label": "Lego cabina telefónica  21347, marque: LEGO, état: Neuf avec étiquette, taille: 12 ans / 152 cm, 99,00 €, 104,65 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": -0.0543743297457695,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 6075225884,
+      "title": "Lego red London box",
+      "price": {
+        "amount": "90.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/6075225884-lego-red-london-box",
+      "user": {
+        "id": 93774741,
+        "login": "prizz90",
+        "profile_url": "https://www.vinted.fr/member/93774741-prizz90",
+        "photo": {
+          "id": 92987744,
+          "width": 96,
+          "height": 96,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/01_00dbd_K4w5hgPFZMnZNg3sMsf3uzXe/f800/1653540628.jpeg?s=78ee61cc0d8e9f82f9e3a775a34ad6157739d33d",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/01_00dbd_K4w5hgPFZMnZNg3sMsf3uzXe/310x310/1653540628.jpeg?s=865564a4f5a22145b8380b12e3fd086b28e6782b",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/01_00dbd_K4w5hgPFZMnZNg3sMsf3uzXe/150x150/1653540628.jpeg?s=4b50f00773e0b274b2bb8606c393ceb3e9777a5a",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/01_00dbd_K4w5hgPFZMnZNg3sMsf3uzXe/100x100/1653540628.jpeg?s=5acc5ceb900da6cdab179c010ba106419d6a288b",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/01_00dbd_K4w5hgPFZMnZNg3sMsf3uzXe/50x50/1653540628.jpeg?s=0c4430e2f74acd9f113242f8fcfe8b7719a31fc4",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/01_00dbd_K4w5hgPFZMnZNg3sMsf3uzXe/20x20/1653540628.jpeg?s=eeed11d0bb6957b4804bb128c38f818c2cbf3936",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "01_00dbd_K4w5hgPFZMnZNg3sMsf3uzXe",
+            "timestamp": 1653540628,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/01_00dbd_K4w5hgPFZMnZNg3sMsf3uzXe/1653540628.jpeg?s=ee07f70f2bccaaa4849ac11be23812b6582da12d",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/6075225884-lego-red-london-box",
+      "promoted": false,
+      "photo": {
+        "id": 24647008801,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#96544D",
+        "dominant_color_opaque": "#E0CCCA",
+        "url": "https://images1.vinted.net/t/01_01851_MHY2CkvAYEKvcaHZyG4m8UXJ/f800/1743588510.jpeg?s=deb397d25702e0b116ebee1cda503cd35be6e47c",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/01_01851_MHY2CkvAYEKvcaHZyG4m8UXJ/70x100/1743588510.jpeg?s=743c73a122af74e080bff002f41139014fa8f537",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/01_01851_MHY2CkvAYEKvcaHZyG4m8UXJ/150x210/1743588510.jpeg?s=02df330cb8c87a2ee7d821e4f5662d9ba16202de",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/01_01851_MHY2CkvAYEKvcaHZyG4m8UXJ/310x430/1743588510.jpeg?s=6688d76b2fdc5f22426abfe3ebdacb5972607252",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/01_01851_MHY2CkvAYEKvcaHZyG4m8UXJ/f800/1743588510.jpeg?s=deb397d25702e0b116ebee1cda503cd35be6e47c",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/01_01851_MHY2CkvAYEKvcaHZyG4m8UXJ/f800/1743588510.jpeg?s=deb397d25702e0b116ebee1cda503cd35be6e47c",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/01_01851_MHY2CkvAYEKvcaHZyG4m8UXJ/f800/1743588510.jpeg?s=deb397d25702e0b116ebee1cda503cd35be6e47c",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "01_01851_MHY2CkvAYEKvcaHZyG4m8UXJ",
+          "timestamp": 1743588510,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/01_01851_MHY2CkvAYEKvcaHZyG4m8UXJ/1743588510.jpeg?s=4327e322f62ba2057e4561af9ba0491d653ef660",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 20,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "5.2",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "95.2",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique · Neuf avec étiquette",
+        "accessibility_label": "Lego red London box, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 90,00 €, 95,20 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": -0.06207554787397385,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5607417473,
+      "title": "LEGO Ideas 21347 Cabine Telefónica",
+      "price": {
+        "amount": "105.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5607417473-lego-ideas-21347-cabine-telefonica",
+      "user": {
+        "id": 174861285,
+        "login": "jmalmendra",
+        "profile_url": "https://www.vinted.fr/member/174861285-jmalmendra",
+        "photo": {
+          "id": 202392578,
+          "width": 600,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_010e9_Aj6S957wvsnMaU6n89ctL8Mb/f800/1722618553.jpeg?s=590334179b24741283919f0f13430e56d676bd87",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_010e9_Aj6S957wvsnMaU6n89ctL8Mb/310x310/1722618553.jpeg?s=5a92db820deaf18de58f6411aadd9ddbc07cb1eb",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_010e9_Aj6S957wvsnMaU6n89ctL8Mb/150x150/1722618553.jpeg?s=84c1f0f78e6da4306f883109eca3f790639c1695",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_010e9_Aj6S957wvsnMaU6n89ctL8Mb/100x100/1722618553.jpeg?s=b51d6258a667db2f02edeb31f81e728f7cbf9806",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_010e9_Aj6S957wvsnMaU6n89ctL8Mb/50x50/1722618553.jpeg?s=07921e10fb86cd2d9d088604c881c45e49736834",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_010e9_Aj6S957wvsnMaU6n89ctL8Mb/20x20/1722618553.jpeg?s=0f800764feea40cb266b85914632232fc7ea2265",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_010e9_Aj6S957wvsnMaU6n89ctL8Mb",
+            "timestamp": 1722618553,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_010e9_Aj6S957wvsnMaU6n89ctL8Mb/1722618553.jpeg?s=e7bfaba7bc782091ac08f297b14d02cc23c22602",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5607417473-lego-ideas-21347-cabine-telefonica",
+      "promoted": false,
+      "photo": {
+        "id": 22710786946,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#B15348",
+        "dominant_color_opaque": "#E8CBC8",
+        "url": "https://images1.vinted.net/t/03_017f1_tcstVeMv17Wr6ej5ypk5BEcd/f800/1736098308.jpeg?s=5f97b12334f7b055a8bb3d4bc2c6cc58f58298f9",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/03_017f1_tcstVeMv17Wr6ej5ypk5BEcd/70x100/1736098308.jpeg?s=f7aeab77df16c6dd2f38172879d9862d814173cf",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/03_017f1_tcstVeMv17Wr6ej5ypk5BEcd/150x210/1736098308.jpeg?s=aa2b4b08ce540469ce0ca2c64c7512f3be3abb63",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/03_017f1_tcstVeMv17Wr6ej5ypk5BEcd/310x430/1736098308.jpeg?s=3e3675fd9350171b814244ade726862f06773108",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/03_017f1_tcstVeMv17Wr6ej5ypk5BEcd/f800/1736098308.jpeg?s=5f97b12334f7b055a8bb3d4bc2c6cc58f58298f9",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/03_017f1_tcstVeMv17Wr6ej5ypk5BEcd/f800/1736098308.jpeg?s=5f97b12334f7b055a8bb3d4bc2c6cc58f58298f9",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/03_017f1_tcstVeMv17Wr6ej5ypk5BEcd/f800/1736098308.jpeg?s=5f97b12334f7b055a8bb3d4bc2c6cc58f58298f9",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "03_017f1_tcstVeMv17Wr6ej5ypk5BEcd",
+          "timestamp": 1736098308,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/03_017f1_tcstVeMv17Wr6ej5ypk5BEcd/1736098308.jpeg?s=a5638c313f54de2ed0b302adfbab3b4b5ef52b6e",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 36,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "5.95",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "110.95",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique · Neuf avec étiquette",
+        "accessibility_label": "LEGO Ideas 21347 Cabine Telefónica, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 105,00 €, 110,95 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": -0.3553773462772369,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 6071665369,
+      "title": "LEGO 21347 London Telefonzelle mit Leuchtstein, Ideas Set",
+      "price": {
+        "amount": "59.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/6071665369-lego-21347-london-telefonzelle-mit-leuchtstein-ideas-set",
+      "user": {
+        "id": 262221345,
+        "login": "ehtrfet1",
+        "profile_url": "https://www.vinted.fr/member/262221345-ehtrfet1",
+        "photo": null,
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/6071665369-lego-21347-london-telefonzelle-mit-leuchtstein-ideas-set",
+      "promoted": false,
+      "photo": {
+        "id": 24632161264,
+        "image_no": 1,
+        "width": 561,
+        "height": 775,
+        "dominant_color": "#993415",
+        "dominant_color_opaque": "#E0C2B9",
+        "url": "https://images1.vinted.net/t/04_01df9_FTSFToz5FLs626X3vAWvpqdh/f800/1743519906.jpeg?s=bd8abe721d809494b0bdc35f450a6c2995d7d6dc",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_01df9_FTSFToz5FLs626X3vAWvpqdh/70x100/1743519906.jpeg?s=2104bd621e390cdca74678ca8daed55a9d351a19",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_01df9_FTSFToz5FLs626X3vAWvpqdh/150x210/1743519906.jpeg?s=f588542a740e315ea53beae47a0e3fde091b2f59",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_01df9_FTSFToz5FLs626X3vAWvpqdh/310x430/1743519906.jpeg?s=93ca87da29313fa94555f1919d0fdb512f394ae2",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_01df9_FTSFToz5FLs626X3vAWvpqdh/f800/1743519906.jpeg?s=bd8abe721d809494b0bdc35f450a6c2995d7d6dc",
+            "width": 309,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_01df9_FTSFToz5FLs626X3vAWvpqdh/f800/1743519906.jpeg?s=bd8abe721d809494b0bdc35f450a6c2995d7d6dc",
+            "width": 451,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_01df9_FTSFToz5FLs626X3vAWvpqdh/f800/1743519906.jpeg?s=bd8abe721d809494b0bdc35f450a6c2995d7d6dc",
+            "width": 263,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_01df9_FTSFToz5FLs626X3vAWvpqdh",
+          "timestamp": 1743519906,
+          "orientation": 0
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_01df9_FTSFToz5FLs626X3vAWvpqdh/1743519906.jpeg?s=ef4173905f78db6a5bb3d2b904df11ab2483d248",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 4,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "3.65",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "62.65",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "",
+      "content_source": "search",
+      "status": "Très bon état",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Très bon état",
+        "accessibility_label": "LEGO 21347 London Telefonzelle mit Leuchtstein, Ideas Set, marque: LEGO, état: Très bon état, 59,00 €, 62,65 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 2.766082525253296,
+        "matched_queries": []
+      }
+    }
+  ],
+  "dominant_brand": null,
+  "search_tracking_params": {
+    "search_correlation_id": "200bc938-0464-4c10-a919-b1c24b4a7acc",
+    "search_session_id": "6f4fea79-9265-44c7-b106-86d5dee7361a",
+    "global_search_session_id": "889f2255-4069-47f8-b8d3-f05ef5b63615"
+  },
+  "pagination": {
+    "current_page": 1,
+    "total_pages": 1,
+    "total_entries": 14,
+    "per_page": 96,
+    "time": 1743768415
+  },
+  "code": 0,
+  "setId": "21347"
+}

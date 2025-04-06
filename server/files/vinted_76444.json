@@ -1,0 +1,3374 @@
+{
+  "items": [
+    {
+      "id": 6034789629,
+      "title": "LEGO 76444 12 microfigures",
+      "price": {
+        "amount": "29.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/6034789629-lego-76444-12-microfigures",
+      "user": {
+        "id": 141705744,
+        "login": "brixalley",
+        "profile_url": "https://www.vinted.fr/member/141705744-brixalley",
+        "photo": {
+          "id": 138363693,
+          "width": 800,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/01_01dc8_pyYSvoZUrFyxix1f88jWs9Qm/f800/1682175407.jpeg?s=9e087486cfbea266e3a50907661ccd99a595ca9f",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/01_01dc8_pyYSvoZUrFyxix1f88jWs9Qm/310x310/1682175407.jpeg?s=3818eeaced1c717a07a820485f58bf53038c4ae8",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/01_01dc8_pyYSvoZUrFyxix1f88jWs9Qm/150x150/1682175407.jpeg?s=2bce8b90f5dacf312af4f91797a9c70fd4ffda10",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/01_01dc8_pyYSvoZUrFyxix1f88jWs9Qm/100x100/1682175407.jpeg?s=4cf6dd719891462a8aaf4d2f176594e8021c580d",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/01_01dc8_pyYSvoZUrFyxix1f88jWs9Qm/50x50/1682175407.jpeg?s=4bb6d2be263f9f6148e0935b318024d3c6b8a921",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/01_01dc8_pyYSvoZUrFyxix1f88jWs9Qm/20x20/1682175407.jpeg?s=89fb60233230ee6e4bbd83ab8d69493fc2373486",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "01_01dc8_pyYSvoZUrFyxix1f88jWs9Qm",
+            "timestamp": 1682175407,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/01_01dc8_pyYSvoZUrFyxix1f88jWs9Qm/1682175407.jpeg?s=8e661f45ef0a6e09c903555239cae79f869b980e",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/6034789629-lego-76444-12-microfigures",
+      "promoted": false,
+      "photo": {
+        "id": 24478491245,
+        "image_no": 1,
+        "width": 800,
+        "height": 311,
+        "dominant_color": "#DAD7D9",
+        "dominant_color_opaque": "#F4F3F4",
+        "url": "https://images1.vinted.net/t/04_02217_ysarfhp5xkKZMyPqAUGrhrHK/f800/1742941897.jpeg?s=95455d257cebc998dbfefcdc1517c151d4d2c41f",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_02217_ysarfhp5xkKZMyPqAUGrhrHK/70x100/1742941897.jpeg?s=ea5efb74b9710fee081103333b758ee3bf825733",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_02217_ysarfhp5xkKZMyPqAUGrhrHK/150x210/1742941897.jpeg?s=5ff6432848c5ce562871eb976608e4ef6a236fd4",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_02217_ysarfhp5xkKZMyPqAUGrhrHK/310x430/1742941897.jpeg?s=285037122673fa85290348e0345a0e73192e71f6",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_02217_ysarfhp5xkKZMyPqAUGrhrHK/f800/1742941897.jpeg?s=95455d257cebc998dbfefcdc1517c151d4d2c41f",
+            "width": 428,
+            "height": 166,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_02217_ysarfhp5xkKZMyPqAUGrhrHK/f800/1742941897.jpeg?s=95455d257cebc998dbfefcdc1517c151d4d2c41f",
+            "width": 624,
+            "height": 242,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_02217_ysarfhp5xkKZMyPqAUGrhrHK/f800/1742941897.jpeg?s=95455d257cebc998dbfefcdc1517c151d4d2c41f",
+            "width": 364,
+            "height": 141,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_02217_ysarfhp5xkKZMyPqAUGrhrHK",
+          "timestamp": 1742941897,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_02217_ysarfhp5xkKZMyPqAUGrhrHK/1742941897.jpeg?s=3add3ef8f89278d37371a82fdc124aa97b68331d",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 1,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "2.15",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "31.15",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf sans étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique · Neuf sans étiquette",
+        "accessibility_label": "LEGO 76444 12 microfigures, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 29,00 €, 31,15 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 2.331437587738037,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5845700482,
+      "title": "Lego Diagon Alley Wizarding Shops set 76444",
+      "price": {
+        "amount": "157.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5845700482-lego-diagon-alley-wizarding-shops-set-76444",
+      "user": {
+        "id": 176737061,
+        "login": "alberto081888",
+        "profile_url": "https://www.vinted.fr/member/176737061-alberto081888",
+        "photo": null,
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5845700482-lego-diagon-alley-wizarding-shops-set-76444",
+      "promoted": false,
+      "photo": {
+        "id": 23691962770,
+        "image_no": 1,
+        "width": 800,
+        "height": 600,
+        "dominant_color": "#776F60",
+        "dominant_color_opaque": "#D6D4CF",
+        "url": "https://images1.vinted.net/t/03_02035_BnAMoscQ1CuTeNwLqL8szJsJ/f800/1740004844.jpeg?s=71a322c048a46b8d3162136c51079515936806b2",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/03_02035_BnAMoscQ1CuTeNwLqL8szJsJ/70x100/1740004844.jpeg?s=6771dd9b8f13bdf44516aae9c1737f978ed0ee2c",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/03_02035_BnAMoscQ1CuTeNwLqL8szJsJ/150x210/1740004844.jpeg?s=5f68dca443c3258681c72e5c265b3e2ec6cdc4ec",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/03_02035_BnAMoscQ1CuTeNwLqL8szJsJ/310x430/1740004844.jpeg?s=17bcacb54ee25b5e7a32aef361deae423d276587",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/03_02035_BnAMoscQ1CuTeNwLqL8szJsJ/f800/1740004844.jpeg?s=71a322c048a46b8d3162136c51079515936806b2",
+            "width": 428,
+            "height": 321,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/03_02035_BnAMoscQ1CuTeNwLqL8szJsJ/f800/1740004844.jpeg?s=71a322c048a46b8d3162136c51079515936806b2",
+            "width": 624,
+            "height": 468,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/03_02035_BnAMoscQ1CuTeNwLqL8szJsJ/f800/1740004844.jpeg?s=71a322c048a46b8d3162136c51079515936806b2",
+            "width": 364,
+            "height": 273,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "03_02035_BnAMoscQ1CuTeNwLqL8szJsJ",
+          "timestamp": 1740004844,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/03_02035_BnAMoscQ1CuTeNwLqL8szJsJ/1740004844.jpeg?s=e4950057b25a2e88e5ef2a774205a02477f34cce",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 25,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "8.55",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "165.55",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "M",
+      "content_source": "search",
+      "status": "Neuf sans étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "M · Neuf sans étiquette",
+        "accessibility_label": "Lego Diagon Alley Wizarding Shops set 76444, marque: LEGO, état: Neuf sans étiquette, taille: M, 157,00 €, 165,55 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 2.211715459823608,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 6083695357,
+      "title": "Lego Harry Potter 76444",
+      "price": {
+        "amount": "149.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/6083695357-lego-harry-potter-76444",
+      "user": {
+        "id": 255674231,
+        "login": "racal77",
+        "profile_url": "https://www.vinted.fr/member/255674231-racal77",
+        "photo": {
+          "id": 230780540,
+          "width": 96,
+          "height": 96,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/01_01237_2PPW39Tcvk6hN1CNpTnNvy7W/f800/1739728443.jpeg?s=e3635a942cb9d18e612797d31941bb97ed543722",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/01_01237_2PPW39Tcvk6hN1CNpTnNvy7W/310x310/1739728443.jpeg?s=3d2c95cc4afe8569650f273b7f3f5097b6be4086",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/01_01237_2PPW39Tcvk6hN1CNpTnNvy7W/150x150/1739728443.jpeg?s=b39aecadcbfc27e6686661fdeb228ce80a6fbae8",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/01_01237_2PPW39Tcvk6hN1CNpTnNvy7W/100x100/1739728443.jpeg?s=65c89e99ca24e393b7892fb959b4de73c9af8dd4",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/01_01237_2PPW39Tcvk6hN1CNpTnNvy7W/50x50/1739728443.jpeg?s=2e9af0df6ef5fd2decfc51ff17fba65b5f915a0e",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/01_01237_2PPW39Tcvk6hN1CNpTnNvy7W/20x20/1739728443.jpeg?s=4df4e8f6c533e0a39be831a8c1b8b6deaae19aa6",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "01_01237_2PPW39Tcvk6hN1CNpTnNvy7W",
+            "timestamp": 1739728443,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/01_01237_2PPW39Tcvk6hN1CNpTnNvy7W/1739728443.jpeg?s=6bae0f1c162ad744c84b291c15d7a269e3eb3445",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/6083695357-lego-harry-potter-76444",
+      "promoted": false,
+      "photo": {
+        "id": 24682524016,
+        "image_no": 1,
+        "width": 800,
+        "height": 702,
+        "dominant_color": "#302D2F",
+        "dominant_color_opaque": "#C1C0C1",
+        "url": "https://images1.vinted.net/t/04_021e4_V5seSPsAnt6dP3Ud7ARriEQU/f800/1743706360.jpeg?s=bfc139df44f59b31cdf599760ada33d9d6978d31",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_021e4_V5seSPsAnt6dP3Ud7ARriEQU/70x100/1743706360.jpeg?s=28ea8b5ec197e6df3d1dbfd45c3e9a2fc43d25a9",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_021e4_V5seSPsAnt6dP3Ud7ARriEQU/150x210/1743706360.jpeg?s=678fbf848b162decb52f15611f10baa45de68a76",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_021e4_V5seSPsAnt6dP3Ud7ARriEQU/310x430/1743706360.jpeg?s=63485e657329201fb39dcc7c6e9d330e6b27480b",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_021e4_V5seSPsAnt6dP3Ud7ARriEQU/f800/1743706360.jpeg?s=bfc139df44f59b31cdf599760ada33d9d6978d31",
+            "width": 428,
+            "height": 375,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_021e4_V5seSPsAnt6dP3Ud7ARriEQU/f800/1743706360.jpeg?s=bfc139df44f59b31cdf599760ada33d9d6978d31",
+            "width": 624,
+            "height": 548,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_021e4_V5seSPsAnt6dP3Ud7ARriEQU/f800/1743706360.jpeg?s=bfc139df44f59b31cdf599760ada33d9d6978d31",
+            "width": 364,
+            "height": 319,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_021e4_V5seSPsAnt6dP3Ud7ARriEQU",
+          "timestamp": 1743706360,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_021e4_V5seSPsAnt6dP3Ud7ARriEQU/1743706360.jpeg?s=0b5ca4c2161c93b2620aa3d5a633f3a167f399a1",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 5,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "8.15",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "157.15",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "",
+      "content_source": "search",
+      "status": "Très bon état",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Très bon état",
+        "accessibility_label": "Lego Harry Potter 76444, marque: LEGO, état: Très bon état, 149,00 €, 157,15 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 1.959042191505432,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 6084341031,
+      "title": "LEGO Harry Potter 76444 Les boutiques magiques du Chemin de Traverse",
+      "price": {
+        "amount": "165.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/6084341031-lego-harry-potter-76444-les-boutiques-magiques-du-chemin-de-traverse",
+      "user": {
+        "id": 193835149,
+        "login": "pdvdmfc",
+        "profile_url": "https://www.vinted.fr/member/193835149-pdvdmfc",
+        "photo": {
+          "id": 209559726,
+          "width": 216,
+          "height": 216,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_01c3d_v4CyyymcCeiHANVvpdmW3xjr/f800/1726901585.jpeg?s=5055136bfd4496ea91f894723ad861b98123466d",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_01c3d_v4CyyymcCeiHANVvpdmW3xjr/310x310/1726901585.jpeg?s=c20b4ce84d84233c09b10c1cac792166075ab0a0",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_01c3d_v4CyyymcCeiHANVvpdmW3xjr/150x150/1726901585.jpeg?s=2f3d134526e39e5e0b2864a910a5c86f5cadc715",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_01c3d_v4CyyymcCeiHANVvpdmW3xjr/100x100/1726901585.jpeg?s=096a81a069c8d0c01918ae202a5994c113d96986",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_01c3d_v4CyyymcCeiHANVvpdmW3xjr/50x50/1726901585.jpeg?s=f77bc615569144241adf664f34450c9156989f30",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_01c3d_v4CyyymcCeiHANVvpdmW3xjr/20x20/1726901585.jpeg?s=d615397369049459b843f53cb4de108e31d8fa22",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_01c3d_v4CyyymcCeiHANVvpdmW3xjr",
+            "timestamp": 1726901585,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_01c3d_v4CyyymcCeiHANVvpdmW3xjr/1726901585.jpeg?s=cc7c1825778e314da92851f61df9fbe276a69116",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/6084341031-lego-harry-potter-76444-les-boutiques-magiques-du-chemin-de-traverse",
+      "promoted": false,
+      "photo": {
+        "id": 24685210190,
+        "image_no": 1,
+        "width": 800,
+        "height": 539,
+        "dominant_color": "#434146",
+        "dominant_color_opaque": "#C7C6C8",
+        "url": "https://images1.vinted.net/t/04_0247c_fcR73GhJv1TA4yujfGY49erJ/f800/1743715841.jpeg?s=6b88ea79720cc6531616bea605fa06e21db4cac2",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_0247c_fcR73GhJv1TA4yujfGY49erJ/70x100/1743715841.jpeg?s=93bbc4fc78e96c5897096be7344983eae8ef29fc",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_0247c_fcR73GhJv1TA4yujfGY49erJ/150x210/1743715841.jpeg?s=64af5630ef4a1ca6c279a568f7ca7c36ee7dbbff",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_0247c_fcR73GhJv1TA4yujfGY49erJ/310x430/1743715841.jpeg?s=db98a9bff21a126f7036a209218d486829b5ba9f",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_0247c_fcR73GhJv1TA4yujfGY49erJ/f800/1743715841.jpeg?s=6b88ea79720cc6531616bea605fa06e21db4cac2",
+            "width": 428,
+            "height": 288,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_0247c_fcR73GhJv1TA4yujfGY49erJ/f800/1743715841.jpeg?s=6b88ea79720cc6531616bea605fa06e21db4cac2",
+            "width": 624,
+            "height": 420,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_0247c_fcR73GhJv1TA4yujfGY49erJ/f800/1743715841.jpeg?s=6b88ea79720cc6531616bea605fa06e21db4cac2",
+            "width": 364,
+            "height": 245,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_0247c_fcR73GhJv1TA4yujfGY49erJ",
+          "timestamp": 1743715841,
+          "orientation": 0
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_0247c_fcR73GhJv1TA4yujfGY49erJ/1743715841.jpeg?s=d6163973a52d17cccc2d4e78b41e4ab17c317b2c",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 5,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "8.95",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "173.95",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique · Neuf avec étiquette",
+        "accessibility_label": "LEGO Harry Potter 76444 Les boutiques magiques du Chemin de Traverse, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 165,00 €, 173,95 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 1.924955725669861,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 6044689486,
+      "title": "Lego XXL Harry Potter Diagon Alley 76444",
+      "price": {
+        "amount": "160.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/6044689486-lego-xxl-harry-potter-diagon-alley-76444",
+      "user": {
+        "id": 15619214,
+        "login": "bbccc",
+        "profile_url": "https://www.vinted.fr/member/15619214-bbccc",
+        "photo": {
+          "id": 8141582,
+          "width": 512,
+          "height": 512,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_01a15_ykdE3pi5K48zfaMzQEgajBPj/f800/1605235545.jpeg?s=938d3ca30b98840f344d6d44f070597709e1c9e6",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_01a15_ykdE3pi5K48zfaMzQEgajBPj/310x310/1605235545.jpeg?s=7990bae8be570c2e07662977d34d00ab46fafa21",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_01a15_ykdE3pi5K48zfaMzQEgajBPj/150x150/1605235545.jpeg?s=1ae20ee75108cb60f3f53d1d3c29e5942fb163bb",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_01a15_ykdE3pi5K48zfaMzQEgajBPj/100x100/1605235545.jpeg?s=9c89e60b2d7dca9cb47a96c6e033e7d8b25dd35a",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_01a15_ykdE3pi5K48zfaMzQEgajBPj/50x50/1605235545.jpeg?s=3d3bb4add174d0ec0d322748949d1319bcee007c",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_01a15_ykdE3pi5K48zfaMzQEgajBPj/20x20/1605235545.jpeg?s=534e1bf862dafad0aebc972506d9b60b00da59aa",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_01a15_ykdE3pi5K48zfaMzQEgajBPj",
+            "timestamp": 1605235545,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_01a15_ykdE3pi5K48zfaMzQEgajBPj/1605235545.jpeg?s=b7dabe48ddba50bafacce6dff4cab40d390dd446",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/6044689486-lego-xxl-harry-potter-diagon-alley-76444",
+      "promoted": false,
+      "photo": {
+        "id": 24519817513,
+        "image_no": 1,
+        "width": 800,
+        "height": 600,
+        "dominant_color": "#7F7C7B",
+        "dominant_color_opaque": "#D9D8D7",
+        "url": "https://images1.vinted.net/t/04_0162d_Zm6UuMvicWrY1NXQnSHdSUoe/f800/1743106684.jpeg?s=6d618968bf73085e64aa552a08bedec8a751d013",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_0162d_Zm6UuMvicWrY1NXQnSHdSUoe/70x100/1743106684.jpeg?s=cf661e20f50a39818bf24614af3a82f2cc12ad8c",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_0162d_Zm6UuMvicWrY1NXQnSHdSUoe/150x210/1743106684.jpeg?s=2b4d864dcab8e8f0c81a422f1b86d5488441fe38",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_0162d_Zm6UuMvicWrY1NXQnSHdSUoe/310x430/1743106684.jpeg?s=502e86fb66abafd03a365708f70f480613557ee7",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_0162d_Zm6UuMvicWrY1NXQnSHdSUoe/f800/1743106684.jpeg?s=6d618968bf73085e64aa552a08bedec8a751d013",
+            "width": 428,
+            "height": 321,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_0162d_Zm6UuMvicWrY1NXQnSHdSUoe/f800/1743106684.jpeg?s=6d618968bf73085e64aa552a08bedec8a751d013",
+            "width": 624,
+            "height": 468,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_0162d_Zm6UuMvicWrY1NXQnSHdSUoe/f800/1743106684.jpeg?s=6d618968bf73085e64aa552a08bedec8a751d013",
+            "width": 364,
+            "height": 273,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_0162d_Zm6UuMvicWrY1NXQnSHdSUoe",
+          "timestamp": 1743106684,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_0162d_Zm6UuMvicWrY1NXQnSHdSUoe/1743106684.jpeg?s=f69eb30ffda7d0639cdcb4373c4530a7950c9b0b",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 17,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "8.7",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "168.7",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "",
+      "content_source": "search",
+      "status": "Très bon état",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Très bon état",
+        "accessibility_label": "Lego XXL Harry Potter Diagon Alley 76444, marque: LEGO, état: Très bon état, 160,00 €, 168,70 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 2.293020963668823,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 6015170720,
+      "title": "Lego 76444 - Diagon Alley",
+      "price": {
+        "amount": "155.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/6015170720-lego-76444-diagon-alley",
+      "user": {
+        "id": 248486389,
+        "login": "brunoandrade79",
+        "profile_url": "https://www.vinted.fr/member/248486389-brunoandrade79",
+        "photo": {
+          "id": 229294562,
+          "width": 96,
+          "height": 96,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/03_015f0_5J9KsmTJvrqNcLeueUUxownP/f800/1738802570.jpeg?s=265538b061ba91e170e91a98b2614b409ba23e97",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/03_015f0_5J9KsmTJvrqNcLeueUUxownP/310x310/1738802570.jpeg?s=e98ff24dca6cb35d25d6f3d5a5e267d9c4871c8f",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/03_015f0_5J9KsmTJvrqNcLeueUUxownP/150x150/1738802570.jpeg?s=2c41fa721c39329ba18133532f00f05411142af2",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/03_015f0_5J9KsmTJvrqNcLeueUUxownP/100x100/1738802570.jpeg?s=8c2722f69c1f06a29aa2a6262300f572192d0138",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/03_015f0_5J9KsmTJvrqNcLeueUUxownP/50x50/1738802570.jpeg?s=ae09b56a39731a6fa3a161f21d725a67c5df7e44",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/03_015f0_5J9KsmTJvrqNcLeueUUxownP/20x20/1738802570.jpeg?s=ac13429f4e5234d58a8498255b6bb816c950ca8d",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "03_015f0_5J9KsmTJvrqNcLeueUUxownP",
+            "timestamp": 1738802570,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/03_015f0_5J9KsmTJvrqNcLeueUUxownP/1738802570.jpeg?s=9c73ef3b2b202f8a9606c6894a845114578ea3b4",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/6015170720-lego-76444-diagon-alley",
+      "promoted": false,
+      "photo": {
+        "id": 24397776182,
+        "image_no": 1,
+        "width": 493,
+        "height": 335,
+        "dominant_color": "#817970",
+        "dominant_color_opaque": "#D9D7D4",
+        "url": "https://images1.vinted.net/t/04_0024c_ewjwoN7c48sDcVeioAjjFvZ5/f800/1742675256.jpeg?s=cec18e38dbaefca511dfc8253a082245e48b93e6",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_0024c_ewjwoN7c48sDcVeioAjjFvZ5/70x100/1742675256.jpeg?s=8bac70d9a234c0e299d12b824b2ab3aa47104e83",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_0024c_ewjwoN7c48sDcVeioAjjFvZ5/150x210/1742675256.jpeg?s=8b0b5c7f2591773c3b73e1ef00232754c2ff1ad8",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_0024c_ewjwoN7c48sDcVeioAjjFvZ5/310x430/1742675256.jpeg?s=15d1c76528772db90c90c70b599530317a9e65ef",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_0024c_ewjwoN7c48sDcVeioAjjFvZ5/f800/1742675256.jpeg?s=cec18e38dbaefca511dfc8253a082245e48b93e6",
+            "width": 428,
+            "height": 290,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_0024c_ewjwoN7c48sDcVeioAjjFvZ5/f800/1742675256.jpeg?s=cec18e38dbaefca511dfc8253a082245e48b93e6",
+            "width": 624,
+            "height": 424,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_0024c_ewjwoN7c48sDcVeioAjjFvZ5/f800/1742675256.jpeg?s=cec18e38dbaefca511dfc8253a082245e48b93e6",
+            "width": 364,
+            "height": 247,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_0024c_ewjwoN7c48sDcVeioAjjFvZ5",
+          "timestamp": 1742675256,
+          "orientation": 0
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_0024c_ewjwoN7c48sDcVeioAjjFvZ5/1742675256.jpeg?s=c3a4d30bb0ec6a6a8d742e26763d1066f12f88e3",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 20,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "8.45",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "163.45",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Prématuré, jusqu'à 44cm",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Prématuré, jusqu'à 44cm · Neuf avec étiquette",
+        "accessibility_label": "Lego 76444 - Diagon Alley, marque: LEGO, état: Neuf avec étiquette, taille: Prématuré, jusqu'à 44cm, 155,00 €, 163,45 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 1.89625084400177,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 6067698856,
+      "title": "Lego Harry Potter Chemin de traverse 76444 Diagon Alley",
+      "price": {
+        "amount": "165.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/6067698856-lego-harry-potter-chemin-de-traverse-76444-diagon-alley",
+      "user": {
+        "id": 28273616,
+        "login": "daud21",
+        "profile_url": "https://www.vinted.fr/member/28273616-daud21",
+        "photo": {
+          "id": 21043133,
+          "width": 512,
+          "height": 512,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_01130_sE68tBcpVtNA5MCEeWp4VJdU/f800/1605221732.jpeg?s=27dbc678677fe82b8f8c66f2e3eeeb7c94f1deb9",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_01130_sE68tBcpVtNA5MCEeWp4VJdU/310x310/1605221732.jpeg?s=4032c90cc6b043d2e0158e58a5c94386932b4830",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_01130_sE68tBcpVtNA5MCEeWp4VJdU/150x150/1605221732.jpeg?s=bedc73136612ae6b976b04ad1cfe20a64ae742fc",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_01130_sE68tBcpVtNA5MCEeWp4VJdU/100x100/1605221732.jpeg?s=6cd753d7202224e04a132f35a9058b6fd06fe656",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_01130_sE68tBcpVtNA5MCEeWp4VJdU/50x50/1605221732.jpeg?s=6648c3d6f9f2f3fdb75f9986143798c8e6d31845",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_01130_sE68tBcpVtNA5MCEeWp4VJdU/20x20/1605221732.jpeg?s=56ced87b53a5dc18cdd71daad449a8c569a724bb",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_01130_sE68tBcpVtNA5MCEeWp4VJdU",
+            "timestamp": 1605221732,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_01130_sE68tBcpVtNA5MCEeWp4VJdU/1605221732.jpeg?s=226cfde405409682ea56e29daaa6ec528e729b2a",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/6067698856-lego-harry-potter-chemin-de-traverse-76444-diagon-alley",
+      "promoted": false,
+      "photo": {
+        "id": 24615719705,
+        "image_no": 1,
+        "width": 800,
+        "height": 600,
+        "dominant_color": "#7D6E62",
+        "dominant_color_opaque": "#D8D4D0",
+        "url": "https://images1.vinted.net/t/02_022bd_FXXvbessvMDVdNHE3aUBJvhu/f800/1743446216.jpeg?s=bad4df9a6f5d9434f758ff1845256fc7f84235a2",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/02_022bd_FXXvbessvMDVdNHE3aUBJvhu/70x100/1743446216.jpeg?s=17fd1b6f773a27763edebd74dc80917aefb37946",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/02_022bd_FXXvbessvMDVdNHE3aUBJvhu/150x210/1743446216.jpeg?s=f3dd7f9bc521553fda81048a2cd68d317787ae14",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/02_022bd_FXXvbessvMDVdNHE3aUBJvhu/310x430/1743446216.jpeg?s=a54f7060c1648a66d893c45841bf51ed0f591a12",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/02_022bd_FXXvbessvMDVdNHE3aUBJvhu/f800/1743446216.jpeg?s=bad4df9a6f5d9434f758ff1845256fc7f84235a2",
+            "width": 428,
+            "height": 321,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/02_022bd_FXXvbessvMDVdNHE3aUBJvhu/f800/1743446216.jpeg?s=bad4df9a6f5d9434f758ff1845256fc7f84235a2",
+            "width": 624,
+            "height": 468,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/02_022bd_FXXvbessvMDVdNHE3aUBJvhu/f800/1743446216.jpeg?s=bad4df9a6f5d9434f758ff1845256fc7f84235a2",
+            "width": 364,
+            "height": 273,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "02_022bd_FXXvbessvMDVdNHE3aUBJvhu",
+          "timestamp": 1743446216,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/02_022bd_FXXvbessvMDVdNHE3aUBJvhu/1743446216.jpeg?s=35fa5b2131c04483d2615084b5ed2a3799e65eb7",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 3,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "8.95",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "173.95",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Très bon état",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique · Très bon état",
+        "accessibility_label": "Lego Harry Potter Chemin de traverse 76444 Diagon Alley, marque: LEGO, état: Très bon état, taille: Taille unique, 165,00 €, 173,95 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 1.87311053276062,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 6027609583,
+      "title": "Lego Harry Potter 76444 MISB",
+      "price": {
+        "amount": "160.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/6027609583-lego-harry-potter-76444-misb",
+      "user": {
+        "id": 86535053,
+        "login": "emi7775",
+        "profile_url": "https://www.vinted.fr/member/86535053-emi7775",
+        "photo": {
+          "id": 187948430,
+          "width": 360,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/01_025ee_6a9Pr3qZ1YBYsprA1DRFm89q/f800/1712763891.jpeg?s=3313ae19032f6e7ee108c90a54b605e1d1f3dfe8",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/01_025ee_6a9Pr3qZ1YBYsprA1DRFm89q/310x310/1712763891.jpeg?s=ffafb8726dc2e084ef3900f835f04b73d538b5f0",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/01_025ee_6a9Pr3qZ1YBYsprA1DRFm89q/150x150/1712763891.jpeg?s=5e7cb1b5bf35c83c830be1ef863de70d4df31a48",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/01_025ee_6a9Pr3qZ1YBYsprA1DRFm89q/100x100/1712763891.jpeg?s=bfca2980fdb6dc523f3b967fac16c64c2e5ba9dc",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/01_025ee_6a9Pr3qZ1YBYsprA1DRFm89q/50x50/1712763891.jpeg?s=dbcac795f475e3320df6d60ebfffc73bdcd2cf09",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/01_025ee_6a9Pr3qZ1YBYsprA1DRFm89q/20x20/1712763891.jpeg?s=97f087379d9bc8b950c3bce7d95600bdc1b69236",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "01_025ee_6a9Pr3qZ1YBYsprA1DRFm89q",
+            "timestamp": 1712763891,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/01_025ee_6a9Pr3qZ1YBYsprA1DRFm89q/1712763891.jpeg?s=4d96b54c6c43b58ce72444fa5c77dfb5f33a6437",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/6027609583-lego-harry-potter-76444-misb",
+      "promoted": false,
+      "photo": {
+        "id": 24448653544,
+        "image_no": 1,
+        "width": 800,
+        "height": 600,
+        "dominant_color": "#6F716F",
+        "dominant_color_opaque": "#D4D4D4",
+        "url": "https://images1.vinted.net/t/04_0093f_d3bgEWF3qiktwuyaL96c9Baj/f800/1742835141.jpeg?s=b149de9d316360e65a36c321b7ba1d0e7f2e6b14",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_0093f_d3bgEWF3qiktwuyaL96c9Baj/70x100/1742835141.jpeg?s=5046e384b8c657edb2122df95bfff40e0a9be288",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_0093f_d3bgEWF3qiktwuyaL96c9Baj/150x210/1742835141.jpeg?s=8d8ebc9f964f555254c2b5a36170e2319079c5e8",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_0093f_d3bgEWF3qiktwuyaL96c9Baj/310x430/1742835141.jpeg?s=d09cfdd952cc930d3d8439b9fcdd3a5889eeef3c",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_0093f_d3bgEWF3qiktwuyaL96c9Baj/f800/1742835141.jpeg?s=b149de9d316360e65a36c321b7ba1d0e7f2e6b14",
+            "width": 428,
+            "height": 321,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_0093f_d3bgEWF3qiktwuyaL96c9Baj/f800/1742835141.jpeg?s=b149de9d316360e65a36c321b7ba1d0e7f2e6b14",
+            "width": 624,
+            "height": 468,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_0093f_d3bgEWF3qiktwuyaL96c9Baj/f800/1742835141.jpeg?s=b149de9d316360e65a36c321b7ba1d0e7f2e6b14",
+            "width": 364,
+            "height": 273,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_0093f_d3bgEWF3qiktwuyaL96c9Baj",
+          "timestamp": 1742835141,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_0093f_d3bgEWF3qiktwuyaL96c9Baj/1742835141.jpeg?s=5317410ecfd0678f5ff329fe1130c9589d733143",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 30,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "8.7",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "168.7",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "16 ans / 176 cm",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "16 ans / 176 cm · Neuf avec étiquette",
+        "accessibility_label": "Lego Harry Potter 76444 MISB, marque: LEGO, état: Neuf avec étiquette, taille: 16 ans / 176 cm, 160,00 €, 168,70 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 1.733222842216492,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 6031438350,
+      "title": "Lego Harry Potter Wegisweg 76444",
+      "price": {
+        "amount": "150.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/6031438350-lego-harry-potter-wegisweg-76444",
+      "user": {
+        "id": 43359162,
+        "login": "judxxjud",
+        "profile_url": "https://www.vinted.fr/member/43359162-judxxjud",
+        "photo": {
+          "id": 38400418,
+          "width": 795,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_01f3d_Jbbo3RukuH98tNtA2RvPDPw9/f800/1604905719.jpeg?s=52acb5ad3f6431b93e64c3b0213e11d06e04ffda",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_01f3d_Jbbo3RukuH98tNtA2RvPDPw9/310x310/1604905719.jpeg?s=b48fe02aa795cea20b5b68c1a35b9069e6e4430e",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_01f3d_Jbbo3RukuH98tNtA2RvPDPw9/150x150/1604905719.jpeg?s=b2a8f01c565a1435f3a8443ec954fa7d9c518449",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_01f3d_Jbbo3RukuH98tNtA2RvPDPw9/100x100/1604905719.jpeg?s=c71b75f6ea777041536fee90c9ea75046fd29e23",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_01f3d_Jbbo3RukuH98tNtA2RvPDPw9/50x50/1604905719.jpeg?s=92e8578af3b5e20acf8a119e52d30ca104d3c2d3",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_01f3d_Jbbo3RukuH98tNtA2RvPDPw9/20x20/1604905719.jpeg?s=64143b5d6c3f0aa1b1f39edf0a9590371d9b5788",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_01f3d_Jbbo3RukuH98tNtA2RvPDPw9",
+            "timestamp": 1604905719,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_01f3d_Jbbo3RukuH98tNtA2RvPDPw9/1604905719.jpeg?s=71e46fa07f316959b032eb23feb76a9bd10a509d",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/6031438350-lego-harry-potter-wegisweg-76444",
+      "promoted": false,
+      "photo": {
+        "id": 24464549242,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#5B626D",
+        "dominant_color_opaque": "#CED0D3",
+        "url": "https://images1.vinted.net/t/04_017b4_YMuVMt32q1R6MraPqiQkF7GB/f800/1742906798.jpeg?s=015bb1e05d621b7839553b4033b34b5732d6ec34",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_017b4_YMuVMt32q1R6MraPqiQkF7GB/70x100/1742906798.jpeg?s=0f880a0475ca4139c9f52b6dc5c57db9d6ab9ebc",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_017b4_YMuVMt32q1R6MraPqiQkF7GB/150x210/1742906798.jpeg?s=f2c21107b56a15869080014b0336e7acf5301143",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_017b4_YMuVMt32q1R6MraPqiQkF7GB/310x430/1742906798.jpeg?s=2ce2437ec9add6d8f76b2caae385ecfdfc441850",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_017b4_YMuVMt32q1R6MraPqiQkF7GB/f800/1742906798.jpeg?s=015bb1e05d621b7839553b4033b34b5732d6ec34",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_017b4_YMuVMt32q1R6MraPqiQkF7GB/f800/1742906798.jpeg?s=015bb1e05d621b7839553b4033b34b5732d6ec34",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_017b4_YMuVMt32q1R6MraPqiQkF7GB/f800/1742906798.jpeg?s=015bb1e05d621b7839553b4033b34b5732d6ec34",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_017b4_YMuVMt32q1R6MraPqiQkF7GB",
+          "timestamp": 1742906798,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_017b4_YMuVMt32q1R6MraPqiQkF7GB/1742906798.jpeg?s=b72f3458544c0c531eb5c6fe854a0e6fd52d296d",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 11,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "8.2",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "158.2",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "",
+      "content_source": "search",
+      "status": "Très bon état",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Très bon état",
+        "accessibility_label": "Lego Harry Potter Wegisweg 76444, marque: LEGO, état: Très bon état, 150,00 €, 158,20 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 1.686432123184204,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 6003126667,
+      "title": "Lego 76444 Harry Potter",
+      "price": {
+        "amount": "154.99",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/6003126667-lego-76444-harry-potter",
+      "user": {
+        "id": 257138087,
+        "login": "hugogon47",
+        "profile_url": "https://www.vinted.fr/member/257138087-hugogon47",
+        "photo": {
+          "id": 232470757,
+          "width": 800,
+          "height": 600,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/01_00c9e_E87mbZEJqqBoAgxeExBqnAZc/f800/1740695194.jpeg?s=6709eec330b33ba3dbd9ef37b23a29105f862902",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/01_00c9e_E87mbZEJqqBoAgxeExBqnAZc/310x310/1740695194.jpeg?s=a7b520436a846ff49bbad5011d9af2df779727ff",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/01_00c9e_E87mbZEJqqBoAgxeExBqnAZc/150x150/1740695194.jpeg?s=be43db4885f77a772cde95e57edbfb30b19158cc",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/01_00c9e_E87mbZEJqqBoAgxeExBqnAZc/100x100/1740695194.jpeg?s=fb539e87ec45f04aa2e54cd54d7b51f9106a4610",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/01_00c9e_E87mbZEJqqBoAgxeExBqnAZc/50x50/1740695194.jpeg?s=6c0f80361813b2879cd2e3d79c089f0b04f0fa00",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/01_00c9e_E87mbZEJqqBoAgxeExBqnAZc/20x20/1740695194.jpeg?s=a8c023ca670bc75d36b8f2accea55ca86e9176eb",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "01_00c9e_E87mbZEJqqBoAgxeExBqnAZc",
+            "timestamp": 1740695194,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/01_00c9e_E87mbZEJqqBoAgxeExBqnAZc/1740695194.jpeg?s=627423c4d2c8c1e5025a8c8f5e01625b2f39a54d",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/6003126667-lego-76444-harry-potter",
+      "promoted": false,
+      "photo": {
+        "id": 24347003404,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#75859D",
+        "dominant_color_opaque": "#D6DAE2",
+        "url": "https://images1.vinted.net/t/04_00cb1_853KJ2TNrg8SPG9PG18aZzRo/f800/1742489737.jpeg?s=6ee725ec20b202395df37bfc2fb17b317affd885",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_00cb1_853KJ2TNrg8SPG9PG18aZzRo/70x100/1742489737.jpeg?s=01814abbf47f169a5281708afea2d21d35526787",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_00cb1_853KJ2TNrg8SPG9PG18aZzRo/150x210/1742489737.jpeg?s=2aa183447e3c162161a6370fa89b13479bd15345",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_00cb1_853KJ2TNrg8SPG9PG18aZzRo/310x430/1742489737.jpeg?s=14c684be0aa911bc7f6a167748509b01f20461f2",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_00cb1_853KJ2TNrg8SPG9PG18aZzRo/f800/1742489737.jpeg?s=6ee725ec20b202395df37bfc2fb17b317affd885",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_00cb1_853KJ2TNrg8SPG9PG18aZzRo/f800/1742489737.jpeg?s=6ee725ec20b202395df37bfc2fb17b317affd885",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_00cb1_853KJ2TNrg8SPG9PG18aZzRo/f800/1742489737.jpeg?s=6ee725ec20b202395df37bfc2fb17b317affd885",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_00cb1_853KJ2TNrg8SPG9PG18aZzRo",
+          "timestamp": 1742489737,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_00cb1_853KJ2TNrg8SPG9PG18aZzRo/1742489737.jpeg?s=9635a4f1bde8b0eb7e8103193f7b33649f03c708",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 17,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "8.45",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "163.44",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Neuf avec étiquette",
+        "accessibility_label": "Lego 76444 Harry Potter, marque: LEGO, état: Neuf avec étiquette, 154,99 €, 163,44 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 1.568930149078369,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 6040501313,
+      "title": "Lego 76444 - Harry Potter - Les boutiques magiques du chemin de traverses",
+      "price": {
+        "amount": "160.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/6040501313-lego-76444-harry-potter-les-boutiques-magiques-du-chemin-de-traverses",
+      "user": {
+        "id": 13318395,
+        "login": "izarra44",
+        "profile_url": "https://www.vinted.fr/member/13318395-izarra44",
+        "photo": {
+          "id": 6953154,
+          "width": 796,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_00bc0_QrnmvRRrsScgJoGG21t6kDgB/f800/1605207721.jpeg?s=4d0228999e9c5794146ccf16ce3e7e3a6dc656df",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_00bc0_QrnmvRRrsScgJoGG21t6kDgB/310x310/1605207721.jpeg?s=dfb04393f7742647dc5013f6b81100e5089be0c2",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_00bc0_QrnmvRRrsScgJoGG21t6kDgB/150x150/1605207721.jpeg?s=7be226881e01f07771cdfe8c9ef738fdf4e25004",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_00bc0_QrnmvRRrsScgJoGG21t6kDgB/100x100/1605207721.jpeg?s=6eb0ceddb24265e1e71585611e2055b588777742",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_00bc0_QrnmvRRrsScgJoGG21t6kDgB/50x50/1605207721.jpeg?s=d7776be9e199f77f6bac52c9c0f15fe6cb7cada6",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_00bc0_QrnmvRRrsScgJoGG21t6kDgB/20x20/1605207721.jpeg?s=1d843bc1b6a647bceac7e5c11e315d705e7a15f4",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_00bc0_QrnmvRRrsScgJoGG21t6kDgB",
+            "timestamp": 1605207721,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_00bc0_QrnmvRRrsScgJoGG21t6kDgB/1605207721.jpeg?s=aa45cf8fb938a349d8884eddf7f8558450add775",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/6040501313-lego-76444-harry-potter-les-boutiques-magiques-du-chemin-de-traverses",
+      "promoted": false,
+      "photo": {
+        "id": 24502250947,
+        "image_no": 1,
+        "width": 800,
+        "height": 450,
+        "dominant_color": "#7B7876",
+        "dominant_color_opaque": "#D7D7D6",
+        "url": "https://images1.vinted.net/t/04_009d7_7jxpBmaQxYHBt5wzBZ8NJdPi/f800/1743060299.jpeg?s=5e083095e354c8adfc54ea3b1b9fb3f679bf552a",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_009d7_7jxpBmaQxYHBt5wzBZ8NJdPi/70x100/1743060299.jpeg?s=73046e365f2e0fd2643dccee14584480c0c75a0d",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_009d7_7jxpBmaQxYHBt5wzBZ8NJdPi/150x210/1743060299.jpeg?s=aed44b965290a3905b934f18347e2dd41214e0a6",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_009d7_7jxpBmaQxYHBt5wzBZ8NJdPi/310x430/1743060299.jpeg?s=36389d855791cc08fc6dd8f1cd94ab78a2aced46",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_009d7_7jxpBmaQxYHBt5wzBZ8NJdPi/f800/1743060299.jpeg?s=5e083095e354c8adfc54ea3b1b9fb3f679bf552a",
+            "width": 428,
+            "height": 241,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_009d7_7jxpBmaQxYHBt5wzBZ8NJdPi/f800/1743060299.jpeg?s=5e083095e354c8adfc54ea3b1b9fb3f679bf552a",
+            "width": 624,
+            "height": 351,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_009d7_7jxpBmaQxYHBt5wzBZ8NJdPi/f800/1743060299.jpeg?s=5e083095e354c8adfc54ea3b1b9fb3f679bf552a",
+            "width": 364,
+            "height": 204,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_009d7_7jxpBmaQxYHBt5wzBZ8NJdPi",
+          "timestamp": 1743060299,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_009d7_7jxpBmaQxYHBt5wzBZ8NJdPi/1743060299.jpeg?s=f28b837510ae360025d8f950b6ca071641da0e39",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 13,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "8.7",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "168.7",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Très bon état",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique · Très bon état",
+        "accessibility_label": "Lego 76444 - Harry Potter - Les boutiques magiques du chemin de traverses, marque: LEGO, état: Très bon état, taille: Taille unique, 160,00 €, 168,70 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 1.388056993484497,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5944285887,
+      "title": "Lego 76444 Harry Potter Negozi di Magia di Diagon Alley",
+      "price": {
+        "amount": "180.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5944285887-lego-76444-harry-potter-negozi-di-magia-di-diagon-alley",
+      "user": {
+        "id": 50939011,
+        "login": "solobari29",
+        "profile_url": "https://www.vinted.fr/member/50939011-solobari29",
+        "photo": {
+          "id": 46843724,
+          "width": 800,
+          "height": 600,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_00cd9_NmADSbKmJVfwoPp7G4mhYZqt/f800/1611507552.jpeg?s=cf8ab9980835ebe428efd3f4495159511ebd0f77",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_00cd9_NmADSbKmJVfwoPp7G4mhYZqt/310x310/1611507552.jpeg?s=de666c942d569879764954ad9e5949d8549ef138",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_00cd9_NmADSbKmJVfwoPp7G4mhYZqt/150x150/1611507552.jpeg?s=bf452e843c47ddb11ab26f10cafa337104d152ce",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_00cd9_NmADSbKmJVfwoPp7G4mhYZqt/100x100/1611507552.jpeg?s=b43d322e50bef7b5877368540bf3773d7d6d91a4",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_00cd9_NmADSbKmJVfwoPp7G4mhYZqt/50x50/1611507552.jpeg?s=26cbf9f3dabf3bdd78c7529170d6f83b593cc82c",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_00cd9_NmADSbKmJVfwoPp7G4mhYZqt/20x20/1611507552.jpeg?s=88e101aba6b694bd3e0e9bc4bfe77314a1fe6ec0",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_00cd9_NmADSbKmJVfwoPp7G4mhYZqt",
+            "timestamp": 1611507552,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_00cd9_NmADSbKmJVfwoPp7G4mhYZqt/1611507552.jpeg?s=570c9f9754b8a0c72a9f60b0be686df46278aa8d",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5944285887-lego-76444-harry-potter-negozi-di-magia-di-diagon-alley",
+      "promoted": false,
+      "photo": {
+        "id": 24102636142,
+        "image_no": 1,
+        "width": 800,
+        "height": 600,
+        "dominant_color": "#707477",
+        "dominant_color_opaque": "#D4D5D6",
+        "url": "https://images1.vinted.net/t/01_00c9b_zyK4YKsMn8uRWZ39Dkg1VobJ/f800/1741604634.jpeg?s=58b2b19af4950332200d886d200c6f5180e6c710",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/01_00c9b_zyK4YKsMn8uRWZ39Dkg1VobJ/70x100/1741604634.jpeg?s=441a573934007d21bc3af91a22fc90af6198b29b",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/01_00c9b_zyK4YKsMn8uRWZ39Dkg1VobJ/150x210/1741604634.jpeg?s=7a2291adbaaf77b5cd8a7b8a8228aaa4c418c474",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/01_00c9b_zyK4YKsMn8uRWZ39Dkg1VobJ/310x430/1741604634.jpeg?s=7b4c9e45a6e90a10cbd5d95cc7774937c36cb7e1",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/01_00c9b_zyK4YKsMn8uRWZ39Dkg1VobJ/f800/1741604634.jpeg?s=58b2b19af4950332200d886d200c6f5180e6c710",
+            "width": 428,
+            "height": 321,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/01_00c9b_zyK4YKsMn8uRWZ39Dkg1VobJ/f800/1741604634.jpeg?s=58b2b19af4950332200d886d200c6f5180e6c710",
+            "width": 624,
+            "height": 468,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/01_00c9b_zyK4YKsMn8uRWZ39Dkg1VobJ/f800/1741604634.jpeg?s=58b2b19af4950332200d886d200c6f5180e6c710",
+            "width": 364,
+            "height": 273,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "01_00c9b_zyK4YKsMn8uRWZ39Dkg1VobJ",
+          "timestamp": 1741604634,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/01_00c9b_zyK4YKsMn8uRWZ39Dkg1VobJ/1741604634.jpeg?s=b0d430ed2bb5cec16f017e88737ba5aa688fa4e9",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 15,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "9.7",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "189.7",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique · Neuf avec étiquette",
+        "accessibility_label": "Lego 76444 Harry Potter Negozi di Magia di Diagon Alley, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 180,00 €, 189,70 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 1.386142015457153,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 6069365758,
+      "title": "Lego 76444 callejon Diagon",
+      "price": {
+        "amount": "165.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/6069365758-lego-76444-callejon-diagon",
+      "user": {
+        "id": 24038420,
+        "login": "davidcdz",
+        "profile_url": "https://www.vinted.fr/member/24038420-davidcdz",
+        "photo": {
+          "id": 197872484,
+          "width": 370,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_02180_K7Xuh6kMLzENi2GSS6YvB3Jr/f800/1719328509.jpeg?s=13db45c78fa5551b405ccb81f494f2eb6e54952b",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_02180_K7Xuh6kMLzENi2GSS6YvB3Jr/310x310/1719328509.jpeg?s=7fce14ad792cb5320fe26411da15e30db7042822",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_02180_K7Xuh6kMLzENi2GSS6YvB3Jr/150x150/1719328509.jpeg?s=8adea5bbdd64fd24b461c41c19a9b2be60bbad0b",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_02180_K7Xuh6kMLzENi2GSS6YvB3Jr/100x100/1719328509.jpeg?s=40c3cb319c39714a0c0a6f816344e3cad43adb76",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_02180_K7Xuh6kMLzENi2GSS6YvB3Jr/50x50/1719328509.jpeg?s=aff62a3753fe40ff2173c4edbd3bd7b25bb7b0cc",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_02180_K7Xuh6kMLzENi2GSS6YvB3Jr/20x20/1719328509.jpeg?s=011288ffeb03dea6ed01750fb09c9f90ca0c8dfb",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_02180_K7Xuh6kMLzENi2GSS6YvB3Jr",
+            "timestamp": 1719328509,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_02180_K7Xuh6kMLzENi2GSS6YvB3Jr/1719328509.jpeg?s=666ea95b33a5b6ff917ca6c066b4e6cd0de1eafd",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/6069365758-lego-76444-callejon-diagon",
+      "promoted": false,
+      "photo": {
+        "id": 24622603030,
+        "image_no": 1,
+        "width": 800,
+        "height": 600,
+        "dominant_color": "#756E62",
+        "dominant_color_opaque": "#D6D4D0",
+        "url": "https://images1.vinted.net/t/03_003cf_5vcFVcfX93P5jLKyQ9w8yRLL/f800/1743496916.jpeg?s=13a43b163bf221ac262f789818f547e83d0ba751",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/03_003cf_5vcFVcfX93P5jLKyQ9w8yRLL/70x100/1743496916.jpeg?s=23d6fae398f72c1aa11ae30327ea3998a33912cc",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/03_003cf_5vcFVcfX93P5jLKyQ9w8yRLL/150x210/1743496916.jpeg?s=c24bcf36a94f3110258f7394eaa382615dc3965d",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/03_003cf_5vcFVcfX93P5jLKyQ9w8yRLL/310x430/1743496916.jpeg?s=9395c9e8db97ee4cc8b0113e760ca2cdcec94558",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/03_003cf_5vcFVcfX93P5jLKyQ9w8yRLL/f800/1743496916.jpeg?s=13a43b163bf221ac262f789818f547e83d0ba751",
+            "width": 428,
+            "height": 321,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/03_003cf_5vcFVcfX93P5jLKyQ9w8yRLL/f800/1743496916.jpeg?s=13a43b163bf221ac262f789818f547e83d0ba751",
+            "width": 624,
+            "height": 468,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/03_003cf_5vcFVcfX93P5jLKyQ9w8yRLL/f800/1743496916.jpeg?s=13a43b163bf221ac262f789818f547e83d0ba751",
+            "width": 364,
+            "height": 273,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "03_003cf_5vcFVcfX93P5jLKyQ9w8yRLL",
+          "timestamp": 1743496916,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/03_003cf_5vcFVcfX93P5jLKyQ9w8yRLL/1743496916.jpeg?s=8568d6a9a45666857110bba138c7cc3b5ba3fc4f",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 1,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "8.95",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "173.95",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf sans étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique · Neuf sans étiquette",
+        "accessibility_label": "Lego 76444 callejon Diagon, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 165,00 €, 173,95 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 1.307573556900024,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5871278096,
+      "title": "lego Les boutiques magiques du Chemin de Traverse 76444",
+      "price": {
+        "amount": "160.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5871278096-lego-les-boutiques-magiques-du-chemin-de-traverse-76444",
+      "user": {
+        "id": 35616100,
+        "login": "fabfour92",
+        "profile_url": "https://www.vinted.fr/member/35616100-fabfour92",
+        "photo": null,
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5871278096-lego-les-boutiques-magiques-du-chemin-de-traverse-76444",
+      "promoted": false,
+      "photo": {
+        "id": 23798123464,
+        "image_no": 1,
+        "width": 800,
+        "height": 404,
+        "dominant_color": "#393532",
+        "dominant_color_opaque": "#C4C2C2",
+        "url": "https://images1.vinted.net/t/04_0197e_pu7ngqarSyj5ncgbLpN1iZmC/f800/1740409026.jpeg?s=5da3c08840360c6bb2d0ccceb8b102a79f1d9b55",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_0197e_pu7ngqarSyj5ncgbLpN1iZmC/70x100/1740409026.jpeg?s=c903c21ed474ccc0e28942dec0fdbfa42baa23b8",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_0197e_pu7ngqarSyj5ncgbLpN1iZmC/150x210/1740409026.jpeg?s=973673a12e392b37b8ea1dbd52e4f1610fd42473",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_0197e_pu7ngqarSyj5ncgbLpN1iZmC/310x430/1740409026.jpeg?s=046dcd5bad014b37f74a60a2b331b818b244de0e",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_0197e_pu7ngqarSyj5ncgbLpN1iZmC/f800/1740409026.jpeg?s=5da3c08840360c6bb2d0ccceb8b102a79f1d9b55",
+            "width": 428,
+            "height": 216,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_0197e_pu7ngqarSyj5ncgbLpN1iZmC/f800/1740409026.jpeg?s=5da3c08840360c6bb2d0ccceb8b102a79f1d9b55",
+            "width": 624,
+            "height": 315,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_0197e_pu7ngqarSyj5ncgbLpN1iZmC/f800/1740409026.jpeg?s=5da3c08840360c6bb2d0ccceb8b102a79f1d9b55",
+            "width": 364,
+            "height": 183,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_0197e_pu7ngqarSyj5ncgbLpN1iZmC",
+          "timestamp": 1740409026,
+          "orientation": 0
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_0197e_pu7ngqarSyj5ncgbLpN1iZmC/1740409026.jpeg?s=35c7d2ba9f846824d4a33b2a49f2ca42c7836849",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 4,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "8.7",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "168.7",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "3 ans / 98 cm",
+      "content_source": "search",
+      "status": "Très bon état",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "3 ans / 98 cm · Très bon état",
+        "accessibility_label": "lego Les boutiques magiques du Chemin de Traverse 76444, marque: LEGO, état: Très bon état, taille: 3 ans / 98 cm, 160,00 €, 168,70 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 1.202815771102905,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5745339176,
+      "title": "Lego 76444",
+      "price": {
+        "amount": "170.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5745339176-lego-76444",
+      "user": {
+        "id": 205712437,
+        "login": "michelesilvestri79",
+        "profile_url": "https://www.vinted.fr/member/205712437-michelesilvestri79",
+        "photo": {
+          "id": 192984608,
+          "width": 96,
+          "height": 96,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/01_010ab_p5d2qk1Ghi8X7okWUDPa11hH/f800/1715949577.jpeg?s=3787bed5014f2efadec9117d1d1055c15df7ef51",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/01_010ab_p5d2qk1Ghi8X7okWUDPa11hH/310x310/1715949577.jpeg?s=bff1c8e58ecc8b959550b3aa14054f06722c9957",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/01_010ab_p5d2qk1Ghi8X7okWUDPa11hH/150x150/1715949577.jpeg?s=522cf1827c24dc0ff9beb17f15d8c876e655af87",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/01_010ab_p5d2qk1Ghi8X7okWUDPa11hH/100x100/1715949577.jpeg?s=975c6a8563ffa044c5e32315c725eaa32fcf4bc5",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/01_010ab_p5d2qk1Ghi8X7okWUDPa11hH/50x50/1715949577.jpeg?s=f6a2d36dd9865d7cd7b856c5b96d79ab0c6ce26b",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/01_010ab_p5d2qk1Ghi8X7okWUDPa11hH/20x20/1715949577.jpeg?s=bcb6e72e4f9074bf15037584bc1f74ab1ea0cac9",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "01_010ab_p5d2qk1Ghi8X7okWUDPa11hH",
+            "timestamp": 1715949577,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/01_010ab_p5d2qk1Ghi8X7okWUDPa11hH/1715949577.jpeg?s=33fb4fb69c1127910069edabbd50f43d91beabd1",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5745339176-lego-76444",
+      "promoted": false,
+      "photo": {
+        "id": 23276100249,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#5D5F67",
+        "dominant_color_opaque": "#CECFD1",
+        "url": "https://images1.vinted.net/t/04_00469_HxYLebLVYKLdHDtuy8XNVnfS/f800/1739821221.jpeg?s=7b83900556f3dbbe12da89b22e4be2a1beb9143e",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_00469_HxYLebLVYKLdHDtuy8XNVnfS/70x100/1739821221.jpeg?s=0772729927eb23c4c1e09272943f448b5d93a4a7",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_00469_HxYLebLVYKLdHDtuy8XNVnfS/150x210/1739821221.jpeg?s=18b58fd4bece4d32bb7bbc8932d691ac23e59dd5",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_00469_HxYLebLVYKLdHDtuy8XNVnfS/310x430/1739821221.jpeg?s=e233114a2497e048d8943b68f91eb5fe5dd9ee73",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_00469_HxYLebLVYKLdHDtuy8XNVnfS/f800/1739821221.jpeg?s=7b83900556f3dbbe12da89b22e4be2a1beb9143e",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_00469_HxYLebLVYKLdHDtuy8XNVnfS/f800/1739821221.jpeg?s=7b83900556f3dbbe12da89b22e4be2a1beb9143e",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_00469_HxYLebLVYKLdHDtuy8XNVnfS/f800/1739821221.jpeg?s=7b83900556f3dbbe12da89b22e4be2a1beb9143e",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_00469_HxYLebLVYKLdHDtuy8XNVnfS",
+          "timestamp": 1739821221,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_00469_HxYLebLVYKLdHDtuy8XNVnfS/1739821221.jpeg?s=95546627e7d72e451044b25f85a5d395f58a6962",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 18,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "9.2",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "179.2",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique · Neuf avec étiquette",
+        "accessibility_label": "Lego 76444, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 170,00 €, 179,20 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 0.9562430381774902,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5738061003,
+      "title": "Lego neuf 76444 les boutiques magiques du chemin de traverse",
+      "price": {
+        "amount": "170.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5738061003-lego-neuf-76444-les-boutiques-magiques-du-chemin-de-traverse",
+      "user": {
+        "id": 22551896,
+        "login": "liabyli",
+        "profile_url": "https://www.vinted.fr/member/22551896-liabyli",
+        "photo": {
+          "id": 146407006,
+          "width": 616,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/01_00ca9_mPGi778s5MN5VfJB5jmm8sh5/f800/1687620948.jpeg?s=3af7d4431ba7fb3b273d6dd2271e2fe5f67156b6",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/01_00ca9_mPGi778s5MN5VfJB5jmm8sh5/310x310/1687620948.jpeg?s=4badac21a3a3251f9e1ce9cea92f6615560d5a88",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/01_00ca9_mPGi778s5MN5VfJB5jmm8sh5/150x150/1687620948.jpeg?s=d70ee37af62407f34d718ec6f566984d3488b324",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/01_00ca9_mPGi778s5MN5VfJB5jmm8sh5/100x100/1687620948.jpeg?s=050880666eef5eb109b27ab868e91278fe3ce848",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/01_00ca9_mPGi778s5MN5VfJB5jmm8sh5/50x50/1687620948.jpeg?s=516aada1e95b73162095cc42c9631c8dc1fc4cb2",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/01_00ca9_mPGi778s5MN5VfJB5jmm8sh5/20x20/1687620948.jpeg?s=1e4004edcc1055e8dcda919f4ecf1d7f750e669a",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "01_00ca9_mPGi778s5MN5VfJB5jmm8sh5",
+            "timestamp": 1687620948,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/01_00ca9_mPGi778s5MN5VfJB5jmm8sh5/1687620948.jpeg?s=c4c51a7c1f99e5e378741ec5ff7a32cc3dac8318",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5738061003-lego-neuf-76444-les-boutiques-magiques-du-chemin-de-traverse",
+      "promoted": false,
+      "photo": {
+        "id": 23245423776,
+        "image_no": 1,
+        "width": 800,
+        "height": 600,
+        "dominant_color": "#6F6E6E",
+        "dominant_color_opaque": "#D4D4D4",
+        "url": "https://images1.vinted.net/t/04_01b28_qhgLf9KLbYueZTpGvUnotqe5/f800/1738265757.jpeg?s=f44cf9ec02e7343847ae67afbad2a68ca5404d10",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_01b28_qhgLf9KLbYueZTpGvUnotqe5/70x100/1738265757.jpeg?s=1103debffac88ae69bb20a1209fd3915adfaf420",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_01b28_qhgLf9KLbYueZTpGvUnotqe5/150x210/1738265757.jpeg?s=773c434b391a3a036321001a43fca34c768f8f2b",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_01b28_qhgLf9KLbYueZTpGvUnotqe5/310x430/1738265757.jpeg?s=af3e09aa20f5edd8e8a7853e0c0a3425d7ab71e4",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_01b28_qhgLf9KLbYueZTpGvUnotqe5/f800/1738265757.jpeg?s=f44cf9ec02e7343847ae67afbad2a68ca5404d10",
+            "width": 428,
+            "height": 321,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_01b28_qhgLf9KLbYueZTpGvUnotqe5/f800/1738265757.jpeg?s=f44cf9ec02e7343847ae67afbad2a68ca5404d10",
+            "width": 624,
+            "height": 468,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_01b28_qhgLf9KLbYueZTpGvUnotqe5/f800/1738265757.jpeg?s=f44cf9ec02e7343847ae67afbad2a68ca5404d10",
+            "width": 364,
+            "height": 273,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_01b28_qhgLf9KLbYueZTpGvUnotqe5",
+          "timestamp": 1738265757,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_01b28_qhgLf9KLbYueZTpGvUnotqe5/1738265757.jpeg?s=2a611f1ce57da2bb2fe93779def325b6888e8e4f",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 27,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "9.2",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "179.2",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique · Neuf avec étiquette",
+        "accessibility_label": "Lego neuf 76444 les boutiques magiques du chemin de traverse, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 170,00 €, 179,20 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 0.8176076412200928,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5803195925,
+      "title": "Lego originale 76444 Diagon Alley",
+      "price": {
+        "amount": "170.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5803195925-lego-originale-76444-diagon-alley",
+      "user": {
+        "id": 246252085,
+        "login": "mafelp",
+        "profile_url": "https://www.vinted.fr/member/246252085-mafelp",
+        "photo": {
+          "id": 221972155,
+          "width": 600,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/03_011ed_2sBXv2bzDCzMo5z6G2dnRz9G/f800/1733944662.jpeg?s=f60f3dc6121548f6c270750ab63f13dadea4feb0",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/03_011ed_2sBXv2bzDCzMo5z6G2dnRz9G/310x310/1733944662.jpeg?s=90eec6c18283b9d2e68698a672433a0e5509f289",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/03_011ed_2sBXv2bzDCzMo5z6G2dnRz9G/150x150/1733944662.jpeg?s=6c7ecfd7ae14104a7cdcb9fde770f980c6e6924c",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/03_011ed_2sBXv2bzDCzMo5z6G2dnRz9G/100x100/1733944662.jpeg?s=25f68e1621aedc3d2f67bd21a4506ee8341ab237",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/03_011ed_2sBXv2bzDCzMo5z6G2dnRz9G/50x50/1733944662.jpeg?s=8bc8773e4ca9683f1a93ab828c6ba66863aa3d06",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/03_011ed_2sBXv2bzDCzMo5z6G2dnRz9G/20x20/1733944662.jpeg?s=6aaa49bed9fd3ee1ca62dd4dcf7185100dcecaea",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "03_011ed_2sBXv2bzDCzMo5z6G2dnRz9G",
+            "timestamp": 1733944662,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/03_011ed_2sBXv2bzDCzMo5z6G2dnRz9G/1733944662.jpeg?s=295d5ff63413324a6a12625ae25ee35a5d7f8f73",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5803195925-lego-originale-76444-diagon-alley",
+      "promoted": false,
+      "photo": {
+        "id": 23515648485,
+        "image_no": 1,
+        "width": 800,
+        "height": 600,
+        "dominant_color": "#6B615F",
+        "dominant_color_opaque": "#D3D0CF",
+        "url": "https://images1.vinted.net/t/04_0098a_CZtfHRrQEPhwDmzjJhCZrApV/f800/1739307325.jpeg?s=4b7bbdebce190cd2bd8e909072497c30ca01aee3",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_0098a_CZtfHRrQEPhwDmzjJhCZrApV/70x100/1739307325.jpeg?s=c617f40007b1b300b6b4c76b1cc675305de129b9",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_0098a_CZtfHRrQEPhwDmzjJhCZrApV/150x210/1739307325.jpeg?s=f8530bc4fe165ae8ee4a8e8aee10a3fd5c75abdf",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_0098a_CZtfHRrQEPhwDmzjJhCZrApV/310x430/1739307325.jpeg?s=b66e338b08b0bdd4fefc03513260a86d015de931",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_0098a_CZtfHRrQEPhwDmzjJhCZrApV/f800/1739307325.jpeg?s=4b7bbdebce190cd2bd8e909072497c30ca01aee3",
+            "width": 428,
+            "height": 321,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_0098a_CZtfHRrQEPhwDmzjJhCZrApV/f800/1739307325.jpeg?s=4b7bbdebce190cd2bd8e909072497c30ca01aee3",
+            "width": 624,
+            "height": 468,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_0098a_CZtfHRrQEPhwDmzjJhCZrApV/f800/1739307325.jpeg?s=4b7bbdebce190cd2bd8e909072497c30ca01aee3",
+            "width": 364,
+            "height": 273,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_0098a_CZtfHRrQEPhwDmzjJhCZrApV",
+          "timestamp": 1739307325,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_0098a_CZtfHRrQEPhwDmzjJhCZrApV/1739307325.jpeg?s=0e50fb0b77a244058aa71bdc6b755f66c5bc60f4",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 20,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "9.2",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "179.2",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique · Neuf avec étiquette",
+        "accessibility_label": "Lego originale 76444 Diagon Alley, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 170,00 €, 179,20 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 0.5494306087493896,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5886714650,
+      "title": "Lego harry potter 76444 new!",
+      "price": {
+        "amount": "165.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5886714650-lego-harry-potter-76444-new",
+      "user": {
+        "id": 74276308,
+        "login": "dalmo7582",
+        "profile_url": "https://www.vinted.fr/member/74276308-dalmo7582",
+        "photo": {
+          "id": 74918172,
+          "width": 450,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/03_01c54_VTCLMzAUi7sxbbn8ixTfXKtz/f800/1638740139.jpeg?s=53d310900c41b026e95abd8f805d951edb596280",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/03_01c54_VTCLMzAUi7sxbbn8ixTfXKtz/310x310/1638740139.jpeg?s=d79fb30008cab694015d1781776ecdf3d76a02a9",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/03_01c54_VTCLMzAUi7sxbbn8ixTfXKtz/150x150/1638740139.jpeg?s=28bdae28cf63ed460ad8d65222f16619e61b1ba7",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/03_01c54_VTCLMzAUi7sxbbn8ixTfXKtz/100x100/1638740139.jpeg?s=6ee5663ca68464fb99f8503f1d35965ab2d22c06",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/03_01c54_VTCLMzAUi7sxbbn8ixTfXKtz/50x50/1638740139.jpeg?s=067590b62d8443e57b47c1f32c63bd5308bcf4b8",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/03_01c54_VTCLMzAUi7sxbbn8ixTfXKtz/20x20/1638740139.jpeg?s=adc3fc69ff33afb85013a93969bb652abdddb3f0",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "03_01c54_VTCLMzAUi7sxbbn8ixTfXKtz",
+            "timestamp": 1638740139,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/03_01c54_VTCLMzAUi7sxbbn8ixTfXKtz/1638740139.jpeg?s=02355024a8dbd72cca4c91552cd3598bea6963f1",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5886714650-lego-harry-potter-76444-new",
+      "promoted": false,
+      "photo": {
+        "id": 23862124402,
+        "image_no": 1,
+        "width": 800,
+        "height": 600,
+        "dominant_color": "#4E483E",
+        "dominant_color_opaque": "#CAC8C5",
+        "url": "https://images1.vinted.net/t/04_02013_svn9hJXL59nXJTUmXGDKpGV2/f800/1740668772.jpeg?s=67ae6eba8cdb92e5226eff1368227bd6de028a8c",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_02013_svn9hJXL59nXJTUmXGDKpGV2/70x100/1740668772.jpeg?s=f5827c24c4c1a185889df76a0417cab99d8faaf6",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_02013_svn9hJXL59nXJTUmXGDKpGV2/150x210/1740668772.jpeg?s=e2b645924f0f82bed6de8bd7ce62ebd86fccc119",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_02013_svn9hJXL59nXJTUmXGDKpGV2/310x430/1740668772.jpeg?s=1e339ad3429e0d32bab70496bb20aea113c8d545",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_02013_svn9hJXL59nXJTUmXGDKpGV2/f800/1740668772.jpeg?s=67ae6eba8cdb92e5226eff1368227bd6de028a8c",
+            "width": 428,
+            "height": 321,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_02013_svn9hJXL59nXJTUmXGDKpGV2/f800/1740668772.jpeg?s=67ae6eba8cdb92e5226eff1368227bd6de028a8c",
+            "width": 624,
+            "height": 468,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_02013_svn9hJXL59nXJTUmXGDKpGV2/f800/1740668772.jpeg?s=67ae6eba8cdb92e5226eff1368227bd6de028a8c",
+            "width": 364,
+            "height": 273,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_02013_svn9hJXL59nXJTUmXGDKpGV2",
+          "timestamp": 1740668772,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_02013_svn9hJXL59nXJTUmXGDKpGV2/1740668772.jpeg?s=e34497411b4dd8608059e4040a08b36ec25a91c4",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 14,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "8.95",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "173.95",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Très bon état",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique · Très bon état",
+        "accessibility_label": "Lego harry potter 76444 new!, marque: LEGO, état: Très bon état, taille: Taille unique, 165,00 €, 173,95 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 0.533959150314331,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5740771943,
+      "title": "Lego Harry Potter 76444",
+      "price": {
+        "amount": "180.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5740771943-lego-harry-potter-76444",
+      "user": {
+        "id": 30030148,
+        "login": "virginie.evenou",
+        "profile_url": "https://www.vinted.fr/member/30030148-virginieevenou",
+        "photo": {
+          "id": 173009908,
+          "width": 600,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/01_0209b_zXuheJQjZCTQefKA3nWXJZXt/f800/1702805391.jpeg?s=9cb03d81dca51c95dfb770ab9ab631f432ee7e2a",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/01_0209b_zXuheJQjZCTQefKA3nWXJZXt/310x310/1702805391.jpeg?s=e571ffea6ef4671fc7c16f270517cf2ee07f0812",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/01_0209b_zXuheJQjZCTQefKA3nWXJZXt/150x150/1702805391.jpeg?s=cd4709169cd9682756dbd4434e7428452280a6ee",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/01_0209b_zXuheJQjZCTQefKA3nWXJZXt/100x100/1702805391.jpeg?s=be3a7ae20899d6e56fb6f5de1b98b3140e57a17d",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/01_0209b_zXuheJQjZCTQefKA3nWXJZXt/50x50/1702805391.jpeg?s=3cdceabf470753ac209393f92489241545d0ddf1",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/01_0209b_zXuheJQjZCTQefKA3nWXJZXt/20x20/1702805391.jpeg?s=1659ad4031ab249ed1466e22b43b61cc529a8c3e",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "01_0209b_zXuheJQjZCTQefKA3nWXJZXt",
+            "timestamp": 1702805391,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/01_0209b_zXuheJQjZCTQefKA3nWXJZXt/1702805391.jpeg?s=c83e5c8cb67e3623cddfc28c045ad2cf1bf28ffa",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5740771943-lego-harry-potter-76444",
+      "promoted": false,
+      "photo": {
+        "id": 23256710214,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#556576",
+        "dominant_color_opaque": "#CCD1D6",
+        "url": "https://images1.vinted.net/t/04_00483_DdSzYR6No4HG85JZwLwJUpUg/f800/1738331509.jpeg?s=d659a7570cfdcdd3d014f084aa70c1b2f7907994",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_00483_DdSzYR6No4HG85JZwLwJUpUg/70x100/1738331509.jpeg?s=fb25b4b7598247e40c9655142780c1d9417f15cb",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_00483_DdSzYR6No4HG85JZwLwJUpUg/150x210/1738331509.jpeg?s=c515ee0805f9b218e69550b7f601ded64fd94309",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_00483_DdSzYR6No4HG85JZwLwJUpUg/310x430/1738331509.jpeg?s=5b581fd2aa744e96ead48665d66c5779c0956de5",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_00483_DdSzYR6No4HG85JZwLwJUpUg/f800/1738331509.jpeg?s=d659a7570cfdcdd3d014f084aa70c1b2f7907994",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_00483_DdSzYR6No4HG85JZwLwJUpUg/f800/1738331509.jpeg?s=d659a7570cfdcdd3d014f084aa70c1b2f7907994",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_00483_DdSzYR6No4HG85JZwLwJUpUg/f800/1738331509.jpeg?s=d659a7570cfdcdd3d014f084aa70c1b2f7907994",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_00483_DdSzYR6No4HG85JZwLwJUpUg",
+          "timestamp": 1738331509,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_00483_DdSzYR6No4HG85JZwLwJUpUg/1738331509.jpeg?s=758696980f63bccae223c9daedfafd2e8d74e3ee",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 9,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "9.7",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "189.7",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Jusqu'à 1 mois / 50 cm",
+      "content_source": "search",
+      "status": "Neuf sans étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Jusqu'à 1 mois / 50 cm · Neuf sans étiquette",
+        "accessibility_label": "Lego Harry Potter 76444, marque: LEGO, état: Neuf sans étiquette, taille: Jusqu'à 1 mois / 50 cm, 180,00 €, 189,70 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 0.5068845748901367,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5765236896,
+      "title": "LEGO 76444 Diagon Alley Harry Potter",
+      "price": {
+        "amount": "210.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5765236896-lego-76444-diagon-alley-harry-potter",
+      "user": {
+        "id": 32002118,
+        "login": "marta.84l",
+        "profile_url": "https://www.vinted.fr/member/32002118-marta84l",
+        "photo": {
+          "id": 161280442,
+          "width": 450,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/01_026ca_iEgFAR4uEfYCZyXx5RfNuCAX/f800/1696931622.jpeg?s=ca13959290c68e8f564cf1d1a840ba735c6af710",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/01_026ca_iEgFAR4uEfYCZyXx5RfNuCAX/310x310/1696931622.jpeg?s=dacf2a27dea0663244cf0bbf75670db9720fdc0a",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/01_026ca_iEgFAR4uEfYCZyXx5RfNuCAX/150x150/1696931622.jpeg?s=d410ff05cee02e8bf698a40fa850f2b240faf47c",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/01_026ca_iEgFAR4uEfYCZyXx5RfNuCAX/100x100/1696931622.jpeg?s=1cc269df7e19906ee39bc4fc7d588c44f25835c5",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/01_026ca_iEgFAR4uEfYCZyXx5RfNuCAX/50x50/1696931622.jpeg?s=95c5b46433f1b63f9b2215e90e4e6ecebfd1b064",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/01_026ca_iEgFAR4uEfYCZyXx5RfNuCAX/20x20/1696931622.jpeg?s=258a7e71df061874e77477e1166898ba8f4647b0",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "01_026ca_iEgFAR4uEfYCZyXx5RfNuCAX",
+            "timestamp": 1696931622,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/01_026ca_iEgFAR4uEfYCZyXx5RfNuCAX/1696931622.jpeg?s=85760ba13007291213ceb74948ce5e02e0b289bd",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5765236896-lego-76444-diagon-alley-harry-potter",
+      "promoted": false,
+      "photo": {
+        "id": 23358490203,
+        "image_no": 1,
+        "width": 800,
+        "height": 683,
+        "dominant_color": "#665E5B",
+        "dominant_color_opaque": "#D1CFCE",
+        "url": "https://images1.vinted.net/t/04_01433_DwKxvhZVTwBH84Lw8zNpFX8M/f800/1738698715.jpeg?s=45d81d95663d33d89b978a4b27b08d9ea517e7a8",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/04_01433_DwKxvhZVTwBH84Lw8zNpFX8M/70x100/1738698715.jpeg?s=0d922f8235658579e07e727880181fbf3ba88dee",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/04_01433_DwKxvhZVTwBH84Lw8zNpFX8M/150x210/1738698715.jpeg?s=4dc1f0ebfa2bc629d5bea3d4a021e168d13fa06c",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/04_01433_DwKxvhZVTwBH84Lw8zNpFX8M/310x430/1738698715.jpeg?s=53229c01c52ed6c2b8da4b43d7e9477891860c0a",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/04_01433_DwKxvhZVTwBH84Lw8zNpFX8M/f800/1738698715.jpeg?s=45d81d95663d33d89b978a4b27b08d9ea517e7a8",
+            "width": 428,
+            "height": 365,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/04_01433_DwKxvhZVTwBH84Lw8zNpFX8M/f800/1738698715.jpeg?s=45d81d95663d33d89b978a4b27b08d9ea517e7a8",
+            "width": 624,
+            "height": 533,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/04_01433_DwKxvhZVTwBH84Lw8zNpFX8M/f800/1738698715.jpeg?s=45d81d95663d33d89b978a4b27b08d9ea517e7a8",
+            "width": 364,
+            "height": 311,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "04_01433_DwKxvhZVTwBH84Lw8zNpFX8M",
+          "timestamp": 1738698715,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/04_01433_DwKxvhZVTwBH84Lw8zNpFX8M/1738698715.jpeg?s=fe0ed73c7cc38f3afe51e47cfccad68982493a35",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 13,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "11.2",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "221.2",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf avec étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique · Neuf avec étiquette",
+        "accessibility_label": "LEGO 76444 Diagon Alley Harry Potter, marque: LEGO, état: Neuf avec étiquette, taille: Taille unique, 210,00 €, 221,20 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": -0.0005980443675071001,
+        "matched_queries": []
+      }
+    },
+    {
+      "id": 5989473338,
+      "title": "Lego minifigure Harry Potter 76444",
+      "price": {
+        "amount": "38.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/5989473338-lego-minifigure-harry-potter-76444",
+      "user": {
+        "id": 198221522,
+        "login": "mickeysbrick_mauro",
+        "profile_url": "https://www.vinted.fr/member/198221522-mickeysbrickmauro",
+        "photo": {
+          "id": 187955426,
+          "width": 96,
+          "height": 96,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_0091d_npk96SL5PzfjYdBkZEcJAwth/f800/1712766684.jpeg?s=644a3a8d585482d85fce2b37216e5e6db6676c8a",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_0091d_npk96SL5PzfjYdBkZEcJAwth/310x310/1712766684.jpeg?s=aea64319f9148db3cdaf14dc5bfe1ce93a1ad438",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_0091d_npk96SL5PzfjYdBkZEcJAwth/150x150/1712766684.jpeg?s=d76d7d2f91cdb84d20a6842785448554ca8d3310",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_0091d_npk96SL5PzfjYdBkZEcJAwth/100x100/1712766684.jpeg?s=30bd34c77823312350601cda3e11ba416a50f731",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_0091d_npk96SL5PzfjYdBkZEcJAwth/50x50/1712766684.jpeg?s=dee137df58a040fdf634b06e9a2817feae7f82f2",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_0091d_npk96SL5PzfjYdBkZEcJAwth/20x20/1712766684.jpeg?s=607965a81959aba5d76218dfd8f78e1cad44dffb",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_0091d_npk96SL5PzfjYdBkZEcJAwth",
+            "timestamp": 1712766684,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_0091d_npk96SL5PzfjYdBkZEcJAwth/1712766684.jpeg?s=d61a94c1362c031a4fb652f35051eedf1b706cbc",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/5989473338-lego-minifigure-harry-potter-76444",
+      "promoted": false,
+      "photo": {
+        "id": 24289949031,
+        "image_no": 1,
+        "width": 800,
+        "height": 600,
+        "dominant_color": "#928A84",
+        "dominant_color_opaque": "#DEDCDA",
+        "url": "https://images1.vinted.net/t/02_021c2_5ypM4B1xEd1kRjdmudTVJtmK/f800/1742280791.jpeg?s=6b9b452b1775b9c53da10dd280f4a62d7d202cb4",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/02_021c2_5ypM4B1xEd1kRjdmudTVJtmK/70x100/1742280791.jpeg?s=21dc6e8329f438aabb83474cc7b1dd4af57a8e53",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/02_021c2_5ypM4B1xEd1kRjdmudTVJtmK/150x210/1742280791.jpeg?s=247a2c9513804ff8d69fabe1a8b6189c29bccb43",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/02_021c2_5ypM4B1xEd1kRjdmudTVJtmK/310x430/1742280791.jpeg?s=ba37d68709cfc0f81767dc719982a589849b0544",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/02_021c2_5ypM4B1xEd1kRjdmudTVJtmK/f800/1742280791.jpeg?s=6b9b452b1775b9c53da10dd280f4a62d7d202cb4",
+            "width": 428,
+            "height": 321,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/02_021c2_5ypM4B1xEd1kRjdmudTVJtmK/f800/1742280791.jpeg?s=6b9b452b1775b9c53da10dd280f4a62d7d202cb4",
+            "width": 624,
+            "height": 468,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/02_021c2_5ypM4B1xEd1kRjdmudTVJtmK/f800/1742280791.jpeg?s=6b9b452b1775b9c53da10dd280f4a62d7d202cb4",
+            "width": 364,
+            "height": 273,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "02_021c2_5ypM4B1xEd1kRjdmudTVJtmK",
+          "timestamp": 1742280791,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/02_021c2_5ypM4B1xEd1kRjdmudTVJtmK/1742280791.jpeg?s=ef8fc02dbd0d07b534083e07ebf0bfd50553faaa",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 0,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "2.6",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "40.6",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Neuf sans étiquette",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique · Neuf sans étiquette",
+        "accessibility_label": "Lego minifigure Harry Potter 76444, marque: LEGO, état: Neuf sans étiquette, taille: Taille unique, 38,00 €, 40,60 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": -0.07732532173395157,
+        "matched_queries": []
+      }
+    }
+  ],
+  "dominant_brand": null,
+  "search_tracking_params": {
+    "search_correlation_id": "d311a115-1038-4cf3-a9fe-ad668d8f5345",
+    "search_session_id": "3fe5c182-fdd4-420a-9f3a-347ce802a036",
+    "global_search_session_id": "cc779559-f566-4f89-ad7a-829ef75c08cb"
+  },
+  "pagination": {
+    "current_page": 1,
+    "total_pages": 1,
+    "total_entries": 21,
+    "per_page": 96,
+    "time": 1743768416
+  },
+  "code": 0,
+  "setId": "76444"
+}

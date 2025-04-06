@@ -1,6 +1,7 @@
 const cors = require('cors');
 const express = require('express');
 const helmet = require('helmet');
+const { connectToDatabase } = require('./database');
 
 const PORT = 8092;
 
@@ -15,12 +16,6 @@ app.options('*', cors());
 app.get('/', (request, response) => {
   response.send({'ack': true});
 });
-
-app.listen(PORT);
-
-console.log(`Running on port ${PORT}`);
-
-const { connectToDatabase } = require('./database');
 
 connectToDatabase().then(async ({ db, client }) => {
   console.log("API connected to MongoDB!");
@@ -131,3 +126,7 @@ connectToDatabase().then(async ({ db, client }) => {
 }).catch(err => {
   console.error("Error while connecting API to MongoDB:", err);
 });
+
+app.listen(PORT);
+
+console.log(`Running on port ${PORT}`);

@@ -1,0 +1,184 @@
+{
+  "items": [
+    {
+      "id": 6086097782,
+      "title": "LEGO Disney 43272 Vaiana 2 Coq Heihei",
+      "price": {
+        "amount": "37.0",
+        "currency_code": "EUR"
+      },
+      "is_visible": true,
+      "discount": null,
+      "brand_title": "LEGO",
+      "path": "/items/6086097782-lego-disney-43272-vaiana-2-coq-heihei",
+      "user": {
+        "id": 70233587,
+        "login": "frndm",
+        "profile_url": "https://www.vinted.fr/member/70233587-frndm",
+        "photo": {
+          "id": 198305296,
+          "width": 600,
+          "height": 800,
+          "temp_uuid": null,
+          "url": "https://images1.vinted.net/t/02_02450_aPxfZ3X9Mvyvr89pKAUSXRA8/f800/1719662488.jpeg?s=3052ecbd16f418a2e5d899349901c5983b843f3b",
+          "dominant_color": "#31abc2",
+          "dominant_color_opaque": "#C1E6ED",
+          "thumbnails": [
+            {
+              "type": "thumb310",
+              "url": "https://images1.vinted.net/t/02_02450_aPxfZ3X9Mvyvr89pKAUSXRA8/310x310/1719662488.jpeg?s=76105506d663774ecc1ab155fddd8bfbdf0a3aec",
+              "width": 310,
+              "height": 310,
+              "original_size": null
+            },
+            {
+              "type": "thumb150",
+              "url": "https://images1.vinted.net/t/02_02450_aPxfZ3X9Mvyvr89pKAUSXRA8/150x150/1719662488.jpeg?s=eff1040a6873157ed8052098c7a0083cdeabd8f0",
+              "width": 150,
+              "height": 150,
+              "original_size": null
+            },
+            {
+              "type": "thumb100",
+              "url": "https://images1.vinted.net/t/02_02450_aPxfZ3X9Mvyvr89pKAUSXRA8/100x100/1719662488.jpeg?s=75e0b715e348af5d33212a385c20dd48725ff054",
+              "width": 100,
+              "height": 100,
+              "original_size": null
+            },
+            {
+              "type": "thumb50",
+              "url": "https://images1.vinted.net/t/02_02450_aPxfZ3X9Mvyvr89pKAUSXRA8/50x50/1719662488.jpeg?s=a1635f8d94e732b28fb27acca5d29b3735aa9525",
+              "width": 50,
+              "height": 50,
+              "original_size": null
+            },
+            {
+              "type": "thumb20",
+              "url": "https://images1.vinted.net/t/02_02450_aPxfZ3X9Mvyvr89pKAUSXRA8/20x20/1719662488.jpeg?s=18517f3f8c1a52bcc671d8a48e1f0f68aa622082",
+              "width": 20,
+              "height": 20,
+              "original_size": null
+            }
+          ],
+          "is_suspicious": false,
+          "orientation": null,
+          "high_resolution": {
+            "id": "02_02450_aPxfZ3X9Mvyvr89pKAUSXRA8",
+            "timestamp": 1719662488,
+            "orientation": null
+          },
+          "full_size_url": "https://images1.vinted.net/tc/02_02450_aPxfZ3X9Mvyvr89pKAUSXRA8/1719662488.jpeg?s=8b4d64e9f7934d09cd61781ba0b8030747fa673d",
+          "is_hidden": false,
+          "extra": {}
+        },
+        "business": false
+      },
+      "conversion": null,
+      "url": "https://www.vinted.fr/items/6086097782-lego-disney-43272-vaiana-2-coq-heihei",
+      "promoted": false,
+      "photo": {
+        "id": 24692626171,
+        "image_no": 1,
+        "width": 600,
+        "height": 800,
+        "dominant_color": "#8B958D",
+        "dominant_color_opaque": "#DCDFDD",
+        "url": "https://images1.vinted.net/t/01_024e1_GCQ1JrDBX96YNziwfm9vgG1G/f800/1743767086.jpeg?s=c5ee3f810cbbd4ab13644c493a554e569c8810d8",
+        "is_main": true,
+        "thumbnails": [
+          {
+            "type": "thumb70x100",
+            "url": "https://images1.vinted.net/t/01_024e1_GCQ1JrDBX96YNziwfm9vgG1G/70x100/1743767086.jpeg?s=4efd6af31baaf270f305ade7f65f826b3c16658d",
+            "width": 70,
+            "height": 100,
+            "original_size": null
+          },
+          {
+            "type": "thumb150x210",
+            "url": "https://images1.vinted.net/t/01_024e1_GCQ1JrDBX96YNziwfm9vgG1G/150x210/1743767086.jpeg?s=30a86dfcf1a8f281b68bc0a628d8d709f5d068b6",
+            "width": 150,
+            "height": 210,
+            "original_size": null
+          },
+          {
+            "type": "thumb310x430",
+            "url": "https://images1.vinted.net/t/01_024e1_GCQ1JrDBX96YNziwfm9vgG1G/310x430/1743767086.jpeg?s=99c685968e12386ae245255d95b3b5227c8d702a",
+            "width": 310,
+            "height": 430,
+            "original_size": null
+          },
+          {
+            "type": "thumb428x624",
+            "url": "https://images1.vinted.net/t/01_024e1_GCQ1JrDBX96YNziwfm9vgG1G/f800/1743767086.jpeg?s=c5ee3f810cbbd4ab13644c493a554e569c8810d8",
+            "width": 321,
+            "height": 428,
+            "original_size": true
+          },
+          {
+            "type": "thumb624x428",
+            "url": "https://images1.vinted.net/t/01_024e1_GCQ1JrDBX96YNziwfm9vgG1G/f800/1743767086.jpeg?s=c5ee3f810cbbd4ab13644c493a554e569c8810d8",
+            "width": 468,
+            "height": 624,
+            "original_size": true
+          },
+          {
+            "type": "thumb364x428",
+            "url": "https://images1.vinted.net/t/01_024e1_GCQ1JrDBX96YNziwfm9vgG1G/f800/1743767086.jpeg?s=c5ee3f810cbbd4ab13644c493a554e569c8810d8",
+            "width": 273,
+            "height": 364,
+            "original_size": true
+          }
+        ],
+        "high_resolution": {
+          "id": "01_024e1_GCQ1JrDBX96YNziwfm9vgG1G",
+          "timestamp": 1743767086,
+          "orientation": null
+        },
+        "is_suspicious": false,
+        "full_size_url": "https://images1.vinted.net/tc/01_024e1_GCQ1JrDBX96YNziwfm9vgG1G/1743767086.jpeg?s=a93c2b7ccc283f4c0f842287c7e93702be003fce",
+        "is_hidden": false,
+        "extra": {}
+      },
+      "favourite_count": 1,
+      "is_favourite": false,
+      "badge": null,
+      "service_fee": {
+        "amount": "2.55",
+        "currency_code": "EUR"
+      },
+      "total_item_price": {
+        "amount": "39.55",
+        "currency_code": "EUR"
+      },
+      "view_count": 0,
+      "size_title": "Taille unique",
+      "content_source": "search",
+      "status": "Très bon état",
+      "icon_badges": [],
+      "item_box": {
+        "first_line": "LEGO",
+        "second_line": "Taille unique · Très bon état",
+        "accessibility_label": "LEGO Disney 43272 Vaiana 2 Coq Heihei, marque: LEGO, état: Très bon état, taille: Taille unique, 37,00 €, 39,55 € Protection acheteurs incluse"
+      },
+      "search_tracking_params": {
+        "score": 38.366947,
+        "matched_queries": []
+      }
+    }
+  ],
+  "dominant_brand": null,
+  "search_tracking_params": {
+    "search_correlation_id": "2e7bbe0f-5fa8-4efb-8c6c-642825ab83d0",
+    "search_session_id": "1557f96f-038a-4d49-96f7-4bb90c326fde",
+    "global_search_session_id": "8cc1f226-325a-4396-aac8-80935987c064"
+  },
+  "pagination": {
+    "current_page": 1,
+    "total_pages": 1,
+    "total_entries": 1,
+    "per_page": 96,
+    "time": 1743768413
+  },
+  "code": 0,
+  "setId": "43272"
+}
